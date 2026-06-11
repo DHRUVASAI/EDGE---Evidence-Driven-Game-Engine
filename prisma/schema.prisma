@@ -1,0 +1,101 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Player {
+  id            String   @id @default(cuid())
+  name          String
+  fullName      String?
+  country       String?
+  role          String?
+  battingStyle  String?
+  bowlingStyle  String?
+  espnId        String?
+  cricsheetId   String?  @unique
+  createdAt     DateTime @default(now())
+  careerStats   CareerStat[]
+  auctionHistory AuctionHistory[]
+  @@index([country])
+  @@index([role])
+}
+
+model Match {
+  id             String     @id @default(cuid())
+  matchId        String     @unique
+  format         String
+  date           DateTime?
+  venue          String?
+  city           String?
+  team1          String?
+  team2          String?
+  winner         String?
+  playerOfMatch  String?
+  tossWinner     String?
+  tossDecision   String?
+  season         String?
+  deliveries     Delivery[]
+  createdAt      DateTime   @default(now())
+  @@index([format])
+  @@index([season])
+}
+
+model Delivery {
+  id           String  @id @default(cuid())
+  matchId      String
+  match        Match   @relation(fields: [matchId], references: [id])
+  inning       Int
+  over         Int
+  ball         Int
+  batter       String
+  bowler       String
+  nonStriker   String?
+  runsBatter   Int     @default(0)
+  runsExtras   Int     @default(0)
+  runsTotal    Int     @default(0)
+  wicket       Json?
+  extras       Json?
+  @@index([matchId])
+  @@index([batter])
+  @@index([bowler])
+}
+
+model CareerStat {
+  id           String  @id @default(cuid())
+  playerId     String
+  player       Player  @relation(fields: [playerId], references: [id])
+  format       String
+  matches      Int?
+  innings      Int?
+  runs         Int?
+  avg          Float?
+  sr           Float?
+  hundreds     Int?
+  fifties      Int?
+  highScore    String?
+  wickets      Int?
+  bowlAvg      Float?
+  bowlEcon     Float?
+  bowlSR       Float?
+  fiveWickets  Int?
+  catches      Int?
+  stumpings    Int?
+  runouts      Int?
+  @@unique([playerId, format])
+  @@index([format])
+}
+
+model AuctionHistory {
+  id         String  @id @default(cuid())
+  playerId   String
+  player     Player  @relation(fields: [playerId], references: [id])
+  year       Int
+  team       String?
+  soldPrice  String?
+  basePrice  String?
+  @@index([playerId])
+}
