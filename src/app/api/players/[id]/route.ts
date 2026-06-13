@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
 import { getPlayerImageUrl, getDisplayName } from '@/lib/utils';
+import { generatePlayerBio } from '@/lib/generatePlayerBio';
 
 export async function GET(request: Request, { params }: { params: Promise<{ id: string }> }) {
   try {
@@ -68,6 +69,39 @@ export async function GET(request: Request, { params }: { params: Promise<{ id: 
         WHERE d.batter = ${player.name} OR d.bowler = ${player.name}
       `;
       responseData.computedStats = computed[0] || null;
+    }
+
+    if (!responseData.bio) {
+      let runs = 0, wickets = 0, matches = 0;
+      if (player.careerStats.length > 0) {
+        runs = player.careerStats.reduce((acc, s) => acc + (s.runs || 0), 0);
+        wickets = player.careerStats.reduce((acc, s) => acc + (s.wickets || 0), 0);
+        matches = player.careerStats.reduce((acc, s) => acc + (s.matches || 0), 0);
+      } else if (responseData.computedStats) {
+        const cs = responseData.computedStats;
+        runs = Number(cs.total_runs) || 0;
+        wickets = Number(cs.wickets_taken) || 0;
+        matches = Number(cs.matches_played) || 0;
+      }
+      
+      const bio = await generatePlayerBio({
+        name: player.fullName || player.name,
+        country: player.country,
+        role: player.role,
+        battingStyle: player.battingStyle,
+        bowlingStyle: player.bowlingStyle,
+        runs,
+        wickets,
+        matches,
+      });
+
+      if (bio) {
+        await prisma.player.update({
+          where: { id: player.id },
+          data: { bio },
+        });
+        responseData.bio = bio;
+      }
     }
 
     return NextResponse.json(responseData);

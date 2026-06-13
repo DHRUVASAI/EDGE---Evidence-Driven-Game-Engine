@@ -8,7 +8,7 @@ import re
 import uuid
 
 load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
-db_url = os.environ.get('DATABASE_URL')
+db_url = os.environ.get('DIRECT_URL')
 conn = psycopg2.connect(db_url)
 cur = conn.cursor()
 

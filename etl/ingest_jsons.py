@@ -11,7 +11,7 @@ from tqdm import tqdm
 from urllib.parse import unquote
 
 load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
-db_url = os.environ.get('DATABASE_URL')
+db_url = os.environ.get('DIRECT_URL')
 
 def get_connection():
     return psycopg2.connect(db_url)
@@ -88,42 +88,46 @@ def process_file(filepath, conn):
         )
         
     deliveries = []
-    innings = data.get('innings', [])
-    for inning_idx, inning in enumerate(innings):
-        overs = inning.get('overs', [])
-        for over in overs:
-            over_num = over.get('over')
-            for ball_idx, delivery in enumerate(over.get('deliveries', [])):
-                batter = delivery.get('batter')
-                bowler = delivery.get('bowler')
-                non_striker = delivery.get('non_striker')
-                runs = delivery.get('runs', {})
-                runs_batter = runs.get('batter', 0)
-                runs_extras = runs.get('extras', 0)
-                runs_total = runs.get('total', 0)
-                
-                wicket = delivery.get('wickets', None)
-                wicket_val = Json(wicket) if wicket else None
-                
-                extras = delivery.get('extras', None)
-                extras_val = Json(extras) if extras else None
+    skip_deliveries = False
+    if format_type in ['ODM', 'MDM'] and match_date and match_date < '2016-01-01':
+        skip_deliveries = True
+        
+    if not skip_deliveries:
+        innings = data.get('innings', [])
+        for inning_idx, inning in enumerate(innings):
+            overs = inning.get('overs', [])
+            for over in overs:
+                over_num = over.get('over')
+                for ball_idx, delivery in enumerate(over.get('deliveries', [])):
+                    batter = delivery.get('batter')
+                    bowler = delivery.get('bowler')
+                    non_striker = delivery.get('non_striker')
+                    runs = delivery.get('runs', {})
+                    runs_batter = runs.get('batter', 0)
+                    runs_extras = runs.get('extras', 0)
+                    runs_total = runs.get('total', 0)
                     
-                deliveries.append((
-                    uuid.uuid4().hex,
-                    match_pk,
-                    inning_idx + 1,
-                    over_num,
-                    ball_idx + 1,
-                    batter,
-                    bowler,
-                    non_striker,
-                    runs_batter,
-                    runs_extras,
-                    runs_total,
-                    wicket_val,
-                    extras_val
-                ))
-                
+                    wicket = delivery.get('wickets', None)
+                    wicket_val = Json(wicket) if wicket else None
+                    
+                    extras = delivery.get('extras', None)
+                    extras_val = Json(extras) if extras else None
+                        
+                    deliveries.append((
+                        uuid.uuid4().hex,
+                        match_pk,
+                        inning_idx + 1,
+                        over_num,
+                        ball_idx + 1,
+                        batter,
+                        bowler,
+                        non_striker,
+                        runs_batter,
+                        runs_extras,
+                        runs_total,
+                        wicket_val,
+                        extras_val
+                    ))
     if deliveries:
         with conn.cursor() as cur:
             execute_values(

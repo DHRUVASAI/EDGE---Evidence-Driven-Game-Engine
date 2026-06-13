@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv(r"c:\Users\dhruv\Downloads\sport\cricmetrics\.env")
-conn = psycopg2.connect(os.environ.get('DATABASE_URL'))
+conn = psycopg2.connect(os.environ.get('DIRECT_URL'))
 cur = conn.cursor()
 
 print("--- Data Report ---")

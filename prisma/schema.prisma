@@ -3,8 +3,9 @@ generator client {
 }
 
 datasource db {
-  provider = "postgresql"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
 }
 
 model Player {
@@ -17,6 +18,9 @@ model Player {
   bowlingStyle  String?
   espnId        String?
   cricsheetId   String?  @unique
+  dob           DateTime?
+  bio           String?    @db.Text
+  imageUrl      String?
   createdAt     DateTime @default(now())
   careerStats   CareerStat[]
   auctionHistory AuctionHistory[]
@@ -38,6 +42,7 @@ model Match {
   tossWinner     String?
   tossDecision   String?
   season         String?
+  stadiumName    String?
   deliveries     Delivery[]
   createdAt      DateTime   @default(now())
   @@index([format])
@@ -98,4 +103,13 @@ model AuctionHistory {
   soldPrice  String?
   basePrice  String?
   @@index([playerId])
+}
+
+model TeamMeta {
+  id        String  @id @default(cuid())
+  name      String  @unique
+  shortName String?
+  logoUrl   String?
+  country   String?
+  type      String?
 }

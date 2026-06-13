@@ -5,7 +5,7 @@ from thefuzz import process
 from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
-db_url = os.environ.get('DATABASE_URL')
+db_url = os.environ.get('DIRECT_URL')
 
 def main():
     conn = psycopg2.connect(db_url)
