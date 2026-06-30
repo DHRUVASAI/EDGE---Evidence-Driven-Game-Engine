@@ -3,7 +3,7 @@
 import useSWR from "swr";
 import IntroSplash from "@/components/IntroSplash";
 import DashboardHeader from "@/components/dashboard/DashboardHeader";
-import TrendCharts from "@/components/dashboard/TrendCharts";
+import LiveMatches from "@/components/dashboard/LiveMatches";
 import ICCRankings from "@/components/dashboard/ICCRankings";
 import IPLConsole from "@/components/dashboard/IPLConsole";
 import QuickActions from "@/components/dashboard/QuickActions";
@@ -30,11 +30,8 @@ function LoadingSkeleton() {
         <div className="h-32 bg-zinc-900 rounded-xl border border-zinc-800/40" />
       </div>
       
-      {/* Charts Skeleton */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-        <div className="h-[360px] bg-zinc-900 rounded-xl border border-zinc-800/40" />
-        <div className="h-[360px] bg-zinc-900 rounded-xl border border-zinc-800/40" />
-      </div>
+      {/* Live Match Skeleton */}
+      <div className="h-[240px] bg-zinc-900 rounded-xl border border-zinc-800/40" />
 
       {/* ICC Rankings Skeleton */}
       <div className="h-[320px] bg-zinc-900 rounded-xl border border-zinc-800/40" />
@@ -72,10 +69,7 @@ export default function Home() {
               totalPlayers={data.counts.totalPlayers}
               matchesPerFormat={data.counts.matchesPerFormat}
             />
-            <TrendCharts
-              seasonTrends={data.seasonTrends}
-              topVenues={data.topVenues}
-            />
+            <LiveMatches />
             <ICCRankings />
             <IPLConsole />
             <QuickActions />

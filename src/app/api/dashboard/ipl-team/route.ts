@@ -112,14 +112,19 @@ export async function GET(request: Request) {
       imageUrl: getPlayerImageUrl(topBowlerRes[0].imageUrl)
     } : null;
 
-    // 4. Season Match Volume
-    const seasonTrends = await prisma.$queryRaw<any[]>`
-      SELECT season, COUNT(*)::int as count
+    // 4. Recent Matches
+    const recentMatches = await prisma.$queryRaw<any[]>`
+      SELECT 
+        id, 
+        date, 
+        team1, 
+        team2, 
+        winner,
+        venue
       FROM "Match"
-      WHERE (team1 = ANY(${teamNames}) OR team2 = ANY(${teamNames}))
-        AND season ~ '^[0-9]{4}$'
-      GROUP BY season
-      ORDER BY season ASC
+      WHERE team1 = ANY(${teamNames}) OR team2 = ANY(${teamNames})
+      ORDER BY date DESC
+      LIMIT 5
     `;
 
     return NextResponse.json({
@@ -127,7 +132,7 @@ export async function GET(request: Request) {
       wins: stats.wins,
       topBatter,
       topBowler,
-      seasonTrends
+      recentMatches
     });
 
   } catch (error: any) {

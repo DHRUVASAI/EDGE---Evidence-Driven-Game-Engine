@@ -47,7 +47,29 @@ interface TeamData {
     imageUrl: string | null;
     wickets: number;
   } | null;
-  seasonTrends: Array<{ season: string; count: number }>;
+  recentMatches: Array<{
+    id: string;
+    date: string;
+    team1: string;
+    team2: string;
+    winner: string | null;
+    venue: string | null;
+  }>;
+}
+
+function getOpponentShortName(fullTeamName: string): string {
+  if (!fullTeamName) return "Opponent";
+  if (fullTeamName.includes("Chennai") || fullTeamName.includes("CSK")) return "CSK";
+  if (fullTeamName.includes("Mumbai") || fullTeamName.includes("MI")) return "MI";
+  if (fullTeamName.includes("Bangalore") || fullTeamName.includes("Bengaluru") || fullTeamName.includes("RCB")) return "RCB";
+  if (fullTeamName.includes("Kolkata") || fullTeamName.includes("KKR")) return "KKR";
+  if (fullTeamName.includes("Rajasthan") || fullTeamName.includes("RR")) return "RR";
+  if (fullTeamName.includes("Hyderabad") || fullTeamName.includes("Deccan") || fullTeamName.includes("SRH")) return "SRH";
+  if (fullTeamName.includes("Delhi") || fullTeamName.includes("DC")) return "DC";
+  if (fullTeamName.includes("Punjab") || fullTeamName.includes("Kings XI") || fullTeamName.includes("PBKS")) return "PBKS";
+  if (fullTeamName.includes("Gujarat") || fullTeamName.includes("GT")) return "GT";
+  if (fullTeamName.includes("Lucknow") || fullTeamName.includes("LSG")) return "LSG";
+  return fullTeamName.split(" ")[0] || "OPP";
 }
 
 function getInitials(name: string): string {
@@ -265,45 +287,49 @@ export default function IPLConsole() {
               </div>
             </div>
 
-            {/* Column 2: Seasonal Match Volume Chart */}
-            <div className="flex flex-col gap-4 justify-between">
+            {/* Column 2: Franchise Form Guide & Recent Matches */}
+            <div className="flex flex-col gap-4">
               <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest">
-                Seasonal Match Volume
+                Recent Franchise Form Guide
               </span>
-              <div className="w-full h-[180px] bg-zinc-950/40 rounded-xl border border-zinc-900/85 p-3 mt-2">
-                <ResponsiveContainer width="100%" height="100%">
-                  <AreaChart data={data.seasonTrends} margin={{ top: 5, right: 5, left: -25, bottom: 0 }}>
-                    <defs>
-                      <linearGradient id={`teamGlowGrad-${activeTeam}`} x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="5%" stopColor={teamMeta.colorName} stopOpacity={0.2} />
-                        <stop offset="95%" stopColor={teamMeta.colorName} stopOpacity={0} />
-                      </linearGradient>
-                    </defs>
-                    <CartesianGrid stroke="#12121a" strokeDasharray="3 3" vertical={false} />
-                    <XAxis dataKey="season" stroke="#52525b" fontSize={8} tickLine={false} axisLine={false} />
-                    <YAxis stroke="#52525b" fontSize={8} tickLine={false} axisLine={false} />
-                    <Tooltip
-                      content={({ active, payload }: any) => {
-                        if (active && payload && payload.length) {
-                          return (
-                            <div className="bg-zinc-950 border border-zinc-800 px-3 py-1.5 rounded-lg text-[10px] shadow-2xl">
-                              <p className="font-bold text-white mb-0.5">IPL {payload[0].payload.season}</p>
-                              <p className="text-lime-400 font-semibold">{payload[0].value} Matches</p>
-                            </div>
-                          );
-                        }
-                        return null;
-                      }}
-                    />
-                    <Area
-                      type="monotone"
-                      dataKey="count"
-                      stroke={teamMeta.colorName}
-                      strokeWidth={2}
-                      fill={`url(#teamGlowGrad-${activeTeam})`}
-                    />
-                  </AreaChart>
-                </ResponsiveContainer>
+              <div className="flex flex-col gap-2.5 mt-2 max-h-[220px] overflow-y-auto pr-1">
+                {data.recentMatches && data.recentMatches.map((m) => {
+                  const isWinner = m.winner && (
+                    m.winner.includes(activeTeam) || 
+                    m.winner.includes(teamMeta.name.split(" ")[0]) ||
+                    (activeTeam === "RCB" && m.winner.includes("Bangalore")) ||
+                    (activeTeam === "PBKS" && m.winner.includes("Punjab")) ||
+                    (activeTeam === "DC" && m.winner.includes("Delhi"))
+                  );
+                  const oppName = m.team1 === teamMeta.name || m.team1.includes(teamMeta.name.split(" ")[0]) ? m.team2 : m.team1;
+                  const oppShort = getOpponentShortName(oppName);
+                  const matchDate = m.date ? new Date(m.date).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" }) : "";
+                  
+                  return (
+                    <div key={m.id} className="flex items-center justify-between bg-[#0e0e16] border border-zinc-900 rounded-xl p-3 hover:border-zinc-800/80 transition-colors">
+                      <div className="flex items-center gap-3">
+                        <span className={`w-6 h-6 rounded-full flex items-center justify-center text-[10px] font-black shrink-0 ${
+                          isWinner 
+                            ? "bg-lime-500/10 text-lime-400 border border-lime-500/20" 
+                            : "bg-red-500/10 text-red-400 border border-red-500/20"
+                        }`}>
+                          {isWinner ? "W" : "L"}
+                        </span>
+                        <div className="min-w-0">
+                          <span className="block text-xs font-bold text-white">
+                            vs {oppShort}
+                          </span>
+                          <span className="block text-[8px] text-zinc-500 mt-0.5 font-semibold truncate max-w-[140px]">
+                            {m.venue}
+                          </span>
+                        </div>
+                      </div>
+                      <span className="text-[9px] font-bold text-zinc-400 shrink-0">
+                        {matchDate}
+                      </span>
+                    </div>
+                  );
+                })}
               </div>
             </div>
 
