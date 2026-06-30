@@ -14,19 +14,20 @@ interface TeamDetail {
   textInactive: string;
   glow: string;
   colorName: string; // Theme label for charts
+  titles: number;
 }
 
 const TEAMS: Record<string, TeamDetail> = {
-  CSK: { logo: "CSK", name: "Chennai Super Kings", gradient: "from-yellow-500 to-amber-500 text-black", borderActive: "border-yellow-400", textActive: "text-yellow-400", borderInactive: "border-yellow-500/20 hover:border-yellow-500/40", textInactive: "text-yellow-500/50 hover:text-yellow-400", glow: "rgba(234,179,8,0.25)", colorName: "#eab308" },
-  MI: { logo: "MI", name: "Mumbai Indians", gradient: "from-blue-600 to-sky-500 text-white", borderActive: "border-blue-400", textActive: "text-blue-400", borderInactive: "border-blue-500/20 hover:border-blue-500/40", textInactive: "text-blue-500/50 hover:text-blue-400", glow: "rgba(59,130,246,0.25)", colorName: "#3b82f6" },
-  RCB: { logo: "RCB", name: "Royal Challengers Bengaluru", gradient: "from-red-700 to-zinc-800 text-white", borderActive: "border-red-500", textActive: "text-red-500", borderInactive: "border-red-650/20 hover:border-red-650/40", textInactive: "text-red-650/50 hover:text-red-500", glow: "rgba(220,38,38,0.25)", colorName: "#dc2626" },
-  KKR: { logo: "KKR", name: "Kolkata Knight Riders", gradient: "from-purple-700 to-indigo-650 text-white", borderActive: "border-purple-400", textActive: "text-purple-400", borderInactive: "border-purple-650/20 hover:border-purple-650/40", textInactive: "text-purple-650/50 hover:text-purple-400", glow: "rgba(147,51,234,0.25)", colorName: "#a855f7" },
-  RR: { logo: "RR", name: "Rajasthan Royals", gradient: "from-pink-600 to-blue-600 text-white", borderActive: "border-pink-400", textActive: "text-pink-400", borderInactive: "border-pink-500/20 hover:border-pink-500/40", textInactive: "text-pink-500/50 hover:text-pink-400", glow: "rgba(236,72,153,0.25)", colorName: "#ec4899" },
-  SRH: { logo: "SRH", name: "Sunrisers Hyderabad", gradient: "from-orange-500 to-red-500 text-white", borderActive: "border-orange-400", textActive: "text-orange-400", borderInactive: "border-orange-500/20 hover:border-orange-500/40", textInactive: "text-orange-500/50 hover:text-orange-400", glow: "rgba(249,115,22,0.25)", colorName: "#f97316" },
-  DC: { logo: "DC", name: "Delhi Capitals", gradient: "from-sky-600 to-blue-800 text-white", borderActive: "border-sky-400", textActive: "text-sky-400", borderInactive: "border-sky-500/20 hover:border-sky-500/40", textInactive: "text-sky-500/50 hover:text-sky-400", glow: "rgba(56,189,248,0.25)", colorName: "#38bdf8" },
-  PBKS: { logo: "PBKS", name: "Punjab Kings", gradient: "from-red-650 to-zinc-400 text-white", borderActive: "border-red-400", textActive: "text-red-400", borderInactive: "border-red-500/20 hover:border-red-500/40", textInactive: "text-red-500/50 hover:text-red-400", glow: "rgba(239,68,68,0.25)", colorName: "#ef4444" },
-  GT: { logo: "GT", name: "Gujarat Titans", gradient: "from-slate-700 to-zinc-800 text-white", borderActive: "border-slate-400", textActive: "text-slate-400", borderInactive: "border-slate-500/20 hover:border-slate-500/40", textInactive: "text-slate-500/50 hover:text-slate-400", glow: "rgba(100,116,139,0.25)", colorName: "#64748b" },
-  LSG: { logo: "LSG", name: "Lucknow Super Giants", gradient: "from-cyan-600 to-indigo-950 text-white", borderActive: "border-cyan-400", textActive: "text-cyan-400", borderInactive: "border-cyan-500/20 hover:border-cyan-500/40", textInactive: "text-cyan-500/50 hover:text-cyan-400", glow: "rgba(6,182,212,0.25)", colorName: "#06b6d4" }
+  CSK: { logo: "CSK", name: "Chennai Super Kings", gradient: "from-yellow-500 to-amber-500 text-black", borderActive: "border-yellow-400", textActive: "text-yellow-400", borderInactive: "border-yellow-500/20 hover:border-yellow-500/40", textInactive: "text-yellow-500/50 hover:text-yellow-400", glow: "rgba(234,179,8,0.25)", colorName: "#eab308", titles: 5 },
+  MI: { logo: "MI", name: "Mumbai Indians", gradient: "from-blue-600 to-sky-500 text-white", borderActive: "border-blue-400", textActive: "text-blue-400", borderInactive: "border-blue-500/20 hover:border-blue-500/40", textInactive: "text-blue-500/50 hover:text-blue-400", glow: "rgba(59,130,246,0.25)", colorName: "#3b82f6", titles: 5 },
+  RCB: { logo: "RCB", name: "Royal Challengers Bengaluru", gradient: "from-red-700 to-zinc-800 text-white", borderActive: "border-red-500", textActive: "text-red-500", borderInactive: "border-red-650/20 hover:border-red-650/40", textInactive: "text-red-650/50 hover:text-red-500", glow: "rgba(220,38,38,0.25)", colorName: "#dc2626", titles: 0 },
+  KKR: { logo: "KKR", name: "Kolkata Knight Riders", gradient: "from-purple-700 to-indigo-650 text-white", borderActive: "border-purple-400", textActive: "text-purple-400", borderInactive: "border-purple-650/20 hover:border-purple-650/40", textInactive: "text-purple-650/50 hover:text-purple-400", glow: "rgba(147,51,234,0.25)", colorName: "#a855f7", titles: 3 },
+  RR: { logo: "RR", name: "Rajasthan Royals", gradient: "from-pink-600 to-blue-600 text-white", borderActive: "border-pink-400", textActive: "text-pink-400", borderInactive: "border-pink-500/20 hover:border-pink-500/40", textInactive: "text-pink-500/50 hover:text-pink-400", glow: "rgba(236,72,153,0.25)", colorName: "#ec4899", titles: 1 },
+  SRH: { logo: "SRH", name: "Sunrisers Hyderabad", gradient: "from-orange-500 to-red-500 text-white", borderActive: "border-orange-400", textActive: "text-orange-400", borderInactive: "border-orange-500/20 hover:border-orange-500/40", textInactive: "text-orange-500/50 hover:text-orange-400", glow: "rgba(249,115,22,0.25)", colorName: "#f97316", titles: 2 },
+  DC: { logo: "DC", name: "Delhi Capitals", gradient: "from-sky-600 to-blue-800 text-white", borderActive: "border-sky-400", textActive: "text-sky-400", borderInactive: "border-sky-500/20 hover:border-sky-500/40", textInactive: "text-sky-500/50 hover:text-sky-400", glow: "rgba(56,189,248,0.25)", colorName: "#38bdf8", titles: 0 },
+  PBKS: { logo: "PBKS", name: "Punjab Kings", gradient: "from-red-650 to-zinc-400 text-white", borderActive: "border-red-400", textActive: "text-red-400", borderInactive: "border-red-500/20 hover:border-red-500/40", textInactive: "text-red-500/50 hover:text-red-400", glow: "rgba(239,68,68,0.25)", colorName: "#ef4444", titles: 0 },
+  GT: { logo: "GT", name: "Gujarat Titans", gradient: "from-slate-700 to-zinc-800 text-white", borderActive: "border-slate-400", textActive: "text-slate-400", borderInactive: "border-slate-500/20 hover:border-slate-500/40", textInactive: "text-slate-500/50 hover:text-slate-400", glow: "rgba(100,116,139,0.25)", colorName: "#64748b", titles: 1 },
+  LSG: { logo: "LSG", name: "Lucknow Super Giants", gradient: "from-cyan-600 to-indigo-950 text-white", borderActive: "border-cyan-400", textActive: "text-cyan-400", borderInactive: "border-cyan-500/20 hover:border-cyan-500/40", textInactive: "text-cyan-500/50 hover:text-cyan-400", glow: "rgba(6,182,212,0.25)", colorName: "#06b6d4", titles: 0 }
 };
 
 interface TeamData {
@@ -191,6 +192,17 @@ export default function IPLConsole() {
                 >
                   {teamMeta.name}
                 </h3>
+                {teamMeta.titles > 0 ? (
+                  <div className="flex items-center gap-1.5 mt-2 text-[10px] font-black text-yellow-500 bg-yellow-500/10 border border-yellow-500/20 px-2.5 py-0.5 rounded-full w-fit">
+                    <Trophy size={11} className="fill-current text-yellow-500" />
+                    {teamMeta.titles} {teamMeta.titles === 1 ? 'IPL Cup' : 'IPL Cups'}
+                  </div>
+                ) : (
+                  <div className="flex items-center gap-1.5 mt-2 text-[10px] font-bold text-zinc-500 bg-zinc-900/60 border border-zinc-800/80 px-2.5 py-0.5 rounded-full w-fit">
+                    <Trophy size={11} className="text-zinc-650" />
+                    0 IPL Cups
+                  </div>
+                )}
               </div>
 
               {/* KPI Cards (High Tech Grid) */}
