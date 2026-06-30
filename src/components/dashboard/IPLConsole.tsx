@@ -131,7 +131,7 @@ export default function IPLConsole() {
       </div>
 
       {/* Team Selection Badges Carousel (Redesigned) */}
-      <div className="flex gap-3 overflow-x-auto pb-3 scrollbar-thin scrollbar-thumb-zinc-800/80">
+      <div className="flex gap-3 overflow-x-auto py-2 pb-3 scrollbar-thin scrollbar-thumb-zinc-800/80">
         {Object.entries(TEAMS).map(([key, team]) => {
           const isActive = activeTeam === key;
           return (
