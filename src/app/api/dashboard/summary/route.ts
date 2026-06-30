@@ -4,6 +4,16 @@ import { getPlayerImageUrl } from '@/lib/utils';
 
 export const revalidate = 3600;
 
+const IPL_TEAMS = [
+  'Mumbai Indians', 'Chennai Super Kings', 'Royal Challengers Bangalore',
+  'Kolkata Knight Riders', 'Rajasthan Royals', 'Delhi Capitals',
+  'Kings XI Punjab', 'Sunrisers Hyderabad', 'Deccan Chargers',
+  'Pune Warriors', 'Rising Pune Supergiant', 'Rising Pune Supergiants',
+  'Gujarat Lions', 'Lucknow Super Giants', 'Gujarat Titans',
+  'Punjab Kings', 'Delhi Daredevils', 'Kochi Tuskers Kerala',
+  'Royal Challengers Bengaluru'
+];
+
 export async function GET() {
   try {
     const matchesPerFormat = await prisma.match.groupBy({
@@ -33,21 +43,33 @@ export async function GET() {
       LIMIT 5
     `;
 
-    // 3. Batting Leaderboard (Top 5)
-    const battingLeaderboard = await prisma.$queryRaw<any[]>`
-      SELECT p.id, p.name, p."fullName", p."imageUrl", p.country, p.role, SUM(b.runs)::int as "totalRuns"
-      FROM batting_summary b
-      JOIN "Player" p ON p.id = b."playerId"
+    // 3. IPL Orange Cap (Top 5 Runs)
+    const iplOrangeCap = await prisma.$queryRaw<any[]>`
+      SELECT p.id, p.name, p."fullName", p."imageUrl", p.country, p.role, SUM(d."runsBatter")::int as "totalRuns"
+      FROM "Delivery" d
+      JOIN "Match" m ON d."matchId" = m.id
+      JOIN "Player" p ON p.name = d.batter
+      WHERE m.format = 'T20' AND (
+        m.team1 = ANY(${IPL_TEAMS}) 
+        OR m.team2 = ANY(${IPL_TEAMS})
+      )
       GROUP BY p.id, p.name, p."fullName", p."imageUrl", p.country, p.role
       ORDER BY "totalRuns" DESC NULLS LAST
       LIMIT 5
     `;
 
-    // 4. Bowling Leaderboard (Top 5)
-    const bowlingLeaderboard = await prisma.$queryRaw<any[]>`
-      SELECT p.id, p.name, p."fullName", p."imageUrl", p.country, p.role, SUM(b.wickets)::int as "totalWickets"
-      FROM bowling_summary b
-      JOIN "Player" p ON p.id = b."playerId"
+    // 4. IPL Purple Cap (Top 5 Wickets)
+    const iplPurpleCap = await prisma.$queryRaw<any[]>`
+      SELECT p.id, p.name, p."fullName", p."imageUrl", p.country, p.role, COUNT(*)::int as "totalWickets"
+      FROM "Delivery" d
+      JOIN "Match" m ON d."matchId" = m.id
+      JOIN "Player" p ON p.name = d.bowler
+      WHERE m.format = 'T20' AND (
+        m.team1 = ANY(${IPL_TEAMS}) 
+        OR m.team2 = ANY(${IPL_TEAMS})
+      )
+      AND d.wicket IS NOT NULL 
+      AND (d.wicket->0->>'kind') NOT IN ('run out', 'retired hurt', 'obstructing the field')
       GROUP BY p.id, p.name, p."fullName", p."imageUrl", p.country, p.role
       ORDER BY "totalWickets" DESC NULLS LAST
       LIMIT 5
@@ -98,6 +120,11 @@ export async function GET() {
       };
     };
 
+    const formatPlayer = (p: any) => ({
+      ...p,
+      imageUrl: getPlayerImageUrl(p.imageUrl)
+    });
+
     return NextResponse.json({
       counts: {
         matchesPerFormat: matchesPerFormat.map(m => ({ format: m.format, count: m._count })),
@@ -106,14 +133,10 @@ export async function GET() {
       },
       seasonTrends: matchesBySeason,
       topVenues,
-      battingLeaderboard: battingLeaderboard.map(p => ({
-        ...p,
-        imageUrl: getPlayerImageUrl(p.imageUrl)
-      })),
-      bowlingLeaderboard: bowlingLeaderboard.map(p => ({
-        ...p,
-        imageUrl: getPlayerImageUrl(p.imageUrl)
-      })),
+      iplSummary: {
+        orangeCap: iplOrangeCap.map(formatPlayer),
+        purpleCap: iplPurpleCap.map(formatPlayer)
+      },
       highlights: {
         topRunScorer: formatHighlight(topRunScorer[0]),
         topWicketTaker: formatHighlight(topWicketTaker[0]),
