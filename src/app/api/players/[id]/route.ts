@@ -26,6 +26,40 @@ export async function GET(request: Request, { params }: { params: Promise<{ id: 
       statsByFormat[stat.format] = stat;
     });
 
+    // Dynamically compute stats from Delivery/Match tables for missing formats
+    const computedFormats = await prisma.$queryRaw<any[]>`
+      SELECT 
+        m.format,
+        COUNT(DISTINCT m.id)::int as matches_played,
+        SUM(CASE WHEN d.batter = ${player.name} THEN d."runsBatter" ELSE 0 END)::int as total_runs,
+        SUM(CASE WHEN d.batter = ${player.name} AND d.wicket IS NOT NULL THEN 1 ELSE 0 END)::int as dismissals,
+        SUM(CASE WHEN d.batter = ${player.name} THEN 1 ELSE 0 END)::int as balls_faced,
+        SUM(CASE WHEN d.bowler = ${player.name} AND d.wicket IS NOT NULL THEN 1 ELSE 0 END)::int as wickets_taken,
+        SUM(CASE WHEN d.bowler = ${player.name} THEN d."runsTotal" ELSE 0 END)::int as runs_conceded,
+        SUM(CASE WHEN d.bowler = ${player.name} THEN 1 ELSE 0 END)::int as balls_bowled
+      FROM "Delivery" d
+      JOIN "Match" m ON d."matchId" = m.id
+      WHERE d.batter = ${player.name} OR d.bowler = ${player.name}
+      GROUP BY m.format
+    `;
+
+    computedFormats.forEach(f => {
+      const fmt = f.format;
+      if (!statsByFormat[fmt] && f.matches_played > 0) {
+        statsByFormat[fmt] = {
+          id: `computed-${fmt}-${player.id}`,
+          playerId: player.id,
+          format: fmt,
+          matches: f.matches_played,
+          runs: f.total_runs,
+          avg: f.dismissals > 0 ? parseFloat((f.total_runs / f.dismissals).toFixed(2)) : f.total_runs,
+          sr: f.balls_faced > 0 ? parseFloat(((f.total_runs / f.balls_faced) * 100).toFixed(2)) : 0,
+          wickets: f.wickets_taken,
+          econ: f.balls_bowled > 0 ? parseFloat(((f.runs_conceded * 6) / f.balls_bowled).toFixed(2)) : 0
+        };
+      }
+    });
+
     const recentMatches = await prisma.$queryRaw<any[]>`
       SELECT 
         m.id, m."matchId", m.format, m.date, m.team1, m.team2,
@@ -50,39 +84,17 @@ export async function GET(request: Request, { params }: { params: Promise<{ id: 
     const responseData: any = {
       ...player,
       displayName: getDisplayName(player),
-      imageUrl: getPlayerImageUrl(player.espnId),
+      imageUrl: player.imageUrl || getPlayerImageUrl(player.espnId),
       careerStats: statsByFormat,
       recentMatches: processedMatches
     };
 
-    if (player.careerStats.length === 0) {
-      const computed = await prisma.$queryRaw<any[]>`
-        SELECT 
-          COUNT(DISTINCT m.id)::int as matches_played,
-          SUM(CASE WHEN d.batter = ${player.name} THEN d."runsBatter" ELSE 0 END)::int as total_runs,
-          SUM(CASE WHEN d.batter = ${player.name} AND d.wicket IS NOT NULL THEN 1 ELSE 0 END)::int as dismissals,
-          SUM(CASE WHEN d.bowler = ${player.name} AND d.wicket IS NOT NULL THEN 1 ELSE 0 END)::int as wickets_taken,
-          SUM(CASE WHEN d.bowler = ${player.name} THEN d."runsTotal" ELSE 0 END)::int as runs_conceded,
-          SUM(CASE WHEN d.bowler = ${player.name} THEN 1 ELSE 0 END)::int as balls_bowled
-        FROM "Delivery" d
-        JOIN "Match" m ON d."matchId" = m.id
-        WHERE d.batter = ${player.name} OR d.bowler = ${player.name}
-      `;
-      responseData.computedStats = computed[0] || null;
-    }
-
-    if (!responseData.bio) {
-      let runs = 0, wickets = 0, matches = 0;
-      if (player.careerStats.length > 0) {
-        runs = player.careerStats.reduce((acc, s) => acc + (s.runs || 0), 0);
-        wickets = player.careerStats.reduce((acc, s) => acc + (s.wickets || 0), 0);
-        matches = player.careerStats.reduce((acc, s) => acc + (s.matches || 0), 0);
-      } else if (responseData.computedStats) {
-        const cs = responseData.computedStats;
-        runs = Number(cs.total_runs) || 0;
-        wickets = Number(cs.wickets_taken) || 0;
-        matches = Number(cs.matches_played) || 0;
-      }
+    let runs = 0, wickets = 0, matches = 0;
+    Object.values(statsByFormat).forEach((s: any) => {
+      runs += s.runs || 0;
+      wickets += s.wickets || 0;
+      matches += s.matches || 0;
+    });
       
       const bio = await generatePlayerBio({
         name: player.fullName || player.name,
