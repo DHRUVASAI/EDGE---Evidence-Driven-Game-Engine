@@ -49,6 +49,16 @@ interface TeamData {
   seasonTrends: Array<{ season: string; count: number }>;
 }
 
+function getInitials(name: string): string {
+  if (!name) return "";
+  const words = name.trim().split(/\s+/);
+  return words
+    .map((w) => w[0])
+    .join("")
+    .toUpperCase()
+    .slice(0, 3);
+}
+
 function PlayerAvatar({ imageUrl, name, colorTheme }: { imageUrl: string | null; name: string; colorTheme: string }) {
   const [error, setError] = useState(false);
   const initials = getInitials(name);
