@@ -208,7 +208,7 @@ export async function GET(request: Request) {
         country: p.country,
         role: p.role,
         espnId: p.espnId,
-        imageUrl: getPlayerImageUrl(p.imageUrl),
+        imageUrl: p.imageUrl || getPlayerImageUrl(p.espnId),
         topFormat: pStats.topFormat,
         runs: pStats.runs,
         wickets: pStats.wickets,
