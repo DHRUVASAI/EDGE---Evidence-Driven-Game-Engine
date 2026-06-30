@@ -25,6 +25,30 @@ interface LiveMatch {
   liveBowler: { name: string; overs: string; maidens: number; runs: number; wickets: number; econ: number };
 }
 
+function TeamLogo({ logoValue, teamShort }: { logoValue: string; teamShort: string }) {
+  const [error, setError] = useState(false);
+  const isUrl = logoValue.startsWith("/");
+
+  if (isUrl && !error) {
+    return (
+      <img
+        src={logoValue}
+        alt={teamShort}
+        onError={() => setError(true)}
+        className="w-9 h-9 rounded-full object-cover border border-zinc-800 shrink-0"
+      />
+    );
+  }
+
+  return (
+    <div className={`w-9 h-9 rounded-full border flex items-center justify-center font-black shrink-0 transition-all ${
+      teamShort.length > 3 ? "text-[8px] tracking-tighter px-0.5" : "text-xs"
+    } ${isUrl ? "bg-zinc-850 text-zinc-300 border-zinc-700" : logoValue}`}>
+      {teamShort}
+    </div>
+  );
+}
+
 export default function LiveMatches() {
   const [matches, setMatches] = useState<LiveMatch[]>([]);
   const [activeMatchIndex, setActiveMatchIndex] = useState<number>(0);
@@ -50,7 +74,6 @@ export default function LiveMatches() {
 
   useEffect(() => {
     fetchLiveMatches();
-    // Poll every 30 seconds for live updates
     const interval = setInterval(fetchLiveMatches, 30000);
     return () => clearInterval(interval);
   }, []);
@@ -118,11 +141,7 @@ export default function LiveMatches() {
               {/* Teams Display */}
               <div className="flex items-center justify-between gap-4 mt-2">
                 <div className="flex items-center gap-3">
-                  <div className={`w-9 h-9 rounded-full border flex items-center justify-center font-black shrink-0 transition-all ${
-                    match.teams.t1.length > 3 ? "text-[8px] tracking-tighter px-0.5" : "text-xs"
-                  } ${match.teams.t1Logo}`}>
-                    {match.teams.t1}
-                  </div>
+                  <TeamLogo logoValue={match.teams.t1Logo} teamShort={match.teams.t1} />
                   <span className="text-sm font-bold text-zinc-300">{match.teams.t1Name}</span>
                 </div>
                 <span className="text-sm font-black text-zinc-400">{match.score1}</span>
@@ -130,11 +149,7 @@ export default function LiveMatches() {
 
               <div className="flex items-center justify-between gap-4">
                 <div className="flex items-center gap-3">
-                  <div className={`w-9 h-9 rounded-full border flex items-center justify-center font-black shrink-0 transition-all ${
-                    match.teams.t2.length > 3 ? "text-[8px] tracking-tighter px-0.5" : "text-xs"
-                  } ${match.teams.t2Logo}`}>
-                    {match.teams.t2}
-                  </div>
+                  <TeamLogo logoValue={match.teams.t2Logo} teamShort={match.teams.t2} />
                   <span className="text-sm font-bold text-white">{match.teams.t2Name}</span>
                 </div>
                 <span className="text-sm font-black text-lime-400">{match.score2}</span>
