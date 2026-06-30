@@ -20,17 +20,17 @@ interface FormatRankings {
 const RANKINGS_DATA: Record<string, FormatRankings> = {
   T20: {
     batting: [
-      { rank: 1, name: "Suryakumar Yadav", country: "IND", rating: 861, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/21/181.png" },
+      { rank: 1, name: "Suryakumar Yadav", country: "IND", rating: 861 },
       { rank: 2, name: "Phil Salt", country: "ENG", rating: 802, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/7/3431.png" },
       { rank: 3, name: "Travis Head", country: "AUS", rating: 785, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/26/26.png" },
       { rank: 4, name: "Babar Azam", country: "PAK", rating: 763, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/8/8.png" },
       { rank: 5, name: "Mohammad Rizwan", country: "PAK", rating: 752, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/20/20.png" },
     ],
     bowling: [
-      { rank: 1, name: "Adil Rashid", country: "ENG", rating: 726, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/19/275.png" },
-      { rank: 2, name: "Akeal Hosein", country: "WI", rating: 687, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/1/4097.png" },
-      { rank: 3, name: "Rashid Khan", country: "AFG", rating: 679, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/12/36.png" },
-      { rank: 4, name: "Wanindu Hasaranga", country: "SL", rating: 662, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/3/595.png" },
+      { rank: 1, name: "Adil Rashid", country: "ENG", rating: 726, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/29/157.png" },
+      { rank: 2, name: "Akeal Hosein", country: "WI", rating: 687, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/11/7083.png" },
+      { rank: 3, name: "Rashid Khan", country: "AFG", rating: 679 },
+      { rank: 4, name: "Wanindu Hasaranga", country: "SL", rating: 662 },
       { rank: 5, name: "Jasprit Bumrah", country: "IND", rating: 658, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/28/284.png" },
     ],
     allRounder: [
@@ -47,7 +47,7 @@ const RANKINGS_DATA: Record<string, FormatRankings> = {
       { rank: 2, name: "Babar Azam", country: "PAK", rating: 824, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/8/8.png" },
       { rank: 3, name: "Virat Kohli", country: "IND", rating: 791, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/14/46.png" },
       { rank: 4, name: "Rohit Sharma", country: "IND", rating: 769, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/22/278.png" },
-      { rank: 5, name: "David Warner", country: "AUS", rating: 745, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/22/5078.png" },
+      { rank: 5, name: "David Warner", country: "AUS", rating: 745, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/2/738.png" },
     ],
     bowling: [
       { rank: 1, name: "Keshav Maharaj", country: "SA", rating: 716, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/6/646.png" },
@@ -60,7 +60,7 @@ const RANKINGS_DATA: Record<string, FormatRankings> = {
       { rank: 1, name: "Mohammad Nabi", country: "AFG", rating: 320, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/15/303.png" },
       { rank: 2, name: "Shakib Al Hasan", country: "BAN", rating: 310, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/15/239.png" },
       { rank: 3, name: "Sikandar Raza", country: "ZIM", rating: 288, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/30/350.png" },
-      { rank: 4, name: "Rashid Khan", country: "AFG", rating: 265, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/12/36.png" },
+      { rank: 4, name: "Rashid Khan", country: "AFG", rating: 265 },
       { rank: 5, name: "Glenn Maxwell", country: "AUS", rating: 250, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/8/40.png" },
     ],
   },
@@ -68,7 +68,7 @@ const RANKINGS_DATA: Record<string, FormatRankings> = {
     batting: [
       { rank: 1, name: "Kane Williamson", country: "NZ", rating: 859, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/28/220.png" },
       { rank: 2, name: "Joe Root", country: "ENG", rating: 824, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/10/138.png" },
-      { rank: 3, name: "Daryl Mitchell", country: "NZ", rating: 768, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/11/3723.png" },
+      { rank: 3, name: "Daryl Mitchell", country: "NZ", rating: 768 },
       { rank: 4, name: "Steve Smith", country: "AUS", rating: 757, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/0/768.png" },
       { rank: 5, name: "Yashasvi Jaiswal", country: "IND", rating: 740, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/4/6820.png" },
     ],
@@ -83,7 +83,7 @@ const RANKINGS_DATA: Record<string, FormatRankings> = {
       { rank: 1, name: "Ravindra Jadeja", country: "IND", rating: 455, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/23/55.png" },
       { rank: 2, name: "Ravichandran Ashwin", country: "IND", rating: 340, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/22/54.png" },
       { rank: 3, name: "Shakib Al Hasan", country: "BAN", rating: 310, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/15/239.png" },
-      { rank: 4, name: "Axar Patel", country: "IND", rating: 285, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/24/57.png" },
+      { rank: 4, name: "Axar Patel", country: "IND", rating: 285 },
       { rank: 5, name: "Jason Holder", country: "WI", rating: 264, imageUrl: "https://cdn.sportmonks.com/images/cricket/players/4/100.png" },
     ],
   },
