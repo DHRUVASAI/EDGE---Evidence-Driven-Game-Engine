@@ -77,11 +77,7 @@ export default function Home() {
               topVenues={data.topVenues}
             />
             <ICCRankings />
-            <IPLConsole
-              orangeCap={data.iplSummary.orangeCap}
-              purpleCap={data.iplSummary.purpleCap}
-              mostSixesIPL={data.highlights.mostSixesIPL}
-            />
+            <IPLConsole />
             <QuickActions />
           </>
         )}

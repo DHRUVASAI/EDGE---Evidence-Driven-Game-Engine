@@ -1,27 +1,48 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { Zap, Flame, Award } from "lucide-react";
+import { Flame, Shield, Award, Users, Activity, Loader2 } from "lucide-react";
+import { ResponsiveContainer, AreaChart, Area, XAxis, YAxis, Tooltip, CartesianGrid } from "recharts";
 
-interface IPLPlayer {
-  id: string;
+interface TeamDetail {
+  logo: string;
   name: string;
-  fullName: string | null;
-  imageUrl: string | null;
-  country: string | null;
-  role: string | null;
-  totalRuns?: number;
-  totalWickets?: number;
+  color: string; // Tailwind border/text color class
+  accent: string; // Tailwind background hover class
+  glow: string; // Hex glow color
 }
 
-interface IPLConsoleProps {
-  orangeCap: IPLPlayer[];
-  purpleCap: IPLPlayer[];
-  mostSixesIPL: {
-    playerName: string;
-    totalSixes: number;
+const TEAMS: Record<string, TeamDetail> = {
+  CSK: { logo: "CSK", name: "Chennai Super Kings", color: "border-yellow-500 text-yellow-400", accent: "hover:bg-yellow-500/[0.04] bg-yellow-500/[0.02]", glow: "rgba(234,179,8,0.15)" },
+  MI: { logo: "MI", name: "Mumbai Indians", color: "border-blue-500 text-blue-400", accent: "hover:bg-blue-500/[0.04] bg-blue-500/[0.02]", glow: "rgba(59,130,246,0.15)" },
+  RCB: { logo: "RCB", name: "Royal Challengers Bengaluru", color: "border-red-600 text-red-500", accent: "hover:bg-red-600/[0.04] bg-red-600/[0.02]", glow: "rgba(220,38,38,0.15)" },
+  KKR: { logo: "KKR", name: "Kolkata Knight Riders", color: "border-purple-600 text-purple-400", accent: "hover:bg-purple-600/[0.04] bg-purple-600/[0.02]", glow: "rgba(147,51,234,0.15)" },
+  RR: { logo: "RR", name: "Rajasthan Royals", color: "border-pink-500 text-pink-400", accent: "hover:bg-pink-500/[0.04] bg-pink-500/[0.02]", glow: "rgba(236,72,153,0.15)" },
+  SRH: { logo: "SRH", name: "Sunrisers Hyderabad", color: "border-orange-500 text-orange-400", accent: "hover:bg-orange-500/[0.04] bg-orange-500/[0.02]", glow: "rgba(249,115,22,0.15)" },
+  DC: { logo: "DC", name: "Delhi Capitals", color: "border-sky-500 text-sky-400", accent: "hover:bg-sky-500/[0.04] bg-sky-500/[0.02]", glow: "rgba(56,189,248,0.15)" },
+  PBKS: { logo: "PBKS", name: "Punjab Kings", color: "border-red-500 text-red-400", accent: "hover:bg-red-500/[0.04] bg-red-500/[0.02]", glow: "rgba(239,68,68,0.15)" },
+  GT: { logo: "GT", name: "Gujarat Titans", color: "border-slate-500 text-slate-400", accent: "hover:bg-slate-500/[0.04] bg-slate-500/[0.02]", glow: "rgba(100,116,139,0.15)" },
+  LSG: { logo: "LSG", name: "Lucknow Super Giants", color: "border-cyan-500 text-cyan-400", accent: "hover:bg-cyan-500/[0.04] bg-cyan-500/[0.02]", glow: "rgba(6,182,212,0.15)" }
+};
+
+interface TeamData {
+  matchesPlayed: number;
+  wins: number;
+  topBatter: {
+    player_id: string;
+    name: string;
+    fullName: string | null;
     imageUrl: string | null;
+    runs: number;
   } | null;
+  topBowler: {
+    player_id: string;
+    name: string;
+    fullName: string | null;
+    imageUrl: string | null;
+    wickets: number;
+  } | null;
+  seasonTrends: Array<{ season: string; count: number }>;
 }
 
 function getInitials(name: string): string {
@@ -44,7 +65,7 @@ function PlayerAvatar({ imageUrl, name }: { imageUrl: string | null; name: strin
 
   if (!imageUrl || error) {
     return (
-      <div className="flex items-center justify-center bg-orange-400/[0.06] text-orange-400 font-bold text-xs border border-orange-400/10 rounded-full w-full h-full">
+      <div className="flex items-center justify-center bg-zinc-900 text-lime-400 font-bold text-xs border border-zinc-800 rounded-full w-full h-full">
         {initials}
       </div>
     );
@@ -55,142 +76,234 @@ function PlayerAvatar({ imageUrl, name }: { imageUrl: string | null; name: strin
       src={imageUrl}
       alt={name}
       onError={() => setError(true)}
-      className="w-full h-full object-cover"
+      className="w-full h-full object-cover animate-fade-in"
     />
   );
 }
 
-export default function IPLConsole({ orangeCap, purpleCap, mostSixesIPL }: IPLConsoleProps) {
+export default function IPLConsole() {
+  const [activeTeam, setActiveTeam] = useState<string>("CSK");
+  const [data, setData] = useState<TeamData | null>(null);
+  const [loading, setLoading] = useState<boolean>(true);
+
+  useEffect(() => {
+    setLoading(true);
+    fetch(`/api/dashboard/ipl-team?teamKey=${activeTeam}`)
+      .then((r) => r.json())
+      .then((res) => {
+        setData(res);
+        setLoading(false);
+      })
+      .catch((e) => {
+        console.error(e);
+        setLoading(false);
+      });
+  }, [activeTeam]);
+
+  const teamMeta = TEAMS[activeTeam];
+  const winRate = data && data.matchesPlayed > 0 ? Math.round((data.wins / data.matchesPlayed) * 100) : 0;
+
   return (
-    <div className="w-full flex flex-col gap-6 mb-8">
-      {/* Title block */}
-      <div className="flex items-center gap-2 border-b border-zinc-800 pb-4">
-        <Flame size={18} className="text-orange-500" />
-        <h2 className="text-base font-bold text-white tracking-tight uppercase">
-          IPL Analytics Dashboard
-        </h2>
+    <div className="w-full flex flex-col gap-6 mb-12">
+      {/* Section Header */}
+      <div className="flex items-center justify-between border-b border-zinc-800 pb-4">
+        <div className="flex items-center gap-2">
+          <Flame size={18} className="text-orange-500 animate-pulse" />
+          <h2 className="text-base font-bold text-white tracking-tight uppercase">
+            IPL Franchise Intelligence Hub
+          </h2>
+        </div>
+        <span className="text-[10px] font-bold text-zinc-500 tracking-[0.1em] uppercase">
+          Dynamic Team Profiles
+        </span>
       </div>
 
-      {/* Grid containing Caps and Record */}
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        {/* Orange Cap (Most Runs) */}
-        <div className="rounded-xl border border-zinc-800/80 bg-zinc-900/10 p-5 flex flex-col gap-4">
-          <div className="flex items-center justify-between border-b border-zinc-800/50 pb-3">
-            <div className="flex items-center gap-2">
-              <Award size={15} className="text-orange-400" />
-              <h3 className="text-xs font-bold uppercase tracking-wider text-orange-400">
-                Orange Cap Leaderboard
-              </h3>
+      {/* Team Selection Badges Carousel */}
+      <div className="flex gap-3 overflow-x-auto pb-3 scrollbar-thin scrollbar-thumb-zinc-800">
+        {Object.entries(TEAMS).map(([key, team]) => {
+          const isActive = activeTeam === key;
+          return (
+            <button
+              key={key}
+              onClick={() => setActiveTeam(key)}
+              style={{
+                boxShadow: isActive ? `0 0 15px ${team.glow}` : undefined
+              }}
+              className={`px-4 py-3 rounded-xl border font-bold text-xs tracking-wider shrink-0 transition-all ${
+                isActive
+                  ? `${team.color} bg-zinc-950 border-current scale-[1.02]`
+                  : `border-zinc-800/80 text-zinc-500 bg-zinc-900/10 hover:text-zinc-300 hover:border-zinc-700`
+              }`}
+            >
+              {team.logo}
+            </button>
+          );
+        })}
+      </div>
+
+      {/* Main Content Workspace */}
+      <div className="min-h-[350px] relative rounded-2xl border border-zinc-800/80 bg-zinc-900/10 p-6 overflow-hidden">
+        {/* Glow backdrop behind details */}
+        <div
+          className="absolute -top-12 -right-12 w-64 h-64 rounded-full blur-[100px] opacity-10 pointer-events-none transition-all duration-500"
+          style={{ backgroundColor: teamMeta.glow }}
+        />
+
+        {loading ? (
+          <div className="absolute inset-0 flex items-center justify-center bg-black/10 backdrop-blur-[1px] z-20">
+            <div className="flex flex-col items-center gap-2 text-zinc-400">
+              <Loader2 size={24} className="animate-spin text-lime-400" />
+              <span className="text-xs font-semibold tracking-wider uppercase">Loading Squad Roster...</span>
             </div>
-            <span className="text-[9px] font-bold text-zinc-500 uppercase tracking-widest">Runs</span>
           </div>
+        ) : null}
 
-          <div className="flex flex-col gap-2.5">
-            {orangeCap.map((p, idx) => (
-              <div
-                key={p.id}
-                className="flex items-center justify-between p-2.5 rounded-lg border border-zinc-800/30 bg-zinc-900/20 hover:border-orange-500/20 transition-all group"
-              >
-                <div className="flex items-center gap-3 min-w-0">
-                  <span className="text-[10px] font-extrabold text-zinc-500 shrink-0">#{idx + 1}</span>
-                  <div className="w-7 h-7 rounded-full overflow-hidden border border-zinc-850 shrink-0 flex items-center justify-center">
-                    <PlayerAvatar imageUrl={p.imageUrl} name={p.name} />
-                  </div>
-                  <div className="min-w-0">
-                    <span className="block text-xs font-bold text-zinc-200 group-hover:text-white truncate transition-colors">
-                      {p.fullName || p.name}
-                    </span>
-                    <span className="block text-[8px] font-semibold text-zinc-650 tracking-wider">
-                      {p.role || "Batsman"}
-                    </span>
-                  </div>
-                </div>
-                <span className="text-[10px] font-extrabold text-orange-400 bg-orange-400/[0.04] border border-orange-400/10 px-2 py-1 rounded">
-                  {p.totalRuns?.toLocaleString()}
-                </span>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Purple Cap (Most Wickets) */}
-        <div className="rounded-xl border border-zinc-800/80 bg-zinc-900/10 p-5 flex flex-col gap-4">
-          <div className="flex items-center justify-between border-b border-zinc-800/50 pb-3">
-            <div className="flex items-center gap-2">
-              <Award size={15} className="text-purple-400" />
-              <h3 className="text-xs font-bold uppercase tracking-wider text-purple-400">
-                Purple Cap Leaderboard
-              </h3>
-            </div>
-            <span className="text-[9px] font-bold text-zinc-500 uppercase tracking-widest">Wickets</span>
-          </div>
-
-          <div className="flex flex-col gap-2.5">
-            {purpleCap.map((p, idx) => (
-              <div
-                key={p.id}
-                className="flex items-center justify-between p-2.5 rounded-lg border border-zinc-800/30 bg-zinc-900/20 hover:border-purple-500/20 transition-all group"
-              >
-                <div className="flex items-center gap-3 min-w-0">
-                  <span className="text-[10px] font-extrabold text-zinc-500 shrink-0">#{idx + 1}</span>
-                  <div className="w-7 h-7 rounded-full overflow-hidden border border-zinc-850 shrink-0 flex items-center justify-center">
-                    <PlayerAvatar imageUrl={p.imageUrl} name={p.name} />
-                  </div>
-                  <div className="min-w-0">
-                    <span className="block text-xs font-bold text-zinc-200 group-hover:text-white truncate transition-colors">
-                      {p.fullName || p.name}
-                    </span>
-                    <span className="block text-[8px] font-semibold text-zinc-650 tracking-wider">
-                      {p.role || "Bowler"}
-                    </span>
-                  </div>
-                </div>
-                <span className="text-[10px] font-extrabold text-purple-400 bg-purple-400/[0.04] border border-purple-400/10 px-2 py-1 rounded">
-                  {p.totalWickets?.toLocaleString()}
-                </span>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* IPL Sixes Record Card */}
-        {mostSixesIPL && (
-          <div className="relative overflow-hidden rounded-xl border border-orange-500/15 bg-gradient-to-br from-orange-500/[0.03] to-purple-500/[0.01] p-6 flex flex-col justify-between group">
-            {/* Glow circle overlay */}
-            <div className="absolute top-0 right-0 w-32 h-32 bg-orange-400/[0.02] rounded-full blur-2xl group-hover:bg-orange-400/[0.04] transition-all" />
-
-            <div>
-              <span className="text-[10px] font-bold text-orange-400 uppercase tracking-widest flex items-center gap-1.5 mb-4">
-                <Zap size={12} />
-                IPL Records
-              </span>
-              <h3 className="text-base font-extrabold text-white leading-tight">
-                Most Sixes in IPL History
-              </h3>
-              <p className="text-xs text-zinc-400 mt-2 leading-relaxed">
-                Database aggregate of sixes hit by batsmen in IPL matches.
-              </p>
-            </div>
-
-            <div className="mt-6 flex items-center gap-4">
-              <div className="w-12 h-12 rounded-xl overflow-hidden border border-orange-500/20 shrink-0 flex items-center justify-center bg-zinc-900">
-                <PlayerAvatar imageUrl={mostSixesIPL.imageUrl} name={mostSixesIPL.playerName} />
-              </div>
+        {data && (
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            {/* Column 1: Performance KPIs & Dial */}
+            <div className="flex flex-col gap-6">
               <div>
-                <span className="block text-sm font-extrabold text-white">
-                  {mostSixesIPL.playerName}
+                <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest block mb-1">
+                  Selected Franchise
                 </span>
-                <span className="block text-[10px] text-zinc-500 font-semibold tracking-wide mt-0.5">
-                  Record Holder
-                </span>
+                <h3 className="text-xl font-black text-white leading-none tracking-tight uppercase">
+                  {teamMeta.name}
+                </h3>
               </div>
-              <div className="ml-auto flex flex-col items-end">
-                <span className="text-2xl font-black text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-amber-300">
-                  {mostSixesIPL.totalSixes}
-                </span>
-                <span className="text-[8px] font-bold uppercase tracking-widest text-zinc-500">
-                  Sixes
-                </span>
+
+              {/* KPI Cards */}
+              <div className="grid grid-cols-2 gap-4">
+                <div className="bg-zinc-950/40 border border-zinc-900 rounded-xl p-4 flex flex-col justify-between">
+                  <span className="text-[9px] font-bold text-zinc-500 uppercase tracking-wider flex items-center gap-1.5">
+                    <Activity size={10} /> Played
+                  </span>
+                  <span className="text-2xl font-black text-white mt-2">
+                    {data.matchesPlayed}
+                  </span>
+                </div>
+                <div className="bg-zinc-950/40 border border-zinc-900 rounded-xl p-4 flex flex-col justify-between">
+                  <span className="text-[9px] font-bold text-zinc-500 uppercase tracking-wider flex items-center gap-1.5">
+                    <Shield size={10} /> Wins
+                  </span>
+                  <span className="text-2xl font-black text-white mt-2">
+                    {data.wins}
+                  </span>
+                </div>
+              </div>
+
+              {/* Win Rate Progress Bar */}
+              <div className="bg-zinc-950/40 border border-zinc-900 rounded-xl p-4">
+                <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-wider mb-2">
+                  <span className="text-zinc-500">Calculated Win Rate</span>
+                  <span className="text-lime-400">{winRate}%</span>
+                </div>
+                <div className="w-full h-2 bg-zinc-900 rounded-full overflow-hidden">
+                  <div
+                    className="h-full bg-lime-400 rounded-full transition-all duration-500"
+                    style={{ width: `${winRate}%` }}
+                  />
+                </div>
+              </div>
+            </div>
+
+            {/* Column 2: Seasonal Match Volume Chart */}
+            <div className="flex flex-col gap-4">
+              <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest">
+                Seasonal Match Volume
+              </span>
+              <div className="w-full h-[200px] mt-2 bg-zinc-950/20 rounded-xl border border-zinc-900/60 p-3">
+                <ResponsiveContainer width="100%" height="100%">
+                  <AreaChart data={data.seasonTrends} margin={{ top: 5, right: 5, left: -25, bottom: 0 }}>
+                    <defs>
+                      <linearGradient id="teamGlowGrad" x1="0" y1="0" x2="0" y2="1">
+                        <stop offset="5%" stopColor="#a3e635" stopOpacity={0.15} />
+                        <stop offset="95%" stopColor="#a3e635" stopOpacity={0} />
+                      </linearGradient>
+                    </defs>
+                    <CartesianGrid stroke="#181824" strokeDasharray="3 3" vertical={false} />
+                    <XAxis dataKey="season" stroke="#52525b" fontSize={9} tickLine={false} axisLine={false} />
+                    <YAxis stroke="#52525b" fontSize={9} tickLine={false} axisLine={false} />
+                    <Tooltip
+                      content={({ active, payload }: any) => {
+                        if (active && payload && payload.length) {
+                          return (
+                            <div className="bg-zinc-950 border border-zinc-800 px-3 py-1.5 rounded-lg text-[10px] shadow-2xl">
+                              <p className="font-bold text-white mb-0.5">IPL {payload[0].payload.season}</p>
+                              <p className="text-lime-400 font-semibold">{payload[0].value} Matches</p>
+                            </div>
+                          );
+                        }
+                        return null;
+                      }}
+                    />
+                    <Area type="monotone" dataKey="count" stroke="#a3e635" strokeWidth={1.5} fill="url(#teamGlowGrad)" />
+                  </AreaChart>
+                </ResponsiveContainer>
+              </div>
+            </div>
+
+            {/* Column 3: Team Roster MVP Cricket Cards */}
+            <div className="flex flex-col gap-4">
+              <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest">
+                Squad MVP Performers
+              </span>
+
+              <div className="grid grid-cols-2 gap-4 h-full">
+                {/* Top Batter mini-card */}
+                {data.topBatter && (
+                  <div className="relative overflow-hidden rounded-xl border border-zinc-800/80 bg-gradient-to-b from-[#181824] to-[#08080c] p-4 flex flex-col justify-between shadow-lg group/mvp">
+                    <div className="absolute top-1 right-2 text-[8px] font-bold text-orange-400 uppercase tracking-wider flex items-center gap-1">
+                      <Flame size={8} /> BAT
+                    </div>
+                    <div className="w-14 h-14 rounded-full border border-zinc-850 bg-zinc-900 overflow-hidden shrink-0 flex items-center justify-center mx-auto mt-2">
+                      <PlayerAvatar imageUrl={data.topBatter.imageUrl} name={data.topBatter.name} />
+                    </div>
+                    <div className="text-center mt-3">
+                      <span className="block text-xs font-black text-white truncate">
+                        {data.topBatter.name}
+                      </span>
+                      <span className="block text-[8px] text-zinc-500 font-semibold uppercase mt-0.5 tracking-wider">
+                        Runs Leader
+                      </span>
+                    </div>
+                    <div className="mt-4 pt-2 border-t border-zinc-900 text-center">
+                      <span className="text-base font-black text-orange-400">
+                        {data.topBatter.runs}
+                      </span>
+                      <span className="block text-[8px] uppercase tracking-wider text-zinc-500 font-bold">
+                        Runs
+                      </span>
+                    </div>
+                  </div>
+                )}
+
+                {/* Top Bowler mini-card */}
+                {data.topBowler && (
+                  <div className="relative overflow-hidden rounded-xl border border-zinc-800/80 bg-gradient-to-b from-[#181824] to-[#08080c] p-4 flex flex-col justify-between shadow-lg group/mvp">
+                    <div className="absolute top-1 right-2 text-[8px] font-bold text-purple-400 uppercase tracking-wider flex items-center gap-1">
+                      <Award size={8} /> BOWL
+                    </div>
+                    <div className="w-14 h-14 rounded-full border border-zinc-850 bg-zinc-900 overflow-hidden shrink-0 flex items-center justify-center mx-auto mt-2">
+                      <PlayerAvatar imageUrl={data.topBowler.imageUrl} name={data.topBowler.name} />
+                    </div>
+                    <div className="text-center mt-3">
+                      <span className="block text-xs font-black text-white truncate">
+                        {data.topBowler.name}
+                      </span>
+                      <span className="block text-[8px] text-zinc-500 font-semibold uppercase mt-0.5 tracking-wider">
+                        Wkts Leader
+                      </span>
+                    </div>
+                    <div className="mt-4 pt-2 border-t border-zinc-900 text-center">
+                      <span className="text-base font-black text-purple-400">
+                        {data.topBowler.wickets}
+                      </span>
+                      <span className="block text-[8px] uppercase tracking-wider text-zinc-500 font-bold">
+                        Wkts
+                      </span>
+                    </div>
+                  </div>
+                )}
               </div>
             </div>
           </div>
