@@ -292,7 +292,7 @@ export default function IPLConsole() {
               <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest">
                 Recent Franchise Form Guide
               </span>
-              <div className="flex flex-col gap-2.5 mt-2 max-h-[220px] overflow-y-auto pr-1">
+              <div className="flex flex-col gap-2.5 mt-2 max-h-[220px] overflow-y-auto pr-1 custom-scrollbar">
                 {data.recentMatches && data.recentMatches.map((m) => {
                   const isWinner = m.winner && (
                     m.winner.includes(activeTeam) || 
@@ -303,23 +303,33 @@ export default function IPLConsole() {
                   );
                   const oppName = m.team1 === teamMeta.name || m.team1.includes(teamMeta.name.split(" ")[0]) ? m.team2 : m.team1;
                   const oppShort = getOpponentShortName(oppName);
+                  const oppMeta = TEAMS[oppShort];
                   const matchDate = m.date ? new Date(m.date).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" }) : "";
                   
                   return (
                     <div key={m.id} className="flex items-center justify-between bg-[#0e0e16] border border-zinc-900 rounded-xl p-3 hover:border-zinc-800/80 transition-colors">
-                      <div className="flex items-center gap-3">
-                        <span className={`w-6 h-6 rounded-full flex items-center justify-center text-[10px] font-black shrink-0 ${
-                          isWinner 
-                            ? "bg-lime-500/10 text-lime-400 border border-lime-500/20" 
-                            : "bg-red-500/10 text-red-400 border border-red-500/20"
+                      <div className="flex items-center gap-3 min-w-0">
+                        <div className={`w-7 h-7 rounded-full border flex items-center justify-center font-black text-[9px] shrink-0 transition-all ${
+                          oppMeta 
+                            ? `${oppMeta.borderActive} ${oppMeta.textActive} bg-zinc-950/60` 
+                            : "border-zinc-800 text-zinc-400 bg-zinc-950/60"
                         }`}>
-                          {isWinner ? "W" : "L"}
-                        </span>
+                          {oppShort}
+                        </div>
                         <div className="min-w-0">
-                          <span className="block text-xs font-bold text-white">
-                            vs {oppShort}
-                          </span>
-                          <span className="block text-[8px] text-zinc-500 mt-0.5 font-semibold truncate max-w-[140px]">
+                          <div className="flex items-center gap-2">
+                            <span className="block text-xs font-bold text-white truncate max-w-[100px] sm:max-w-[130px]">
+                              {oppMeta ? oppMeta.name : oppName}
+                            </span>
+                            <span className={`px-1.5 py-0.5 rounded text-[8px] font-black tracking-widest uppercase shrink-0 ${
+                              isWinner 
+                                ? "bg-lime-500/10 text-lime-400 border border-lime-500/20" 
+                                : "bg-red-500/10 text-red-400 border border-red-500/20"
+                            }`}>
+                              {isWinner ? "WIN" : "LOSS"}
+                            </span>
+                          </div>
+                          <span className="block text-[8px] text-zinc-500 mt-1 font-semibold truncate max-w-[150px]">
                             {m.venue}
                           </span>
                         </div>
@@ -422,6 +432,22 @@ export default function IPLConsole() {
           </div>
         )}
       </div>
+
+      <style>{`
+        .custom-scrollbar::-webkit-scrollbar {
+          width: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+          background: transparent;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+          background: rgba(82, 82, 91, 0.4);
+          border-radius: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+          background: rgba(161, 161, 170, 0.6);
+        }
+      `}</style>
     </div>
   );
 }
