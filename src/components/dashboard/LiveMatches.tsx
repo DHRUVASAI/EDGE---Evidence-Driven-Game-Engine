@@ -29,50 +29,50 @@ const LIVE_DATA: LiveMatch[] = [
   {
     id: 1,
     teams: {
-      t1: "AUS-W",
-      t1Name: "Australia Women",
-      t1Logo: "bg-yellow-500 text-black border-yellow-400",
-      t2: "IND-W",
-      t2Name: "India Women",
-      t2Logo: "bg-orange-500 text-white border-orange-400"
+      t1: "PAK",
+      t1Name: "Pakistan",
+      t1Logo: "bg-emerald-800 text-emerald-200 border-emerald-600",
+      t2: "IND",
+      t2Name: "India",
+      t2Logo: "bg-blue-600 text-white border-blue-400"
     },
-    score1: "172/5 (20 Ov)",
-    score2: "148/3 (16.4 Ov)",
-    overs: "16.4 / 20 Ov",
-    status: "India Women need 25 runs in 20 balls to win the WT20 World Cup!",
-    venue: "Melbourne Cricket Ground, Melbourne",
-    pitch: "Dry & dusty surface. Assisting spinners. Slower ball variations are key.",
-    winProb1: 42,
-    winProb2: 58,
+    score1: "168/7 (20 Ov)",
+    score2: "148/3 (17.2 Ov)",
+    overs: "17.2 / 20 Ov",
+    status: "Live • India need 21 runs in 16 balls to win this high-voltage clash!",
+    venue: "Nassau County Cricket Stadium, New York",
+    pitch: "Moderate grass cover. Good carry and bounce. Pacers getting seam movement.",
+    winProb1: 32,
+    winProb2: 68,
     liveBatsmen: [
-      { name: "Smriti Mandhana", runs: 72, balls: 48, fours: 8, sixes: 2, sr: 150.0 },
-      { name: "Harmanpreet Kaur", runs: 32, balls: 19, fours: 3, sixes: 1, sr: 168.4 }
+      { name: "Virat Kohli", runs: 58, balls: 41, fours: 5, sixes: 2, sr: 141.5 },
+      { name: "Rishabh Pant", runs: 24, balls: 15, fours: 2, sixes: 0, sr: 160.0 }
     ],
-    liveBowler: { name: "Ellyse Perry", overs: "3.4", maidens: 0, runs: 32, wickets: 1, econ: 8.7 }
+    liveBowler: { name: "Shaheen Afridi", overs: "3.2", maidens: 0, runs: 28, wickets: 2, econ: 8.4 }
   },
   {
     id: 2,
     teams: {
-      t1: "MI",
-      t1Name: "Mumbai Indians",
-      t1Logo: "bg-blue-600 text-white border-blue-400",
-      t2: "CSK",
-      t2Name: "Chennai Super Kings",
-      t2Logo: "bg-yellow-400 text-black border-yellow-500"
+      t1: "ENG-W",
+      t1Name: "England Women",
+      t1Logo: "bg-red-700 text-white border-red-500",
+      t2: "IND-W",
+      t2Name: "India Women",
+      t2Logo: "bg-orange-500 text-white border-orange-400"
     },
-    score1: "195/6 (20 Ov)",
-    score2: "178/5 (18.3 Ov)",
-    overs: "18.3 / 20 Ov",
-    status: "CSK need 18 runs in 9 balls. High-tension IPL Rivalry Week!",
-    venue: "Wankhede Stadium, Mumbai",
-    pitch: "Flat batting deck with short boundaries. Heavy dew expected to help batters.",
-    winProb1: 65,
-    winProb2: 35,
+    score1: "154/6 (20 Ov)",
+    score2: "126/3 (15.4 Ov)",
+    overs: "15.4 / 20 Ov",
+    status: "Live • India Women need 29 runs in 26 balls (Bilateral Series - Game 3)",
+    venue: "Lord's Cricket Ground, London",
+    pitch: "Dry surface. Offering grip and turn. Spinners dominating in the second innings.",
+    winProb1: 40,
+    winProb2: 60,
     liveBatsmen: [
-      { name: "MS Dhoni", runs: 28, balls: 11, fours: 2, sixes: 2, sr: 254.5 },
-      { name: "Ravindra Jadeja", runs: 14, balls: 8, fours: 1, sixes: 0, sr: 175.0 }
+      { name: "Smriti Mandhana", runs: 68, balls: 44, fours: 7, sixes: 2, sr: 154.5 },
+      { name: "Jemimah Rodrigues", runs: 18, balls: 12, fours: 1, sixes: 0, sr: 150.0 }
     ],
-    liveBowler: { name: "Jasprit Bumrah", overs: "3.3", maidens: 0, runs: 24, wickets: 2, econ: 6.8 }
+    liveBowler: { name: "Sophie Ecclestone", overs: "3.4", maidens: 0, runs: 21, wickets: 2, econ: 5.7 }
   }
 ];
 
@@ -126,7 +126,9 @@ export default function LiveMatches() {
               {/* Teams Display */}
               <div className="flex items-center justify-between gap-4 mt-2">
                 <div className="flex items-center gap-3">
-                  <div className={`w-8 h-8 rounded-full border flex items-center justify-center font-black text-xs shrink-0 ${match.teams.t1Logo}`}>
+                  <div className={`w-9 h-9 rounded-full border flex items-center justify-center font-black shrink-0 transition-all ${
+                    match.teams.t1.length > 3 ? "text-[8px] tracking-tighter px-0.5" : "text-xs"
+                  } ${match.teams.t1Logo}`}>
                     {match.teams.t1}
                   </div>
                   <span className="text-sm font-bold text-zinc-300">{match.teams.t1Name}</span>
@@ -136,7 +138,9 @@ export default function LiveMatches() {
 
               <div className="flex items-center justify-between gap-4">
                 <div className="flex items-center gap-3">
-                  <div className={`w-8 h-8 rounded-full border flex items-center justify-center font-black text-xs shrink-0 ${match.teams.t2Logo}`}>
+                  <div className={`w-9 h-9 rounded-full border flex items-center justify-center font-black shrink-0 transition-all ${
+                    match.teams.t2.length > 3 ? "text-[8px] tracking-tighter px-0.5" : "text-xs"
+                  } ${match.teams.t2Logo}`}>
                     {match.teams.t2}
                   </div>
                   <span className="text-sm font-bold text-white">{match.teams.t2Name}</span>
