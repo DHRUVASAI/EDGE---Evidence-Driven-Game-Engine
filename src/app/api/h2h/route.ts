@@ -13,8 +13,24 @@ export async function GET(request: Request) {
       return NextResponse.json({ error: 'Missing player1, player2, or format', status: 400 }, { status: 400 });
     }
 
-    const p1 = await prisma.player.findUnique({ where: { id: player1Id }, include: { careerStats: { where: { format } } } });
-    const p2 = await prisma.player.findUnique({ where: { id: player2Id }, include: { careerStats: { where: { format } } } });
+    const p1 = await prisma.player.findUnique({
+      where: { id: player1Id },
+      select: {
+        id: true,
+        name: true,
+        espnId: true,
+        careerStats: { where: { format } }
+      }
+    });
+    const p2 = await prisma.player.findUnique({
+      where: { id: player2Id },
+      select: {
+        id: true,
+        name: true,
+        espnId: true,
+        careerStats: { where: { format } }
+      }
+    });
 
     if (!p1 || !p2) {
       return NextResponse.json({ error: 'One or both players not found', status: 404 }, { status: 404 });
