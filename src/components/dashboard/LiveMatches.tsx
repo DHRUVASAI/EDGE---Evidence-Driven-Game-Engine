@@ -1,14 +1,14 @@
 "use client";
 
-import React, { useState } from "react";
-import { Activity, ShieldAlert, Users, Award, MapPin, Eye, Calendar, Sparkles } from "lucide-react";
+import React, { useState, useEffect } from "react";
+import { Activity, MapPin, Loader2 } from "lucide-react";
 
 interface LiveMatch {
   id: number;
   teams: {
     t1: string;
     t1Name: string;
-    t1Logo: string; // Color border/bg
+    t1Logo: string;
     t2: string;
     t2Name: string;
     t2Logo: string;
@@ -25,60 +25,49 @@ interface LiveMatch {
   liveBowler: { name: string; overs: string; maidens: number; runs: number; wickets: number; econ: number };
 }
 
-const LIVE_DATA: LiveMatch[] = [
-  {
-    id: 1,
-    teams: {
-      t1: "PAK",
-      t1Name: "Pakistan",
-      t1Logo: "bg-emerald-800 text-emerald-200 border-emerald-600",
-      t2: "IND",
-      t2Name: "India",
-      t2Logo: "bg-blue-600 text-white border-blue-400"
-    },
-    score1: "168/7 (20 Ov)",
-    score2: "148/3 (17.2 Ov)",
-    overs: "17.2 / 20 Ov",
-    status: "Live • India need 21 runs in 16 balls to win this high-voltage clash!",
-    venue: "Nassau County Cricket Stadium, New York",
-    pitch: "Moderate grass cover. Good carry and bounce. Pacers getting seam movement.",
-    winProb1: 32,
-    winProb2: 68,
-    liveBatsmen: [
-      { name: "Virat Kohli", runs: 58, balls: 41, fours: 5, sixes: 2, sr: 141.5 },
-      { name: "Rishabh Pant", runs: 24, balls: 15, fours: 2, sixes: 0, sr: 160.0 }
-    ],
-    liveBowler: { name: "Shaheen Afridi", overs: "3.2", maidens: 0, runs: 28, wickets: 2, econ: 8.4 }
-  },
-  {
-    id: 2,
-    teams: {
-      t1: "ENG-W",
-      t1Name: "England Women",
-      t1Logo: "bg-red-700 text-white border-red-500",
-      t2: "IND-W",
-      t2Name: "India Women",
-      t2Logo: "bg-orange-500 text-white border-orange-400"
-    },
-    score1: "154/6 (20 Ov)",
-    score2: "126/3 (15.4 Ov)",
-    overs: "15.4 / 20 Ov",
-    status: "Live • India Women need 29 runs in 26 balls (Bilateral Series - Game 3)",
-    venue: "Lord's Cricket Ground, London",
-    pitch: "Dry surface. Offering grip and turn. Spinners dominating in the second innings.",
-    winProb1: 40,
-    winProb2: 60,
-    liveBatsmen: [
-      { name: "Smriti Mandhana", runs: 68, balls: 44, fours: 7, sixes: 2, sr: 154.5 },
-      { name: "Jemimah Rodrigues", runs: 18, balls: 12, fours: 1, sixes: 0, sr: 150.0 }
-    ],
-    liveBowler: { name: "Sophie Ecclestone", overs: "3.4", maidens: 0, runs: 21, wickets: 2, econ: 5.7 }
-  }
-];
-
 export default function LiveMatches() {
+  const [matches, setMatches] = useState<LiveMatch[]>([]);
   const [activeMatchIndex, setActiveMatchIndex] = useState<number>(0);
-  const match = LIVE_DATA[activeMatchIndex];
+  const [loading, setLoading] = useState<boolean>(true);
+  const [source, setSource] = useState<string>("mock");
+
+  const fetchLiveMatches = async () => {
+    try {
+      const res = await fetch("/api/dashboard/live-matches");
+      if (res.ok) {
+        const data = await res.json();
+        if (data.matches && data.matches.length > 0) {
+          setMatches(data.matches);
+          setSource(data.source || "mock");
+        }
+      }
+    } catch (err) {
+      console.error("Error fetching live matches:", err);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    fetchLiveMatches();
+    // Poll every 30 seconds for live updates
+    const interval = setInterval(fetchLiveMatches, 30000);
+    return () => clearInterval(interval);
+  }, []);
+
+  if (loading && matches.length === 0) {
+    return (
+      <div className="w-full flex flex-col items-center justify-center p-8 rounded-2xl border border-zinc-800/80 bg-zinc-950/30 gap-3 min-h-[200px]">
+        <Loader2 className="animate-spin text-lime-400" size={24} />
+        <span className="text-xs font-bold text-zinc-500 uppercase tracking-widest">
+          Establishing Real-Time Stream...
+        </span>
+      </div>
+    );
+  }
+
+  const match = matches[activeMatchIndex] || matches[0];
+  if (!match) return null;
 
   return (
     <div className="w-full flex flex-col gap-6 mb-12">
@@ -92,9 +81,16 @@ export default function LiveMatches() {
           <h2 className="text-base font-bold text-white tracking-tight uppercase">
             Live Match Analytics Center
           </h2>
+          <span className={`text-[8px] font-black uppercase tracking-widest px-2 py-0.5 rounded border ml-2 ${
+            source === "rapidapi"
+              ? "bg-lime-400/10 text-lime-400 border-lime-400/20"
+              : "bg-purple-500/10 text-purple-400 border-purple-500/20"
+          }`}>
+            {source === "rapidapi" ? "Real-Time Feed" : "Simulated"}
+          </span>
         </div>
         <div className="flex gap-2">
-          {LIVE_DATA.map((m, idx) => (
+          {matches.map((m, idx) => (
             <button
               key={m.id}
               onClick={() => setActiveMatchIndex(idx)}
@@ -119,10 +115,6 @@ export default function LiveMatches() {
           {/* Column 1: Main Scoreboard & Win Probability */}
           <div className="flex flex-col justify-between gap-6 border-r border-zinc-900/80 pr-0 lg:pr-8">
             <div className="flex flex-col gap-3">
-              <span className="text-[9px] font-bold text-zinc-500 uppercase tracking-widest">
-                {match.sub}
-              </span>
-
               {/* Teams Display */}
               <div className="flex items-center justify-between gap-4 mt-2">
                 <div className="flex items-center gap-3">
