@@ -14,6 +14,7 @@ export default function DemoPage() {
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<any>(null);
   const [error, setError] = useState('');
+  const [formatDropdownOpen, setFormatDropdownOpen] = useState(false);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
@@ -125,16 +126,53 @@ export default function DemoPage() {
             </div>
             <div className="relative z-20">
               <label className="block text-xs font-semibold text-zinc-500 uppercase tracking-wider mb-2">Format</label>
-              <select
-                name="format"
-                value={formData.format}
-                onChange={handleChange}
-                className="w-full bg-[#12121c] border border-zinc-800/60 rounded-[10px] p-3 text-white text-sm focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none appearance-none cursor-pointer"
-              >
-                <option value="T20">T20</option>
-              </select>
+              <div className="relative">
+                <button
+                  type="button"
+                  onClick={() => setFormatDropdownOpen(!formatDropdownOpen)}
+                  className="w-full bg-[#12121c] border border-zinc-800/60 rounded-[10px] p-3 text-white text-sm focus:ring-1 focus:ring-lime-500/50 text-left flex justify-between items-center transition-all focus:outline-none cursor-pointer"
+                >
+                  <span>{formData.format}</span>
+                  <svg
+                    className={`w-4 h-4 text-zinc-500 transition-transform duration-200 ${formatDropdownOpen ? 'transform rotate-180' : ''}`}
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                  </svg>
+                </button>
+                <AnimatePresence>
+                  {formatDropdownOpen && (
+                    <motion.div
+                      initial={{ opacity: 0, y: -5 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0, y: -5 }}
+                      transition={{ duration: 0.15 }}
+                      className="absolute left-0 right-0 mt-2 bg-[#12121c] border border-zinc-800/80 rounded-[10px] overflow-hidden shadow-xl z-30"
+                    >
+                      {['T20', 'ODI'].map((f) => (
+                        <button
+                          key={f}
+                          type="button"
+                          onClick={() => {
+                            setFormData(prev => ({ ...prev, format: f }));
+                            setFormatDropdownOpen(false);
+                          }}
+                          className={`w-full text-left p-3 text-sm transition-all hover:bg-lime-400/10 hover:text-lime-400 ${
+                            formData.format === f ? 'text-lime-400 bg-lime-400/[0.03] font-bold' : 'text-zinc-300'
+                          }`}
+                        >
+                          {f}
+                        </button>
+                      ))}
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </div>
             </div>
           </div>
+
 
           {/* Live context chips */}
           <div className="flex flex-wrap gap-2 mb-6">
