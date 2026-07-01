@@ -169,19 +169,21 @@ export default function LiveMatches() {
             </span>
           )}
           <span className={`text-[8px] font-black uppercase tracking-widest px-2 py-0.5 rounded border ${
-            source === "live"
+            source === "live" || source.includes("Groq")
               ? "bg-lime-400/10 text-lime-400 border-lime-400/20"
               : source === "real"
               ? "bg-amber-500/10 text-amber-400 border-amber-500/20"
-              : source === "cached"
+              : source === "cached" || source.includes("Cached")
               ? "bg-blue-500/10 text-blue-400 border-blue-500/20"
               : "bg-purple-500/10 text-purple-400 border-purple-500/20"
           }`}>
             {source === "live"
               ? "CricAPI Live"
+              : source.includes("Groq")
+              ? "CricAPI Live (AI)"
               : source === "real"
               ? "CricAPI"
-              : source === "cached"
+              : source.includes("Cached")
               ? "CricAPI (Cached)"
               : "Simulated"}
           </span>
