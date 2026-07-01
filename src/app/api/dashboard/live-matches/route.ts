@@ -289,7 +289,12 @@ export async function GET() {
     if (GROQ_API_KEY) {
       try {
         const currentDate = new Date().toLocaleDateString("en-IN", { timeZone: "Asia/Kolkata", day: "numeric", month: "short", year: "numeric" });
-        const prompt = `Generate a realistic JSON response for simulated live/recent international cricket matches happening today (${currentDate}). Include 4 matches: 2 completed (1 men, 1 women) and 2 upcoming (1 men, 1 women). 
+        const prompt = `Generate a realistic JSON response for simulated live, recently completed, or upcoming international cricket matches happening today (${currentDate}). Do NOT copy the sample match literally. Instead, generate actual realistic matches scheduled or played today (e.g., India vs England, Australia vs West Indies, South Africa vs Pakistan, etc., depending on current schedules).
+
+        Generate exactly 4 matches:
+        - 1 Match: Currently LIVE (isLive: true, isEnded: false, isUpcoming: false) in the middle of a tense chase (e.g., chasing team needs 35 runs in 4 overs, with active batsmen and bowlers).
+        - 1 Match: Recently completed (isEnded: true, isLive: false) with a final match outcome.
+        - 2 Matches: Upcoming scheduled for today or tomorrow (isUpcoming: true).
 
         Follow this exact JSON structure:
         {
@@ -298,41 +303,40 @@ export async function GET() {
           "matches": [
             {
               "id": 1,
-              "name": "India vs South Africa - 1st T20I",
-              "gender": "men",
-              "isLive": false,
-              "isEnded": true,
-              "isUpcoming": false,
-              "matchType": "T20I",
-              "dateStr": "Completed",
+              "name": "Match Name",
+              "gender": "men" or "women",
+              "isLive": boolean,
+              "isEnded": boolean,
+              "isUpcoming": boolean,
+              "matchType": "T20I" or "ODI" or "Test",
+              "dateStr": "Completed" or match start time (e.g. "19:30 IST"),
               "teams": {
-                "t1": "RSA",
-                "t1Name": "South Africa",
-                "t1Logo": "bg-green-700 text-white border-green-500",
+                "t1": "3-letter shortcode (e.g. IND)",
+                "t1Name": "Full Team Name (e.g. India)",
+                "t1Logo": "bg-color class matching team (e.g. bg-blue-600 text-white border-blue-400)",
                 "t1IsImage": false,
-                "t2": "IND",
-                "t2Name": "India",
-                "t2Logo": "bg-blue-600 text-white border-blue-400",
+                "t2": "3-letter shortcode (e.g. ENG)",
+                "t2Name": "Full Team Name (e.g. England)",
+                "t2Logo": "bg-color class matching team (e.g. bg-sky-700 text-white border-sky-500)",
                 "t2IsImage": false
               },
-              "score1": "172/6 (20 Ov)",
-              "score2": "175/4 (18.4 Ov)",
-              "overs": "18.4 Ov",
-              "status": "RESULT: India won by 6 wickets",
-              "venue": "Kingsmead, Durban",
-              "pitch": "Match completed. Final scorecard available.",
-              "winProb1": 0,
-              "winProb2": 100,
+              "score1": "runs/wickets (overs) or 'Yet to bat'",
+              "score2": "runs/wickets (overs) or 'Yet to bat'",
+              "overs": "current overs or '–'",
+              "status": "Short description of match status or outcome statement",
+              "venue": "Stadium, City",
+              "pitch": "Pitch/Conditions summary",
+              "winProb1": number (0-100),
+              "winProb2": number (0-100),
               "liveBatsmen": [
-                { "name": "Suryakumar Yadav", "runs": 56, "balls": 34, "fours": 5, "sixes": 3, "sr": 164.7 },
-                { "name": "Hardik Pandya", "runs": 31, "balls": 18, "fours": 2, "sixes": 1, "sr": 172.2 }
+                { "name": "Batter Name", "runs": number, "balls": number, "fours": number, "sixes": number, "sr": number }
               ],
-              "liveBowler": { "name": "Gerald Coetzee", "overs": "4.0", "maidens": 0, "runs": 32, "wickets": 1, "econ": 8.0 }
+              "liveBowler": { "name": "Bowler Name", "overs": "string", "maidens": number, "runs": number, "wickets": number, "econ": number }
             }
           ]
         }
 
-        Make the matchups and players realistic according to active teams and player rosters. One of the matches must be currently LIVE (isLive: true, isEnded: false) with active batsmen and bowlers. Respond ONLY with the valid JSON, no explanations, no markdown formatting.`;
+        Make all players, runs, and matchups look highly realistic. Respond ONLY with the valid JSON, no explanations, no markdown formatting.`;
 
         const groqRes = await fetch("https://api.groq.com/openai/v1/chat/completions", {
           method: "POST",
@@ -341,7 +345,7 @@ export async function GET() {
             "Authorization": `Bearer ${GROQ_API_KEY}`,
           },
           body: JSON.stringify({
-            model: "llama-3.3-70b-specdec",
+            model: "llama-3.3-70b-versatile",
             max_tokens: 1500,
             temperature: 0.5,
             messages: [{ role: "user", content: prompt }],
@@ -351,11 +355,10 @@ export async function GET() {
         if (groqRes.ok) {
           const data = await groqRes.json();
           let jsonText = data?.choices?.[0]?.message?.content?.trim() || "";
-          // Strip potential markdown JSON wraps
-          if (jsonText.startsWith("```json")) {
-            jsonText = jsonText.replace(/^```json/, "").replace(/```$/, "").trim();
-          } else if (jsonText.startsWith("```")) {
-            jsonText = jsonText.replace(/^```/, "").replace(/```$/, "").trim();
+          // Robust regex to extract JSON object between first { and last }
+          const match = jsonText.match(/\{[\s\S]*\}/);
+          if (match) {
+            jsonText = match[0];
           }
           const parsedGroq = JSON.parse(jsonText);
           parsedGroq.source = "CricAPI (Groq-Simulated)";
