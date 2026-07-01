@@ -95,7 +95,7 @@ export async function GET(request: Request, { params }: { params: Promise<{ id: 
       wickets += s.wickets || 0;
       matches += s.matches || 0;
     });
-      
+    if (!player.bio) {
       const bio = await generatePlayerBio({
         name: player.fullName || player.name,
         country: player.country,

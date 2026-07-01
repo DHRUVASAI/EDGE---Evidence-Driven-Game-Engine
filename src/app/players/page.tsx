@@ -229,7 +229,7 @@ function PlayerSearch({
 }
 
 // Stat Box in Cricket Card
-function CardStat({ label, value, highlight }: { label: string; value: string | number | null }) {
+function CardStat({ label, value, highlight }: { label: string; value: string | number | null; highlight?: boolean }) {
   return (
     <div className="flex flex-col items-center py-2 px-1 bg-zinc-900/40 rounded border border-zinc-800/30">
       <span className="text-[9px] font-semibold text-zinc-500 uppercase tracking-wider">{label}</span>
@@ -336,7 +336,7 @@ function CricketCard({
             <CardStat label="RUNS" value={stat.runs} highlight />
             <CardStat label="AVG" value={stat.avg ? stat.avg.toFixed(1) : "—"} />
             <CardStat label="SR" value={stat.sr ? stat.sr.toFixed(1) : "—"} />
-            <CardStat label="WKT" value={stat.wickets || 0} highlight={stat.wickets > 0} />
+            <CardStat label="WKT" value={stat.wickets || 0} highlight={!!stat.wickets && stat.wickets > 0} />
             <CardStat label="ECON" value={stat.bowlEcon ? stat.bowlEcon.toFixed(1) : "—"} />
           </div>
         ) : (
