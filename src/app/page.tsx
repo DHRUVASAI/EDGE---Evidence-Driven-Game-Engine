@@ -7,6 +7,7 @@ import LiveMatches from "@/components/dashboard/LiveMatches";
 import ICCRankings from "@/components/dashboard/ICCRankings";
 import IPLConsole from "@/components/dashboard/IPLConsole";
 import QuickActions from "@/components/dashboard/QuickActions";
+import WinProbabilityCalculator from "@/components/dashboard/WinProbabilityCalculator";
 import Footer from "@/components/Footer";
 
 const fetcher = (url: string) => fetch(url).then((res) => res.json());
@@ -72,6 +73,7 @@ export default function Home() {
             <LiveMatches />
             <ICCRankings />
             <IPLConsole />
+            <WinProbabilityCalculator />
             <QuickActions />
           </>
         )}

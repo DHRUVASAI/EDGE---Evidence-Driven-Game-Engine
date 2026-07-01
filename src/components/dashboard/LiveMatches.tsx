@@ -136,9 +136,17 @@ export default function LiveMatches() {
               ? "bg-lime-400/10 text-lime-400 border-lime-400/20"
               : source === "real"
               ? "bg-amber-500/10 text-amber-400 border-amber-500/20"
+              : source === "cached"
+              ? "bg-blue-500/10 text-blue-400 border-blue-500/20"
               : "bg-purple-500/10 text-purple-400 border-purple-500/20"
           }`}>
-            {source === "live" ? "CricAPI Live" : source === "real" ? "CricAPI" : "Simulated"}
+            {source === "live"
+              ? "CricAPI Live"
+              : source === "real"
+              ? "CricAPI"
+              : source === "cached"
+              ? "CricAPI (Cached)"
+              : "Simulated"}
           </span>
         </div>
         <div className="flex gap-2 flex-wrap">

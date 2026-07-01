@@ -1,6 +1,34 @@
 import { NextResponse } from "next/server";
+import fs from "fs";
+import path from "path";
 
 const CRICAPI_KEY = process.env.CRICAPI_KEY;
+const CACHE_DIR = path.join(process.cwd(), "src", "data");
+const CACHE_FILE = path.join(CACHE_DIR, "cached_matches.json");
+
+function writeCache(data: any) {
+  try {
+    if (!fs.existsSync(CACHE_DIR)) {
+      fs.mkdirSync(CACHE_DIR, { recursive: true });
+    }
+    fs.writeFileSync(CACHE_FILE, JSON.stringify(data, null, 2), "utf8");
+  } catch (err) {
+    console.error("Cache write error:", err);
+  }
+}
+
+function readCache(): any | null {
+  try {
+    if (fs.existsSync(CACHE_FILE)) {
+      const content = fs.readFileSync(CACHE_FILE, "utf8");
+      return JSON.parse(content);
+    }
+  } catch (err) {
+    console.error("Cache read error:", err);
+  }
+  return null;
+}
+
 
 // Known domestic league keywords to exclude
 const DOMESTIC_KEYWORDS = [
@@ -182,9 +210,13 @@ export async function GET() {
     ]);
 
     const [dataCurrent, dataMatches] = await Promise.all([
-      resCurrent.ok ? resCurrent.json() : Promise.resolve({ data: [] }),
-      resMatches.ok ? resMatches.json() : Promise.resolve({ data: [] }),
+      resCurrent.ok ? resCurrent.json() : Promise.resolve({ data: [], status: "failure" }),
+      resMatches.ok ? resMatches.json() : Promise.resolve({ data: [], status: "failure" }),
     ]);
+
+    if (dataCurrent.status === "failure" || dataMatches.status === "failure") {
+      throw new Error(dataCurrent.reason || dataMatches.reason || "CricAPI request limit or access error");
+    }
 
     const allCurrent: any[] = dataCurrent.data || [];
     const allMatches: any[] = dataMatches.data || [];
@@ -228,20 +260,34 @@ export async function GET() {
     });
 
     if (deduped.length === 0) {
+      const cached = readCache();
+      if (cached) {
+        cached.source = "cached";
+        return NextResponse.json(cached);
+      }
       return NextResponse.json({ source: "mock", matches: getMockData() });
     }
 
     const parsed = deduped.slice(0, 4).map((m, idx) => parseMatch(m, idx + 1));
-
     const anyLive = parsed.some(m => m.isLive);
 
-    return NextResponse.json({
+    const resultObj = {
       source: anyLive ? "live" : "real",
       liveCount: liveMen.length + liveWomen.length,
       matches: parsed,
-    });
+    };
+
+    // Save to cache
+    writeCache(resultObj);
+
+    return NextResponse.json(resultObj);
   } catch (err: any) {
     console.error("CricAPI fetch error:", err.message);
+    const cached = readCache();
+    if (cached) {
+      cached.source = "cached";
+      return NextResponse.json(cached);
+    }
     return NextResponse.json({ source: "mock", matches: getMockData() });
   }
 }

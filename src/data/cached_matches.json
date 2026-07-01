@@ -1,0 +1,136 @@
+{
+  "source": "cached",
+  "liveCount": 0,
+  "matches": [
+    {
+      "id": 1,
+      "name": "India vs South Africa - 1st T20I",
+      "gender": "men",
+      "isLive": false,
+      "isEnded": true,
+      "isUpcoming": false,
+      "matchType": "T20I",
+      "dateStr": "Completed",
+      "teams": {
+        "t1": "RSA",
+        "t1Name": "South Africa",
+        "t1Logo": "bg-green-700 text-white border-green-500",
+        "t1IsImage": false,
+        "t2": "IND",
+        "t2Name": "India",
+        "t2Logo": "bg-blue-600 text-white border-blue-400",
+        "t2IsImage": false
+      },
+      "score1": "172/6 (20 Ov)",
+      "score2": "175/4 (18.4 Ov)",
+      "overs": "18.4 Ov",
+      "status": "RESULT: India won by 6 wickets",
+      "venue": "Kingsmead, Durban",
+      "pitch": "Match completed. Final scorecard available.",
+      "winProb1": 0,
+      "winProb2": 100,
+      "liveBatsmen": [
+        { "name": "Suryakumar Yadav", "runs": 56, "balls": 34, "fours": 5, "sixes: ": 3, "sr": 164.7 },
+        { "name": "Hardik Pandya", "runs": 31, "balls": 18, "fours": 2, "sixes: ": 1, "sr": 172.2 }
+      ],
+      "liveBowler": { "name": "Gerald Coetzee", "overs": "4.0", "maidens": 0, "runs": 32, "wickets": 1, "econ": 8.0 }
+    },
+    {
+      "id": 2,
+      "name": "India Women vs England Women - 1st T20I",
+      "gender": "women",
+      "isLive": false,
+      "isEnded": true,
+      "isUpcoming": false,
+      "matchType": "T20I",
+      "dateStr": "Completed",
+      "teams": {
+        "t1": "ENG-W",
+        "t1Name": "England Women",
+        "t1Logo": "bg-sky-700 text-white border-sky-500",
+        "t1IsImage": false,
+        "t2": "IND-W",
+        "t2Name": "India Women",
+        "t2Logo": "bg-blue-600 text-white border-blue-400",
+        "t2IsImage": false
+      },
+      "score1": "145/6 (20 Ov)",
+      "score2": "146/2 (16.5 Ov)",
+      "overs": "16.5 Ov",
+      "status": "RESULT: India Women won by 8 wickets",
+      "venue": "Wankhede Stadium, Mumbai",
+      "pitch": "Match completed. Final scorecard available.",
+      "winProb1": 0,
+      "winProb2": 100,
+      "liveBatsmen": [
+        { "name": "Smriti Mandhana", "runs": 74, "balls": 48, "fours": 8, "sixes": 2, "sr": 154.2 },
+        { "name": "Jemimah Rodrigues", "runs": 41, "balls": 30, "fours": 4, "sixes": 0, "sr": 136.7 }
+      ],
+      "liveBowler": { "name": "Sophie Ecclestone", "overs": "4.0", "maidens": 0, "runs": 24, "wickets": 1, "econ": 6.0 }
+    },
+    {
+      "id": 3,
+      "name": "India vs South Africa - 2nd T20I",
+      "gender": "men",
+      "isLive": false,
+      "isEnded": false,
+      "isUpcoming": true,
+      "matchType": "T20I",
+      "dateStr": "02 Jul, 19:30 IST",
+      "teams": {
+        "t1": "IND",
+        "t1Name": "India",
+        "t1Logo": "bg-blue-600 text-white border-blue-400",
+        "t1IsImage": false,
+        "t2": "RSA",
+        "t2Name": "South Africa",
+        "t2Logo": "bg-green-700 text-white border-green-500",
+        "t2IsImage": false
+      },
+      "score1": "Yet to bat",
+      "score2": "Yet to bat",
+      "overs": "–",
+      "status": "UPCOMING • Match starts on Jul 2, 19:30 IST",
+      "venue": "St George's Park, Gqeberha",
+      "pitch": "Match has not yet started. Pitch report to be confirmed closer to match day.",
+      "winProb1": 50,
+      "winProb2": 50,
+      "liveBatsmen": [
+        { "name": "–", "runs": 0, "balls": 0, "fours": 0, "sixes": 0, "sr": 0 }
+      ],
+      "liveBowler": { "name": "–", "overs": "0.0", "maidens": 0, "runs": 0, "wickets": 0, "econ": 0 }
+    },
+    {
+      "id": 4,
+      "name": "India Women vs England Women - 2nd T20I",
+      "gender": "women",
+      "isLive": false,
+      "isEnded": false,
+      "isUpcoming": true,
+      "matchType": "T20I",
+      "dateStr": "03 Jul, 19:00 IST",
+      "teams": {
+        "t1": "IND-W",
+        "t1Name": "India Women",
+        "t1Logo": "bg-blue-600 text-white border-blue-400",
+        "t1IsImage": false,
+        "t2": "ENG-W",
+        "t2Name": "England Women",
+        "t2Logo": "bg-sky-700 text-white border-sky-500",
+        "t2IsImage": false
+      },
+      "score1": "Yet to bat",
+      "score2": "Yet to bat",
+      "overs": "–",
+      "status": "UPCOMING • Match starts on Jul 3, 19:00 IST",
+      "venue": "Wankhede Stadium, Mumbai",
+      "pitch": "Match has not yet started. Pitch report to be confirmed closer to match day.",
+      "winProb1": 50,
+      "winProb2": 50,
+      "liveBatsmen": [
+        { "name": "–", "runs": 0, "balls": 0, "fours": 0, "sixes": 0, "sr": 0 }
+      ],
+      "liveBowler": { "name": "–", "overs": "0.0", "maidens": 0, "runs": 0, "wickets": 0, "econ": 0 }
+    }
+  ]
+}
