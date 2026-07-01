@@ -70,15 +70,15 @@ export default function WinProbabilityCalculator() {
   return (
     <div id="win-prob-calculator" className="w-full bg-[#0a0a0f] border border-zinc-800/80 rounded-2xl p-6 relative overflow-hidden mb-12 bg-gradient-to-br from-[#0e0e16] via-[#0b0b12] to-transparent">
       {/* Accent strip */}
-      <div className="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-pink-500 via-purple-500 to-transparent" />
-      <div className="absolute top-0 right-0 w-64 h-64 bg-pink-500/[0.01] rounded-full blur-3xl pointer-events-none" />
+      <div className="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-lime-400 via-emerald-500 to-transparent" />
+      <div className="absolute top-0 right-0 w-64 h-64 bg-lime-400/[0.01] rounded-full blur-3xl pointer-events-none" />
 
       <div className="flex items-center gap-3 mb-6 pb-4 border-b border-zinc-900">
-        <div className="p-2 bg-pink-500/[0.06] text-pink-400 border border-pink-500/10 rounded-lg">
+        <div className="p-2 bg-lime-400/[0.06] text-lime-400 border border-lime-400/10 rounded-lg">
           <TrendingUp size={16} />
         </div>
         <div>
-          <h2 className="text-sm font-bold text-white uppercase tracking-wider">Win Odds Simulator & Risk Scoring</h2>
+          <h2 className="text-sm font-bold text-white uppercase tracking-wider">Live Chase Win Probability Simulator</h2>
           <p className="text-[10px] text-zinc-500 mt-0.5">Simulate chasing win rates against historical baselines by score, overs, and wickets</p>
         </div>
       </div>
@@ -93,7 +93,7 @@ export default function WinProbabilityCalculator() {
                 <button
                   type="button"
                   onClick={() => setFormatDropdownOpen(!formatDropdownOpen)}
-                  className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-pink-500/50 text-left flex justify-between items-center transition-all focus:outline-none cursor-pointer"
+                  className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 text-left flex justify-between items-center transition-all focus:outline-none cursor-pointer"
                 >
                   <span>{formData.format}</span>
                   <svg
@@ -122,8 +122,8 @@ export default function WinProbabilityCalculator() {
                             setFormData(prev => ({ ...prev, format: f, over: f === "T20" ? 12 : 30, target: f === "T20" ? 160 : 250, score: f === "T20" ? 90 : 150 }));
                             setFormatDropdownOpen(false);
                           }}
-                          className={`w-full text-left p-2.5 text-xs transition-all hover:bg-pink-400/10 hover:text-pink-400 ${
-                            formData.format === f ? "text-pink-400 bg-pink-400/[0.03] font-bold" : "text-zinc-400"
+                          className={`w-full text-left p-2.5 text-xs transition-all hover:bg-lime-400/10 hover:text-lime-400 ${
+                            formData.format === f ? "text-lime-400 bg-lime-400/[0.03] font-bold" : "text-zinc-400"
                           }`}
                         >
                           {f}
@@ -144,7 +144,7 @@ export default function WinProbabilityCalculator() {
                 max={formData.format === "T20" ? "19" : "49"}
                 value={formData.over}
                 onChange={handleChange}
-                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-pink-500/50 focus:border-pink-500/50 transition-all focus:outline-none"
+                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none"
               />
             </div>
           </div>
@@ -158,7 +158,7 @@ export default function WinProbabilityCalculator() {
                 min="1"
                 value={formData.target}
                 onChange={handleChange}
-                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-pink-500/50 focus:border-pink-500/50 transition-all focus:outline-none"
+                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none"
               />
             </div>
 
@@ -170,7 +170,7 @@ export default function WinProbabilityCalculator() {
                 min="0"
                 value={formData.score}
                 onChange={handleChange}
-                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-pink-500/50 focus:border-pink-500/50 transition-all focus:outline-none"
+                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none"
               />
             </div>
 
@@ -183,7 +183,7 @@ export default function WinProbabilityCalculator() {
                 max="9"
                 value={formData.wickets}
                 onChange={handleChange}
-                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-pink-500/50 focus:border-pink-500/50 transition-all focus:outline-none"
+                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none"
               />
             </div>
           </div>
@@ -194,13 +194,13 @@ export default function WinProbabilityCalculator() {
             <span>·</span>
             <span>Balls Left: <strong className="text-zinc-300">{ballsRemaining}</strong></span>
             <span>·</span>
-            <span>Req RR: <strong className="text-pink-400">{reqRR}</strong></span>
+            <span>Req RR: <strong className="text-lime-400">{reqRR}</strong></span>
           </div>
 
           <button
             onClick={handleSubmit}
             disabled={loading}
-            className="w-full bg-pink-500 hover:bg-pink-400 disabled:opacity-50 text-white font-semibold py-2.5 px-4 rounded-lg transition-all text-xs cursor-pointer hover:shadow-[0_0_15px_rgba(236,72,153,0.2)]"
+            className="w-full bg-lime-400 hover:bg-lime-300 text-black font-semibold py-2.5 px-4 rounded-lg transition-all text-xs cursor-pointer hover:shadow-[0_0_15px_rgba(163,230,53,0.2)]"
           >
             {loading ? "Simulating..." : "Calculate Win Probability"}
           </button>
@@ -239,7 +239,7 @@ export default function WinProbabilityCalculator() {
                 <div className="space-y-2">
                   <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-wider">
                     <span className="text-zinc-500">Defending Win% ({100 - result.winProb2}%)</span>
-                    <span className="text-pink-400">Chasing Win% ({result.winProb2}%)</span>
+                    <span className="text-lime-400">Chasing Win% ({result.winProb2}%)</span>
                   </div>
                   <div className="w-full h-3 bg-zinc-900 rounded-full overflow-hidden border border-zinc-800 flex">
                     <div 
@@ -247,7 +247,7 @@ export default function WinProbabilityCalculator() {
                       style={{ width: `${100 - result.winProb2}%` }}
                     />
                     <div 
-                      className="h-full bg-pink-500 transition-all duration-500 shadow-[0_0_10px_rgba(236,72,153,0.3)]" 
+                      className="h-full bg-lime-400 transition-all duration-500 shadow-[0_0_10px_rgba(163,230,53,0.3)]" 
                       style={{ width: `${result.winProb2}%` }}
                     />
                   </div>
@@ -275,13 +275,13 @@ export default function WinProbabilityCalculator() {
 
                   <div className="bg-[#0d0d15] border border-zinc-900/80 p-3 rounded-lg text-center">
                     <span className="text-[9px] font-bold text-zinc-500 uppercase tracking-wider block">Target Rate</span>
-                    <span className="text-lg font-bold text-pink-400 mt-0.5 block">{result.reqRR}</span>
+                    <span className="text-lg font-bold text-lime-400 mt-0.5 block">{result.reqRR}</span>
                   </div>
                 </div>
 
                 {/* Tactical insights block */}
-                <div className="bg-pink-500/[0.02] border border-pink-500/10 p-3.5 rounded-lg">
-                  <span className="text-[9px] font-bold text-pink-400 uppercase tracking-wider block mb-1">Tactical Analytics Summary</span>
+                <div className="bg-lime-400/[0.02] border border-lime-400/10 p-3.5 rounded-lg">
+                  <span className="text-[9px] font-bold text-lime-400 uppercase tracking-wider block mb-1">Tactical Analytics Summary</span>
                   <p className="text-[11px] text-zinc-400 leading-normal capitalize">{result.recommendation}</p>
                 </div>
               </motion.div>

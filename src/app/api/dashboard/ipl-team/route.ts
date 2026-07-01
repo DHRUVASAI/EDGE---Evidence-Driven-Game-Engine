@@ -32,31 +32,32 @@ export async function GET(request: Request) {
         WHERE team1 = ANY(${teamNames}) OR team2 = ANY(${teamNames})
       `,
 
-      // 2. Fast Top Batter query using CareerStat (IPL format) and filtering by team player names in AuctionHistory
-      prisma.$queryRaw<any[]>`
-        SELECT p.id as player_id, p.name, p."fullName", p."imageUrl", cs.runs
-        FROM "CareerStat" cs
-        JOIN "Player" p ON cs."playerId" = p.id
-        WHERE cs.format = 'IPL' AND cs.runs IS NOT NULL
-          AND p.id IN (
-            SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ANY(${teamNames})
-          )
-        ORDER BY cs.runs DESC
-        LIMIT 1
-      `,
+    // 2. Fast Top Batter query using CareerStat (T20 format) and filtering by team player names in AuctionHistory
+    // AuctionHistory team keys are short (e.g. 'CSK', 'MI')
+    prisma.$queryRaw<any[]>`
+      SELECT p.id as player_id, p.name, p."fullName", p."imageUrl", cs.runs
+      FROM "CareerStat" cs
+      JOIN "Player" p ON cs."playerId" = p.id
+      WHERE cs.format = 'T20' AND cs.runs IS NOT NULL
+        AND p.id IN (
+          SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ${teamKey}
+        )
+      ORDER BY cs.runs DESC
+      LIMIT 1
+    `,
 
-      // 3. Fast Top Bowler query using CareerStat (IPL format) and filtering by team player names in AuctionHistory
-      prisma.$queryRaw<any[]>`
-        SELECT p.id as player_id, p.name, p."fullName", p."imageUrl", cs.wickets
-        FROM "CareerStat" cs
-        JOIN "Player" p ON cs."playerId" = p.id
-        WHERE cs.format = 'IPL' AND cs.wickets IS NOT NULL
-          AND p.id IN (
-            SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ANY(${teamNames})
-          )
-        ORDER BY cs.wickets DESC
-        LIMIT 1
-      `,
+    // 3. Fast Top Bowler query using CareerStat (T20 format) and filtering by team player names in AuctionHistory
+    prisma.$queryRaw<any[]>`
+      SELECT p.id as player_id, p.name, p."fullName", p."imageUrl", cs.wickets
+      FROM "CareerStat" cs
+      JOIN "Player" p ON cs."playerId" = p.id
+      WHERE cs.format = 'T20' AND cs.wickets IS NOT NULL
+        AND p.id IN (
+          SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ${teamKey}
+        )
+      ORDER BY cs.wickets DESC
+      LIMIT 1
+    `,
 
       // 4. Recent Matches
       prisma.$queryRaw<any[]>`
