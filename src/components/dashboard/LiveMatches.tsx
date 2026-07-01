@@ -219,9 +219,10 @@ export default function LiveMatches() {
                 </div>
               </div>
             ) : (
-              <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 relative overflow-hidden">
-                <div className="absolute top-1 right-2 flex gap-1">
-                  <span className={`text-[8px] font-black uppercase px-1.5 py-0.5 rounded border ${
+              <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col gap-3">
+                <div className="flex justify-between items-center text-[9px] font-black uppercase tracking-wider">
+                  <span className="text-zinc-500">{match.teams.t1} WIN CHANCE</span>
+                  <span className={`text-[8px] px-1.5 py-0.5 rounded border shrink-0 ${
                     match.winProb2 > 70
                       ? "bg-green-500/10 text-green-400 border-green-500/20"
                       : match.winProb2 > 40
@@ -230,21 +231,17 @@ export default function LiveMatches() {
                   }`}>
                     {match.winProb2 > 70 ? "LOW RISK" : match.winProb2 > 40 ? "MED RISK" : "HIGH RISK"}
                   </span>
+                  <span className="text-lime-400">{match.teams.t2} WIN CHANCE</span>
                 </div>
                 
-                <div className="flex justify-between text-[9px] font-black uppercase tracking-wider mb-2">
-                  <span className="text-zinc-500">{match.teams.t1} WIN CHANCE</span>
-                  <span className="text-pink-400">{match.teams.t2} WIN CHANCE</span>
-                </div>
-                
-                <div className="flex justify-between items-center text-xs font-black mb-1.5">
+                <div className="flex justify-between items-center text-xs font-black">
                   <span className="text-zinc-400">{match.winProb1}%</span>
-                  <span className="text-pink-400">{match.winProb2}%</span>
+                  <span className="text-lime-400">{match.winProb2}%</span>
                 </div>
                 
                 <div className="w-full h-2 bg-zinc-950 rounded-full overflow-hidden flex border border-zinc-900/60">
                   <div className="h-full bg-zinc-700 transition-all duration-700" style={{ width: `${match.winProb1}%` }} />
-                  <div className="h-full bg-pink-500 transition-all duration-700 shadow-[0_0_8px_rgba(236,72,153,0.3)]" style={{ width: `${match.winProb2}%` }} />
+                  <div className="h-full bg-lime-400 transition-all duration-700 shadow-[0_0_8px_rgba(163,230,53,0.3)]" style={{ width: `${match.winProb2}%` }} />
                 </div>
               </div>
             )}
