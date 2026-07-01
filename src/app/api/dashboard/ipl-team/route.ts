@@ -18,15 +18,12 @@ const TEAM_MAP: Record<string, string[]> = {
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    let teamKey = searchParams.get('teamKey') || 'CSK';
+    const teamKey = searchParams.get('teamKey') || 'CSK';
     const teamNames = TEAM_MAP[teamKey] || TEAM_MAP['CSK'];
 
-    // Map PBKS frontend key to PK backend shortkey for AuctionHistory table mapping
-    const lookupKey = teamKey === 'PBKS' ? 'PK' : teamKey;
-
-    // Run non-joining queries in parallel to keep response time below 200ms
-    const [statsRes, mvpBatterRes, mvpBowlerRes, recentMatches] = await Promise.all([
-      // 1. Matches and Wins count
+    // Run ALL 4 queries in parallel to cut wait time
+    const [statsRes, topBatterRes, topBowlerRes, recentMatches] = await Promise.all([
+      // 1. Matches and Wins
       prisma.$queryRaw<any[]>`
         SELECT 
           COUNT(*)::int as "matchesPlayed",
@@ -35,36 +32,87 @@ export async function GET(request: Request) {
         WHERE team1 = ANY(${teamNames}) OR team2 = ANY(${teamNames})
       `,
 
-    // 2. Fast Top Batter query using CareerStat (T20 format) and filtering by team player names in AuctionHistory
-    // AuctionHistory team keys are short (e.g. 'CSK', 'MI')
-    prisma.$queryRaw<any[]>`
-      SELECT p.id as player_id, p.name, p."fullName", p."imageUrl", cs.runs
-      FROM "CareerStat" cs
-      JOIN "Player" p ON cs."playerId" = p.id
-      WHERE cs.format = 'T20' AND cs.runs IS NOT NULL
-        AND p.id IN (
-          SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ${lookupKey}
+      // 2. Top Batter (original working query using Delivery table)
+      prisma.$queryRaw<any[]>`
+        WITH batting_runs AS (
+          SELECT 
+            p.id as player_id,
+            p.name,
+            p."fullName",
+            p."imageUrl",
+            SUM(d."runsBatter")::int as "runs"
+          FROM "Delivery" d
+          JOIN "Match" m ON d."matchId" = m.id
+          JOIN "Player" p ON p.name = d.batter
+          WHERE (m.team1 = ANY(${teamNames}) OR m.team2 = ANY(${teamNames}))
+            AND (
+              CASE 
+                WHEN d.inning = 1 THEN 
+                  CASE 
+                    WHEN (m."tossWinner" = m.team1 AND m."tossDecision" = 'bat') OR (m."tossWinner" = m.team2 AND m."tossDecision" = 'field') THEN m.team1
+                    ELSE m.team2
+                  END
+                WHEN d.inning = 2 THEN
+                  CASE 
+                    WHEN (m."tossWinner" = m.team1 AND m."tossDecision" = 'bat') OR (m."tossWinner" = m.team2 AND m."tossDecision" = 'field') THEN m.team2
+                    ELSE m.team1
+                  END
+                ELSE NULL
+              END
+            ) = ANY(${teamNames})
+          GROUP BY p.id, p.name, p."fullName", p."imageUrl"
         )
-      ORDER BY cs.runs DESC
-      LIMIT 1
-    `,
+        SELECT * FROM batting_runs
+        ORDER BY "runs" DESC
+        LIMIT 1
+      `,
 
-    // 3. Fast Top Bowler query using CareerStat (T20 format) and filtering by team player names in AuctionHistory
-    prisma.$queryRaw<any[]>`
-      SELECT p.id as player_id, p.name, p."fullName", p."imageUrl", cs.wickets
-      FROM "CareerStat" cs
-      JOIN "Player" p ON cs."playerId" = p.id
-      WHERE cs.format = 'T20' AND cs.wickets IS NOT NULL
-        AND p.id IN (
-          SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ${lookupKey}
+      // 3. Top Bowler (original working query using Delivery table)
+      prisma.$queryRaw<any[]>`
+        WITH bowling_wickets AS (
+          SELECT 
+            p.id as player_id,
+            p.name,
+            p."fullName",
+            p."imageUrl",
+            COUNT(*)::int as "wickets"
+          FROM "Delivery" d
+          JOIN "Match" m ON d."matchId" = m.id
+          JOIN "Player" p ON p.name = d.bowler
+          WHERE (m.team1 = ANY(${teamNames}) OR m.team2 = ANY(${teamNames}))
+            AND (
+              CASE 
+                WHEN d.inning = 1 THEN 
+                  CASE 
+                    WHEN (m."tossWinner" = m.team1 AND m."tossDecision" = 'bat') OR (m."tossWinner" = m.team2 AND m."tossDecision" = 'field') THEN m.team2
+                    ELSE m.team1
+                  END
+                WHEN d.inning = 2 THEN
+                  CASE 
+                    WHEN (m."tossWinner" = m.team1 AND m."tossDecision" = 'bat') OR (m."tossWinner" = m.team2 AND m."tossDecision" = 'field') THEN m.team1
+                    ELSE m.team2
+                  END
+                ELSE NULL
+              END
+            ) = ANY(${teamNames})
+            AND d.wicket IS NOT NULL
+            AND (d.wicket->0->>'kind') NOT IN ('run out', 'retired hurt', 'obstructing the field')
+          GROUP BY p.id, p.name, p."fullName", p."imageUrl"
         )
-      ORDER BY cs.wickets DESC
-      LIMIT 1
-    `,
+        SELECT * FROM bowling_wickets
+        ORDER BY "wickets" DESC
+        LIMIT 1
+      `,
 
       // 4. Recent Matches
       prisma.$queryRaw<any[]>`
-        SELECT id, date, team1, team2, winner, venue
+        SELECT 
+          id, 
+          date, 
+          team1, 
+          team2, 
+          winner,
+          venue
         FROM "Match"
         WHERE team1 = ANY(${teamNames}) OR team2 = ANY(${teamNames})
         ORDER BY date DESC
@@ -74,20 +122,14 @@ export async function GET(request: Request) {
 
     const stats = statsRes[0] || { matchesPlayed: 0, wins: 0 };
 
-    const topBatter = mvpBatterRes[0] ? {
-      player_id: mvpBatterRes[0].player_id,
-      name: mvpBatterRes[0].name,
-      fullName: mvpBatterRes[0].fullName,
-      imageUrl: getPlayerImageUrl(mvpBatterRes[0].imageUrl || mvpBatterRes[0].player_id),
-      runs: mvpBatterRes[0].runs
+    const topBatter = topBatterRes[0] ? {
+      ...topBatterRes[0],
+      imageUrl: getPlayerImageUrl(topBatterRes[0].imageUrl)
     } : null;
 
-    const topBowler = mvpBowlerRes[0] ? {
-      player_id: mvpBowlerRes[0].player_id,
-      name: mvpBowlerRes[0].name,
-      fullName: mvpBowlerRes[0].fullName,
-      imageUrl: getPlayerImageUrl(mvpBowlerRes[0].imageUrl || mvpBowlerRes[0].player_id),
-      wickets: mvpBowlerRes[0].wickets
+    const topBowler = topBowlerRes[0] ? {
+      ...topBowlerRes[0],
+      imageUrl: getPlayerImageUrl(topBowlerRes[0].imageUrl)
     } : null;
 
     return NextResponse.json({
