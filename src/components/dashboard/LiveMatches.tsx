@@ -108,6 +108,7 @@ export default function LiveMatches() {
   const [loading, setLoading] = useState<boolean>(true);
   const [source, setSource] = useState<string>("mock");
   const [liveCount, setLiveCount] = useState<number>(0);
+  const [showingDate, setShowingDate] = useState<string>("today");
 
   const fetchLiveMatches = async () => {
     try {
@@ -118,6 +119,7 @@ export default function LiveMatches() {
           setMatches(data.matches);
           setSource(data.source || "mock");
           setLiveCount(data.liveCount ?? 0);
+          setShowingDate(data.showingDate || "today");
         }
       }
     } catch (err) {
@@ -162,7 +164,9 @@ export default function LiveMatches() {
             <span className={`animate-ping absolute inline-flex h-full w-full rounded-full opacity-75 ${liveCount > 0 ? "bg-red-500" : "bg-amber-500"}`}></span>
             <span className={`relative inline-flex rounded-full h-2.5 w-2.5 ${liveCount > 0 ? "bg-red-600" : "bg-amber-500"}`}></span>
           </span>
-          <h2 className="text-base font-bold text-white tracking-tight uppercase">International Match Center</h2>
+          <h2 className="text-base font-bold text-white tracking-tight uppercase">
+            {showingDate === "tomorrow" ? "Tomorrow's International Matches" : "Today's International Matches"}
+          </h2>
           {liveCount > 0 && (
             <span className="text-[8px] font-black uppercase tracking-widest px-2 py-0.5 rounded border bg-red-500/20 text-red-400 border-red-500/30">
               {liveCount} Live
@@ -266,32 +270,39 @@ export default function LiveMatches() {
               </div>
             </div>
 
-            {/* Win Probability (Shown for ALL matches: live, completed, upcoming) */}
-            <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col gap-3">
-              <div className="flex justify-between items-center text-[9px] font-black uppercase tracking-wider">
-                <span className="text-zinc-500">{match.teams.t1} {match.isUpcoming ? "PREDICTED ODDS" : "WIN CHANCE"}</span>
-                <span className={`text-[8px] px-1.5 py-0.5 rounded border shrink-0 ${
-                  match.winProb2 > 70
-                    ? "bg-green-500/10 text-green-400 border-green-500/20"
-                    : match.winProb2 > 40
-                    ? "bg-amber-500/10 text-amber-400 border-amber-500/20"
-                    : "bg-red-500/10 text-red-400 border-red-500/20"
-                }`}>
-                  {match.isUpcoming ? "PRE-MATCH" : match.winProb2 > 70 ? "LOW RISK" : match.winProb2 > 40 ? "MED RISK" : "HIGH RISK"}
-                </span>
-                <span className="text-lime-400">{match.teams.t2} {match.isUpcoming ? "PREDICTED ODDS" : "WIN CHANCE"}</span>
+            {/* Win Probability — only for live/completed, not upcoming */}
+            {match.isUpcoming ? (
+              <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col items-center justify-center gap-2">
+                <span className="text-[9px] font-black uppercase tracking-wider text-zinc-600">Win Probability</span>
+                <span className="text-xs font-bold text-amber-400">Available once match starts</span>
               </div>
-              
-              <div className="flex justify-between items-center text-xs font-black">
-                <span className="text-zinc-400">{match.winProb1}%</span>
-                <span className="text-lime-400">{match.winProb2}%</span>
+            ) : (
+              <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col gap-3">
+                <div className="flex justify-between items-center text-[9px] font-black uppercase tracking-wider">
+                  <span className="text-zinc-500">{match.teams.t1} WIN CHANCE</span>
+                  <span className={`text-[8px] px-1.5 py-0.5 rounded border shrink-0 ${
+                    match.winProb2 > 70
+                      ? "bg-green-500/10 text-green-400 border-green-500/20"
+                      : match.winProb2 > 40
+                      ? "bg-amber-500/10 text-amber-400 border-amber-500/20"
+                      : "bg-red-500/10 text-red-400 border-red-500/20"
+                  }`}>
+                    {match.winProb2 > 70 ? "LOW RISK" : match.winProb2 > 40 ? "MED RISK" : "HIGH RISK"}
+                  </span>
+                  <span className="text-lime-400">{match.teams.t2} WIN CHANCE</span>
+                </div>
+                
+                <div className="flex justify-between items-center text-xs font-black">
+                  <span className="text-zinc-400">{match.winProb1}%</span>
+                  <span className="text-lime-400">{match.winProb2}%</span>
+                </div>
+                
+                <div className="w-full h-2 bg-zinc-950 rounded-full overflow-hidden flex border border-zinc-900/60">
+                  <div className="h-full bg-zinc-700 transition-all duration-700" style={{ width: `${match.winProb1}%` }} />
+                  <div className="h-full bg-lime-400 transition-all duration-700 shadow-[0_0_8px_rgba(163,230,53,0.3)]" style={{ width: `${match.winProb2}%` }} />
+                </div>
               </div>
-              
-              <div className="w-full h-2 bg-zinc-950 rounded-full overflow-hidden flex border border-zinc-900/60">
-                <div className="h-full bg-zinc-700 transition-all duration-700" style={{ width: `${match.winProb1}%` }} />
-                <div className="h-full bg-lime-400 transition-all duration-700 shadow-[0_0_8px_rgba(163,230,53,0.3)]" style={{ width: `${match.winProb2}%` }} />
-              </div>
-            </div>
+            )}
           </div>
 
           {/* Column 2: Venue & Status */}

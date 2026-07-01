@@ -8,6 +8,8 @@ import ICCRankings from "@/components/dashboard/ICCRankings";
 import IPLConsole from "@/components/dashboard/IPLConsole";
 import QuickActions from "@/components/dashboard/QuickActions";
 import WinProbabilityCalculator from "@/components/dashboard/WinProbabilityCalculator";
+import FantasyCommandCenter from "@/components/dashboard/FantasyCommandCenter";
+import MicroBattleAnalysis from "@/components/dashboard/MicroBattleAnalysis";
 import Footer from "@/components/Footer";
 
 const fetcher = (url: string) => fetch(url).then((res) => res.json());
@@ -74,6 +76,8 @@ export default function Home() {
             <ICCRankings />
             <IPLConsole />
             <WinProbabilityCalculator />
+            <FantasyCommandCenter />
+            <MicroBattleAnalysis />
             <QuickActions />
           </>
         )}

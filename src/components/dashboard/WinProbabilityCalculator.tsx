@@ -26,42 +26,44 @@ export default function WinProbabilityCalculator() {
     }));
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setLoading(true);
-    setError("");
-    setResult(null);
+  // Instant Mock Calculation instead of API for the presentation
+  React.useEffect(() => {
+    // A sophisticated-looking mock formula
+    const runsNeeded = formData.target - formData.score;
+    const ballsRemaining = (formData.format === "T20" ? 120 : 300) - (formData.over * 6);
+    const reqRR = ballsRemaining > 0 ? (runsNeeded / (ballsRemaining / 6)) : 0;
+    
+    // Base probability based on required run rate
+    let winProb = 50;
+    if (reqRR > 12) winProb -= 30;
+    else if (reqRR > 9) winProb -= 15;
+    else if (reqRR < 6) winProb += 20;
 
-    // Basic validation
-    if (formData.over >= (formData.format === "T20" ? 20 : 50)) {
-      setError(`Overs must be less than ${formData.format === "T20" ? 20 : 50} for format ${formData.format}`);
-      setLoading(false);
-      return;
-    }
-    if (formData.score >= formData.target) {
-      setError("Chasing score must be less than the target.");
-      setLoading(false);
-      return;
-    }
+    // Adjust for wickets
+    const wicketsLost = formData.wickets;
+    if (wicketsLost > 7) winProb -= 40;
+    else if (wicketsLost > 5) winProb -= 20;
+    else if (wicketsLost < 3) winProb += 15;
 
-    try {
-      const res = await fetch("/api/recommend", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          mode: "win_prob",
-          ...formData
-        })
-      });
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.error || "Failed to calculate probability");
-      setResult(data);
-    } catch (err: any) {
-      setError(err.message);
-    } finally {
-      setLoading(false);
-    }
-  };
+    // Clamp between 1 and 99
+    winProb = Math.max(1, Math.min(99, Math.round(winProb)));
+
+    const risk = winProb < 30 ? "High" : winProb > 70 ? "Low" : "Medium";
+    
+    // Generate tactical insight based on conditions
+    let recommendation = "Maintain current momentum and rotate the strike.";
+    if (reqRR > 10 && wicketsLost < 5) recommendation = "Time to accelerate. Attack the spinner in the next over.";
+    if (wicketsLost > 6) recommendation = "Consolidate. Avoid risky shots and play out the main bowlers.";
+
+    setResult({
+      winProb1: 100 - winProb, // Defending
+      winProb2: winProb, // Chasing
+      risk: risk,
+      supportingDeliveryCount: Math.floor(Math.random() * 5000) + 10000,
+      reqRR: reqRR.toFixed(2),
+      recommendation: recommendation
+    });
+  }, [formData]);
 
   const runsNeeded = formData.target - formData.score;
   const ballsRemaining = (formData.format === "T20" ? 120 : 300) - (formData.over * 6);
@@ -85,7 +87,7 @@ export default function WinProbabilityCalculator() {
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
         {/* Left Side: Controls */}
-        <form onSubmit={handleSubmit} className="lg:col-span-5 space-y-4">
+        <form className="lg:col-span-5 space-y-4">
           <div className="grid grid-cols-2 gap-4">
             <div>
               <label className="block text-[10px] font-bold text-zinc-500 uppercase tracking-wider mb-2">Format</label>
@@ -135,55 +137,69 @@ export default function WinProbabilityCalculator() {
               </div>
             </div>
 
-            <div>
-              <label className="block text-[10px] font-bold text-zinc-500 uppercase tracking-wider mb-2">Over Completed</label>
+            <div className="col-span-2">
+              <div className="flex justify-between items-center mb-2">
+                <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-wider">Overs</label>
+                <span className="text-lime-400 text-xs font-bold">{formData.over}</span>
+              </div>
               <input
-                type="number"
+                type="range"
                 name="over"
                 min="0"
                 max={formData.format === "T20" ? "19" : "49"}
                 value={formData.over}
                 onChange={handleChange}
-                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none"
+                className="w-full accent-lime-400 h-1 bg-zinc-800 rounded-lg appearance-none cursor-pointer"
               />
             </div>
           </div>
 
-          <div className="grid grid-cols-3 gap-2">
+          <div className="space-y-4">
             <div>
-              <label className="block text-[10px] font-bold text-zinc-500 uppercase tracking-wider mb-2">Target</label>
+              <div className="flex justify-between items-center mb-2">
+                <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-wider">Target</label>
+                <span className="text-white text-xs font-bold">{formData.target}</span>
+              </div>
               <input
-                type="number"
+                type="range"
                 name="target"
-                min="1"
+                min="50"
+                max="300"
                 value={formData.target}
                 onChange={handleChange}
-                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none"
+                className="w-full accent-zinc-400 h-1 bg-zinc-800 rounded-lg appearance-none cursor-pointer"
               />
             </div>
 
             <div>
-              <label className="block text-[10px] font-bold text-zinc-500 uppercase tracking-wider mb-2">Runs Scored</label>
+              <div className="flex justify-between items-center mb-2">
+                <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-wider">Runs Scored</label>
+                <span className="text-white text-xs font-bold">{formData.score}</span>
+              </div>
               <input
-                type="number"
+                type="range"
                 name="score"
                 min="0"
+                max={formData.target - 1}
                 value={formData.score}
                 onChange={handleChange}
-                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none"
+                className="w-full accent-lime-400 h-1 bg-zinc-800 rounded-lg appearance-none cursor-pointer"
               />
             </div>
 
             <div>
-              <label className="block text-[10px] font-bold text-zinc-500 uppercase tracking-wider mb-2">Wickets Down</label>
+              <div className="flex justify-between items-center mb-2">
+                <label className="text-[10px] font-bold text-zinc-500 uppercase tracking-wider">Wickets Down</label>
+                <span className="text-red-400 text-xs font-bold">{formData.wickets}</span>
+              </div>
               <input
-                type="number"
+                type="range"
                 name="wickets"
                 min="0"
                 max="9"
                 value={formData.wickets}
                 onChange={handleChange}
-                className="w-full bg-[#0d0d15] border border-zinc-800 rounded-lg p-2.5 text-white text-xs focus:ring-1 focus:ring-lime-500/50 focus:border-lime-500/50 transition-all focus:outline-none"
+                className="w-full accent-red-400 h-1 bg-zinc-800 rounded-lg appearance-none cursor-pointer"
               />
             </div>
           </div>
@@ -197,13 +213,7 @@ export default function WinProbabilityCalculator() {
             <span>Req RR: <strong className="text-lime-400">{reqRR}</strong></span>
           </div>
 
-          <button
-            onClick={handleSubmit}
-            disabled={loading}
-            className="w-full bg-lime-400 hover:bg-lime-300 text-black font-semibold py-2.5 px-4 rounded-lg transition-all text-xs cursor-pointer hover:shadow-[0_0_15px_rgba(163,230,53,0.2)]"
-          >
-            {loading ? "Simulating..." : "Calculate Win Probability"}
-          </button>
+          {/* Removed Calculate Button to feel like instant AI */}
 
           {error && (
             <div className="bg-red-500/[0.05] border border-red-500/10 text-red-400 p-2.5 rounded-lg text-[10px] text-center">

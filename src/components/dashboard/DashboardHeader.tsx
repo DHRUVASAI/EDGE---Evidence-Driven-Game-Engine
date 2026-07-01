@@ -43,7 +43,7 @@ export default function DashboardHeader({
             System Console
           </span>
           <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight text-white mt-1">
-            CRICMETRICS ANALYTICS STUDIO
+            EDGE ANALYTICS STUDIO
           </h1>
         </div>
         <button
