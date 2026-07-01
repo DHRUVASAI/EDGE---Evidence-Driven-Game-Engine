@@ -1,0 +1,602 @@
+{
+  "CSK": {
+    "matchesPlayed": 266,
+    "wins": 148,
+    "topBatter": {
+      "player_id": "acc723b040564b209bd92e912cf94264",
+      "name": "MS Dhoni",
+      "fullName": "Mahendra Singh Dhoni",
+      "runs": 4865,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/00/38.jpg"
+    },
+    "topBowler": {
+      "player_id": "84b44ad8ef764356b24c64d2de56e10b",
+      "name": "RA Jadeja",
+      "fullName": "Ravindrasinh Anirudhsinh Jadeja",
+      "wickets": 143,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/300/348.jpg"
+    },
+    "recentMatches": [
+      {
+        "id": "885e852ffd5f41059aedb1ef4bd2cf1f",
+        "date": "2026-05-20T18:30:00.000Z",
+        "team1": "Gujarat Titans",
+        "team2": "Chennai Super Kings",
+        "winner": "Gujarat Titans",
+        "venue": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "id": "4e3b214820e6436085ea285e0f6b0f2f",
+        "date": "2026-05-17T18:30:00.000Z",
+        "team1": "Chennai Super Kings",
+        "team2": "Sunrisers Hyderabad",
+        "winner": "Sunrisers Hyderabad",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+      },
+      {
+        "id": "73f4189303504aafb0f794facb56d577",
+        "date": "2026-05-14T18:30:00.000Z",
+        "team1": "Chennai Super Kings",
+        "team2": "Lucknow Super Giants",
+        "winner": "Lucknow Super Giants",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+      },
+      {
+        "id": "296e247e6aae430cba833fb15a22948e",
+        "date": "2026-05-09T18:30:00.000Z",
+        "team1": "Lucknow Super Giants",
+        "team2": "Chennai Super Kings",
+        "winner": "Chennai Super Kings",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+      },
+      {
+        "id": "32f33ac0d9554d03bfcf50f676152725",
+        "date": "2026-05-04T18:30:00.000Z",
+        "team1": "Delhi Capitals",
+        "team2": "Chennai Super Kings",
+        "winner": "Chennai Super Kings",
+        "venue": "Arun Jaitley Stadium, Delhi"
+      }
+    ]
+  },
+  "MI": {
+    "matchesPlayed": 291,
+    "wins": 155,
+    "topBatter": {
+      "player_id": "73544528ca7a43dd8e3b579bfbc3464c",
+      "name": "RG Sharma",
+      "fullName": "Rohit Gurunath Sharma",
+      "runs": 6159,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/00/25.jpg"
+    },
+    "topBowler": {
+      "player_id": "7a67f16025434d66af6aae2cf59f4a41",
+      "name": "JJ Bumrah",
+      "fullName": "Jasprit Jasbirsingh Bumrah",
+      "wickets": 187,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/00/33.jpg"
+    },
+    "recentMatches": [
+      {
+        "id": "6b6e2a2c30dc45049686be956fadc6a2",
+        "date": "2026-05-23T18:30:00.000Z",
+        "team1": "Rajasthan Royals",
+        "team2": "Mumbai Indians",
+        "winner": "Rajasthan Royals",
+        "venue": "Wankhede Stadium, Mumbai"
+      },
+      {
+        "id": "76aa16fc6e38479c820ca1e7536169aa",
+        "date": "2026-05-19T18:30:00.000Z",
+        "team1": "Mumbai Indians",
+        "team2": "Kolkata Knight Riders",
+        "winner": "Kolkata Knight Riders",
+        "venue": "Eden Gardens, Kolkata"
+      },
+      {
+        "id": "86c4ec1b49d84076ad5dcbad9e5daffd",
+        "date": "2026-05-13T18:30:00.000Z",
+        "team1": "Punjab Kings",
+        "team2": "Mumbai Indians",
+        "winner": "Mumbai Indians",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "id": "ef1bb200df724f35a370dc89826a5242",
+        "date": "2026-05-09T18:30:00.000Z",
+        "team1": "Mumbai Indians",
+        "team2": "Royal Challengers Bengaluru",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur"
+      },
+      {
+        "id": "d77c191052624cac9691e5db7640e92a",
+        "date": "2026-05-03T18:30:00.000Z",
+        "team1": "Lucknow Super Giants",
+        "team2": "Mumbai Indians",
+        "winner": "Mumbai Indians",
+        "venue": "Wankhede Stadium, Mumbai"
+      }
+    ]
+  },
+  "RCB": {
+    "matchesPlayed": 286,
+    "wins": 143,
+    "topBatter": {
+      "player_id": "b1b09d8296184c779e85e117418b0ee1",
+      "name": "V Kohli",
+      "fullName": "Virat Kohli",
+      "runs": 9336,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/300/332.jpg"
+    },
+    "topBowler": {
+      "player_id": "d30f8ab70eba4493ad3acf45fc4b7e07",
+      "name": "YS Chahal",
+      "fullName": "Yuzvendra Singh Chahal",
+      "wickets": 139,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/00/10.jpg"
+    },
+    "recentMatches": [
+      {
+        "id": "7b8e2c35f3e6480e86c4aed4720faf24",
+        "date": "2026-05-30T18:30:00.000Z",
+        "team1": "Gujarat Titans",
+        "team2": "Royal Challengers Bengaluru",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "id": "601a0a4b69d748a0aea55f0f088b4cca",
+        "date": "2026-05-25T18:30:00.000Z",
+        "team1": "Royal Challengers Bengaluru",
+        "team2": "Gujarat Titans",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "id": "95dc1edb8ff0490daa370a816eb28dd3",
+        "date": "2026-05-21T18:30:00.000Z",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Royal Challengers Bengaluru",
+        "winner": "Sunrisers Hyderabad",
+        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+      },
+      {
+        "id": "001d417a33ad40e5a226223cf9ddfcdd",
+        "date": "2026-05-16T18:30:00.000Z",
+        "team1": "Royal Challengers Bengaluru",
+        "team2": "Punjab Kings",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "id": "c59e3476a5c143d4920aa52dbc31b74c",
+        "date": "2026-05-12T18:30:00.000Z",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Royal Challengers Bengaluru",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur"
+      }
+    ]
+  },
+  "KKR": {
+    "matchesPlayed": 278,
+    "wins": 140,
+    "topBatter": {
+      "player_id": "78f93955be864fe5a04a9883e3cf3d1c",
+      "name": "G Gambhir",
+      "fullName": "Gautam Gambhir",
+      "runs": 3035,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/00/56.jpg"
+    },
+    "topBowler": {
+      "player_id": "7daa47e8ac4742a2b57425eef7fe7944",
+      "name": "SP Narine",
+      "fullName": "Sunil Philip Narine",
+      "wickets": 207,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/00/65.jpg"
+    },
+    "recentMatches": [
+      {
+        "id": "573d4124bcc549dd92f3fcf54569a896",
+        "date": "2026-05-23T18:30:00.000Z",
+        "team1": "Delhi Capitals",
+        "team2": "Kolkata Knight Riders",
+        "winner": "Delhi Capitals",
+        "venue": "Eden Gardens, Kolkata"
+      },
+      {
+        "id": "76aa16fc6e38479c820ca1e7536169aa",
+        "date": "2026-05-19T18:30:00.000Z",
+        "team1": "Mumbai Indians",
+        "team2": "Kolkata Knight Riders",
+        "winner": "Kolkata Knight Riders",
+        "venue": "Eden Gardens, Kolkata"
+      },
+      {
+        "id": "80e851d952c04c4393d11c871b014acd",
+        "date": "2026-05-15T18:30:00.000Z",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Gujarat Titans",
+        "winner": "Kolkata Knight Riders",
+        "venue": "Eden Gardens, Kolkata"
+      },
+      {
+        "id": "c59e3476a5c143d4920aa52dbc31b74c",
+        "date": "2026-05-12T18:30:00.000Z",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Royal Challengers Bengaluru",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur"
+      },
+      {
+        "id": "c6af29385daf4c708b7d09cf9daf3795",
+        "date": "2026-05-07T18:30:00.000Z",
+        "team1": "Delhi Capitals",
+        "team2": "Kolkata Knight Riders",
+        "winner": "Kolkata Knight Riders",
+        "venue": "Arun Jaitley Stadium, Delhi"
+      }
+    ]
+  },
+  "RR": {
+    "matchesPlayed": 251,
+    "wins": 123,
+    "topBatter": {
+      "player_id": "aa3af36c24d548dd8ea229f2e8ab418f",
+      "name": "SV Samson",
+      "fullName": "Sanju Viswanath Samson",
+      "runs": 4027,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/100/180.jpg"
+    },
+    "topBowler": {
+      "player_id": "3c9ec64e45354f368891d4ec8e1aacb4",
+      "name": "JC Archer",
+      "fullName": "Jofra Chioke Archer",
+      "wickets": 82,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/1800/1833.jpg"
+    },
+    "recentMatches": [
+      {
+        "id": "8e504c46fc7649ee880fb9b352adc891",
+        "date": "2026-05-28T18:30:00.000Z",
+        "team1": "Rajasthan Royals",
+        "team2": "Gujarat Titans",
+        "winner": "Gujarat Titans",
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
+      },
+      {
+        "id": "b274d8ab5ca34cac88751a747d457704",
+        "date": "2026-05-26T18:30:00.000Z",
+        "team1": "Rajasthan Royals",
+        "team2": "Sunrisers Hyderabad",
+        "winner": "Rajasthan Royals",
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
+      },
+      {
+        "id": "6b6e2a2c30dc45049686be956fadc6a2",
+        "date": "2026-05-23T18:30:00.000Z",
+        "team1": "Rajasthan Royals",
+        "team2": "Mumbai Indians",
+        "winner": "Rajasthan Royals",
+        "venue": "Wankhede Stadium, Mumbai"
+      },
+      {
+        "id": "e2d0995829fa46b48d3977857c7e21b3",
+        "date": "2026-05-18T18:30:00.000Z",
+        "team1": "Lucknow Super Giants",
+        "team2": "Rajasthan Royals",
+        "winner": "Rajasthan Royals",
+        "venue": "Sawai Mansingh Stadium, Jaipur"
+      },
+      {
+        "id": "c4fc315e235b4d07b7f914b963a93417",
+        "date": "2026-05-16T18:30:00.000Z",
+        "team1": "Rajasthan Royals",
+        "team2": "Delhi Capitals",
+        "winner": "Delhi Capitals",
+        "venue": "Arun Jaitley Stadium, Delhi"
+      }
+    ]
+  },
+  "SRH": {
+    "matchesPlayed": 286,
+    "wins": 131,
+    "topBatter": {
+      "player_id": "d1443feadc904cd5abad7e58d117877e",
+      "name": "DA Warner",
+      "fullName": "David Andrew Warner",
+      "runs": 4014,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/00/12.jpg"
+    },
+    "topBowler": {
+      "player_id": "778738c38baf4a3d8aef03d4a5b06da8",
+      "name": "B Kumar",
+      "fullName": "Bhuvneshwar Kumar Singh",
+      "wickets": 157,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/00/20.jpg"
+    },
+    "recentMatches": [
+      {
+        "id": "b274d8ab5ca34cac88751a747d457704",
+        "date": "2026-05-26T18:30:00.000Z",
+        "team1": "Rajasthan Royals",
+        "team2": "Sunrisers Hyderabad",
+        "winner": "Rajasthan Royals",
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
+      },
+      {
+        "id": "95dc1edb8ff0490daa370a816eb28dd3",
+        "date": "2026-05-21T18:30:00.000Z",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Royal Challengers Bengaluru",
+        "winner": "Sunrisers Hyderabad",
+        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+      },
+      {
+        "id": "4e3b214820e6436085ea285e0f6b0f2f",
+        "date": "2026-05-17T18:30:00.000Z",
+        "team1": "Chennai Super Kings",
+        "team2": "Sunrisers Hyderabad",
+        "winner": "Sunrisers Hyderabad",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+      },
+      {
+        "id": "e6028ff222c14b2d92aed4c5a02f361c",
+        "date": "2026-05-11T18:30:00.000Z",
+        "team1": "Gujarat Titans",
+        "team2": "Sunrisers Hyderabad",
+        "winner": "Gujarat Titans",
+        "venue": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "id": "32c7b1ad880544a7b7a217f39244554a",
+        "date": "2026-05-05T18:30:00.000Z",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Punjab Kings",
+        "winner": "Sunrisers Hyderabad",
+        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+      }
+    ]
+  },
+  "DC": {
+    "matchesPlayed": 281,
+    "wins": 125,
+    "topBatter": {
+      "player_id": "b4a3d91ad4ca4429b8b53abac21e1b21",
+      "name": "RR Pant",
+      "fullName": "Rishabh Rajendra Pant",
+      "runs": 3284,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/100/181.jpg"
+    },
+    "topBowler": {
+      "player_id": "2bc68ece566845088bd5080d5f0b3584",
+      "name": "A Mishra",
+      "fullName": null,
+      "wickets": 106,
+      "imageUrl": "/images/default-player.png"
+    },
+    "recentMatches": [
+      {
+        "id": "573d4124bcc549dd92f3fcf54569a896",
+        "date": "2026-05-23T18:30:00.000Z",
+        "team1": "Delhi Capitals",
+        "team2": "Kolkata Knight Riders",
+        "winner": "Delhi Capitals",
+        "venue": "Eden Gardens, Kolkata"
+      },
+      {
+        "id": "c4fc315e235b4d07b7f914b963a93417",
+        "date": "2026-05-16T18:30:00.000Z",
+        "team1": "Rajasthan Royals",
+        "team2": "Delhi Capitals",
+        "winner": "Delhi Capitals",
+        "venue": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "id": "db050e765b58410aaaeeaf410313e5a5",
+        "date": "2026-05-10T18:30:00.000Z",
+        "team1": "Punjab Kings",
+        "team2": "Delhi Capitals",
+        "winner": "Delhi Capitals",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "id": "c6af29385daf4c708b7d09cf9daf3795",
+        "date": "2026-05-07T18:30:00.000Z",
+        "team1": "Delhi Capitals",
+        "team2": "Kolkata Knight Riders",
+        "winner": "Kolkata Knight Riders",
+        "venue": "Arun Jaitley Stadium, Delhi"
+      },
+      {
+        "id": "32f33ac0d9554d03bfcf50f676152725",
+        "date": "2026-05-04T18:30:00.000Z",
+        "team1": "Delhi Capitals",
+        "team2": "Chennai Super Kings",
+        "winner": "Chennai Super Kings",
+        "venue": "Arun Jaitley Stadium, Delhi"
+      }
+    ]
+  },
+  "PBKS": {
+    "matchesPlayed": 278,
+    "wins": 126,
+    "topBatter": {
+      "player_id": "52522680c1854db1999aae6acc685f85",
+      "name": "KL Rahul",
+      "fullName": "Kannaur Lokesh Rahul",
+      "runs": 2548,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/1400/1409.jpg"
+    },
+    "topBowler": {
+      "player_id": "72ac7d48160943c38216648babc99d66",
+      "name": "Arshdeep Singh",
+      "fullName": "Arshdeep Singh",
+      "wickets": 111,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/3300/3388.jpg"
+    },
+    "recentMatches": [
+      {
+        "id": "85816ee0865e4e5582010dd1675a5c84",
+        "date": "2026-05-22T18:30:00.000Z",
+        "team1": "Lucknow Super Giants",
+        "team2": "Punjab Kings",
+        "winner": "Punjab Kings",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+      },
+      {
+        "id": "001d417a33ad40e5a226223cf9ddfcdd",
+        "date": "2026-05-16T18:30:00.000Z",
+        "team1": "Royal Challengers Bengaluru",
+        "team2": "Punjab Kings",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "id": "86c4ec1b49d84076ad5dcbad9e5daffd",
+        "date": "2026-05-13T18:30:00.000Z",
+        "team1": "Punjab Kings",
+        "team2": "Mumbai Indians",
+        "winner": "Mumbai Indians",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "id": "db050e765b58410aaaeeaf410313e5a5",
+        "date": "2026-05-10T18:30:00.000Z",
+        "team1": "Punjab Kings",
+        "team2": "Delhi Capitals",
+        "winner": "Delhi Capitals",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "id": "32c7b1ad880544a7b7a217f39244554a",
+        "date": "2026-05-05T18:30:00.000Z",
+        "team1": "Sunrisers Hyderabad",
+        "team2": "Punjab Kings",
+        "winner": "Sunrisers Hyderabad",
+        "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+      }
+    ]
+  },
+  "GT": {
+    "matchesPlayed": 77,
+    "wins": 47,
+    "topBatter": {
+      "player_id": "c11920e982984c999c10f9cbd8a2daa5",
+      "name": "Shubman Gill",
+      "fullName": "Shubman Gill",
+      "runs": 3181,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/1500/1580.jpg"
+    },
+    "topBowler": {
+      "player_id": "7cb8b63baff34dcbb18ad58aa7a189d3",
+      "name": "Rashid Khan",
+      "fullName": null,
+      "wickets": 86,
+      "imageUrl": "/images/default-player.png"
+    },
+    "recentMatches": [
+      {
+        "id": "7b8e2c35f3e6480e86c4aed4720faf24",
+        "date": "2026-05-30T18:30:00.000Z",
+        "team1": "Gujarat Titans",
+        "team2": "Royal Challengers Bengaluru",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "id": "8e504c46fc7649ee880fb9b352adc891",
+        "date": "2026-05-28T18:30:00.000Z",
+        "team1": "Rajasthan Royals",
+        "team2": "Gujarat Titans",
+        "winner": "Gujarat Titans",
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
+      },
+      {
+        "id": "601a0a4b69d748a0aea55f0f088b4cca",
+        "date": "2026-05-25T18:30:00.000Z",
+        "team1": "Royal Challengers Bengaluru",
+        "team2": "Gujarat Titans",
+        "winner": "Royal Challengers Bengaluru",
+        "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+      },
+      {
+        "id": "885e852ffd5f41059aedb1ef4bd2cf1f",
+        "date": "2026-05-20T18:30:00.000Z",
+        "team1": "Gujarat Titans",
+        "team2": "Chennai Super Kings",
+        "winner": "Gujarat Titans",
+        "venue": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "id": "80e851d952c04c4393d11c871b014acd",
+        "date": "2026-05-15T18:30:00.000Z",
+        "team1": "Kolkata Knight Riders",
+        "team2": "Gujarat Titans",
+        "winner": "Kolkata Knight Riders",
+        "venue": "Eden Gardens, Kolkata"
+      }
+    ]
+  },
+  "LSG": {
+    "matchesPlayed": 72,
+    "wins": 34,
+    "topBatter": {
+      "player_id": "fd15fd3a37954c1c850d5d920b3f7264",
+      "name": "N Pooran",
+      "fullName": "Nicholas Pooran",
+      "runs": 1615,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/2700/2766.jpg"
+    },
+    "topBowler": {
+      "player_id": "5647b29ffb054bda83620df3e0a78acc",
+      "name": "Ravi Bishnoi",
+      "fullName": "Ravi Bishnoi",
+      "wickets": 48,
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/4000/4059.jpg"
+    },
+    "recentMatches": [
+      {
+        "id": "85816ee0865e4e5582010dd1675a5c84",
+        "date": "2026-05-22T18:30:00.000Z",
+        "team1": "Lucknow Super Giants",
+        "team2": "Punjab Kings",
+        "winner": "Punjab Kings",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+      },
+      {
+        "id": "e2d0995829fa46b48d3977857c7e21b3",
+        "date": "2026-05-18T18:30:00.000Z",
+        "team1": "Lucknow Super Giants",
+        "team2": "Rajasthan Royals",
+        "winner": "Rajasthan Royals",
+        "venue": "Sawai Mansingh Stadium, Jaipur"
+      },
+      {
+        "id": "73f4189303504aafb0f794facb56d577",
+        "date": "2026-05-14T18:30:00.000Z",
+        "team1": "Chennai Super Kings",
+        "team2": "Lucknow Super Giants",
+        "winner": "Lucknow Super Giants",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+      },
+      {
+        "id": "296e247e6aae430cba833fb15a22948e",
+        "date": "2026-05-09T18:30:00.000Z",
+        "team1": "Lucknow Super Giants",
+        "team2": "Chennai Super Kings",
+        "winner": "Chennai Super Kings",
+        "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+      },
+      {
+        "id": "db5c14abda424eff963fef2c08269f67",
+        "date": "2026-05-06T18:30:00.000Z",
+        "team1": "Lucknow Super Giants",
+        "team2": "Royal Challengers Bengaluru",
+        "winner": "Lucknow Super Giants",
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+      }
+    ]
+  }
+}
