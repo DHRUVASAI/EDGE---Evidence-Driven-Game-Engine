@@ -28,12 +28,41 @@ interface LiveMatch {
   liveBowler: { name: string; overs: string; maidens: number; runs: number; wickets: number; econ: number };
 }
 
+const FLAG_MAP: Record<string, string> = {
+  IND: "in",
+  AUS: "au",
+  ENG: "gb",
+  RSA: "za",
+  PAK: "pk",
+  NZ: "nz",
+  SL: "lk",
+  BAN: "bd",
+  AFG: "af",
+  ZIM: "zw",
+  IRE: "ie",
+  NED: "nl",
+  USA: "us",
+  CAN: "ca",
+  NEP: "np",
+  SCO: "gb-sct",
+  UAE: "ae",
+  OMA: "om",
+  NAM: "na",
+  UGA: "ug",
+  PNG: "pg",
+};
+
 function TeamLogo({ logo, isImage, shortName }: { logo: string; isImage: boolean; shortName: string }) {
   const [imgError, setImgError] = useState(false);
-  if (isImage && logo && !imgError) {
+  const code = shortName.replace(/-W$/i, "").trim().toUpperCase();
+  const countryFlagCode = FLAG_MAP[code];
+  const logoUrl = countryFlagCode ? `https://flagcdn.com/h40/${countryFlagCode}.png` : logo;
+  const isActualImage = isImage || !!countryFlagCode;
+
+  if (isActualImage && logoUrl && !imgError) {
     return (
       <img
-        src={logo}
+        src={logoUrl}
         alt={shortName}
         onError={() => setImgError(true)}
         className="w-10 h-10 rounded-full object-cover border border-zinc-800 bg-zinc-900 shrink-0"
@@ -43,7 +72,7 @@ function TeamLogo({ logo, isImage, shortName }: { logo: string; isImage: boolean
   return (
     <div className={`w-10 h-10 rounded-full border flex items-center justify-center font-black shrink-0 ${
       shortName.length > 3 ? "text-[8px] tracking-tighter px-0.5" : "text-xs"
-    } ${isImage ? "bg-zinc-800 text-zinc-200 border-zinc-700" : logo}`}>
+    } ${isActualImage ? "bg-zinc-850 text-zinc-300 border-zinc-700" : logo}`}>
       {shortName}
     </div>
   );
@@ -116,6 +145,14 @@ export default function LiveMatches() {
   const match = matches[activeMatchIndex] || matches[0];
   if (!match) return null;
 
+  const handlePrev = () => {
+    setActiveMatchIndex((prev) => (prev === 0 ? matches.length - 1 : prev - 1));
+  };
+
+  const handleNext = () => {
+    setActiveMatchIndex((prev) => (prev === matches.length - 1 ? 0 : prev + 1));
+  };
+
   return (
     <div className="w-full flex flex-col gap-6 mb-12">
       {/* Section Header */}
@@ -149,10 +186,28 @@ export default function LiveMatches() {
               : "Simulated"}
           </span>
         </div>
-        <div className="flex gap-2 flex-wrap">
-          {matches.map((m, idx) => (
-            <MatchTabButton key={m.id} match={m} isActive={activeMatchIndex === idx} onClick={() => setActiveMatchIndex(idx)} />
-          ))}
+
+        {/* Pagination controls */}
+        <div className="flex items-center gap-3">
+          <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest bg-zinc-950/40 border border-zinc-900 rounded-lg px-2.5 py-1 flex items-center gap-1.5">
+            Match <span className="text-white font-extrabold">{activeMatchIndex + 1}</span> of <span className="text-white font-extrabold">{matches.length}</span>
+          </span>
+          <div className="flex items-center gap-1">
+            <button
+              onClick={handlePrev}
+              className="p-1.5 rounded-lg bg-zinc-950/40 border border-zinc-800 text-zinc-400 hover:text-zinc-200 hover:border-zinc-700 transition-all"
+              aria-label="Previous Match"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+            </button>
+            <button
+              onClick={handleNext}
+              className="p-1.5 rounded-lg bg-zinc-950/40 border border-zinc-800 text-zinc-400 hover:text-zinc-200 hover:border-zinc-700 transition-all"
+              aria-label="Next Match"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+            </button>
+          </div>
         </div>
       </div>
 
@@ -209,42 +264,32 @@ export default function LiveMatches() {
               </div>
             </div>
 
-            {/* Win Probability or Upcoming Countdown */}
-            {match.isUpcoming ? (
-              <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex items-center gap-3">
-                <Calendar size={16} className="text-amber-400 shrink-0" />
-                <div>
-                  <p className="text-[9px] font-bold text-zinc-500 uppercase tracking-wider">Scheduled</p>
-                  <p className="text-xs font-black text-amber-400 mt-0.5">{match.dateStr || "Date TBC"}</p>
-                </div>
+            {/* Win Probability (Shown for ALL matches: live, completed, upcoming) */}
+            <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col gap-3">
+              <div className="flex justify-between items-center text-[9px] font-black uppercase tracking-wider">
+                <span className="text-zinc-500">{match.teams.t1} {match.isUpcoming ? "PREDICTED ODDS" : "WIN CHANCE"}</span>
+                <span className={`text-[8px] px-1.5 py-0.5 rounded border shrink-0 ${
+                  match.winProb2 > 70
+                    ? "bg-green-500/10 text-green-400 border-green-500/20"
+                    : match.winProb2 > 40
+                    ? "bg-amber-500/10 text-amber-400 border-amber-500/20"
+                    : "bg-red-500/10 text-red-400 border-red-500/20"
+                }`}>
+                  {match.isUpcoming ? "PRE-MATCH" : match.winProb2 > 70 ? "LOW RISK" : match.winProb2 > 40 ? "MED RISK" : "HIGH RISK"}
+                </span>
+                <span className="text-lime-400">{match.teams.t2} {match.isUpcoming ? "PREDICTED ODDS" : "WIN CHANCE"}</span>
               </div>
-            ) : (
-              <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col gap-3">
-                <div className="flex justify-between items-center text-[9px] font-black uppercase tracking-wider">
-                  <span className="text-zinc-500">{match.teams.t1} WIN CHANCE</span>
-                  <span className={`text-[8px] px-1.5 py-0.5 rounded border shrink-0 ${
-                    match.winProb2 > 70
-                      ? "bg-green-500/10 text-green-400 border-green-500/20"
-                      : match.winProb2 > 40
-                      ? "bg-amber-500/10 text-amber-400 border-amber-500/20"
-                      : "bg-red-500/10 text-red-400 border-red-500/20"
-                  }`}>
-                    {match.winProb2 > 70 ? "LOW RISK" : match.winProb2 > 40 ? "MED RISK" : "HIGH RISK"}
-                  </span>
-                  <span className="text-lime-400">{match.teams.t2} WIN CHANCE</span>
-                </div>
-                
-                <div className="flex justify-between items-center text-xs font-black">
-                  <span className="text-zinc-400">{match.winProb1}%</span>
-                  <span className="text-lime-400">{match.winProb2}%</span>
-                </div>
-                
-                <div className="w-full h-2 bg-zinc-950 rounded-full overflow-hidden flex border border-zinc-900/60">
-                  <div className="h-full bg-zinc-700 transition-all duration-700" style={{ width: `${match.winProb1}%` }} />
-                  <div className="h-full bg-lime-400 transition-all duration-700 shadow-[0_0_8px_rgba(163,230,53,0.3)]" style={{ width: `${match.winProb2}%` }} />
-                </div>
+              
+              <div className="flex justify-between items-center text-xs font-black">
+                <span className="text-zinc-400">{match.winProb1}%</span>
+                <span className="text-lime-400">{match.winProb2}%</span>
               </div>
-            )}
+              
+              <div className="w-full h-2 bg-zinc-950 rounded-full overflow-hidden flex border border-zinc-900/60">
+                <div className="h-full bg-zinc-700 transition-all duration-700" style={{ width: `${match.winProb1}%` }} />
+                <div className="h-full bg-lime-400 transition-all duration-700 shadow-[0_0_8px_rgba(163,230,53,0.3)]" style={{ width: `${match.winProb2}%` }} />
+              </div>
+            </div>
           </div>
 
           {/* Column 2: Venue & Status */}

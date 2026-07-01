@@ -225,55 +225,30 @@ export async function GET() {
     const intlCurrent = allCurrent.filter(m => isInternational(m.name || "", m.teams || []));
     const intlUpcoming = allMatches.filter(m => !m.matchStarted && isInternational(m.name || "", m.teams || []));
 
-    // Separate live, recent, upcoming by gender
-    const liveMen = intlCurrent.filter(m => m.matchStarted && !m.matchEnded && !isWomens(m.name));
-    const liveWomen = intlCurrent.filter(m => m.matchStarted && !m.matchEnded && isWomens(m.name));
-    const recentMen = intlCurrent.filter(m => m.matchEnded && !isWomens(m.name));
-    const recentWomen = intlCurrent.filter(m => m.matchEnded && isWomens(m.name));
-
-    // Sort upcoming by date ascending (closest first)
-    intlUpcoming.sort((a, b) => new Date(a.dateTimeGMT).getTime() - new Date(b.dateTimeGMT).getTime());
-    const upcomingMen = intlUpcoming.filter(m => !isWomens(m.name));
-    const upcomingWomen = intlUpcoming.filter(m => isWomens(m.name));
-
-    // Build the final match list: live first, then recent, then upcoming — 1 men + 1 women
-    const selectedMatches: any[] = [];
-
-    if (liveMen.length > 0) selectedMatches.push(liveMen[0]);
-    else if (recentMen.length > 0) selectedMatches.push(recentMen[0]);
-
-    if (liveWomen.length > 0) selectedMatches.push(liveWomen[0]);
-    else if (recentWomen.length > 0) selectedMatches.push(recentWomen[0]);
-
-    // Always add upcoming if we have it
-    const upMen = upcomingMen[0];
-    const upWomen = upcomingWomen[0];
-    if (upMen) selectedMatches.push(upMen);
-    if (upWomen) selectedMatches.push(upWomen);
+    // Combine all international current (live/recent) and upcoming matches
+    const allIntl = [
+      ...intlCurrent,
+      ...intlUpcoming
+    ];
 
     // Deduplicate by match ID
     const seen = new Set<string>();
-    const deduped = selectedMatches.filter(m => {
+    const deduped = allIntl.filter(m => {
       if (seen.has(m.id)) return false;
       seen.add(m.id);
       return true;
     });
 
     if (deduped.length === 0) {
-      const cached = readCache();
-      if (cached) {
-        cached.source = "cached";
-        return NextResponse.json(cached);
-      }
-      return NextResponse.json({ source: "mock", matches: getMockData() });
+      throw new Error("No live or upcoming matches returned from CricAPI");
     }
 
-    const parsed = deduped.slice(0, 4).map((m, idx) => parseMatch(m, idx + 1));
+    const parsed = deduped.map((m, idx) => parseMatch(m, idx + 1));
     const anyLive = parsed.some(m => m.isLive);
 
     const resultObj = {
       source: anyLive ? "live" : "real",
-      liveCount: liveMen.length + liveWomen.length,
+      liveCount: intlCurrent.filter(m => m.matchStarted && !m.matchEnded).length,
       matches: parsed,
     };
 
@@ -291,15 +266,17 @@ export async function GET() {
         const currentDate = new Date().toLocaleDateString("en-IN", { timeZone: "Asia/Kolkata", day: "numeric", month: "short", year: "numeric" });
         const prompt = `Generate a realistic JSON response for simulated live, recently completed, or upcoming international cricket matches happening today (${currentDate}). Do NOT copy the sample match literally. Instead, generate actual realistic matches scheduled or played today (e.g., India vs England, Australia vs West Indies, South Africa vs Pakistan, etc., depending on current schedules).
 
-        Generate exactly 4 matches:
-        - 1 Match: Currently LIVE (isLive: true, isEnded: false, isUpcoming: false) in the middle of a tense chase (e.g., chasing team needs 35 runs in 4 overs, with active batsmen and bowlers).
-        - 1 Match: Recently completed (isEnded: true, isLive: false) with a final match outcome.
-        - 2 Matches: Upcoming scheduled for today or tomorrow (isUpcoming: true).
+        Generate exactly 8 matches (4 Men's matches, 4 Women's matches):
+        - 2 Matches: Currently LIVE (1 Men's, 1 Women's, isLive: true, isEnded: false, isUpcoming: false) in the middle of a chase. Chasing team win probability should match current score/overs.
+        - 2 Matches: Recently Completed (1 Men's, 1 Women's, isEnded: true, isLive: false) with final scores and outcome.
+        - 4 Matches: Upcoming scheduled for today or tomorrow (2 Men's, 2 Women's, isUpcoming: true).
+        
+        Ensure all Women's matches use the gender: "women" and their team shortcodes have the -W suffix (e.g. "IND-W", "AUS-W").
 
         Follow this exact JSON structure:
         {
           "source": "live",
-          "liveCount": 1,
+          "liveCount": 2,
           "matches": [
             {
               "id": 1,
@@ -346,7 +323,7 @@ export async function GET() {
           },
           body: JSON.stringify({
             model: "llama-3.3-70b-versatile",
-            max_tokens: 1500,
+            max_tokens: 3000,
             temperature: 0.5,
             messages: [{ role: "user", content: prompt }],
           }),
