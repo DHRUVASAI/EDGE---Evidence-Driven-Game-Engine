@@ -18,8 +18,11 @@ const TEAM_MAP: Record<string, string[]> = {
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    const teamKey = searchParams.get('teamKey') || 'CSK';
+    let teamKey = searchParams.get('teamKey') || 'CSK';
     const teamNames = TEAM_MAP[teamKey] || TEAM_MAP['CSK'];
+
+    // Map PBKS frontend key to PK backend shortkey for AuctionHistory table mapping
+    const lookupKey = teamKey === 'PBKS' ? 'PK' : teamKey;
 
     // Run non-joining queries in parallel to keep response time below 200ms
     const [statsRes, mvpBatterRes, mvpBowlerRes, recentMatches] = await Promise.all([
@@ -40,7 +43,7 @@ export async function GET(request: Request) {
       JOIN "Player" p ON cs."playerId" = p.id
       WHERE cs.format = 'T20' AND cs.runs IS NOT NULL
         AND p.id IN (
-          SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ${teamKey}
+          SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ${lookupKey}
         )
       ORDER BY cs.runs DESC
       LIMIT 1
@@ -53,7 +56,7 @@ export async function GET(request: Request) {
       JOIN "Player" p ON cs."playerId" = p.id
       WHERE cs.format = 'T20' AND cs.wickets IS NOT NULL
         AND p.id IN (
-          SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ${teamKey}
+          SELECT DISTINCT "playerId" FROM "AuctionHistory" WHERE team = ${lookupKey}
         )
       ORDER BY cs.wickets DESC
       LIMIT 1
