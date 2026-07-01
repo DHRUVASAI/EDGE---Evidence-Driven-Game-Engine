@@ -139,7 +139,7 @@ export default function IPLConsole() {
   const strokeDashoffset = circumference - (winRate / 100) * circumference;
 
   return (
-    <div className="w-full flex flex-col gap-6 mb-12">
+    <div id="ipl-console" className="w-full flex flex-col gap-6 mb-12">
       {/* Section Header */}
       <div className="flex items-center justify-between border-b border-zinc-800 pb-4">
         <div className="flex items-center gap-2">
