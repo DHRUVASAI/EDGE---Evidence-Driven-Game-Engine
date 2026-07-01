@@ -239,12 +239,12 @@ export async function GET() {
       return true;
     });
 
-    if (deduped.length === 0) {
-      throw new Error("No live or upcoming matches returned from CricAPI");
-    }
-
     const parsed = deduped.map((m, idx) => parseMatch(m, idx + 1));
     const anyLive = parsed.some(m => m.isLive);
+
+    if (deduped.length === 0 || !anyLive) {
+      throw new Error("No live matches currently returned from CricAPI");
+    }
 
     const resultObj = {
       source: anyLive ? "live" : "real",
