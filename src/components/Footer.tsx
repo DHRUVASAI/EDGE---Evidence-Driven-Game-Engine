@@ -17,11 +17,11 @@ export default function Footer() {
         </div>
         
         <div className="flex items-center gap-6">
-          <a href="#" className="text-zinc-500 hover:text-white transition-colors duration-200 flex items-center gap-2 text-xs font-medium">
+          <a href="https://github.com/DHRUVASAI/EDGE---Evidence-Driven-Game-Engine" target="_blank" rel="noopener noreferrer" className="text-zinc-500 hover:text-white transition-colors duration-200 flex items-center gap-2 text-xs font-medium">
             <GitBranch size={16} />
             <span className="hidden sm:inline">GitHub</span>
           </a>
-          <a href="mailto:contact@edge.test" className="text-zinc-500 hover:text-white transition-colors duration-200 flex items-center gap-2 text-xs font-medium">
+          <a href="mailto:dhruvasai1706@gmail.com" className="text-zinc-500 hover:text-white transition-colors duration-200 flex items-center gap-2 text-xs font-medium">
             <Mail size={16} />
             <span className="hidden sm:inline">Contact</span>
           </a>
