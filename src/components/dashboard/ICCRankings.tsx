@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
+import useSWR from "swr";
 import { Award, Shield, Globe } from "lucide-react";
 
 interface RankingPlayer {
@@ -15,7 +16,11 @@ interface FormatRankings {
   batting: RankingPlayer[];
   bowling: RankingPlayer[];
   allRounder: RankingPlayer[];
+  source?: string;
+  updatedAt?: string;
 }
+
+const fetcher = (url: string) => fetch(url).then((res) => res.json());
 
 const RANKINGS_DATA: Record<string, FormatRankings> = {
   T20: {
@@ -89,40 +94,31 @@ const RANKINGS_DATA: Record<string, FormatRankings> = {
   },
 };
 
-function PlayerAvatar({ imageUrl, name }: { imageUrl?: string; name: string }) {
-  const [error, setError] = useState(false);
-  const initials = name
-    .split(" ")
-    .map((n) => n[0])
-    .join("")
-    .toUpperCase()
-    .slice(0, 2);
-
-  React.useEffect(() => {
-    setError(false);
-  }, [imageUrl]);
-
-  if (!imageUrl || error) {
-    return (
-      <div className="w-8 h-8 rounded-full border border-zinc-800/80 bg-zinc-950 flex items-center justify-center font-black text-[10px] text-zinc-500 shrink-0">
-        {initials}
-      </div>
-    );
-  }
-
+function PlayerAvatar({ name }: { name: string }) {
   return (
     <img
-      src={imageUrl}
+      src={`/api/player-image?name=${encodeURIComponent(name)}`}
       alt={name}
-      onError={() => setError(true)}
-      className="w-8 h-8 rounded-full object-cover border border-zinc-800/60 shrink-0 animate-fade-in"
+      className="w-8 h-8 rounded-full object-cover border border-zinc-800/60 shrink-0"
+      onError={(e) => {
+        // SVG fallback is returned by the API itself, so this shouldn't fire
+        (e.currentTarget as HTMLImageElement).onerror = null;
+      }}
     />
   );
 }
 
 export default function ICCRankings() {
   const [format, setFormat] = useState<string>("T20");
-  const data = RANKINGS_DATA[format];
+  const { data: liveData, isLoading } = useSWR<FormatRankings>(
+    `/api/icc-rankings?format=${format}`,
+    fetcher,
+    {
+      revalidateOnFocus: false,
+      refreshInterval: 30 * 60 * 1000, // 30 minutes
+    }
+  );
+  const data = liveData || RANKINGS_DATA[format];
 
   const getRankColor = (rank: number) => {
     switch (rank) {
@@ -138,7 +134,7 @@ export default function ICCRankings() {
   };
 
   const renderColumn = (title: string, icon: React.ReactNode, list: RankingPlayer[]) => (
-    <div className="rounded-xl border border-zinc-800/80 bg-zinc-900/10 p-5 flex flex-col gap-4">
+    <div className="rounded-xl border border-zinc-800/80 bg-zinc-900/10 p-5 flex flex-col gap-4 hover:border-zinc-700/80 transition-all duration-300">
       <div className="flex items-center gap-2 border-b border-zinc-800/50 pb-3">
         {icon}
         <h3 className="text-xs font-bold uppercase tracking-wider text-zinc-200">{title}</h3>
@@ -147,7 +143,7 @@ export default function ICCRankings() {
         {list.map((p) => (
           <div
             key={p.rank}
-            className="flex items-center justify-between p-2.5 rounded-lg border border-zinc-800/30 bg-zinc-900/20 hover:border-zinc-800/80 transition-all group"
+            className="flex items-center justify-between p-2.5 rounded-lg border border-zinc-800/30 bg-zinc-900/20 hover:border-zinc-700/60 hover:bg-zinc-900/40 transition-all group"
           >
             <div className="flex items-center gap-3 min-w-0">
               <span
@@ -157,7 +153,7 @@ export default function ICCRankings() {
               >
                 {p.rank}
               </span>
-              <PlayerAvatar imageUrl={p.imageUrl} name={p.name} />
+              <PlayerAvatar name={p.name} />
               <div className="min-w-0">
                 <span className="block text-xs font-bold text-zinc-100 group-hover:text-white truncate transition-colors">
                   {p.name}
@@ -177,24 +173,44 @@ export default function ICCRankings() {
   );
 
   return (
-    <div className="w-full flex flex-col gap-6 mb-8">
+    <div className="w-full flex flex-col gap-6">
       {/* Title & Format Selector */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-zinc-800 pb-4">
         <div className="flex items-center gap-2">
           <Globe size={18} className="text-lime-400" />
-          <h2 className="text-base font-bold text-white tracking-tight uppercase">
-            Official ICC Player Rankings
-          </h2>
+          <div>
+            <h2 className="text-base font-bold text-white tracking-tight uppercase">
+              Official ICC Player Rankings
+            </h2>
+            {data.updatedAt && (
+              <p className="text-[10px] text-zinc-500 mt-0.5 uppercase tracking-wider">
+                {data.source === "icc-live" ? (
+                  <span className="inline-flex items-center gap-1">
+                    <span className="w-1.5 h-1.5 rounded-full bg-lime-500 animate-pulse" />
+                    Live ICC feed
+                  </span>
+                ) : (
+                  "Fallback rankings"
+                )} · Updated {new Date(data.updatedAt).toLocaleString('en-US', { 
+                  month: 'short', 
+                  day: 'numeric', 
+                  hour: '2-digit', 
+                  minute: '2-digit' 
+                })}
+              </p>
+            )}
+          </div>
         </div>
         <div className="flex bg-zinc-900/60 p-1 border border-zinc-800 rounded-lg self-start sm:self-auto">
           {["T20", "ODI", "Test"].map((f) => (
             <button
               key={f}
               onClick={() => setFormat(f)}
-              className={`px-3 py-1 rounded-[6px] text-xs font-semibold uppercase tracking-wider transition-all ${
+              disabled={isLoading}
+              className={`px-3 py-1 rounded-[6px] text-xs font-semibold uppercase tracking-wider transition-all disabled:opacity-50 ${
                 format === f
                   ? "bg-lime-400 text-black font-bold shadow-[0_0_15px_rgba(163,230,53,0.15)]"
-                  : "text-zinc-400 hover:text-white"
+                  : "text-zinc-400 hover:text-white hover:bg-zinc-800/50"
               }`}
             >
               {f}
@@ -204,23 +220,31 @@ export default function ICCRankings() {
       </div>
 
       {/* 3-Column Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {renderColumn(
-          "Top Batsmen",
-          <Shield size={14} className="text-yellow-500" />,
-          data.batting
-        )}
-        {renderColumn(
-          "Top Bowlers",
-          <Award size={14} className="text-lime-400" />,
-          data.bowling
-        )}
-        {renderColumn(
-          "Top All-Rounders",
-          <Shield size={14} className="text-blue-400" />,
-          data.allRounder
-        )}
-      </div>
+      {isLoading ? (
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {[1, 2, 3].map((i) => (
+            <div key={i} className="h-80 rounded-xl border border-zinc-800/80 bg-zinc-900/10 animate-pulse" />
+          ))}
+        </div>
+      ) : (
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {renderColumn(
+            "Top Batsmen",
+            <Shield size={14} className="text-yellow-500" />,
+            data.batting
+          )}
+          {renderColumn(
+            "Top Bowlers",
+            <Award size={14} className="text-lime-400" />,
+            data.bowling
+          )}
+          {renderColumn(
+            "Top All-Rounders",
+            <Shield size={14} className="text-blue-400" />,
+            data.allRounder
+          )}
+        </div>
+      )}
     </div>
   );
 }

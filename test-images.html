@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CricMetrics - Player Image Test</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #0a0a0f;
+            color: white;
+            padding: 40px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #a3e635;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            color: #71717a;
+            margin-bottom: 40px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .player-card {
+            background: #18181b;
+            border: 1px solid #27272a;
+            border-radius: 12px;
+            padding: 16px;
+            text-align: center;
+            transition: all 0.2s;
+        }
+        .player-card:hover {
+            border-color: #a3e635;
+            transform: translateY(-2px);
+        }
+        .player-card img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid #3f3f46;
+            margin-bottom: 12px;
+        }
+        .player-name {
+            font-size: 14px;
+            font-weight: 600;
+            color: white;
+            margin-bottom: 4px;
+        }
+        .player-country {
+            font-size: 11px;
+            color: #71717a;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .stats {
+            margin-top: 40px;
+            padding: 20px;
+            background: #18181b;
+            border: 1px solid #27272a;
+            border-radius: 12px;
+        }
+        .stats h2 {
+            color: #a3e635;
+            font-size: 18px;
+            margin-bottom: 16px;
+        }
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #27272a;
+        }
+        .stat-row:last-child {
+            border-bottom: none;
+        }
+        .stat-label {
+            color: #71717a;
+        }
+        .stat-value {
+            color: white;
+            font-weight: 600;
+        }
+        .success {
+            color: #22c55e;
+        }
+        .warning {
+            color: #f59e0b;
+        }
+    </style>
+</head>
+<body>
+    <h1>🏏 Player Image Test</h1>
+    <p class="subtitle">Testing image loading from multiple sources</p>
+
+    <div class="grid" id="playerGrid"></div>
+
+    <div class="stats">
+        <h2>📊 Loading Statistics</h2>
+        <div class="stat-row">
+            <span class="stat-label">Total Players:</span>
+            <span class="stat-value" id="totalPlayers">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Images Loaded:</span>
+            <span class="stat-value success" id="loadedCount">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">SVG Fallbacks:</span>
+            <span class="stat-value warning" id="svgCount">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Failed to Load:</span>
+            <span class="stat-value" style="color: #ef4444;" id="failedCount">0</span>
+        </div>
+        <div class="stat-row">
+            <span class="stat-label">Success Rate:</span>
+            <span class="stat-value" id="successRate">0%</span>
+        </div>
+    </div>
+
+    <script>
+        const players = [
+            // India
+            { name: 'Virat Kohli', country: 'IND' },
+            { name: 'Rohit Sharma', country: 'IND' },
+            { name: 'MS Dhoni', country: 'IND' },
+            { name: 'Jasprit Bumrah', country: 'IND' },
+            { name: 'Hardik Pandya', country: 'IND' },
+            { name: 'Ravindra Jadeja', country: 'IND' },
+            { name: 'Shubman Gill', country: 'IND' },
+            { name: 'KL Rahul', country: 'IND' },
+            { name: 'Suryakumar Yadav', country: 'IND' },
+            { name: 'Ravichandran Ashwin', country: 'IND' },
+            
+            // Australia
+            { name: 'Steve Smith', country: 'AUS' },
+            { name: 'David Warner', country: 'AUS' },
+            { name: 'Pat Cummins', country: 'AUS' },
+            { name: 'Mitchell Starc', country: 'AUS' },
+            { name: 'Travis Head', country: 'AUS' },
+            { name: 'Glenn Maxwell', country: 'AUS' },
+            { name: 'Adam Zampa', country: 'AUS' },
+            { name: 'Marcus Stoinis', country: 'AUS' },
+            
+            // England
+            { name: 'Joe Root', country: 'ENG' },
+            { name: 'Ben Stokes', country: 'ENG' },
+            { name: 'Jos Buttler', country: 'ENG' },
+            { name: 'Harry Brook', country: 'ENG' },
+            { name: 'Jofra Archer', country: 'ENG' },
+            { name: 'Phil Salt', country: 'ENG' },
+            { name: 'Liam Livingstone', country: 'ENG' },
+            { name: 'Adil Rashid', country: 'ENG' },
+            
+            // Pakistan
+            { name: 'Babar Azam', country: 'PAK' },
+            { name: 'Shaheen Afridi', country: 'PAK' },
+            { name: 'Mohammad Rizwan', country: 'PAK' },
+            { name: 'Shadab Khan', country: 'PAK' },
+            
+            // West Indies
+            { name: 'Nicholas Pooran', country: 'WI' },
+            { name: 'Andre Russell', country: 'WI' },
+            { name: 'Akeal Hosein', country: 'WI' },
+            
+            // Others
+            { name: 'Kane Williamson', country: 'NZ' },
+            { name: 'Trent Boult', country: 'NZ' },
+            { name: 'Kagiso Rabada', country: 'SA' },
+            { name: 'Quinton de Kock', country: 'SA' },
+            { name: 'Rashid Khan', country: 'AFG' },
+            { name: 'Wanindu Hasaranga', country: 'SL' },
+            { name: 'Shakib Al Hasan', country: 'BAN' },
+        ];
+
+        let loadedCount = 0;
+        let svgCount = 0;
+        let failedCount = 0;
+
+        function updateStats() {
+            document.getElementById('totalPlayers').textContent = players.length;
+            document.getElementById('loadedCount').textContent = loadedCount;
+            document.getElementById('svgCount').textContent = svgCount;
+            document.getElementById('failedCount').textContent = failedCount;
+            const successRate = Math.round((loadedCount / players.length) * 100);
+            document.getElementById('successRate').textContent = successRate + '%';
+        }
+
+        function createPlayerCard(player) {
+            const card = document.createElement('div');
+            card.className = 'player-card';
+            
+            const img = document.createElement('img');
+            const imageUrl = `http://localhost:3000/api/player-image?name=${encodeURIComponent(player.name)}`;
+            img.src = imageUrl;
+            img.alt = player.name;
+            
+            img.onload = function() {
+                // Check if it's an SVG (fallback)
+                if (img.src.includes('data:image/svg') || this.naturalWidth === 160) {
+                    svgCount++;
+                    card.style.borderColor = '#f59e0b';
+                } else {
+                    loadedCount++;
+                    card.style.borderColor = '#22c55e';
+                }
+                updateStats();
+            };
+            
+            img.onerror = function() {
+                failedCount++;
+                card.style.borderColor = '#ef4444';
+                updateStats();
+            };
+            
+            const name = document.createElement('div');
+            name.className = 'player-name';
+            name.textContent = player.name;
+            
+            const country = document.createElement('div');
+            country.className = 'player-country';
+            country.textContent = player.country;
+            
+            card.appendChild(img);
+            card.appendChild(name);
+            card.appendChild(country);
+            
+            return card;
+        }
+
+        // Render all players
+        const grid = document.getElementById('playerGrid');
+        players.forEach(player => {
+            grid.appendChild(createPlayerCard(player));
+        });
+
+        // Initial stats
+        updateStats();
+    </script>
+</body>
+</html>

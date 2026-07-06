@@ -94,7 +94,7 @@ interface PlayerData {
   battingStyle: string | null;
   bowlingStyle: string | null;
   imageUrl: string | null;
-  bio: string | null;
+  bio?: string | null;
   careerStats: Record<string, CareerStat>;
 }
 

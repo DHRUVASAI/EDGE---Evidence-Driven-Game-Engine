@@ -9,42 +9,42 @@ datasource db {
 }
 
 model Player {
-  id            String   @id @default(cuid())
-  name          String
-  fullName      String?
-  country       String?
-  role          String?
-  battingStyle  String?
-  bowlingStyle  String?
-  espnId        String?
-  cricsheetId   String?  @unique
-  dob           DateTime?
-  bio           String?    @db.Text
-  imageUrl      String?
-  createdAt     DateTime @default(now())
-  careerStats   CareerStat[]
+  id             String           @id @default(cuid())
+  name           String
+  fullName       String?
+  country        String?
+  role           String?
+  battingStyle   String?
+  bowlingStyle   String?
+  espnId         String?
+  cricsheetId    String?          @unique
+  imageUrl       String?
+  createdAt      DateTime         @default(now())
+  careerStats    CareerStat[]
   auctionHistory AuctionHistory[]
+
   @@index([country])
   @@index([role])
 }
 
 model Match {
-  id             String     @id @default(cuid())
-  matchId        String     @unique
-  format         String
-  date           DateTime?
-  venue          String?
-  city           String?
-  team1          String?
-  team2          String?
-  winner         String?
-  playerOfMatch  String?
-  tossWinner     String?
-  tossDecision   String?
-  season         String?
-  stadiumName    String?
-  deliveries     Delivery[]
-  createdAt      DateTime   @default(now())
+  id            String     @id @default(cuid())
+  matchId       String     @unique
+  format        String
+  date          DateTime?
+  venue         String?
+  city          String?
+  team1         String?
+  team2         String?
+  winner        String?
+  playerOfMatch String?
+  tossWinner    String?
+  tossDecision  String?
+  season        String?
+  gender        String?
+  deliveries    Delivery[]
+  createdAt     DateTime   @default(now())
+
   @@index([format])
   @@index([season])
 }

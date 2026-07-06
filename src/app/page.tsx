@@ -10,6 +10,7 @@ import QuickActions from "@/components/dashboard/QuickActions";
 import WinProbabilityCalculator from "@/components/dashboard/WinProbabilityCalculator";
 import FantasyCommandCenter from "@/components/dashboard/FantasyCommandCenter";
 import MicroBattleAnalysis from "@/components/dashboard/MicroBattleAnalysis";
+import PlayerFormDashboard from "@/components/dashboard/PlayerFormDashboard";
 import Footer from "@/components/Footer";
 
 const fetcher = (url: string) => fetch(url).then((res) => res.json());
@@ -57,7 +58,7 @@ export default function Home() {
       <IntroSplash />
 
       {/* Dashboard container */}
-      <div className="flex-1 w-full max-w-7xl mx-auto px-4 md:px-8 py-12 relative z-10">
+      <div className="flex-1 w-full max-w-7xl mx-auto px-4 md:px-8 py-12 relative z-10 space-y-16">
         {isLoading ? (
           <LoadingSkeleton />
         ) : error ? (
@@ -72,12 +73,26 @@ export default function Home() {
               totalPlayers={data.counts.totalPlayers}
               matchesPerFormat={data.counts.matchesPerFormat}
             />
-            <LiveMatches />
-            <ICCRankings />
-            <IPLConsole />
-            <WinProbabilityCalculator />
-            <FantasyCommandCenter />
-            <MicroBattleAnalysis />
+            
+            {/* Section: Live & Rankings */}
+            <section className="space-y-10">
+              <LiveMatches />
+              <ICCRankings />
+            </section>
+
+            {/* Section: IPL & Probability */}
+            <section className="space-y-10">
+              <IPLConsole />
+              <WinProbabilityCalculator />
+            </section>
+
+            {/* Section: Advanced Analysis */}
+            <section className="space-y-10">
+              <FantasyCommandCenter />
+              <MicroBattleAnalysis />
+              <PlayerFormDashboard />
+            </section>
+
             <QuickActions />
           </>
         )}

@@ -1,7 +1,8 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
-import { getPlayerImageUrl, getDisplayName } from '@/lib/utils';
+import { getDisplayName, getPlayerImageApiUrl } from '@/lib/utils';
 import { generatePlayerBio } from '@/lib/generatePlayerBio';
+// Note: bio column does not exist in the DB; bio is generated on-the-fly and returned in the response only
 
 export async function GET(request: Request, { params }: { params: Promise<{ id: string }> }) {
   try {
@@ -84,7 +85,7 @@ export async function GET(request: Request, { params }: { params: Promise<{ id: 
     const responseData: any = {
       ...player,
       displayName: getDisplayName(player),
-      imageUrl: player.imageUrl || getPlayerImageUrl(player.espnId),
+      imageUrl: getPlayerImageApiUrl(player),
       careerStats: statsByFormat,
       recentMatches: processedMatches
     };
@@ -95,25 +96,20 @@ export async function GET(request: Request, { params }: { params: Promise<{ id: 
       wickets += s.wickets || 0;
       matches += s.matches || 0;
     });
-    if (!player.bio) {
-      const bio = await generatePlayerBio({
-        name: player.fullName || player.name,
-        country: player.country,
-        role: player.role,
-        battingStyle: player.battingStyle,
-        bowlingStyle: player.bowlingStyle,
-        runs,
-        wickets,
-        matches,
-      });
 
-      if (bio) {
-        await prisma.player.update({
-          where: { id: player.id },
-          data: { bio },
-        });
-        responseData.bio = bio;
-      }
+    // bio column doesn't exist in the DB — generate it on the fly and include in response only
+    const bio = await generatePlayerBio({
+      name: player.fullName || player.name,
+      country: player.country,
+      role: player.role,
+      battingStyle: player.battingStyle,
+      bowlingStyle: player.bowlingStyle,
+      runs,
+      wickets,
+      matches,
+    });
+    if (bio) {
+      responseData.bio = bio;
     }
 
     return NextResponse.json(responseData);

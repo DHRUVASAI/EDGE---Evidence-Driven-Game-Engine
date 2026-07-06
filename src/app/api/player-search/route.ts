@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
-import { getPlayerImageUrl, getDisplayName } from '@/lib/utils';
+import { getDisplayName, getPlayerImageApiUrl } from '@/lib/utils';
 
 // Helper to normalize strings: lowercase, strip punctuation, strip extra spaces
 function cleanString(s: string): string {
@@ -208,7 +208,7 @@ export async function GET(request: Request) {
         country: p.country,
         role: p.role,
         espnId: p.espnId,
-        imageUrl: p.imageUrl || getPlayerImageUrl(p.espnId),
+        imageUrl: getPlayerImageApiUrl(p),
         topFormat: pStats.topFormat,
         runs: pStats.runs,
         wickets: pStats.wickets,

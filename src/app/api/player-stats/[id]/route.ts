@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
-import { getPlayerImageUrl, getDisplayName } from '@/lib/utils';
+import { getDisplayName, getPlayerImageApiUrl } from '@/lib/utils';
 
 export async function GET(request: Request, { params }: { params: Promise<{ id: string }> }) {
   try {
@@ -174,7 +174,7 @@ export async function GET(request: Request, { params }: { params: Promise<{ id: 
       role: player.role,
       battingStyle: player.battingStyle,
       bowlingStyle: player.bowlingStyle,
-      imageUrl: getPlayerImageUrl(player.imageUrl),
+      imageUrl: getPlayerImageApiUrl(player),
       careerStats: statsByFormat,
     });
   } catch (error: any) {
