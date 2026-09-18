@@ -1,0 +1,1887 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-10-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2025-10-09"
+    ],
+    "event": {
+      "name": "Women's Continental Cup",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2531,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Romania",
+      "by": {
+        "runs": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RL Blake"
+    ],
+    "players": {
+      "Romania": [
+        "N Kuruppu",
+        "RL Blake",
+        "M Kearvell",
+        "I Muntean",
+        "A Lupascu",
+        "D Tanase",
+        "J Chirila",
+        "G Ionita",
+        "I Palliya",
+        "C Cirlig",
+        "M Marin"
+      ],
+      "Austria": [
+        "P Sabu",
+        "AM Zepeda",
+        "S Bhardwaj",
+        "MPM Pathirannehelage",
+        "A Nookala",
+        "V Poglitsch",
+        "P Talloji",
+        "H Bhullar",
+        "Prithaa Ganeshan",
+        "Ashi Chopla",
+        "SM Ariyasinghage"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Lupascu": "66f819df",
+        "A Nookala": "57922f7c",
+        "AM Zepeda": "c9f95a16",
+        "Ashi Chopla": "89d6902b",
+        "C Cirlig": "9cfee623",
+        "D Tanase": "3e377209",
+        "G Ionita": "c5c308b7",
+        "H Bhullar": "c9ffb93d",
+        "I Muntean": "9b88f80e",
+        "I Palliya": "a5824c28",
+        "J Chirila": "a801ca06",
+        "M Kearvell": "d802854a",
+        "M Marin": "2feef01b",
+        "MPM Pathirannehelage": "0c142594",
+        "N Kuruppu": "bacbc4ee",
+        "P Sabu": "a38da707",
+        "P Talloji": "e5b2e2eb",
+        "Prithaa Ganeshan": "ab7b5a48",
+        "RL Blake": "e2b58daf",
+        "S Bhardwaj": "83e9173e",
+        "SM Ariyasinghage": "64ddc3e7",
+        "V Poglitsch": "e7351fbd"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Romania",
+      "Austria"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Austria"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "Romania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Kuruppu",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "N Kuruppu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "N Kuruppu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kuruppu",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kuruppu",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "N Kuruppu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "N Kuruppu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "N Kuruppu",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kuruppu",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kuruppu",
+              "bowler": "P Sabu",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Kuruppu",
+              "bowler": "P Sabu",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kuruppu",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kuruppu",
+              "bowler": "P Sabu",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Kuruppu",
+                  "fielders": [
+                    {
+                      "name": "V Poglitsch"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "P Sabu",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "P Sabu",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "P Sabu",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "AM Zepeda",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "AM Zepeda",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RL Blake",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "Ashi Chopla",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "Ashi Chopla",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Kearvell",
+              "bowler": "S Bhardwaj",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Kearvell",
+              "bowler": "Ashi Chopla",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "Ashi Chopla",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "Ashi Chopla",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "Ashi Chopla",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Kearvell",
+              "bowler": "SM Ariyasinghage",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "SM Ariyasinghage",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "SM Ariyasinghage",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "SM Ariyasinghage",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "SM Ariyasinghage",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "SM Ariyasinghage",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "SM Ariyasinghage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "SM Ariyasinghage",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "P Sabu",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "AM Zepeda",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "AM Zepeda",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M Kearvell",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kearvell",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "RL Blake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Blake",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Kearvell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Kearvell",
+                  "fielders": [
+                    {
+                      "name": "MPM Pathirannehelage"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Sabu",
+              "bowler": "J Chirila",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "J Chirila",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "J Chirila",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "J Chirila",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "J Chirila",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "J Chirila",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "J Chirila",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "J Chirila",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Kearvell",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Kearvell",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "P Sabu",
+              "bowler": "A Lupascu",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "A Lupascu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "A Lupascu",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Sabu",
+              "bowler": "A Lupascu",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "A Lupascu",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Kearvell",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Kearvell",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Kearvell",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Kearvell",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Kearvell",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "I Muntean",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "J Chirila",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "J Chirila",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "J Chirila",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "J Chirila",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "J Chirila",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "J Chirila",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.9,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 109
+      }
+    }
+  ]
+}

@@ -1,0 +1,2958 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-12-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2025-12-17"
+    ],
+    "event": {
+      "name": "SEA Games Women's Twenty20 Cricket Competition",
+      "match_number": 6,
+      "group": "A"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2610,
+    "officials": {
+      "match_referees": [
+        "Suresh Singh"
+      ],
+      "reserve_umpires": [
+        "Peerawat Duangtip"
+      ],
+      "tv_umpires": [
+        "A Natarajan"
+      ],
+      "umpires": [
+        "Anwesh Bose",
+        "AK Rana"
+      ]
+    },
+    "outcome": {
+      "winner": "Myanmar",
+      "by": {
+        "runs": 72
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Myanmar": [
+        "TT Soe",
+        "Zon Lin",
+        "MPP San",
+        "ZL Win",
+        "LL Htun",
+        "TT Aung",
+        "Thae Thae Po",
+        "ZT Kyaw",
+        "HH Aung",
+        "TS Shwe",
+        "Pan Ei Phyu"
+      ],
+      "Singapore": [
+        "Shafina Mahesh",
+        "LAR Bommareddy",
+        "RR Seth",
+        "GK Diviya",
+        "S Merican",
+        "NL Jacinta Si Ping",
+        "Ananya Sarma",
+        "H Dhavina",
+        "Pushpa Murali",
+        "JS Pooranakaran",
+        "CH Abeyratne"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Natarajan": "a2b73ae0",
+        "AK Rana": "562d74d0",
+        "Ananya Sarma": "0bb03efc",
+        "Anwesh Bose": "3bdae121",
+        "CH Abeyratne": "ef423744",
+        "GK Diviya": "992979fa",
+        "H Dhavina": "cd12f384",
+        "HH Aung": "860042f6",
+        "JS Pooranakaran": "417bde96",
+        "LAR Bommareddy": "3da8cd3a",
+        "LL Htun": "ec687c3a",
+        "MPP San": "5bc290a2",
+        "NL Jacinta Si Ping": "68c9a36f",
+        "Pan Ei Phyu": "9fcaeb60",
+        "Peerawat Duangtip": "af5820b5",
+        "Pushpa Murali": "459d974f",
+        "RR Seth": "7ccc0a38",
+        "S Merican": "f3f6f5a0",
+        "Shafina Mahesh": "0c40b02d",
+        "Suresh Singh": "073de6f9",
+        "TS Shwe": "9e9d50b9",
+        "TT Aung": "57fb24e6",
+        "TT Soe": "59f44fde",
+        "Thae Thae Po": "48a372a4",
+        "ZL Win": "b5714cf9",
+        "ZT Kyaw": "cdf63aaa",
+        "Zon Lin": "3b492b8d"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Myanmar",
+      "Singapore"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Myanmar"
+    },
+    "venue": "Terdthai Cricket Ground, Bangkok"
+  },
+  "innings": [
+    {
+      "team": "Myanmar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "TT Soe",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TT Soe",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TT Soe",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TT Soe",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Soe",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TT Soe",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TT Soe",
+              "bowler": "RR Seth",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zon Lin",
+              "bowler": "RR Seth",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zon Lin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "RR Seth",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "RR Seth",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "RR Seth",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "RR Seth",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "TT Soe",
+              "bowler": "GK Diviya",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Soe",
+              "bowler": "GK Diviya",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Soe",
+              "bowler": "GK Diviya",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Soe",
+              "bowler": "GK Diviya",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TT Soe",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "ZL Win",
+              "bowler": "GK Diviya",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZL Win",
+              "bowler": "GK Diviya",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MPP San",
+              "bowler": "RR Seth",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "RR Seth",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "RR Seth",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "RR Seth",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZL Win",
+              "bowler": "RR Seth",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ZL Win",
+              "bowler": "RR Seth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZL Win",
+              "bowler": "RR Seth",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZL Win",
+              "bowler": "RR Seth",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MPP San",
+              "bowler": "GK Diviya",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "GK Diviya",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "GK Diviya",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZL Win",
+              "bowler": "GK Diviya",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "GK Diviya",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPP San",
+              "bowler": "GK Diviya",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPP San",
+                  "fielders": [
+                    {
+                      "name": "LAR Bommareddy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ZL Win",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZL Win",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "TT Aung",
+              "bowler": "RR Seth",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "TT Aung",
+              "bowler": "GK Diviya",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "GK Diviya",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "GK Diviya",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "GK Diviya",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "GK Diviya",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "GK Diviya",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "RR Seth",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LL Htun",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "LL Htun",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LL Htun",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "H Dhavina",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "H Dhavina",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Thae Thae Po",
+              "bowler": "GK Diviya",
+              "non_striker": "TT Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TT Aung",
+              "bowler": "GK Diviya",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TT Aung",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "ZT Kyaw",
+              "bowler": "GK Diviya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ZT Kyaw",
+              "bowler": "GK Diviya",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZT Kyaw",
+              "bowler": "GK Diviya",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ZT Kyaw",
+              "bowler": "GK Diviya",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ZT Kyaw",
+              "bowler": "GK Diviya",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZT Kyaw",
+                  "fielders": [
+                    {
+                      "name": "Shafina Mahesh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.9,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "LAR Bommareddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "LAR Bommareddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LAR Bommareddy",
+              "bowler": "ZL Win",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LAR Bommareddy",
+              "bowler": "ZL Win",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LAR Bommareddy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "ZL Win",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "ZL Win",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "HH Aung",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "HH Aung",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "ZL Win",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "ZL Win",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "HH Aung",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "ZL Win",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "ZL Win",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "LL Htun",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LL Htun",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LL Htun",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LL Htun",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LL Htun",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LL Htun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LL Htun",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shafina Mahesh",
+                  "fielders": [
+                    {
+                      "name": "Zon Lin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Seth",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "Pan Ei Phyu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "S Merican",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "S Merican",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "S Merican",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Merican",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Merican",
+                  "fielders": [
+                    {
+                      "name": "Thae Thae Po"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "NL Jacinta Si Ping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "NL Jacinta Si Ping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "NL Jacinta Si Ping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "NL Jacinta Si Ping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NL Jacinta Si Ping",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NL Jacinta Si Ping",
+                  "fielders": [
+                    {
+                      "name": "Thae Thae Po"
+                    },
+                    {
+                      "name": "ZT Kyaw"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "Ananya Sarma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ananya Sarma",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ananya Sarma",
+                  "fielders": [
+                    {
+                      "name": "Thae Thae Po"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Dhavina",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Dhavina",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Dhavina",
+              "bowler": "MPP San",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "MPP San",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "TT Soe",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "TT Soe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "TT Soe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "TT Soe",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GK Diviya",
+                  "fielders": [
+                    {
+                      "name": "LL Htun"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Pushpa Murali",
+              "bowler": "TT Soe",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pushpa Murali",
+              "bowler": "TT Soe",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Dhavina",
+              "bowler": "TT Soe",
+              "non_striker": "Pushpa Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Dhavina",
+              "bowler": "TT Soe",
+              "non_striker": "Pushpa Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Pushpa Murali",
+              "bowler": "Zon Lin",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pushpa Murali",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JS Pooranakaran",
+              "bowler": "Zon Lin",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JS Pooranakaran",
+              "bowler": "Zon Lin",
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JS Pooranakaran",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "Zon Lin",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "H Dhavina",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Dhavina",
+              "bowler": "Zon Lin",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Dhavina",
+              "bowler": "Zon Lin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Dhavina",
+              "bowler": "Zon Lin",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Dhavina",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 124
+      }
+    }
+  ]
+}

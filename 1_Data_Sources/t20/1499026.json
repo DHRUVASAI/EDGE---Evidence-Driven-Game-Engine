@@ -1,0 +1,3341 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ishoj",
+    "dates": [
+      "2025-08-30"
+    ],
+    "event": {
+      "name": "Nordic Women T20 Cup",
+      "match_number": 6
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2456,
+    "officials": {
+      "umpires": [
+        "AK Saini",
+        "Zeb Pirzada"
+      ]
+    },
+    "outcome": {
+      "winner": "Germany",
+      "by": {
+        "runs": 78
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "JE Ronalds"
+    ],
+    "players": {
+      "Germany": [
+        "W Hornero-Garcia",
+        "A Kanukuntla",
+        "N Kingsley",
+        "Aishani Kishore",
+        "JE Ronalds",
+        "K Vijayaraghavan",
+        "S Kolcharam",
+        "A Kohli",
+        "V Stolle",
+        "A Meyenborg",
+        "Ashwini Balaji"
+      ],
+      "Norway": [
+        "AS Gorad",
+        "Mirab Sajjad",
+        "Ayesha Hasan",
+        "Bijeyata Kumari",
+        "R Immadi",
+        "L Stanfergin",
+        "VB Viyala",
+        "Alina Aslam",
+        "Mirab Razwan",
+        "Lopamudra",
+        "Prachi Kumari"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kanukuntla": "2fa8a697",
+        "A Kohli": "eb9082b2",
+        "A Meyenborg": "edbc9441",
+        "AK Saini": "894ebe7e",
+        "AS Gorad": "2c8d0953",
+        "Aishani Kishore": "2bd89375",
+        "Alina Aslam": "fbffb752",
+        "Ashwini Balaji": "81283f75",
+        "Ayesha Hasan": "6a3de477",
+        "Bijeyata Kumari": "a5fc18a7",
+        "JE Ronalds": "d4f98302",
+        "K Vijayaraghavan": "048da365",
+        "L Stanfergin": "ef114b4c",
+        "Lopamudra": "ff4509d5",
+        "Mirab Razwan": "498031f9",
+        "Mirab Sajjad": "41db4d1f",
+        "N Kingsley": "31036a1d",
+        "Prachi Kumari": "dc4f97bf",
+        "R Immadi": "baeae6dd",
+        "S Kolcharam": "761c929e",
+        "V Stolle": "0dc4ac6c",
+        "VB Viyala": "228a747d",
+        "W Hornero-Garcia": "7d5fef52",
+        "Zeb Pirzada": "716e41af"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Germany",
+      "Norway"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Germany"
+    },
+    "venue": "Ishoj Cricket Club, Vejledalen"
+  },
+  "innings": [
+    {
+      "team": "Germany",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "Alina Aslam",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "Alina Aslam",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "Alina Aslam",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "Alina Aslam",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "Alina Aslam",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Alina Aslam",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Alina Aslam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Alina Aslam",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Alina Aslam",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "Alina Aslam",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "Alina Aslam",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Alina Aslam",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Alina Aslam",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Alina Aslam",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "R Immadi",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "R Immadi",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "R Immadi",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "R Immadi",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Hornero-Garcia",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Mirab Razwan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Mirab Razwan",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Mirab Razwan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "VB Viyala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "VB Viyala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kanukuntla",
+                  "fielders": [
+                    {
+                      "name": "AS Gorad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "VB Viyala",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "N Kingsley",
+              "bowler": "VB Viyala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "VB Viyala",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "VB Viyala",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "N Kingsley",
+              "bowler": "Alina Aslam",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Alina Aslam",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Alina Aslam",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Alina Aslam",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Alina Aslam",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Alina Aslam",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "N Kingsley",
+              "bowler": "R Immadi",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "R Immadi",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "R Immadi",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "R Immadi",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "R Immadi",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "R Immadi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "R Immadi",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "R Immadi",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Lopamudra",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Lopamudra",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Lopamudra",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Lopamudra",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Lopamudra",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Lopamudra",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Lopamudra",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Kingsley",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Mirab Razwan",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Mirab Razwan",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Alina Aslam",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Alina Aslam",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Alina Aslam",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Alina Aslam",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Alina Aslam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Alina Aslam",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Alina Aslam",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JE Ronalds",
+              "bowler": "VB Viyala",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "VB Viyala",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "VB Viyala",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "VB Viyala",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "Prachi Kumari",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "Prachi Kumari",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JE Ronalds",
+              "bowler": "R Immadi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "R Immadi",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "R Immadi",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "R Immadi",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JE Ronalds",
+              "bowler": "R Immadi",
+              "non_striker": "Aishani Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "R Immadi",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aishani Kishore",
+              "bowler": "R Immadi",
+              "non_striker": "JE Ronalds",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.9,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Norway",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirab Sajjad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "AS Gorad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirab Sajjad",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Gorad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirab Sajjad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "AS Gorad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AS Gorad",
+              "bowler": "A Meyenborg",
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "A Meyenborg",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "A Meyenborg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "A Meyenborg",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mirab Sajjad",
+              "bowler": "A Meyenborg",
+              "non_striker": "AS Gorad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "A Meyenborg",
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "A Meyenborg",
+              "non_striker": "Mirab Sajjad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mirab Sajjad",
+                  "fielders": [
+                    {
+                      "name": "JE Ronalds"
+                    },
+                    {
+                      "name": "V Stolle"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Meyenborg",
+              "non_striker": "AS Gorad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Meyenborg",
+              "non_striker": "AS Gorad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Gorad",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AS Gorad",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Meyenborg",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Meyenborg",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Meyenborg",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Meyenborg",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Meyenborg",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Meyenborg",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Meyenborg",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Meyenborg",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Kanukuntla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "Bijeyata Kumari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Bijeyata Kumari",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bijeyata Kumari",
+                  "fielders": [
+                    {
+                      "name": "Ashwini Balaji"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kohli",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Immadi",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "R Immadi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Immadi",
+                  "fielders": [
+                    {
+                      "name": "V Stolle"
+                    },
+                    {
+                      "name": "Ashwini Balaji"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "L Stanfergin",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kanukuntla",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Stanfergin",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Stanfergin",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Stanfergin",
+              "bowler": "A Kohli",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "A Kohli",
+              "non_striker": "L Stanfergin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "L Stanfergin",
+              "bowler": "JE Ronalds",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Stanfergin",
+              "bowler": "JE Ronalds",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Stanfergin",
+              "bowler": "JE Ronalds",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Stanfergin",
+              "bowler": "JE Ronalds",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Stanfergin",
+              "bowler": "JE Ronalds",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Stanfergin",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "JE Ronalds",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "VB Viyala",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Ayesha Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Hasan",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ayesha Hasan",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "VB Viyala",
+              "bowler": "JE Ronalds",
+              "non_striker": "Alina Aslam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Alina Aslam",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Alina Aslam",
+                  "fielders": [
+                    {
+                      "name": "A Kohli"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mirab Razwan",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirab Razwan",
+              "bowler": "JE Ronalds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirab Razwan",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mirab Razwan",
+              "bowler": "JE Ronalds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mirab Razwan",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mirab Razwan",
+                  "fielders": [
+                    {
+                      "name": "A Kanukuntla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Lopamudra",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "VB Viyala",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Lopamudra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Lopamudra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Lopamudra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Lopamudra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Lopamudra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Lopamudra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Lopamudra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Lopamudra",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Lopamudra",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "JE Ronalds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "VB Viyala",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Prachi Kumari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Prachi Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Prachi Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VB Viyala",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Prachi Kumari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Prachi Kumari",
+              "bowler": "JE Ronalds",
+              "non_striker": "VB Viyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Prachi Kumari",
+                  "fielders": [
+                    {
+                      "name": "A Kohli"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 162
+      }
+    }
+  ]
+}

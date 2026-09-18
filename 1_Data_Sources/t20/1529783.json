@@ -1,0 +1,818 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Episkopi",
+    "dates": [
+      "2026-04-04"
+    ],
+    "event": {
+      "name": "Greece Women tour of Cyprus",
+      "match_number": 4
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2698,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Cyprus": [
+        "A Taylor",
+        "N Liyanage",
+        "I Chathurani",
+        "T De Silva",
+        "D Koralalage",
+        "Dilini Ishara",
+        "C Wijesinghe",
+        "S Dunukedeniya",
+        "CS Gamlath",
+        "SDM Herath",
+        "S Arachchige"
+      ],
+      "Greece": [
+        "M Syrioti",
+        "A Makri",
+        "A Kourkoulou",
+        "A Argyropoulou",
+        "A Savvani",
+        "E Kallous",
+        "M Vervitsioti",
+        "Maria Penna",
+        "M Polimeri",
+        "NM Vitsou",
+        "T Parisi-mesimeri"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Argyropoulou": "3f1bfd19",
+        "A Kourkoulou": "637f6ae5",
+        "A Makri": "98affc04",
+        "A Savvani": "5d006a1a",
+        "A Taylor": "723f9bee",
+        "C Wijesinghe": "db86ac96",
+        "CS Gamlath": "9cdc553a",
+        "D Koralalage": "5e6041a4",
+        "Dilini Ishara": "f45efeca",
+        "E Kallous": "0680ff7f",
+        "I Chathurani": "85364088",
+        "M Polimeri": "35ccd83f",
+        "M Syrioti": "f9df0aa2",
+        "M Vervitsioti": "6fd40892",
+        "Maria Penna": "5063c3cf",
+        "N Liyanage": "2ee5997e",
+        "NM Vitsou": "c243b0a3",
+        "S Arachchige": "e6681f88",
+        "S Dunukedeniya": "3134e4a4",
+        "SDM Herath": "a586804a",
+        "T De Silva": "31821596",
+        "T Parisi-mesimeri": "c002a904"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Cyprus",
+      "Greece"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Cyprus"
+    },
+    "venue": "Happy Valley Ground 2"
+  },
+  "innings": [
+    {
+      "team": "Cyprus",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Taylor",
+              "bowler": "A Makri",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "A Makri",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Liyanage",
+              "bowler": "A Makri",
+              "non_striker": "A Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Liyanage",
+              "bowler": "A Makri",
+              "non_striker": "A Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "A Makri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "A Makri",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "A Makri",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Taylor",
+              "bowler": "M Vervitsioti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "M Vervitsioti",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Liyanage",
+              "bowler": "M Vervitsioti",
+              "non_striker": "A Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "M Vervitsioti",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "M Vervitsioti",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "M Vervitsioti",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Liyanage",
+                  "fielders": [
+                    {
+                      "name": "Maria Penna"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "M Vervitsioti",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "M Vervitsioti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "M Vervitsioti",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Makri",
+              "non_striker": "A Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Makri",
+              "non_striker": "A Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Taylor",
+              "bowler": "A Makri",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Taylor",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "T De Silva",
+              "bowler": "A Makri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T De Silva",
+              "bowler": "A Makri",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T De Silva",
+              "bowler": "A Makri",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T De Silva",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "D Koralalage",
+              "bowler": "A Makri",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "I Chathurani",
+              "bowler": "M Syrioti",
+              "non_striker": "D Koralalage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Koralalage",
+              "bowler": "M Syrioti",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Koralalage",
+                  "fielders": [
+                    {
+                      "name": "M Polimeri"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "M Syrioti",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "M Syrioti",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "M Syrioti",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "M Syrioti",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "A Savvani",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "A Savvani",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Savvani",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Savvani",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Savvani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Savvani",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Savvani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Savvani",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "I Chathurani",
+              "bowler": "M Syrioti",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "M Syrioti",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "M Syrioti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "M Syrioti",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "M Syrioti",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "M Syrioti",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "M Syrioti",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "M Syrioti",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Savvani",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "A Savvani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "A Savvani",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "A Savvani",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "A Savvani",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Chathurani",
+              "bowler": "A Savvani",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "A Savvani",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "I Chathurani",
+              "bowler": "E Kallous",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "E Kallous",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "E Kallous",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "E Kallous",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilini Ishara",
+              "bowler": "E Kallous",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dilini Ishara",
+                  "fielders": [
+                    {
+                      "name": "A Argyropoulou"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "C Wijesinghe",
+              "bowler": "E Kallous",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Wijesinghe",
+              "bowler": "E Kallous",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

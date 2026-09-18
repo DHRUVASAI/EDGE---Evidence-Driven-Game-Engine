@@ -1,0 +1,2038 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-08-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Rotterdam",
+    "dates": [
+      "2025-08-20"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Europe Division 1 Qualifier",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2440,
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "Aidan Seaver"
+      ],
+      "umpires": [
+        "J Jensen",
+        "Rizwan Akram"
+      ]
+    },
+    "outcome": {
+      "winner": "Ireland",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "L Delany"
+    ],
+    "players": {
+      "Germany": [
+        "W Hornero-Garcia",
+        "K Vijayaraghavan",
+        "S Kolcharam",
+        "CM Gough",
+        "A Kanukuntla",
+        "Rameesha Shahid",
+        "N Kingsley",
+        "V Stolle",
+        "A Kohli",
+        "I Edwards",
+        "Ashwini Balaji"
+      ],
+      "Ireland": [
+        "A Hunter",
+        "GH Lewis",
+        "A Canning",
+        "C Murray",
+        "AN Kelly",
+        "J Maguire",
+        "LA McBride",
+        "L Delany",
+        "L Paul",
+        "O Prendergast",
+        "R Stokell"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Canning": "ffd5fcd8",
+        "A Hunter": "e8fa03ed",
+        "A Kanukuntla": "2fa8a697",
+        "A Kohli": "eb9082b2",
+        "AN Kelly": "397369e0",
+        "Aidan Seaver": "862c0b16",
+        "Ashwini Balaji": "81283f75",
+        "C Murray": "5a50471c",
+        "CM Gough": "f1328a90",
+        "GH Lewis": "1b9d1579",
+        "GH Pienaar": "3516e46b",
+        "I Edwards": "42095275",
+        "J Jensen": "fc80e7a2",
+        "J Maguire": "1b1c23bb",
+        "K Vijayaraghavan": "048da365",
+        "L Delany": "b4f73b44",
+        "L Paul": "07248d8e",
+        "LA McBride": "9bd0d19d",
+        "N Kingsley": "31036a1d",
+        "O Prendergast": "d8f20ba5",
+        "R Stokell": "def7b1bb",
+        "Rameesha Shahid": "b810425e",
+        "Rizwan Akram": "b5346f1e",
+        "S Kolcharam": "761c929e",
+        "V Stolle": "0dc4ac6c",
+        "W Hornero-Garcia": "7d5fef52"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Germany",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Germany"
+    },
+    "venue": "Hazelaarweg, Rotterdam"
+  },
+  "innings": [
+    {
+      "team": "Germany",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "O Prendergast",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "O Prendergast",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "O Prendergast",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Hornero-Garcia",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Hornero-Garcia",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Kolcharam",
+              "bowler": "A Canning",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "A Canning",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "A Canning",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Kolcharam",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "O Prendergast",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "O Prendergast",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Kolcharam",
+              "bowler": "A Canning",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kolcharam",
+              "bowler": "A Canning",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kolcharam",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "non_striker": "K Vijayaraghavan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "J Maguire",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Vijayaraghavan",
+              "bowler": "A Canning",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Vijayaraghavan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "A Canning",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "J Maguire",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "J Maguire",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "J Maguire",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "J Maguire",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "A Canning",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "A Canning",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "C Murray",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "C Murray",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "C Murray",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "C Murray",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "C Murray",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "C Murray",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "CM Gough",
+              "bowler": "LA McBride",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "LA McBride",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CM Gough",
+              "bowler": "C Murray",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "C Murray",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "C Murray",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "C Murray",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "C Murray",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kanukuntla",
+              "bowler": "C Murray",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kanukuntla",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Rameesha Shahid",
+              "bowler": "C Murray",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CM Gough",
+              "bowler": "LA McBride",
+              "non_striker": "Rameesha Shahid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "LA McBride",
+              "non_striker": "Rameesha Shahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameesha Shahid",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rameesha Shahid",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "LA McBride",
+              "non_striker": "Rameesha Shahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameesha Shahid",
+              "bowler": "LA McBride",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CM Gough",
+              "bowler": "AN Kelly",
+              "non_striker": "Rameesha Shahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameesha Shahid",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "AN Kelly",
+              "non_striker": "Rameesha Shahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameesha Shahid",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rameesha Shahid",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "AN Kelly",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "N Kingsley",
+              "bowler": "L Delany",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kingsley",
+              "bowler": "L Delany",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Kingsley",
+                  "fielders": [
+                    {
+                      "name": "AN Kelly"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Stolle",
+              "bowler": "L Delany",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Stolle",
+              "bowler": "L Delany",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Stolle",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Kohli",
+              "bowler": "L Delany",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "L Delany",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Kohli",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kohli",
+              "bowler": "AN Kelly",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kohli",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kohli",
+                  "fielders": [
+                    {
+                      "name": "A Hunter"
+                    },
+                    {
+                      "name": "C Murray"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "AN Kelly",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "I Edwards",
+              "bowler": "L Delany",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "L Delany",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "L Delany",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "L Delany",
+              "non_striker": "I Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "L Delany",
+              "non_striker": "I Edwards",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "L Delany",
+              "non_striker": "I Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CM Gough",
+              "bowler": "L Paul",
+              "non_striker": "I Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "L Paul",
+              "non_striker": "I Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Gough",
+              "bowler": "L Paul",
+              "non_striker": "I Edwards",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "L Paul",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "L Paul",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Edwards",
+              "bowler": "L Paul",
+              "non_striker": "CM Gough",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CM Gough",
+              "bowler": "L Delany",
+              "non_striker": "I Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CM Gough",
+                  "fielders": [
+                    {
+                      "name": "J Maguire"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ashwini Balaji",
+              "bowler": "L Delany",
+              "non_striker": "I Edwards",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ashwini Balaji",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Hunter",
+              "bowler": "CM Gough",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CM Gough",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CM Gough",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "CM Gough",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CM Gough",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "CM Gough",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Kanukuntla",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "A Kanukuntla",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Kanukuntla",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Kanukuntla",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "A Kanukuntla",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "A Kanukuntla",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Hunter",
+              "bowler": "CM Gough",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "CM Gough",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "CM Gough",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "CM Gough",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CM Gough",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CM Gough",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "CM Gough",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Hunter",
+              "bowler": "I Edwards",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "I Edwards",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "I Edwards",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "I Edwards",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "I Edwards",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "I Edwards",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Hunter",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Hunter",
+              "bowler": "I Edwards",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "I Edwards",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "I Edwards",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "I Edwards",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "I Edwards",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "I Edwards",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Kohli",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Kohli",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Kohli",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "A Kohli",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "A Kohli",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "A Kohli",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 63
+      }
+    }
+  ]
+}

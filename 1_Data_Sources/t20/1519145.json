@@ -1,0 +1,3108 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-01-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gelephu",
+    "dates": [
+      "2026-01-20"
+    ],
+    "event": {
+      "name": "Lotus Cup Women's Tri-Series",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2630,
+    "officials": {
+      "reserve_umpires": [
+        "Subas Lama"
+      ],
+      "tv_umpires": [
+        "ON Pradhan"
+      ],
+      "umpires": [
+        "AK Rai",
+        "U Dorji"
+      ]
+    },
+    "outcome": {
+      "winner": "Bhutan",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "A Gurung"
+    ],
+    "players": {
+      "Malaysia": [
+        "Ainna Hamizah Hashim",
+        "WA Duraisingam",
+        "Mas Elysa",
+        "Mahirah Izzati Ismail",
+        "Nur Dania Syuhada",
+        "Nur Arianna Natsya",
+        "Aina Najwa",
+        "Irdina Beh Nabil",
+        "Nur Izzatul Syafiqa",
+        "Musfirah Nur Ainaa",
+        "Aisya Eleesa"
+      ],
+      "Bhutan": [
+        "N Choden",
+        "K Dema",
+        "S Paldon",
+        "T Zangmo",
+        "A Gurung",
+        "S Choden",
+        "Chado Om",
+        "Sonam",
+        "R Choden",
+        "Riya Pradhan",
+        "Tshering Choden"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gurung": "10854c82",
+        "AK Rai": "1d70834a",
+        "Aina Najwa": "31453abb",
+        "Ainna Hamizah Hashim": "4c7744de",
+        "Aisya Eleesa": "2cd18a73",
+        "Chado Om": "f53fa89c",
+        "Irdina Beh Nabil": "59ace6d9",
+        "K Dema": "0b211a32",
+        "Mahirah Izzati Ismail": "b9b32e3c",
+        "Mas Elysa": "857de42e",
+        "Musfirah Nur Ainaa": "acd1fec7",
+        "N Choden": "a904600a",
+        "Nur Arianna Natsya": "4db4c8be",
+        "Nur Dania Syuhada": "3af75717",
+        "Nur Izzatul Syafiqa": "fc282a40",
+        "ON Pradhan": "d41a08d6",
+        "R Choden": "c0266a6e",
+        "Riya Pradhan": "c3cf210c",
+        "S Choden": "e1e0775d",
+        "S Paldon": "47c3d294",
+        "Sonam": "09cbca15",
+        "Subas Lama": "0a0c48dc",
+        "T Zangmo": "b1f21c0f",
+        "Tshering Choden": "3f38caff",
+        "U Dorji": "12bba2d4",
+        "WA Duraisingam": "7467fe01"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Malaysia",
+      "Bhutan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bhutan"
+    },
+    "venue": "Gelephu International Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "A Gurung",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "A Gurung",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ainna Hamizah Hashim",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "A Gurung",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "A Gurung",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "A Gurung",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "A Gurung",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "A Gurung",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "A Gurung",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "A Gurung",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Sonam",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "A Gurung",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Sonam",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Sonam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Sonam",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "S Choden",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "S Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "S Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "S Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "S Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "S Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "S Choden",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mas Elysa",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "R Choden",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "R Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mahirah Izzati Ismail",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nur Dania Syuhada",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "T Zangmo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Tshering Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Tshering Choden",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Tshering Choden",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Tshering Choden",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Tshering Choden",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Tshering Choden",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Tshering Choden",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Tshering Choden",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "T Zangmo",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Riya Pradhan",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nur Arianna Natsya",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "T Zangmo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "T Zangmo",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "T Zangmo",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WA Duraisingam",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Aina Najwa",
+              "bowler": "R Choden",
+              "non_striker": "Irdina Beh Nabil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "R Choden",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "R Choden",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "R Choden",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "R Choden",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "R Choden",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Irdina Beh Nabil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Irdina Beh Nabil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Irdina Beh Nabil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Riya Pradhan",
+              "non_striker": "Irdina Beh Nabil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Irdina Beh Nabil",
+              "bowler": "A Gurung",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Irdina Beh Nabil",
+                  "fielders": [
+                    {
+                      "name": "N Choden"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "A Gurung",
+              "non_striker": "Nur Izzatul Syafiqa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Izzatul Syafiqa",
+              "bowler": "A Gurung",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Izzatul Syafiqa",
+              "bowler": "A Gurung",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nur Izzatul Syafiqa",
+                  "fielders": [
+                    {
+                      "name": "S Choden"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Musfirah Nur Ainaa",
+              "bowler": "A Gurung",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "A Gurung",
+              "non_striker": "Musfirah Nur Ainaa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bhutan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Choden",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "K Dema",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "K Dema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "K Dema",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Dema",
+              "bowler": "Ainna Hamizah Hashim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Dema",
+              "bowler": "Ainna Hamizah Hashim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Dema",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Dema",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Dema",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Paldon",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Paldon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Paldon",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Paldon",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Paldon",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Paldon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Paldon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Paldon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Paldon",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Paldon",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "S Paldon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "S Paldon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "S Paldon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "S Paldon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Paldon",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Paldon",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "T Zangmo",
+              "bowler": "WA Duraisingam",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "WA Duraisingam",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "WA Duraisingam",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "WA Duraisingam",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "WA Duraisingam",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "WA Duraisingam",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "N Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "N Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "N Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "N Choden",
+                  "fielders": [
+                    {
+                      "name": "Nur Dania Syuhada"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "T Zangmo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Zangmo",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Zangmo",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Zangmo",
+                  "fielders": [
+                    {
+                      "name": "WA Duraisingam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "A Gurung",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Nur Arianna Natsya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "A Gurung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gurung",
+              "bowler": "Mas Elysa",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Gurung",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Chado Om",
+              "bowler": "Mas Elysa",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Chado Om",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Chado Om",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Chado Om",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Chado Om",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Nur Dania Syuhada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Mas Elysa",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Choden",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "WA Duraisingam",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "WA Duraisingam",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "WA Duraisingam",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Mas Elysa",
+              "non_striker": "S Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Choden",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Choden",
+              "bowler": "Mas Elysa",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sonam",
+              "bowler": "Mas Elysa",
+              "non_striker": "R Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sonam",
+              "bowler": "WA Duraisingam",
+              "non_striker": "R Choden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Choden",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Sonam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 99
+      }
+    }
+  ]
+}

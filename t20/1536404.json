@@ -1,0 +1,3044 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2026-05-28"
+    ],
+    "event": {
+      "name": "Asian Games Women's Qualifier",
+      "match_number": 6,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2781,
+    "officials": {
+      "match_referees": [
+        "VR Nagre"
+      ],
+      "reserve_umpires": [
+        "Rokeya Sultana"
+      ],
+      "umpires": [
+        "AS Guha",
+        "Humaira Farah"
+      ]
+    },
+    "outcome": {
+      "winner": "Nepal",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "I Barma"
+    ],
+    "players": {
+      "Indonesia": [
+        "RD Pangestuti",
+        "K Winda Prastini",
+        "NLKWR Dewi",
+        "NPAN Sakarini",
+        "NMP Suwandewi",
+        "NKF Rada Rani",
+        "D Wulandari",
+        "KS Kasse",
+        "SAN Maypriani",
+        "NK Ariani",
+        "DAL Paramitha"
+      ],
+      "Nepal": [
+        "Samjhana Khadka",
+        "Puja Mahato",
+        "S Pakhrin",
+        "R Poddar",
+        "I Barma",
+        "K Kunwar",
+        "RC Belbashi",
+        "SR Magar",
+        "Riya Sharma",
+        "M Upadhayay",
+        "Seemana KC"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AS Guha": "c21b184d",
+        "D Wulandari": "8c0d904e",
+        "DAL Paramitha": "84f831c3",
+        "Humaira Farah": "6b6d6623",
+        "I Barma": "521abce2",
+        "K Kunwar": "97e6e41a",
+        "K Winda Prastini": "bd6f7c24",
+        "KS Kasse": "007a3773",
+        "M Upadhayay": "cdda92be",
+        "NK Ariani": "382377a4",
+        "NKF Rada Rani": "39f4084c",
+        "NLKWR Dewi": "d04fc4a4",
+        "NMP Suwandewi": "52b57a65",
+        "NPAN Sakarini": "72b5decf",
+        "Puja Mahato": "4b95058b",
+        "R Poddar": "4e38a3d6",
+        "RC Belbashi": "dfdaca74",
+        "RD Pangestuti": "63fc4b92",
+        "Riya Sharma": "8b7cda26",
+        "Rokeya Sultana": "20abf9b9",
+        "S Pakhrin": "18377910",
+        "SAN Maypriani": "ad135bde",
+        "SR Magar": "61c22ad0",
+        "Samjhana Khadka": "765a2354",
+        "Seemana KC": "927d0471",
+        "VR Nagre": "fadaac76"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Indonesia",
+      "Nepal"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Indonesia"
+    },
+    "venue": "Bayuemas Oval, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "Indonesia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "M Upadhayay",
+              "non_striker": "K Winda Prastini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "M Upadhayay",
+              "non_striker": "K Winda Prastini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Winda Prastini",
+                  "fielders": [
+                    {
+                      "name": "K Kunwar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "M Upadhayay",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Pangestuti",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "M Upadhayay",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Riya Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Puja Mahato",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "SR Magar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "SR Magar",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "SR Magar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "SR Magar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "SR Magar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "SR Magar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "SR Magar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "SR Magar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Seemana KC",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Seemana KC",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Seemana KC",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Seemana KC",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Seemana KC",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Seemana KC",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Seemana KC",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Seemana KC",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Puja Mahato",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Puja Mahato",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Puja Mahato",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Puja Mahato",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Puja Mahato",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Puja Mahato",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "RC Belbashi",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "RC Belbashi",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "RC Belbashi",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "RC Belbashi",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "RC Belbashi",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "RC Belbashi",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "M Upadhayay",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "M Upadhayay",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "M Upadhayay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "M Upadhayay",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NLKWR Dewi",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "M Upadhayay",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "M Upadhayay",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "M Upadhayay",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "RC Belbashi",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "RC Belbashi",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "RC Belbashi",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "RC Belbashi",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "RC Belbashi",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "RC Belbashi",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "K Kunwar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "SR Magar",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "SR Magar",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "SR Magar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "SR Magar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "SR Magar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "SR Magar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "SR Magar",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "SR Magar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Seemana KC",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Seemana KC",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Seemana KC",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "Seemana KC",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Seemana KC",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Seemana KC",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Seemana KC",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NMP Suwandewi",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NMP Suwandewi",
+                  "fielders": [
+                    {
+                      "name": "Samjhana Khadka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NKF Rada Rani",
+              "bowler": "Riya Sharma",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Riya Sharma",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "NKF Rada Rani",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NKF Rada Rani",
+              "bowler": "K Kunwar",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "K Kunwar",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "NMP Suwandewi",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "DAL Paramitha",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "DAL Paramitha",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "DAL Paramitha",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "DAL Paramitha",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Samjhana Khadka",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "DAL Paramitha",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "DAL Paramitha",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Puja Mahato",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Poddar",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Pakhrin",
+              "bowler": "DAL Paramitha",
+              "non_striker": "R Poddar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "DAL Paramitha",
+              "non_striker": "R Poddar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "DAL Paramitha",
+              "non_striker": "R Poddar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "DAL Paramitha",
+              "non_striker": "R Poddar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "DAL Paramitha",
+              "non_striker": "R Poddar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "DAL Paramitha",
+              "non_striker": "R Poddar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Poddar",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Poddar",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Pakhrin",
+              "bowler": "RD Pangestuti",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "RD Pangestuti",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "RD Pangestuti",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "RD Pangestuti",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "RD Pangestuti",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "RD Pangestuti",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "SAN Maypriani",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "SAN Maypriani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Pakhrin",
+                  "fielders": [
+                    {
+                      "name": "KS Kasse"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NK Ariani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "K Kunwar",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "NKF Rada Rani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "K Kunwar",
+              "bowler": "DAL Paramitha",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "DAL Paramitha",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "DAL Paramitha",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "DAL Paramitha",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "DAL Paramitha",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "DAL Paramitha",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "K Kunwar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Kunwar",
+                  "fielders": [
+                    {
+                      "name": "NLKWR Dewi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RC Belbashi",
+                  "fielders": [
+                    {
+                      "name": "DAL Paramitha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SR Magar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Magar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Magar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Magar",
+              "bowler": "NK Ariani",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SR Magar",
+              "bowler": "DAL Paramitha",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "DAL Paramitha",
+              "non_striker": "SR Magar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Magar",
+              "bowler": "DAL Paramitha",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 114
+      }
+    }
+  ]
+}

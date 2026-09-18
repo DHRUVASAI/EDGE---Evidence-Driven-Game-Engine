@@ -1,0 +1,3099 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-03-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kingstown",
+    "dates": [
+      "2026-03-19"
+    ],
+    "event": {
+      "name": "Australia Women tour of West Indies",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2685,
+    "officials": {
+      "match_referees": [
+        "Reon King"
+      ],
+      "reserve_umpires": [
+        "M Abbott"
+      ],
+      "tv_umpires": [
+        "C La Borde"
+      ],
+      "umpires": [
+        "JM Williams",
+        "Lauren Agenbag"
+      ]
+    },
+    "outcome": {
+      "winner": "Australia",
+      "by": {
+        "runs": 43
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "BL Mooney"
+    ],
+    "players": {
+      "Australia": [
+        "G Voll",
+        "BL Mooney",
+        "P Litchfield",
+        "EA Perry",
+        "A Gardner",
+        "G Wareham",
+        "TM McGrath",
+        "A King",
+        "S Molineux",
+        "KJ Garth",
+        "ML Schutt"
+      ],
+      "West Indies": [
+        "Q Joseph",
+        "HK Matthews",
+        "SA Campbelle",
+        "SR Taylor",
+        "DJS Dottin",
+        "CA Henry",
+        "JKC Claxton",
+        "J Glasgow",
+        "AA Alleyne",
+        "ASS Fletcher",
+        "K Ramharack"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gardner": "bc969efb",
+        "A King": "83558266",
+        "AA Alleyne": "4b0e3049",
+        "ASS Fletcher": "42d9dd09",
+        "BL Mooney": "52d1dbc8",
+        "C La Borde": "32157f67",
+        "CA Henry": "75820733",
+        "DJS Dottin": "53bee17f",
+        "EA Perry": "be150fc8",
+        "G Voll": "5c30d455",
+        "G Wareham": "f0b4e47d",
+        "HK Matthews": "d32cf49a",
+        "J Glasgow": "a2632c7c",
+        "JKC Claxton": "e22f8ec1",
+        "JM Williams": "b61d9d70",
+        "K Ramharack": "321c980e",
+        "KJ Garth": "0b69a844",
+        "Lauren Agenbag": "40849abd",
+        "M Abbott": "3e5f0c04",
+        "ML Schutt": "17608a6f",
+        "P Litchfield": "4e6ef14f",
+        "Q Joseph": "d6164dc0",
+        "Reon King": "20fbf68c",
+        "S Molineux": "99e23670",
+        "SA Campbelle": "a7cd72b2",
+        "SR Taylor": "92cf79a8",
+        "TM McGrath": "ca5acfa4"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Australia",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Australia"
+    },
+    "venue": "Arnos Vale Ground, Kingstown, St Vincent"
+  },
+  "innings": [
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "G Voll",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "non_striker": "G Voll",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "G Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "non_striker": "G Voll",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "non_striker": "G Voll",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Voll",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "CA Henry",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "CA Henry",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "CA Henry",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "G Voll",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Voll",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Voll",
+                  "fielders": [
+                    {
+                      "name": "SA Campbelle"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "CA Henry",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "CA Henry",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "HK Matthews",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "HK Matthews",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "HK Matthews",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "P Litchfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Litchfield",
+              "bowler": "JKC Claxton",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Litchfield",
+                  "fielders": [
+                    {
+                      "name": "J Glasgow"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "JKC Claxton",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "JKC Claxton",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "JKC Claxton",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "K Ramharack",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "K Ramharack",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "K Ramharack",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "K Ramharack",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "K Ramharack",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "K Ramharack",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "HK Matthews",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "HK Matthews",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "JKC Claxton",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "JKC Claxton",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "K Ramharack",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "K Ramharack",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "K Ramharack",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "K Ramharack",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "K Ramharack",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "K Ramharack",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "K Ramharack",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "JKC Claxton",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "JKC Claxton",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "JKC Claxton",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "ASS Fletcher",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "ASS Fletcher",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "HK Matthews",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "HK Matthews",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "HK Matthews",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EA Perry",
+                  "fielders": [
+                    {
+                      "name": "CA Henry"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "DJS Dottin",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "DJS Dottin",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "CA Henry",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BL Mooney",
+                  "fielders": [
+                    {
+                      "name": "DJS Dottin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "G Wareham",
+              "bowler": "CA Henry",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "CA Henry",
+              "non_striker": "G Wareham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Gardner",
+                  "fielders": [
+                    {
+                      "name": "DJS Dottin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TM McGrath",
+              "bowler": "CA Henry",
+              "non_striker": "G Wareham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Wareham",
+              "bowler": "CA Henry",
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "G Wareham",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Wareham",
+              "bowler": "DJS Dottin",
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Wareham",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Wareham",
+              "bowler": "DJS Dottin",
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM McGrath",
+              "bowler": "DJS Dottin",
+              "non_striker": "G Wareham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM McGrath",
+              "bowler": "DJS Dottin",
+              "non_striker": "G Wareham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Wareham",
+              "bowler": "DJS Dottin",
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Wareham",
+              "bowler": "DJS Dottin",
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Wareham",
+                  "fielders": [
+                    {
+                      "name": "CA Henry"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "TM McGrath",
+              "bowler": "CA Henry",
+              "non_striker": "A King",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A King",
+              "bowler": "CA Henry",
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A King",
+              "bowler": "CA Henry",
+              "non_striker": "TM McGrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM McGrath",
+              "bowler": "CA Henry",
+              "non_striker": "A King",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM McGrath",
+              "bowler": "CA Henry",
+              "non_striker": "A King",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TM McGrath",
+              "bowler": "CA Henry",
+              "non_striker": "A King",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "ML Schutt",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "ML Schutt",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "ML Schutt",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "ML Schutt",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "ML Schutt",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "KJ Garth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "KJ Garth",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "KJ Garth",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "EA Perry",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "EA Perry",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "EA Perry",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "EA Perry",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "EA Perry",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "EA Perry",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HK Matthews",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A King",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A Gardner",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A Gardner",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A Gardner",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A Gardner",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A Gardner",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A Gardner",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Q Joseph",
+              "bowler": "TM McGrath",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "TM McGrath",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "TM McGrath",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "TM McGrath",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "TM McGrath",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "TM McGrath",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Q Joseph",
+              "bowler": "G Wareham",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "G Wareham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "G Wareham",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "G Wareham",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "G Wareham",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "G Wareham",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "G Wareham",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A King",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A King",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A King",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "A King",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "KJ Garth",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Q Joseph",
+                  "fielders": [
+                    {
+                      "name": "A Gardner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "KJ Garth",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "KJ Garth",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "KJ Garth",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A King",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "A King",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Campbelle",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "A King",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "A King",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "A King",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "A King",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJS Dottin",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "A Gardner",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CA Henry",
+              "bowler": "EA Perry",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "EA Perry",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "EA Perry",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "EA Perry",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "EA Perry",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "EA Perry",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CA Henry",
+              "bowler": "G Wareham",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "G Wareham",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "G Wareham",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "G Wareham",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "G Wareham",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "G Wareham",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "ML Schutt",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "ML Schutt",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "ML Schutt",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "ML Schutt",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "ML Schutt",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "ML Schutt",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CA Henry",
+              "bowler": "A Gardner",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "A Gardner",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "A Gardner",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "KJ Garth",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "KJ Garth",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "KJ Garth",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "KJ Garth",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "KJ Garth",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "KJ Garth",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CA Henry",
+              "bowler": "G Wareham",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "G Wareham",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SR Taylor",
+                  "fielders": [
+                    {
+                      "name": "G Voll"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "G Wareham",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "G Wareham",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JKC Claxton",
+                  "fielders": [
+                    {
+                      "name": "A Gardner"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "G Wareham",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "G Wareham",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 165
+      }
+    }
+  ]
+}

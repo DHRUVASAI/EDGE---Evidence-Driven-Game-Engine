@@ -1,0 +1,2971 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-11",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nisshin",
+    "dates": [
+      "2026-05-09"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup East Asia-Pacific Qualifier",
+      "match_number": 6,
+      "group": "3"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3848,
+    "officials": {
+      "match_referees": [
+        "Kent Hannam"
+      ],
+      "reserve_umpires": [
+        "V Kalidas"
+      ],
+      "umpires": [
+        "DM Koch",
+        "Tabarak Dar"
+      ]
+    },
+    "outcome": {
+      "winner": "Papua New Guinea",
+      "by": {
+        "runs": 136
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "TP Ura"
+    ],
+    "players": {
+      "Papua New Guinea": [
+        "S Bau",
+        "TP Ura",
+        "Ryan Ani",
+        "L Siaka",
+        "Patrick Nou",
+        "A Vala",
+        "Boio Ray",
+        "HGV Vare",
+        "Aue Oru",
+        "J Kariko",
+        "A Nao"
+      ],
+      "South Korea": [
+        "DVD Madampage",
+        "BI Dilruksha",
+        "Sageer Ahmad",
+        "HMHE Parsons",
+        "Jun Hyunwoo",
+        "ASH Parsons",
+        "S Maduranga",
+        "Muhammad Nadeem",
+        "AS Broomfield",
+        "Kuldeep Gurjar",
+        "CV Ranasinghe"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nao": "4d1ec7eb",
+        "A Vala": "72e60730",
+        "AS Broomfield": "4b8e8f64",
+        "ASH Parsons": "ee572df8",
+        "Aue Oru": "09ecc596",
+        "BI Dilruksha": "bf60e1d2",
+        "Boio Ray": "9cf15e95",
+        "CV Ranasinghe": "b1a4226c",
+        "DM Koch": "6d10c034",
+        "DVD Madampage": "f681fa6e",
+        "HGV Vare": "98299b67",
+        "HMHE Parsons": "0ca1ea55",
+        "J Kariko": "cde067e1",
+        "Jun Hyunwoo": "431f2dd4",
+        "Kent Hannam": "8cc171e7",
+        "Kuldeep Gurjar": "2306b48a",
+        "L Siaka": "6b4593ee",
+        "Muhammad Nadeem": "f681481e",
+        "Patrick Nou": "75657526",
+        "Ryan Ani": "668404df",
+        "S Bau": "9a95bebb",
+        "S Maduranga": "68f24545",
+        "Sageer Ahmad": "fb266d70",
+        "TP Ura": "a82eb3fb",
+        "Tabarak Dar": "2259c12d",
+        "V Kalidas": "42d76418"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Papua New Guinea",
+      "South Korea"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Papua New Guinea"
+    },
+    "venue": "Korogi Sports Park, Nisshin"
+  },
+  "innings": [
+    {
+      "team": "Papua New Guinea",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Bau",
+              "bowler": "S Maduranga",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "S Maduranga",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "S Maduranga",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Bau",
+              "bowler": "S Maduranga",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "S Maduranga",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "S Maduranga",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "S Maduranga",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Sageer Ahmad",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "S Maduranga",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "S Maduranga",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "S Bau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bau",
+                  "fielders": [
+                    {
+                      "name": "Jun Hyunwoo"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ryan Ani",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "Ryan Ani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ryan Ani",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ryan Ani",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ryan Ani",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "Ryan Ani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ryan Ani",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ryan Ani",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ryan Ani",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ryan Ani",
+                  "fielders": [
+                    {
+                      "name": "HMHE Parsons"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Siaka",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Siaka",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Kuldeep Gurjar",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Siaka",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Siaka",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Siaka",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "CV Ranasinghe",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Siaka",
+              "bowler": "DVD Madampage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Siaka",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "DVD Madampage",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "DVD Madampage",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Siaka",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Siaka",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "DVD Madampage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "Patrick Nou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "Patrick Nou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "Patrick Nou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "Muhammad Nadeem",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "Muhammad Nadeem",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Patrick Nou",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TP Ura",
+              "bowler": "DVD Madampage",
+              "non_striker": "Patrick Nou",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Patrick Nou",
+              "bowler": "DVD Madampage",
+              "non_striker": "TP Ura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "South Korea",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Boio Ray",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Boio Ray",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Boio Ray",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Boio Ray",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "Boio Ray",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "Boio Ray",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Nao",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Nao",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Nao",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "A Nao",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "A Nao",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "A Nao",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DVD Madampage",
+              "bowler": "J Kariko",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "J Kariko",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "J Kariko",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "J Kariko",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "J Kariko",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "J Kariko",
+              "non_striker": "BI Dilruksha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BI Dilruksha",
+              "bowler": "Aue Oru",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BI Dilruksha",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sageer Ahmad",
+              "bowler": "Aue Oru",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sageer Ahmad",
+              "bowler": "Aue Oru",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sageer Ahmad",
+              "bowler": "Aue Oru",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sageer Ahmad",
+              "bowler": "Aue Oru",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sageer Ahmad",
+                  "fielders": [
+                    {
+                      "name": "Ryan Ani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HMHE Parsons",
+              "bowler": "Aue Oru",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HMHE Parsons",
+              "bowler": "Aue Oru",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HMHE Parsons",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Nao",
+              "non_striker": "Jun Hyunwoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Nao",
+              "non_striker": "Jun Hyunwoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Nao",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Jun Hyunwoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jun Hyunwoo",
+              "bowler": "A Nao",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jun Hyunwoo",
+              "bowler": "A Nao",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jun Hyunwoo",
+              "bowler": "A Nao",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jun Hyunwoo",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Aue Oru",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Aue Oru",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Aue Oru",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Aue Oru",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Aue Oru",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Aue Oru",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "ASH Parsons",
+              "bowler": "Patrick Nou",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASH Parsons",
+              "bowler": "Patrick Nou",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASH Parsons",
+              "bowler": "Patrick Nou",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASH Parsons",
+              "bowler": "Patrick Nou",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ASH Parsons",
+              "bowler": "Patrick Nou",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "Patrick Nou",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Vala",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Vala",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Vala",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Vala",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Vala",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "A Vala",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DVD Madampage",
+              "bowler": "L Siaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "L Siaka",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "L Siaka",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "L Siaka",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DVD Madampage",
+              "bowler": "L Siaka",
+              "non_striker": "ASH Parsons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ASH Parsons",
+              "bowler": "L Siaka",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASH Parsons",
+              "bowler": "L Siaka",
+              "non_striker": "DVD Madampage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ASH Parsons",
+                  "fielders": [
+                    {
+                      "name": "A Vala"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DVD Madampage",
+              "bowler": "S Bau",
+              "non_striker": "S Maduranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DVD Madampage",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "S Bau",
+              "non_striker": "S Maduranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "S Bau",
+              "non_striker": "S Maduranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "S Bau",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "S Bau",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "S Bau",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Maduranga",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "J Kariko",
+              "non_striker": "S Maduranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "J Kariko",
+              "non_striker": "S Maduranga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Maduranga",
+              "bowler": "Patrick Nou",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "Patrick Nou",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "Patrick Nou",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "Patrick Nou",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "Patrick Nou",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "Patrick Nou",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "A Nao",
+              "non_striker": "S Maduranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Maduranga",
+              "bowler": "A Vala",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "A Vala",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "A Vala",
+              "non_striker": "S Maduranga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "A Vala",
+              "non_striker": "S Maduranga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Maduranga",
+              "bowler": "A Vala",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Maduranga",
+                  "fielders": [
+                    {
+                      "name": "TP Ura"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "A Vala",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "J Kariko",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "Aue Oru",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "Aue Oru",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "Aue Oru",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "Aue Oru",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "Aue Oru",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "Aue Oru",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AS Broomfield",
+              "bowler": "L Siaka",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "L Siaka",
+              "non_striker": "Muhammad Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "L Siaka",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Nadeem",
+              "bowler": "L Siaka",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Nadeem",
+                  "fielders": [
+                    {
+                      "name": "Boio Ray"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Kuldeep Gurjar",
+              "bowler": "L Siaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kuldeep Gurjar",
+              "bowler": "L Siaka",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "L Siaka",
+              "non_striker": "Kuldeep Gurjar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Kuldeep Gurjar",
+              "bowler": "Aue Oru",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kuldeep Gurjar",
+              "bowler": "Aue Oru",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kuldeep Gurjar",
+              "bowler": "Aue Oru",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kuldeep Gurjar",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "CV Ranasinghe",
+              "bowler": "Aue Oru",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "Aue Oru",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CV Ranasinghe",
+              "bowler": "Aue Oru",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CV Ranasinghe",
+              "bowler": "J Kariko",
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "J Kariko",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AS Broomfield",
+              "bowler": "A Nao",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "A Nao",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CV Ranasinghe",
+              "bowler": "A Nao",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AS Broomfield",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Broomfield",
+              "bowler": "A Nao",
+              "non_striker": "CV Ranasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CV Ranasinghe",
+                  "fielders": [
+                    {
+                      "name": "A Vala"
+                    },
+                    {
+                      "name": "A Nao"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 198
+      }
+    }
+  ]
+}

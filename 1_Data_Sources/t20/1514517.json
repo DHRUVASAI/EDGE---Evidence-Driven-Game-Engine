@@ -1,0 +1,3090 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-12-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Al Amarat",
+    "dates": [
+      "2025-12-13"
+    ],
+    "event": {
+      "name": "GCC Women's Twenty20 Championship Cup",
+      "match_number": 4
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2596,
+    "officials": {
+      "match_referees": [
+        "R Mohan"
+      ],
+      "reserve_umpires": [
+        "Rahat Ali"
+      ],
+      "umpires": [
+        "M Bhanushali",
+        "Ridwan Parkar"
+      ]
+    },
+    "outcome": {
+      "winner": "United Arab Emirates",
+      "by": {
+        "runs": 136
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Rinitha Rajith"
+    ],
+    "players": {
+      "United Arab Emirates": [
+        "ER Oza",
+        "Theertha Satish",
+        "Keziah Miriam Sabin",
+        "Rinitha Rajith",
+        "MD Botha",
+        "S Dharnidharka",
+        "UCKA Dona",
+        "I Nandakumar",
+        "KC Thompson",
+        "S Gokhale",
+        "Vaishnave Mahesh"
+      ],
+      "Qatar": [
+        "S Krisheta",
+        "Shahreeennawab",
+        "SK Rana",
+        "Aysha",
+        "G Candiru",
+        "CE Jacob",
+        "MT Jacob",
+        "Taful Elkhair",
+        "Lihara Ayeysekara",
+        "Roheed Akhtar",
+        "Amina Kashif"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Amina Kashif": "db077ead",
+        "Aysha": "37ceee4e",
+        "CE Jacob": "51426347",
+        "ER Oza": "fdc6b34d",
+        "G Candiru": "fc2150f4",
+        "I Nandakumar": "9f87d0f0",
+        "KC Thompson": "e381ae69",
+        "Keziah Miriam Sabin": "b5b21b1d",
+        "Lihara Ayeysekara": "532c3f73",
+        "M Bhanushali": "a7318ece",
+        "MD Botha": "c2c7e58a",
+        "MT Jacob": "f1750a74",
+        "R Mohan": "ddd995e5",
+        "Rahat Ali": "458161f4",
+        "Ridwan Parkar": "f7356421",
+        "Rinitha Rajith": "36ba7f0b",
+        "Roheed Akhtar": "c24a759a",
+        "S Dharnidharka": "f8b50da3",
+        "S Gokhale": "62653085",
+        "S Krisheta": "41bb77bc",
+        "SK Rana": "47884f8e",
+        "Shahreeennawab": "faa8843f",
+        "Taful Elkhair": "28086b4b",
+        "Theertha Satish": "ee3dcb3f",
+        "UCKA Dona": "caa99fcb",
+        "Vaishnave Mahesh": "31c56f40"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "United Arab Emirates",
+      "Qatar"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "United Arab Emirates"
+    },
+    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Amina Kashif",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Amina Kashif",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Theertha Satish",
+                  "fielders": [
+                    {
+                      "name": "CE Jacob"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Keziah Miriam Sabin",
+              "bowler": "Amina Kashif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keziah Miriam Sabin",
+              "bowler": "Amina Kashif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keziah Miriam Sabin",
+              "bowler": "Amina Kashif",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Amina Kashif",
+              "non_striker": "Keziah Miriam Sabin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keziah Miriam Sabin",
+              "bowler": "Amina Kashif",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Keziah Miriam Sabin",
+              "bowler": "Amina Kashif",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "MT Jacob",
+              "non_striker": "Keziah Miriam Sabin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "MT Jacob",
+              "non_striker": "Keziah Miriam Sabin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keziah Miriam Sabin",
+              "bowler": "MT Jacob",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "MT Jacob",
+              "non_striker": "Keziah Miriam Sabin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Keziah Miriam Sabin",
+              "bowler": "MT Jacob",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Keziah Miriam Sabin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "MT Jacob",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Amina Kashif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Amina Kashif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Amina Kashif",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Amina Kashif",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Amina Kashif",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Amina Kashif",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Amina Kashif",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Amina Kashif",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "MT Jacob",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "MT Jacob",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "MT Jacob",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "MT Jacob",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "MT Jacob",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "MT Jacob",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ER Oza",
+                  "fielders": [
+                    {
+                      "name": "Roheed Akhtar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "MT Jacob",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Taful Elkhair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Taful Elkhair",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Taful Elkhair",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MD Botha",
+              "bowler": "MT Jacob",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "MT Jacob",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "MT Jacob",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "MT Jacob",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "MT Jacob",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "MT Jacob",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Roheed Akhtar",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MD Botha",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MD Botha",
+              "bowler": "Aysha",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Aysha",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Aysha",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Lihara Ayeysekara",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "MD Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Botha",
+              "bowler": "Aysha",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Botha",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "Aysha",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "G Candiru",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "G Candiru",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "Aysha",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "Aysha",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Aysha",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "Aysha",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "MT Jacob",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rinitha Rajith",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "UCKA Dona",
+              "bowler": "MT Jacob",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "UCKA Dona",
+              "bowler": "MT Jacob",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "UCKA Dona",
+              "bowler": "MT Jacob",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UCKA Dona",
+              "bowler": "MT Jacob",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "UCKA Dona",
+              "bowler": "MT Jacob",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "MT Jacob",
+              "non_striker": "UCKA Dona",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Qatar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Krisheta",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "S Dharnidharka",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "S Dharnidharka",
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Krisheta",
+              "bowler": "I Nandakumar",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "I Nandakumar",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "I Nandakumar",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "I Nandakumar",
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "I Nandakumar",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Krisheta",
+              "bowler": "I Nandakumar",
+              "non_striker": "Shahreeennawab",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "S Dharnidharka",
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "S Dharnidharka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "S Dharnidharka",
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "S Dharnidharka",
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "S Dharnidharka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "S Dharnidharka",
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahreeennawab",
+              "bowler": "S Dharnidharka",
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shahreeennawab",
+                  "fielders": [
+                    {
+                      "name": "Theertha Satish"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SK Rana",
+              "bowler": "S Dharnidharka",
+              "non_striker": "S Krisheta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Krisheta",
+              "bowler": "I Nandakumar",
+              "non_striker": "SK Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Krisheta",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Aysha",
+              "bowler": "I Nandakumar",
+              "non_striker": "SK Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aysha",
+              "bowler": "I Nandakumar",
+              "non_striker": "SK Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Rana",
+              "bowler": "I Nandakumar",
+              "non_striker": "Aysha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Rana",
+              "bowler": "I Nandakumar",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Aysha",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Rana",
+              "bowler": "I Nandakumar",
+              "non_striker": "Aysha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Aysha",
+              "bowler": "S Dharnidharka",
+              "non_striker": "SK Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aysha",
+              "bowler": "S Dharnidharka",
+              "non_striker": "SK Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Rana",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Aysha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SK Rana",
+                  "fielders": [
+                    {
+                      "name": "S Gokhale"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "G Candiru",
+              "bowler": "S Dharnidharka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aysha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Candiru",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Aysha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Candiru",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "CE Jacob",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Aysha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CE Jacob",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Aysha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Aysha",
+              "bowler": "I Nandakumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CE Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aysha",
+              "bowler": "I Nandakumar",
+              "non_striker": "CE Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aysha",
+              "bowler": "I Nandakumar",
+              "non_striker": "CE Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aysha",
+              "bowler": "I Nandakumar",
+              "non_striker": "CE Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aysha",
+              "bowler": "I Nandakumar",
+              "non_striker": "CE Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aysha",
+              "bowler": "I Nandakumar",
+              "non_striker": "CE Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aysha",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "I Nandakumar",
+              "non_striker": "CE Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CE Jacob",
+              "bowler": "S Dharnidharka",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CE Jacob",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Taful Elkhair",
+              "bowler": "S Dharnidharka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Taful Elkhair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Taful Elkhair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Taful Elkhair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Taful Elkhair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Taful Elkhair",
+              "bowler": "I Nandakumar",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taful Elkhair",
+              "bowler": "I Nandakumar",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taful Elkhair",
+              "bowler": "I Nandakumar",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taful Elkhair",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "I Nandakumar",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "I Nandakumar",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "I Nandakumar",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "Vaishnave Mahesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "S Gokhale",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "S Gokhale",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "S Gokhale",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "KC Thompson",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "KC Thompson",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "KC Thompson",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "KC Thompson",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "KC Thompson",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "KC Thompson",
+              "non_striker": "Lihara Ayeysekara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "MD Botha",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "MD Botha",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "MD Botha",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "MD Botha",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lihara Ayeysekara",
+              "bowler": "MD Botha",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Lihara Ayeysekara",
+                  "fielders": [
+                    {
+                      "name": "S Gokhale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "MD Botha",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MT Jacob",
+              "bowler": "ER Oza",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "ER Oza",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "ER Oza",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "non_striker": "MT Jacob",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Jacob",
+              "bowler": "S Gokhale",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MT Jacob",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "S Gokhale",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "S Gokhale",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "ER Oza",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "ER Oza",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "ER Oza",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Amina Kashif",
+              "bowler": "KC Thompson",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "KC Thompson",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "KC Thompson",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "KC Thompson",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "KC Thompson",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Roheed Akhtar",
+              "bowler": "KC Thompson",
+              "non_striker": "Amina Kashif",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Amina Kashif",
+              "bowler": "MD Botha",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "MD Botha",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "MD Botha",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amina Kashif",
+              "bowler": "MD Botha",
+              "non_striker": "Roheed Akhtar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amina Kashif",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 184
+      }
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Castel",
+    "dates": [
+      "2026-05-03"
+    ],
+    "event": {
+      "name": "Isle of Man tour of Guernsey",
+      "match_number": 3
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3833,
+    "officials": {
+      "reserve_umpires": [
+        "RJ Veillard"
+      ],
+      "umpires": [
+        "Paul Robinson",
+        "P Finch"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Guernsey": [
+        "LJ Barker",
+        "J Butler",
+        "E Robinson",
+        "M Dale-Bradley",
+        "T Nightingale",
+        "MWR Stokes",
+        "A Martel",
+        "OB Nightingale",
+        "IDA Damarell",
+        "A Bushell",
+        "LB Ferbrache"
+      ],
+      "Isle of Man": [
+        "A McAuley",
+        "C Hartmann",
+        "D Jansen",
+        "G Newton",
+        "J Clough",
+        "S Barnett",
+        "JA Burrows",
+        "CJ Langford",
+        "MJ Ansell",
+        "C Liebenberg",
+        "K Shnier"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bushell": "2d645c00",
+        "A Martel": "65cd62a9",
+        "A McAuley": "39e599c8",
+        "C Hartmann": "467c28f9",
+        "C Liebenberg": "83f0b848",
+        "CJ Langford": "3967b66f",
+        "D Jansen": "c90346a0",
+        "E Robinson": "2719e9a6",
+        "G Newton": "57618587",
+        "IDA Damarell": "580ae7f2",
+        "J Butler": "efcb778e",
+        "J Clough": "1f08084c",
+        "JA Burrows": "dba54d8e",
+        "K Shnier": "6a8050f4",
+        "LB Ferbrache": "0f72f582",
+        "LJ Barker": "da1f80f8",
+        "M Dale-Bradley": "62b2aa65",
+        "MJ Ansell": "6e60a792",
+        "MWR Stokes": "c573d173",
+        "OB Nightingale": "1deb4c0c",
+        "P Finch": "e1fd1396",
+        "Paul Robinson": "963c674a",
+        "RJ Veillard": "0a8ebf05",
+        "S Barnett": "e09a869b",
+        "T Nightingale": "51a125b3"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Guernsey",
+      "Isle of Man"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Guernsey"
+    },
+    "venue": "King George V Sports Ground, Castel"
+  },
+  "innings": [
+    {
+      "team": "Guernsey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "LJ Barker",
+              "bowler": "MJ Ansell",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Barker",
+              "bowler": "MJ Ansell",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Barker",
+              "bowler": "MJ Ansell",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LJ Barker",
+              "bowler": "MJ Ansell",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "MJ Ansell",
+              "non_striker": "LJ Barker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "MJ Ansell",
+              "non_striker": "LJ Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Butler",
+              "bowler": "G Newton",
+              "non_striker": "LJ Barker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Butler",
+              "bowler": "G Newton",
+              "non_striker": "LJ Barker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Barker",
+              "bowler": "G Newton",
+              "non_striker": "J Butler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

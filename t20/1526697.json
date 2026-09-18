@@ -1,0 +1,2573 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-03-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lagos",
+    "dates": [
+      "2026-03-22"
+    ],
+    "event": {
+      "name": "Nigeria Invitational Women's T20I Tournament",
+      "match_number": 5
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2690,
+    "officials": {
+      "match_referees": [
+        "Tonye Timinadi"
+      ],
+      "reserve_umpires": [
+        "CO Okegbo"
+      ],
+      "tv_umpires": [
+        "A Adetoro"
+      ],
+      "umpires": [
+        "N Ngqubuka-Dyam",
+        "Rajesh Pillai"
+      ]
+    },
+    "outcome": {
+      "winner": "Nigeria",
+      "by": {
+        "runs": 136
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "U Peace"
+    ],
+    "players": {
+      "Nigeria": [
+        "L Piety",
+        "V Igbinedion",
+        "MK Amusa",
+        "S Sunday",
+        "C Chukwuonye",
+        "E Sandy",
+        "S Etim",
+        "H Mbam",
+        "A Adekunle",
+        "U Peace",
+        "F Effiong"
+      ],
+      "Ghana": [
+        "Kate Awuah",
+        "Rashidatu Salia",
+        "A Amuzu",
+        "J Kokam",
+        "Elizabeth Annor",
+        "R Adotei",
+        "G Quaicoe",
+        "Miriam Ehsun",
+        "G Essoun",
+        "E Sagoe",
+        "E Bakiweyem"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Adekunle": "1b0ce76e",
+        "A Adetoro": "b8f6fb20",
+        "A Amuzu": "0f439829",
+        "C Chukwuonye": "bb0aac11",
+        "CO Okegbo": "1ee516b6",
+        "E Bakiweyem": "00c9dcf9",
+        "E Sagoe": "77c14bc2",
+        "E Sandy": "59063d6b",
+        "Elizabeth Annor": "8d59f15d",
+        "F Effiong": "0bb077ff",
+        "G Essoun": "71b1e490",
+        "G Quaicoe": "3fcb7b21",
+        "H Mbam": "e4f68364",
+        "J Kokam": "09dea28a",
+        "Kate Awuah": "b10e688b",
+        "L Piety": "46a29dd0",
+        "MK Amusa": "1eaf0ce1",
+        "Miriam Ehsun": "fd67c5f0",
+        "N Ngqubuka-Dyam": "96507dd4",
+        "R Adotei": "d68d2815",
+        "Rajesh Pillai": "03197911",
+        "Rashidatu Salia": "ce39ca2c",
+        "S Etim": "aa197946",
+        "S Sunday": "594a0dec",
+        "Tonye Timinadi": "5cc0fccb",
+        "U Peace": "3798b336",
+        "V Igbinedion": "9525b9e5"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Nigeria",
+      "Ghana"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Nigeria"
+    },
+    "venue": "Tafawa Balewa Square Cricket Oval, Lagos"
+  },
+  "innings": [
+    {
+      "team": "Nigeria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "Kate Awuah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "Kate Awuah",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "Kate Awuah",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Igbinedion",
+              "bowler": "E Sagoe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "E Sagoe",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "E Sagoe",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "E Sagoe",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "E Sagoe",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "E Sagoe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "E Sagoe",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "E Sagoe",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "Kate Awuah",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Essoun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Essoun",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Essoun",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "G Essoun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "R Adotei",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "L Piety",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Piety",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Piety",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Piety",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Quaicoe",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Quaicoe",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Quaicoe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "R Adotei",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Quaicoe",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Quaicoe",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Quaicoe",
+              "non_striker": "V Igbinedion",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Igbinedion",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Igbinedion",
+                  "kind": "retired hurt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Sagoe",
+              "non_striker": "S Sunday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Sagoe",
+              "non_striker": "S Sunday",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Sagoe",
+              "non_striker": "S Sunday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "E Sagoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "E Sagoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "E Sagoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Quaicoe",
+              "non_striker": "S Sunday",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Sunday",
+                  "fielders": [
+                    {
+                      "name": "A Amuzu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Quaicoe",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Kate Awuah",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Kate Awuah",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Kate Awuah",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Kate Awuah",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Kate Awuah",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Kate Awuah",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Rashidatu Salia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "R Adotei",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "R Adotei",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "R Adotei",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "R Adotei",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "G Essoun",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "Kate Awuah",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Kate Awuah",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Kate Awuah",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Kate Awuah",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Kate Awuah",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Kate Awuah",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MK Amusa",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "Rashidatu Salia",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Bakiweyem",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Bakiweyem",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Bakiweyem",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Bakiweyem",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Bakiweyem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Bakiweyem",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "E Bakiweyem",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Sandy",
+                  "fielders": [
+                    {
+                      "name": "Elizabeth Annor"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "G Essoun",
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ghana",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Kate Awuah",
+              "bowler": "U Peace",
+              "non_striker": "Rashidatu Salia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashidatu Salia",
+              "bowler": "U Peace",
+              "non_striker": "Kate Awuah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashidatu Salia",
+              "bowler": "U Peace",
+              "non_striker": "Kate Awuah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rashidatu Salia",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "Kate Awuah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "Kate Awuah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "Kate Awuah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Kate Awuah",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kate Awuah",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "MK Amusa",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "MK Amusa",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "MK Amusa",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "MK Amusa",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "MK Amusa",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "MK Amusa",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "MK Amusa",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "MK Amusa",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Kokam",
+              "bowler": "U Peace",
+              "non_striker": "A Amuzu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Amuzu",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Amuzu",
+                  "fielders": [
+                    {
+                      "name": "A Adekunle"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Elizabeth Annor",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Elizabeth Annor",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Elizabeth Annor",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Elizabeth Annor",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Adotei",
+              "bowler": "U Peace",
+              "non_striker": "J Kokam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "R Adotei",
+                  "fielders": [
+                    {
+                      "name": "MK Amusa"
+                    },
+                    {
+                      "name": "S Etim"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Kokam",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kokam",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Kokam",
+                  "fielders": [
+                    {
+                      "name": "C Chukwuonye"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Miriam Ehsun",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Miriam Ehsun",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Miriam Ehsun",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Miriam Ehsun",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Miriam Ehsun",
+              "bowler": "H Mbam",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Miriam Ehsun",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "H Mbam",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "G Essoun",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Essoun",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Essoun",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "E Sagoe",
+              "bowler": "F Effiong",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Sagoe",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sagoe",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sagoe",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sagoe",
+              "bowler": "F Effiong",
+              "non_striker": "G Quaicoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "G Quaicoe",
+              "bowler": "H Mbam",
+              "non_striker": "E Sagoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Quaicoe",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "E Bakiweyem",
+              "bowler": "H Mbam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Sagoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Bakiweyem",
+              "bowler": "H Mbam",
+              "non_striker": "E Sagoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Bakiweyem",
+              "bowler": "H Mbam",
+              "non_striker": "E Sagoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Bakiweyem",
+              "bowler": "H Mbam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Sagoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Bakiweyem",
+              "bowler": "H Mbam",
+              "non_striker": "E Sagoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Bakiweyem",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 160
+      }
+    }
+  ]
+}

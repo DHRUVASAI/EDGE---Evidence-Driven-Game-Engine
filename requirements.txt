@@ -1,0 +1,28 @@
+# EDGE Pipeline Dependencies
+# ===========================
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0  # Parquet support
+
+# Google Cloud / BigQuery
+google-cloud-bigquery>=3.11.0
+google-cloud-storage>=2.10.0  # Optional: for Cloud Storage staging
+
+# GPU Acceleration (NVIDIA RAPIDS)
+# Install via: pip install cudf-cu12 --extra-index-url=https://pypi.nvidia.com
+# Or for Colab: use the RAPIDS install cell
+# cudf-cu12==24.06.*
+# cuml-cu12==24.06.*
+
+# AI / LLM
+google-generativeai>=0.7.0  # Gemini API
+
+# Utilities
+python-dotenv>=1.0.0  # For .env file support
+tqdm>=4.66.0  # Progress bars
+
+# Development / Testing
+pytest>=7.4.0
+black>=23.0.0
+ruff>=0.1.0

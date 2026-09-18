@@ -1,0 +1,3123 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gaborone",
+    "dates": [
+      "2026-05-26"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Africa Qualifier",
+      "match_number": 12
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3912,
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "VR Angara"
+      ],
+      "umpires": [
+        "IO Oyieko",
+        "LB Gcuma"
+      ]
+    },
+    "outcome": {
+      "winner": "Cameroon",
+      "by": {
+        "runs": 152
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RD Atangana"
+    ],
+    "players": {
+      "Cameroon": [
+        "I Tchakou",
+        "DB Loic",
+        "AN Toube",
+        "JB Abega",
+        "FJ Mpegna",
+        "RD Atangana",
+        "VF Bomnyuy",
+        "AN Aminou",
+        "H Kinga",
+        "JD Alembe",
+        "AB Mengoumou"
+      ],
+      "Ivory Coast": [
+        "OK Mohamed",
+        "KY Wilfried",
+        "QF Djakaridja",
+        "D Issiaka",
+        "KMA Aziz",
+        "AK Roger",
+        "M Ibrahim",
+        "DKJ Claude",
+        "K Nagnama",
+        "KK Hermann",
+        "O Issouf"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB Mengoumou": "8ad3d034",
+        "AK Roger": "1f6f321d",
+        "AN Aminou": "6d9d2de7",
+        "AN Toube": "7f929ebe",
+        "D Issiaka": "933b30c9",
+        "DB Loic": "01679383",
+        "DKJ Claude": "096601c5",
+        "FJ Mpegna": "d3893060",
+        "H Kinga": "c9729534",
+        "I Tchakou": "4d2b96b4",
+        "IO Oyieko": "de4828fa",
+        "JB Abega": "b7abb123",
+        "JD Alembe": "518cfb98",
+        "K Nagnama": "6770bccd",
+        "KK Hermann": "ba3533fe",
+        "KMA Aziz": "e8cfd743",
+        "KY Wilfried": "5e72608f",
+        "LB Gcuma": "02ba88e3",
+        "M Ibrahim": "253bc9d8",
+        "O Issouf": "5d656f48",
+        "OK Mohamed": "3cb42681",
+        "QF Djakaridja": "9ae09b37",
+        "RD Atangana": "490f475a",
+        "S Wadvalla": "c1a1acf3",
+        "VF Bomnyuy": "3bc18521",
+        "VR Angara": "5b7b706f"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Cameroon",
+      "Ivory Coast"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Cameroon"
+    },
+    "venue": "Botswana Cricket Association Oval 2, Gaborone"
+  },
+  "innings": [
+    {
+      "team": "Cameroon",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "I Tchakou",
+              "bowler": "KMA Aziz",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KMA Aziz",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KMA Aziz",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KMA Aziz",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "KMA Aziz",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DB Loic",
+              "bowler": "QF Djakaridja",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DB Loic",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "KMA Aziz",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "KMA Aziz",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KMA Aziz",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "KMA Aziz",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "KMA Aziz",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DB Loic",
+              "bowler": "QF Djakaridja",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "QF Djakaridja",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Tchakou",
+              "bowler": "QF Djakaridja",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "QF Djakaridja",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DB Loic",
+              "bowler": "KY Wilfried",
+              "non_striker": "I Tchakou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Tchakou",
+                  "fielders": [
+                    {
+                      "name": "QF Djakaridja"
+                    },
+                    {
+                      "name": "O Issouf"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "AN Toube",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AN Toube",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KY Wilfried",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JB Abega",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "DKJ Claude",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "DKJ Claude",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "DKJ Claude",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "DKJ Claude",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "DKJ Claude",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KY Wilfried",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KY Wilfried",
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JB Abega",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "DKJ Claude",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "JB Abega",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JB Abega",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JB Abega",
+                  "fielders": [
+                    {
+                      "name": "O Issouf"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KY Wilfried",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KY Wilfried",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KY Wilfried",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "KY Wilfried",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "DKJ Claude",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "DKJ Claude",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "DKJ Claude",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "DKJ Claude",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DB Loic",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "K Nagnama",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "K Nagnama",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Loic",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KY Wilfried",
+              "non_striker": "DB Loic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "DB Loic",
+                  "fielders": [
+                    {
+                      "name": "KY Wilfried"
+                    },
+                    {
+                      "name": "M Ibrahim"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KY Wilfried",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KY Wilfried",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "KY Wilfried",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "KY Wilfried",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "KY Wilfried",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "KY Wilfried",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "K Nagnama",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "K Nagnama",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "K Nagnama",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RD Atangana",
+              "bowler": "DKJ Claude",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "DKJ Claude",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "DKJ Claude",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "DKJ Claude",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "DKJ Claude",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "DKJ Claude",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "K Nagnama",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "K Nagnama",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KMA Aziz",
+              "non_striker": "RD Atangana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "KMA Aziz",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Atangana",
+              "bowler": "KMA Aziz",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Atangana",
+                  "fielders": [
+                    {
+                      "name": "K Nagnama"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KMA Aziz",
+              "non_striker": "VF Bomnyuy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "KMA Aziz",
+              "non_striker": "VF Bomnyuy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "QF Djakaridja",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "QF Djakaridja",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "QF Djakaridja",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "QF Djakaridja",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "QF Djakaridja",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FJ Mpegna",
+              "bowler": "QF Djakaridja",
+              "non_striker": "VF Bomnyuy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "KMA Aziz",
+              "non_striker": "FJ Mpegna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "FJ Mpegna",
+                  "fielders": [
+                    {
+                      "name": "KMA Aziz"
+                    },
+                    {
+                      "name": "DKJ Claude"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "KMA Aziz",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "KMA Aziz",
+              "non_striker": "VF Bomnyuy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "KMA Aziz",
+              "non_striker": "VF Bomnyuy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "KMA Aziz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "KMA Aziz",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VF Bomnyuy",
+              "bowler": "KMA Aziz",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VF Bomnyuy",
+                  "fielders": [
+                    {
+                      "name": "M Ibrahim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AN Aminou",
+              "bowler": "K Nagnama",
+              "non_striker": "H Kinga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "K Nagnama",
+              "non_striker": "H Kinga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kinga",
+              "bowler": "K Nagnama",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kinga",
+              "bowler": "K Nagnama",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Kinga",
+              "bowler": "K Nagnama",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kinga",
+              "bowler": "K Nagnama",
+              "non_striker": "AN Aminou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AN Aminou",
+              "bowler": "K Nagnama",
+              "non_striker": "H Kinga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AN Aminou",
+                  "fielders": [
+                    {
+                      "name": "KMA Aziz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "H Kinga",
+              "bowler": "QF Djakaridja",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JD Alembe",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "H Kinga",
+              "bowler": "QF Djakaridja",
+              "non_striker": "JD Alembe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kinga",
+              "bowler": "QF Djakaridja",
+              "non_striker": "JD Alembe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kinga",
+              "bowler": "QF Djakaridja",
+              "non_striker": "JD Alembe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kinga",
+              "bowler": "QF Djakaridja",
+              "non_striker": "JD Alembe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JD Alembe",
+              "bowler": "QF Djakaridja",
+              "non_striker": "H Kinga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JD Alembe",
+              "bowler": "QF Djakaridja",
+              "non_striker": "H Kinga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ivory Coast",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KY Wilfried",
+              "bowler": "JB Abega",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "KY Wilfried",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KY Wilfried",
+              "bowler": "RD Atangana",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KY Wilfried",
+              "bowler": "RD Atangana",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KY Wilfried",
+              "bowler": "RD Atangana",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KY Wilfried",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "QF Djakaridja",
+              "bowler": "RD Atangana",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "QF Djakaridja",
+              "bowler": "RD Atangana",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "QF Djakaridja",
+                  "fielders": [
+                    {
+                      "name": "AN Toube"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "D Issiaka",
+              "bowler": "RD Atangana",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "JB Abega",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "D Issiaka",
+              "bowler": "RD Atangana",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Issiaka",
+              "bowler": "RD Atangana",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "RD Atangana",
+              "non_striker": "D Issiaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Issiaka",
+              "bowler": "AB Mengoumou",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Issiaka",
+              "bowler": "AB Mengoumou",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Issiaka",
+              "bowler": "AB Mengoumou",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Issiaka",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "AB Mengoumou",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KMA Aziz",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "OK Mohamed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OK Mohamed",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OK Mohamed",
+                  "fielders": [
+                    {
+                      "name": "AN Toube"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AK Roger",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Roger",
+              "bowler": "AB Mengoumou",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AK Roger",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Roger",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Roger",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Roger",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Roger",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AK Roger",
+              "bowler": "DB Loic",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "DB Loic",
+              "non_striker": "AK Roger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Roger",
+                  "fielders": [
+                    {
+                      "name": "DB Loic"
+                    },
+                    {
+                      "name": "H Kinga"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "DB Loic",
+              "non_striker": "M Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "DB Loic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "DB Loic",
+              "non_striker": "M Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "DB Loic",
+              "non_striker": "M Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "DB Loic",
+              "non_striker": "M Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M Ibrahim",
+              "bowler": "AB Mengoumou",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ibrahim",
+              "bowler": "AB Mengoumou",
+              "non_striker": "KMA Aziz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Ibrahim",
+                  "fielders": [
+                    {
+                      "name": "RD Atangana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KMA Aziz",
+              "bowler": "AB Mengoumou",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KMA Aziz",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "K Nagnama",
+              "bowler": "AB Mengoumou",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "AB Mengoumou",
+              "non_striker": "K Nagnama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "AB Mengoumou",
+              "non_striker": "K Nagnama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "AB Mengoumou",
+              "non_striker": "K Nagnama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "K Nagnama",
+              "bowler": "DB Loic",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nagnama",
+              "bowler": "DB Loic",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Nagnama",
+              "bowler": "DB Loic",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Nagnama",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KK Hermann",
+              "bowler": "DB Loic",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Hermann",
+              "bowler": "DB Loic",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Hermann",
+              "bowler": "DB Loic",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DKJ Claude",
+              "bowler": "JB Abega",
+              "non_striker": "KK Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "JB Abega",
+              "non_striker": "KK Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "JB Abega",
+              "non_striker": "KK Hermann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "JB Abega",
+              "non_striker": "KK Hermann",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "JB Abega",
+              "non_striker": "KK Hermann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Hermann",
+              "bowler": "JB Abega",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KK Hermann",
+              "bowler": "RD Atangana",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Hermann",
+              "bowler": "RD Atangana",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Hermann",
+                  "fielders": [
+                    {
+                      "name": "AN Toube"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "O Issouf",
+              "bowler": "RD Atangana",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Issouf",
+              "bowler": "RD Atangana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Issouf",
+              "bowler": "RD Atangana",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Issouf",
+              "bowler": "RD Atangana",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Issouf",
+              "bowler": "RD Atangana",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DKJ Claude",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "O Issouf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "O Issouf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "O Issouf",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "O Issouf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Issouf",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Issouf",
+              "bowler": "VF Bomnyuy",
+              "non_striker": "DKJ Claude",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DKJ Claude",
+              "bowler": "DB Loic",
+              "non_striker": "O Issouf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DKJ Claude",
+              "bowler": "DB Loic",
+              "non_striker": "O Issouf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DKJ Claude",
+                  "fielders": [
+                    {
+                      "name": "AB Mengoumou"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 184
+      }
+    }
+  ]
+}

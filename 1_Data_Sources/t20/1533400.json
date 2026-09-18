@@ -1,0 +1,3103 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-11",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Episkopi",
+    "dates": [
+      "2026-05-09"
+    ],
+    "event": {
+      "name": "Finland tour of Cyprus",
+      "match_number": 4
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3854,
+    "officials": {
+      "umpires": [
+        "Abdul Rahman",
+        "S Tennakoon"
+      ]
+    },
+    "outcome": {
+      "winner": "Finland",
+      "by": {
+        "runs": 38
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Amjad Sher"
+    ],
+    "players": {
+      "Finland": [
+        "Kaif Jamadar",
+        "PUKK Arachchige",
+        "Faraaz Mehti Abbas",
+        "Jordan O'Brien",
+        "A Pusthay",
+        "NM Salonen",
+        "MB Tambe",
+        "Hammadullah Shinwari",
+        "PEA Karunarathna",
+        "Junaid Khan",
+        "Amjad Sher"
+      ],
+      "Cyprus": [
+        "R Mazumder",
+        "A Shahi",
+        "AA Senn",
+        "Adam Senn",
+        "MPGT Ketiyage",
+        "Karan Singh",
+        "RMR Brathwaite",
+        "Taranjit Singh",
+        "SN Pathirana",
+        "Lovedeep Singh",
+        "S Alavala"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Pusthay": "0393fbdc",
+        "A Shahi": "2011735e",
+        "AA Senn": "719ac15b",
+        "Abdul Rahman": "11e45bf5",
+        "Adam Senn": "34c3f7b9",
+        "Amjad Sher": "3b4a8cfb",
+        "Faraaz Mehti Abbas": "4233080d",
+        "Hammadullah Shinwari": "21db290f",
+        "Jordan O'Brien": "c31d7da1",
+        "Junaid Khan": "670e6804",
+        "Kaif Jamadar": "0a95c25a",
+        "Karan Singh": "56a94565",
+        "Lovedeep Singh": "a6e5e144",
+        "MB Tambe": "1c1bb0d5",
+        "MPGT Ketiyage": "2d45d7d2",
+        "NM Salonen": "f5bd70f2",
+        "PEA Karunarathna": "98c13758",
+        "PUKK Arachchige": "1ef6ed2b",
+        "R Mazumder": "b23d3ec5",
+        "RMR Brathwaite": "349c5e58",
+        "S Alavala": "2e9e4eaf",
+        "S Tennakoon": "1e1106d5",
+        "SN Pathirana": "f4000a7d",
+        "Taranjit Singh": "985b649e"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Finland",
+      "Cyprus"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Finland"
+    },
+    "venue": "Happy Valley Ground"
+  },
+  "innings": [
+    {
+      "team": "Finland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Kaif Jamadar",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Lovedeep Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Kaif Jamadar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kaif Jamadar",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kaif Jamadar",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kaif Jamadar",
+                  "fielders": [
+                    {
+                      "name": "Karan Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Karan Singh",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Karan Singh",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Adam Senn",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Adam Senn",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Faraaz Mehti Abbas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faraaz Mehti Abbas",
+              "bowler": "Adam Senn",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faraaz Mehti Abbas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Adam Senn",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "A Shahi",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "A Shahi",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "A Shahi",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "A Shahi",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "A Shahi",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Adam Senn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Adam Senn",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Adam Senn",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Adam Senn",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "S Alavala",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "S Alavala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "S Alavala",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "S Alavala",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "S Alavala",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "S Alavala",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "S Alavala",
+              "non_striker": "PUKK Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PUKK Arachchige",
+              "bowler": "Adam Senn",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PUKK Arachchige",
+                  "fielders": [
+                    {
+                      "name": "AA Senn"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "Adam Senn",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Adam Senn",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Adam Senn",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Adam Senn",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "S Alavala",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "S Alavala",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "S Alavala",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "S Alavala",
+              "non_striker": "Jordan O'Brien",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Jordan O'Brien",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jordan O'Brien",
+                  "fielders": [
+                    {
+                      "name": "AA Senn"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "A Pusthay",
+              "bowler": "Karan Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "Karan Singh",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "Karan Singh",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Karan Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Karan Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "Karan Singh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Karan Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Karan Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "Taranjit Singh",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "Taranjit Singh",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "Taranjit Singh",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "NM Salonen",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Pusthay",
+              "bowler": "A Shahi",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "A Shahi",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "A Shahi",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "A Shahi",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "A Shahi",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "A Shahi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "A Shahi",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "NM Salonen",
+              "bowler": "S Alavala",
+              "non_striker": "A Pusthay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "S Alavala",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Pusthay",
+              "bowler": "S Alavala",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Pusthay",
+                  "fielders": [
+                    {
+                      "name": "A Shahi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "S Alavala",
+              "non_striker": "NM Salonen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Salonen",
+              "bowler": "S Alavala",
+              "non_striker": "MB Tambe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NM Salonen",
+                  "fielders": [
+                    {
+                      "name": "A Shahi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Hammadullah Shinwari",
+              "bowler": "S Alavala",
+              "non_striker": "MB Tambe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Hammadullah Shinwari",
+              "bowler": "A Shahi",
+              "non_striker": "MB Tambe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "A Shahi",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "A Shahi",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "A Shahi",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "A Shahi",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "A Shahi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hammadullah Shinwari",
+              "bowler": "A Shahi",
+              "non_striker": "MB Tambe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MB Tambe",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "Taranjit Singh",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hammadullah Shinwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "MB Tambe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MB Tambe",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Hammadullah Shinwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hammadullah Shinwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "MB Tambe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "MB Tambe",
+                  "fielders": [
+                    {
+                      "name": "Taranjit Singh"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cyprus",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "Amjad Sher",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Amjad Sher",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Amjad Sher",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Amjad Sher",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Amjad Sher",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Amjad Sher",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "Amjad Sher",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Amjad Sher",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Amjad Sher",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Amjad Sher",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Amjad Sher",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Amjad Sher",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Mazumder",
+                  "fielders": [
+                    {
+                      "name": "Jordan O'Brien"
+                    },
+                    {
+                      "name": "PEA Karunarathna"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Faraaz Mehti Abbas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Faraaz Mehti Abbas",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Shahi",
+              "bowler": "MB Tambe",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "MB Tambe",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "MB Tambe",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "MB Tambe",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "MB Tambe",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "MB Tambe",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Shahi",
+              "bowler": "Junaid Khan",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Junaid Khan",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Junaid Khan",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Junaid Khan",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Junaid Khan",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "MB Tambe",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "MB Tambe",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "MB Tambe",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "MB Tambe",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "MB Tambe",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Senn",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "MB Tambe",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "Junaid Khan",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Junaid Khan",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Junaid Khan",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Junaid Khan",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Junaid Khan",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Junaid Khan",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "A Shahi",
+                  "fielders": [
+                    {
+                      "name": "Jordan O'Brien"
+                    },
+                    {
+                      "name": "Junaid Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Hammadullah Shinwari",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Amjad Sher",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Amjad Sher",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Amjad Sher",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Amjad Sher",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Amjad Sher",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adam Senn",
+                  "fielders": [
+                    {
+                      "name": "Jordan O'Brien"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "Amjad Sher",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "MB Tambe",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "MB Tambe",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "MB Tambe",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "MB Tambe",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "MB Tambe",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "MB Tambe",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "MB Tambe",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "MB Tambe",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "MB Tambe",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "MB Tambe",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "MB Tambe",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "MB Tambe",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karan Singh",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Junaid Khan",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Junaid Khan",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Junaid Khan",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Junaid Khan",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Junaid Khan",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Junaid Khan",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPGT Ketiyage",
+                  "fielders": [
+                    {
+                      "name": "PEA Karunarathna"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "Taranjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taranjit Singh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SN Pathirana",
+              "bowler": "PEA Karunarathna",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Pathirana",
+              "bowler": "PEA Karunarathna",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SN Pathirana",
+              "bowler": "Junaid Khan",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SN Pathirana",
+              "bowler": "Junaid Khan",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Junaid Khan",
+              "non_striker": "SN Pathirana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Pathirana",
+              "bowler": "Junaid Khan",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Junaid Khan",
+              "non_striker": "SN Pathirana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Junaid Khan",
+              "non_striker": "SN Pathirana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SN Pathirana",
+              "bowler": "Amjad Sher",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SN Pathirana",
+                  "fielders": [
+                    {
+                      "name": "A Pusthay"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Lovedeep Singh",
+              "bowler": "Amjad Sher",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Amjad Sher",
+              "non_striker": "Lovedeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lovedeep Singh",
+              "bowler": "Amjad Sher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Lovedeep Singh",
+              "bowler": "Amjad Sher",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Lovedeep Singh",
+                  "fielders": [
+                    {
+                      "name": "Faraaz Mehti Abbas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Alavala",
+              "bowler": "Amjad Sher",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Alavala",
+              "bowler": "Amjad Sher",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Alavala",
+              "bowler": "Amjad Sher",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 168
+      }
+    }
+  ]
+}

@@ -1,0 +1,2692 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Leeds",
+    "dates": [
+      "2025-09-01"
+    ],
+    "event": {
+      "name": "Women's ICC T20 Tri-Series",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2468,
+    "missing": [
+      "player_of_match",
+      "umpires",
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Brazil",
+      "by": {
+        "runs": 105
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Brazil": [
+        "LV Boas",
+        "L Agatha",
+        "RMAM Avery",
+        "L Cardoso",
+        "AC Sabino",
+        "MLG Silva",
+        "CS Nascimento",
+        "NC Monteiro",
+        "MB dos Santos",
+        "CV Fernandes Torres",
+        "L Moises"
+      ],
+      "Isle of Man": [
+        "L Barnett",
+        "L Moore",
+        "C Henery",
+        "C Crowe",
+        "R Overman",
+        "C Perry",
+        "A Thorpe",
+        "G Ford",
+        "J Pullen",
+        "J Hicks",
+        "L Hornby-Wheeler"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Thorpe": "6c54bd7a",
+        "AC Sabino": "dd45b04b",
+        "C Crowe": "9b671b41",
+        "C Henery": "03d9e80f",
+        "C Perry": "152d3c9d",
+        "CS Nascimento": "df997334",
+        "CV Fernandes Torres": "d1f0c1ce",
+        "G Ford": "c569a574",
+        "J Hicks": "802febe2",
+        "J Pullen": "b3b97956",
+        "L Agatha": "1aebb2fa",
+        "L Barnett": "d9a2345a",
+        "L Cardoso": "5777d460",
+        "L Hornby-Wheeler": "a5ce3e4d",
+        "L Moises": "b27f9716",
+        "L Moore": "da50a075",
+        "LV Boas": "3a00d34f",
+        "MB dos Santos": "8ba8dd7a",
+        "MLG Silva": "3b62a6b4",
+        "NC Monteiro": "752af5a4",
+        "R Overman": "2ec52460",
+        "RMAM Avery": "4cf645c9"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Brazil",
+      "Isle of Man"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Brazil"
+    },
+    "venue": "New Farnley CC, Leeds"
+  },
+  "innings": [
+    {
+      "team": "Brazil",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "L Barnett",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "L Barnett",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "C Perry",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "C Perry",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "C Perry",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "C Perry",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "C Perry",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "C Perry",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LV Boas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Perry",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Barnett",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "L Agatha",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Perry",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Perry",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Barnett",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Agatha",
+                  "fielders": [
+                    {
+                      "name": "A Thorpe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Perry",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Perry",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Perry",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Perry",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Cardoso",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "A Thorpe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "A Thorpe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Perry",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "C Perry",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "A Thorpe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Sabino",
+                  "fielders": [
+                    {
+                      "name": "C Henery"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Thorpe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Ford",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Ford",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Ford",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Thorpe",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Thorpe",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Thorpe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Thorpe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Thorpe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Thorpe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "G Ford",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "J Hicks",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "J Hicks",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "J Hicks",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "J Hicks",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MLG Silva",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "L Hornby-Wheeler",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "J Hicks",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MLG Silva",
+                  "fielders": [
+                    {
+                      "name": "J Pullen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "L Hornby-Wheeler",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "L Hornby-Wheeler",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CS Nascimento",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "J Hicks",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "J Hicks",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Henery",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Henery",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Henery",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CS Nascimento",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Barnett",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Barnett",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "L Barnett",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "L Barnett",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "C Henery",
+              "non_striker": "CS Nascimento",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CS Nascimento",
+              "bowler": "C Henery",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CS Nascimento",
+                  "fielders": [
+                    {
+                      "name": "C Perry"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Isle of Man",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Barnett",
+              "bowler": "L Cardoso",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Moore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Barnett",
+              "bowler": "L Cardoso",
+              "non_striker": "L Moore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Barnett",
+              "bowler": "L Cardoso",
+              "non_striker": "L Moore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Barnett",
+              "bowler": "L Cardoso",
+              "non_striker": "L Moore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Barnett",
+              "bowler": "L Cardoso",
+              "non_striker": "L Moore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Barnett",
+              "bowler": "L Cardoso",
+              "non_striker": "L Moore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Barnett",
+              "bowler": "L Cardoso",
+              "non_striker": "L Moore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Barnett",
+                  "fielders": [
+                    {
+                      "name": "LV Boas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Moore",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Henery",
+              "bowler": "NC Monteiro",
+              "non_striker": "L Moore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Moore",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Moore",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Moore",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Crowe",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Crowe",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Overman",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "C Henery",
+              "bowler": "L Cardoso",
+              "non_striker": "R Overman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Henery",
+              "bowler": "L Cardoso",
+              "non_striker": "R Overman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Henery",
+              "bowler": "L Cardoso",
+              "non_striker": "R Overman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Overman",
+              "bowler": "L Cardoso",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Overman",
+              "bowler": "L Cardoso",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Henery",
+              "bowler": "L Cardoso",
+              "non_striker": "R Overman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Overman",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Overman",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Perry",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Henery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Henery",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Henery",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Henery",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "NC Monteiro",
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "C Perry",
+              "bowler": "L Moises",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Perry",
+              "bowler": "L Moises",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Perry",
+              "bowler": "L Moises",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Perry",
+              "bowler": "L Moises",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "L Moises",
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "L Moises",
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Perry",
+              "bowler": "CV Fernandes Torres",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "CV Fernandes Torres",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "CV Fernandes Torres",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Perry",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Perry",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Perry",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Perry",
+                  "fielders": [
+                    {
+                      "name": "LV Boas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Thorpe",
+              "bowler": "L Moises",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "L Moises",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "L Moises",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "L Moises",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "L Moises",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "L Moises",
+              "non_striker": "A Thorpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Thorpe",
+              "bowler": "LV Boas",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Thorpe",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Thorpe",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "LV Boas",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "CV Fernandes Torres",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Pullen",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "LV Boas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "LV Boas",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "LV Boas",
+              "non_striker": "G Ford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "G Ford",
+              "bowler": "MLG Silva",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "MLG Silva",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "MLG Silva",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "MLG Silva",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "MLG Silva",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ford",
+              "bowler": "MLG Silva",
+              "non_striker": "J Pullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ford",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Pullen",
+              "bowler": "RMAM Avery",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "RMAM Avery",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "RMAM Avery",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "RMAM Avery",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "RMAM Avery",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Pullen",
+              "bowler": "RMAM Avery",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Pullen",
+                  "fielders": [
+                    {
+                      "name": "RMAM Avery"
+                    },
+                    {
+                      "name": "L Cardoso"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "J Hicks",
+              "bowler": "RMAM Avery",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Hornby-Wheeler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Hicks",
+              "bowler": "RMAM Avery",
+              "non_striker": "L Hornby-Wheeler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "L Hornby-Wheeler",
+              "bowler": "MLG Silva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Hornby-Wheeler",
+              "bowler": "MLG Silva",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Hornby-Wheeler",
+              "bowler": "MLG Silva",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Hornby-Wheeler",
+              "bowler": "MLG Silva",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Hornby-Wheeler",
+              "bowler": "MLG Silva",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Hornby-Wheeler",
+              "bowler": "MLG Silva",
+              "non_striker": "J Hicks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Hornby-Wheeler",
+                  "fielders": [
+                    {
+                      "name": "L Cardoso"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 146
+      },
+      "miscounted_overs": {
+        "3": {
+          "balls": "5"
+        }
+      }
+    }
+  ]
+}

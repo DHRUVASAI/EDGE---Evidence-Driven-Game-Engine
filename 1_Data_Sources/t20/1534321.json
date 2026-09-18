@@ -1,0 +1,3044 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-07",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mong Kok",
+    "dates": [
+      "2026-05-07"
+    ],
+    "event": {
+      "name": "Hong Kong Women's T20I Tri-Series",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2755,
+    "officials": {
+      "match_referees": [
+        "G Sankaranarayanan"
+      ],
+      "reserve_umpires": [
+        "John Prakash"
+      ],
+      "umpires": [
+        "H Tukrul",
+        "R Montgomery"
+      ]
+    },
+    "outcome": {
+      "winner": "Malaysia",
+      "by": {
+        "runs": 26
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Nurin Imanina"
+    ],
+    "players": {
+      "Malaysia": [
+        "WA Duraisingam",
+        "Nazatul Hidayah Husna",
+        "Mas Elysa",
+        "Mahirah Izzati Ismail",
+        "Nurin Imanina",
+        "SM Dhanusri",
+        "Nur Dania Syuhada",
+        "Nur Arianna Natsya",
+        "Aisya Eleesa",
+        "Aina Najwa",
+        "Irdina Beh Nabil"
+      ],
+      "China": [
+        "Wei Haiting",
+        "Jiaping Li",
+        "Cai Yuzhi",
+        "M Zhu",
+        "Wang Huiying",
+        "Gong Yuting",
+        "Ma Ruike",
+        "F Qian",
+        "Chen Xinyu",
+        "Zhao Yihan",
+        "J Chunquin"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Aina Najwa": "31453abb",
+        "Aisya Eleesa": "2cd18a73",
+        "Cai Yuzhi": "80d30c5f",
+        "Chen Xinyu": "b2cd8abe",
+        "F Qian": "39f01c3d",
+        "G Sankaranarayanan": "a4a348f9",
+        "Gong Yuting": "edcd847a",
+        "H Tukrul": "a2880cb1",
+        "Irdina Beh Nabil": "59ace6d9",
+        "J Chunquin": "c37b1ed5",
+        "Jiaping Li": "35cac794",
+        "John Prakash": "b5f3d429",
+        "M Zhu": "36c3302e",
+        "Ma Ruike": "8ccef7e2",
+        "Mahirah Izzati Ismail": "b9b32e3c",
+        "Mas Elysa": "857de42e",
+        "Nazatul Hidayah Husna": "e9c394c4",
+        "Nur Arianna Natsya": "4db4c8be",
+        "Nur Dania Syuhada": "3af75717",
+        "Nurin Imanina": "91fafb93",
+        "R Montgomery": "ba71c15f",
+        "SM Dhanusri": "4e4d2c20",
+        "WA Duraisingam": "7467fe01",
+        "Wang Huiying": "c84a3e06",
+        "Wei Haiting": "a1e30490",
+        "Zhao Yihan": "a9cd14fc"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Malaysia",
+      "China"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "China"
+    },
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong"
+  },
+  "innings": [
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "M Zhu",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "M Zhu",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "M Zhu",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "M Zhu",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "M Zhu",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "M Zhu",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Ma Ruike",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nazatul Hidayah Husna",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "M Zhu",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "M Zhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "M Zhu",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WA Duraisingam",
+                  "fielders": [
+                    {
+                      "name": "J Chunquin"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "M Zhu",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "M Zhu",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "M Zhu",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "M Zhu",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Wang Huiying",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Wang Huiying",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Jiaping Li",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Jiaping Li",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Zhao Yihan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Zhao Yihan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mahirah Izzati Ismail",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mas Elysa",
+                  "kind": "hit wicket"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Cai Yuzhi",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Ma Ruike",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Ma Ruike",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nurin Imanina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "Ma Ruike",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "M Zhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nurin Imanina",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nurin Imanina",
+                  "fielders": [
+                    {
+                      "name": "Wei Haiting"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Wang Huiying",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Wang Huiying",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Wang Huiying",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Wang Huiying",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Wang Huiying",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Wang Huiying",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Wang Huiying",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "M Zhu",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "M Zhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "M Zhu",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "M Zhu",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "M Zhu",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Zhao Yihan",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Zhao Yihan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Zhao Yihan",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Zhao Yihan",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Zhao Yihan",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Jiaping Li",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Jiaping Li",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Jiaping Li",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Dhanusri",
+                  "fielders": [
+                    {
+                      "name": "J Chunquin"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Jiaping Li",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Jiaping Li",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Jiaping Li",
+              "non_striker": "Nur Dania Syuhada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Ma Ruike",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Dania Syuhada",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "Nur Dania Syuhada",
+                  "fielders": [
+                    {
+                      "name": "Chen Xinyu"
+                    },
+                    {
+                      "name": "J Chunquin"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Aisya Eleesa",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aisya Eleesa",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aisya Eleesa",
+              "bowler": "Ma Ruike",
+              "non_striker": "Nur Arianna Natsya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Ma Ruike",
+              "non_striker": "Aisya Eleesa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Jiaping Li",
+              "non_striker": "Aisya Eleesa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Jiaping Li",
+              "non_striker": "Aisya Eleesa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Jiaping Li",
+              "non_striker": "Aisya Eleesa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Nur Arianna Natsya",
+                  "fielders": [
+                    {
+                      "name": "Wang Huiying"
+                    },
+                    {
+                      "name": "J Chunquin"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Aisya Eleesa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Jiaping Li",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aisya Eleesa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Aisya Eleesa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Jiaping Li",
+              "non_striker": "Aisya Eleesa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "China",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Aisya Eleesa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jiaping Li",
+                  "fielders": [
+                    {
+                      "name": "Nurin Imanina"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Aisya Eleesa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Wei Haiting",
+                  "fielders": [
+                    {
+                      "name": "Mas Elysa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Aisya Eleesa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Aisya Eleesa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Aisya Eleesa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Zhu",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "M Zhu",
+              "bowler": "SM Dhanusri",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "SM Dhanusri",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "SM Dhanusri",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "SM Dhanusri",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "SM Dhanusri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "SM Dhanusri",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "SM Dhanusri",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nurin Imanina",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nurin Imanina",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nurin Imanina",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mas Elysa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mas Elysa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Mas Elysa",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Nurin Imanina",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Cai Yuzhi",
+                  "fielders": [
+                    {
+                      "name": "Nur Dania Syuhada"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "Nurin Imanina",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Wang Huiying",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Gong Yuting",
+              "bowler": "Nurin Imanina",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gong Yuting",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Nurin Imanina",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Nurin Imanina",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Mas Elysa",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Mas Elysa",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Mas Elysa",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Zhu",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Zhu",
+                  "fielders": [
+                    {
+                      "name": "Mahirah Izzati Ismail"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "F Qian",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Qian",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Nurin Imanina",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Nurin Imanina",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Qian",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Mas Elysa",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ma Ruike",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Nurin Imanina",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Qian",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Chen Xinyu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Nurin Imanina",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Nurin Imanina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Nurin Imanina",
+              "non_striker": "F Qian",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Qian",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Chen Xinyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Qian",
+              "bowler": "Nurin Imanina",
+              "non_striker": "Chen Xinyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Qian",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Zhao Yihan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zhao Yihan",
+              "bowler": "Mas Elysa",
+              "non_striker": "Chen Xinyu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Zhao Yihan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Zhao Yihan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mas Elysa",
+              "non_striker": "Zhao Yihan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zhao Yihan",
+              "bowler": "Mas Elysa",
+              "non_striker": "Chen Xinyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zhao Yihan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "J Chunquin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Chen Xinyu",
+                  "fielders": [
+                    {
+                      "name": "Mas Elysa"
+                    },
+                    {
+                      "name": "Aina Najwa"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 92
+      }
+    }
+  ]
+}

@@ -1,0 +1,3065 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Suva",
+    "dates": [
+      "2025-09-12"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup East Asia Pacific Qualifier",
+      "match_number": 11,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2501,
+    "officials": {
+      "match_referees": [
+        "TL Anderson"
+      ],
+      "reserve_umpires": [
+        "H Atai"
+      ],
+      "umpires": [
+        "Adam Birss",
+        "C Black"
+      ]
+    },
+    "outcome": {
+      "winner": "Vanuatu",
+      "by": {
+        "runs": 89
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "V Mansale"
+    ],
+    "players": {
+      "Vanuatu": [
+        "R Andrew",
+        "V Langiatu",
+        "S Solman",
+        "N Navaika",
+        "S Stephen",
+        "A Chilia",
+        "V Mansale",
+        "R Ova",
+        "V Vira",
+        "M Tarimiala",
+        "G Chilia"
+      ],
+      "Fiji": [
+        "S Lomani",
+        "S Sigaiwasa",
+        "S Vuni",
+        "T Saville",
+        "MT Waqanisau",
+        "S Kijiana",
+        "I Waqavakatoga",
+        "M Biu",
+        "KM Amoe",
+        "MSC Erasito",
+        "AK Gonerara"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Chilia": "a0d07fd6",
+        "AK Gonerara": "141ee9a0",
+        "Adam Birss": "0cabf6f4",
+        "C Black": "75b42f71",
+        "G Chilia": "daf255ce",
+        "H Atai": "0460d756",
+        "I Waqavakatoga": "31d220f5",
+        "KM Amoe": "e21ca3a8",
+        "M Biu": "c386183b",
+        "M Tarimiala": "0030a57d",
+        "MSC Erasito": "ce02e769",
+        "MT Waqanisau": "dc86b56a",
+        "N Navaika": "b0023708",
+        "R Andrew": "66c1accf",
+        "R Ova": "88bba252",
+        "S Kijiana": "ed1f0ef2",
+        "S Lomani": "b85ac5bb",
+        "S Sigaiwasa": "b1414505",
+        "S Solman": "24ed1f75",
+        "S Stephen": "b48304b5",
+        "S Vuni": "951e08f0",
+        "T Saville": "2ef9bdcb",
+        "TL Anderson": "f52ddf8d",
+        "V Langiatu": "fdd18ca0",
+        "V Mansale": "7163637f",
+        "V Vira": "94271647"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Vanuatu",
+      "Fiji"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Vanuatu"
+    },
+    "venue": "Albert Park 1, Suva"
+  },
+  "innings": [
+    {
+      "team": "Vanuatu",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "AK Gonerara",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "AK Gonerara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "AK Gonerara",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "AK Gonerara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "AK Gonerara",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "AK Gonerara",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "AK Gonerara",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "AK Gonerara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "AK Gonerara",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "M Biu",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "M Biu",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "M Biu",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "M Biu",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "M Biu",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "M Biu",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "M Biu",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "S Kijiana",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kijiana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kijiana",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kijiana",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "S Kijiana",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kijiana",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kijiana",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "S Kijiana",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "M Biu",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "M Biu",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "M Biu",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "M Biu",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "M Biu",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "M Biu",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "I Waqavakatoga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Langiatu",
+                  "fielders": [
+                    {
+                      "name": "S Lomani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "MT Waqanisau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "MT Waqanisau",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "I Waqavakatoga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "MT Waqanisau",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Andrew",
+                  "fielders": [
+                    {
+                      "name": "T Saville"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "MT Waqanisau",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "MT Waqanisau",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "N Navaika",
+              "bowler": "M Biu",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "M Biu",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "M Biu",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "M Biu",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "M Biu",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "M Biu",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "N Navaika",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "I Waqavakatoga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Solman",
+              "bowler": "M Biu",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "M Biu",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "M Biu",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "M Biu",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "M Biu",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "M Biu",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Navaika",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Solman",
+              "bowler": "S Kijiana",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "S Kijiana",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Kijiana",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Kijiana",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "S Kijiana",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "S Kijiana",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Navaika",
+                  "fielders": [
+                    {
+                      "name": "T Saville"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Solman",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Sigaiwasa",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kijiana",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Kijiana",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Kijiana",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Kijiana",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Kijiana",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Solman",
+              "bowler": "S Kijiana",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Fiji",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Lomani",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Lomani",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Lomani",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Lomani",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Lomani",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "R Andrew",
+              "non_striker": "S Lomani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Lomani",
+              "bowler": "V Vira",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Lomani",
+              "bowler": "V Vira",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Lomani",
+              "bowler": "V Vira",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Lomani",
+              "bowler": "V Vira",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Vira",
+              "non_striker": "S Lomani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Vira",
+              "non_striker": "S Lomani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Lomani",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Lomani",
+              "bowler": "R Andrew",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "R Andrew",
+              "non_striker": "S Lomani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Lomani",
+                  "fielders": [
+                    {
+                      "name": "N Navaika"
+                    },
+                    {
+                      "name": "M Tarimiala"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Vuni",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vuni",
+              "bowler": "R Andrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vuni",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vuni",
+              "bowler": "R Andrew",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Vira",
+              "non_striker": "S Vuni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Vira",
+              "non_striker": "S Vuni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Vira",
+              "non_striker": "S Vuni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Vira",
+              "non_striker": "S Vuni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Vira",
+              "non_striker": "S Vuni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Vuni",
+                  "fielders": [
+                    {
+                      "name": "R Ova"
+                    },
+                    {
+                      "name": "M Tarimiala"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "T Saville",
+              "bowler": "V Vira",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "T Saville",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "T Saville",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Saville",
+              "bowler": "S Solman",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Saville",
+              "bowler": "S Solman",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Saville",
+              "bowler": "S Solman",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "T Saville",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "R Ova",
+              "non_striker": "T Saville",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "R Ova",
+              "non_striker": "T Saville",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "R Ova",
+              "non_striker": "T Saville",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "R Ova",
+              "non_striker": "T Saville",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Saville",
+              "bowler": "R Ova",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Saville",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "S Solman",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "V Mansale",
+              "non_striker": "S Sigaiwasa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sigaiwasa",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Sigaiwasa",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Kijiana",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kijiana",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Kijiana",
+              "bowler": "R Ova",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Kijiana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Kijiana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Kijiana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Kijiana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kijiana",
+              "bowler": "R Ova",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "R Ova",
+              "non_striker": "S Kijiana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Kijiana",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "S Kijiana",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kijiana",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "I Waqavakatoga",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Waqavakatoga",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Waqavakatoga",
+              "bowler": "V Mansale",
+              "non_striker": "MT Waqanisau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Waqanisau",
+              "bowler": "V Mansale",
+              "non_striker": "I Waqavakatoga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MT Waqanisau",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "M Biu",
+              "bowler": "V Mansale",
+              "non_striker": "I Waqavakatoga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "I Waqavakatoga",
+              "bowler": "R Ova",
+              "non_striker": "M Biu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Waqavakatoga",
+              "bowler": "R Ova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Biu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Waqavakatoga",
+              "bowler": "R Ova",
+              "non_striker": "M Biu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Waqavakatoga",
+              "bowler": "R Ova",
+              "non_striker": "M Biu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Waqavakatoga",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "R Ova",
+              "non_striker": "M Biu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "R Ova",
+              "non_striker": "M Biu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "R Ova",
+              "non_striker": "M Biu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M Biu",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Biu",
+              "bowler": "V Mansale",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Biu",
+              "bowler": "V Mansale",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Biu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "V Mansale",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "V Mansale",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "V Mansale",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "V Mansale",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "N Navaika",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MSC Erasito",
+              "bowler": "V Mansale",
+              "non_striker": "KM Amoe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "V Mansale",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "V Mansale",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "V Mansale",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "V Mansale",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "V Mansale",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KM Amoe",
+              "bowler": "N Navaika",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Amoe",
+              "bowler": "N Navaika",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KM Amoe",
+                  "fielders": [
+                    {
+                      "name": "V Mansale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AK Gonerara",
+              "bowler": "N Navaika",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AK Gonerara",
+              "bowler": "R Andrew",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Gonerara",
+              "bowler": "R Andrew",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AK Gonerara",
+              "bowler": "R Andrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Gonerara",
+              "bowler": "R Andrew",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Gonerara",
+              "bowler": "R Andrew",
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "R Andrew",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "R Andrew",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AK Gonerara",
+              "bowler": "N Navaika",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MSC Erasito",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSC Erasito",
+              "bowler": "N Navaika",
+              "non_striker": "AK Gonerara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MSC Erasito",
+                  "fielders": [
+                    {
+                      "name": "R Andrew"
+                    },
+                    {
+                      "name": "M Tarimiala"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 150
+      }
+    }
+  ]
+}

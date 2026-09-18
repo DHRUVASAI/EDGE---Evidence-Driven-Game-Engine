@@ -1,0 +1,2638 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-11",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nisshin",
+    "dates": [
+      "2026-05-08"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup East Asia-Pacific Qualifier",
+      "match_number": 2,
+      "group": "1"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3839,
+    "officials": {
+      "match_referees": [
+        "Kent Hannam"
+      ],
+      "reserve_umpires": [
+        "Suresh Subramanian"
+      ],
+      "umpires": [
+        "DM Koch",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Vanuatu",
+      "by": {
+        "runs": 121
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "J Rasu"
+    ],
+    "players": {
+      "Vanuatu": [
+        "J Rasu",
+        "PK Matautaava",
+        "A Mansale",
+        "N Nipiko",
+        "W Wotu",
+        "C Tommy",
+        "D Wotu",
+        "JD Allan",
+        "JP Kaltapau",
+        "N Venables",
+        "W Nalisa"
+      ],
+      "Fiji": [
+        "N Acawei",
+        "M Beitaki",
+        "SM Tupou",
+        "PV Vuniwaqa",
+        "V Veiqravi",
+        "K Tayaga",
+        "J Baleicikoibia",
+        "S Waqabaca",
+        "P Dakainivanua",
+        "S Tabuisulu",
+        "VM Waqavakatoga"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mansale": "a22b4f3f",
+        "C Tommy": "c6d4cff0",
+        "D Wotu": "9585854d",
+        "DM Koch": "6d10c034",
+        "J Baleicikoibia": "30a307d3",
+        "J Rasu": "1021b6e5",
+        "JD Allan": "3758028b",
+        "JP Kaltapau": "d8dccff5",
+        "K Tayaga": "ae677077",
+        "Kent Hannam": "8cc171e7",
+        "M Beitaki": "3d29b5fc",
+        "N Acawei": "93c8799e",
+        "N Nipiko": "c498c510",
+        "N Venables": "6f852c49",
+        "P Dakainivanua": "5485c999",
+        "PK Matautaava": "af19aa66",
+        "PV Vuniwaqa": "653a7fa8",
+        "S Tabuisulu": "62708dce",
+        "S Waqabaca": "d2d881de",
+        "SM Tupou": "a02b9f81",
+        "Suresh Subramanian": "4e869e23",
+        "V Kalidas": "42d76418",
+        "V Veiqravi": "38085d31",
+        "VM Waqavakatoga": "b2e79789",
+        "W Nalisa": "673be48f",
+        "W Wotu": "6b25ef46"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Vanuatu",
+      "Fiji"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Vanuatu"
+    },
+    "venue": "Korogi Sports Park, Nisshin"
+  },
+  "innings": [
+    {
+      "team": "Vanuatu",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "S Tabuisulu",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PK Matautaava",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "PK Matautaava",
+              "bowler": "S Tabuisulu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "PK Matautaava",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "SM Tupou",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "SM Tupou",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "SM Tupou",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PK Matautaava",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "SM Tupou",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "SM Tupou",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "SM Tupou",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "VM Waqavakatoga",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "SM Tupou",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "SM Tupou",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "SM Tupou",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "SM Tupou",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Dakainivanua",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Dakainivanua",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Dakainivanua",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Dakainivanua",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Dakainivanua",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Dakainivanua",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Rasu",
+                  "fielders": [
+                    {
+                      "name": "VM Waqavakatoga"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "S Tabuisulu",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "S Tabuisulu",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "S Tabuisulu",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "S Tabuisulu",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Tabuisulu",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Tabuisulu",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "P Dakainivanua",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "P Dakainivanua",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Mansale",
+                  "fielders": [
+                    {
+                      "name": "M Beitaki"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "J Baleicikoibia",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "W Wotu",
+              "bowler": "S Tabuisulu",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Tabuisulu",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Tabuisulu",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Tabuisulu",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Tabuisulu",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "S Tabuisulu",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "PV Vuniwaqa",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "W Wotu",
+                  "fielders": [
+                    {
+                      "name": "SM Tupou"
+                    },
+                    {
+                      "name": "PV Vuniwaqa"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Fiji",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Acawei",
+              "bowler": "D Wotu",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "D Wotu",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "D Wotu",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Beitaki",
+                  "fielders": [
+                    {
+                      "name": "PK Matautaava"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "D Wotu",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "D Wotu",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "D Wotu",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "N Acawei",
+              "bowler": "J Rasu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "J Rasu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "J Rasu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "J Rasu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "J Rasu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "J Rasu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "PK Matautaava",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "PK Matautaava",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "PK Matautaava",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "PK Matautaava",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "PK Matautaava",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "PK Matautaava",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Acawei",
+                  "fielders": [
+                    {
+                      "name": "JD Allan"
+                    },
+                    {
+                      "name": "N Venables"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "D Wotu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PV Vuniwaqa",
+                  "fielders": [
+                    {
+                      "name": "C Tommy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "D Wotu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "D Wotu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "D Wotu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "D Wotu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "D Wotu",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "PK Matautaava",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "PK Matautaava",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "PK Matautaava",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "PK Matautaava",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "PK Matautaava",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "PK Matautaava",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "W Nalisa",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "W Nalisa",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "W Nalisa",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Veiqravi",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Veiqravi",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Veiqravi",
+                  "fielders": [
+                    {
+                      "name": "A Mansale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "W Nalisa",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "K Tayaga",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "N Venables",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Venables",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Nipiko",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Nipiko",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "N Nipiko",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "N Nipiko",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "N Nipiko",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Tayaga",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "N Nipiko",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "N Nipiko",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "J Rasu",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Tupou",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Waqabaca",
+              "bowler": "J Rasu",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "J Rasu",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "J Rasu",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "J Baleicikoibia",
+                  "fielders": [
+                    {
+                      "name": "C Tommy"
+                    },
+                    {
+                      "name": "JP Kaltapau"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "J Rasu",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "J Rasu",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Dakainivanua",
+                  "fielders": [
+                    {
+                      "name": "C Tommy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Waqabaca",
+              "bowler": "W Nalisa",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Waqabaca",
+              "bowler": "W Nalisa",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Waqabaca",
+              "bowler": "W Nalisa",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Waqabaca",
+              "bowler": "W Nalisa",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Tabuisulu",
+              "bowler": "W Nalisa",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tabuisulu",
+              "bowler": "W Nalisa",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Tabuisulu",
+              "bowler": "N Venables",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tabuisulu",
+              "bowler": "N Venables",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Waqabaca",
+              "bowler": "N Venables",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Waqabaca",
+              "bowler": "N Venables",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Waqabaca",
+              "bowler": "N Venables",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Waqabaca",
+              "bowler": "N Venables",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Tabuisulu",
+              "bowler": "W Nalisa",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Tabuisulu",
+                  "fielders": [
+                    {
+                      "name": "C Tommy"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "W Nalisa",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "W Nalisa",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "W Nalisa",
+              "non_striker": "S Waqabaca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VM Waqavakatoga",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 170
+      }
+    }
+  ]
+}

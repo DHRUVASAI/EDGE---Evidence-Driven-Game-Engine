@@ -1,0 +1,6596 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-06-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dhaka",
+    "dates": [
+      "2026-06-09"
+    ],
+    "event": {
+      "name": "Australia tour of Bangladesh",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4973,
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "Morshed Ali Khan"
+      ],
+      "tv_umpires": [
+        "Ahsan Raza"
+      ],
+      "umpires": [
+        "AG Wharf",
+        "Gazi Sohel"
+      ]
+    },
+    "outcome": {
+      "winner": "Bangladesh",
+      "by": {
+        "runs": 86
+      },
+      "method": "D/L"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Mosaddek Hossain"
+    ],
+    "players": {
+      "Bangladesh": [
+        "Saif Hassan",
+        "Tanzid Hasan",
+        "Nazmul Hossain Shanto",
+        "Liton Das",
+        "Towhid Hridoy",
+        "Mosaddek Hossain",
+        "Mehedi Hasan Miraz",
+        "Tanvir Islam",
+        "Taskin Ahmed",
+        "Mustafizur Rahman",
+        "Nahid Rana"
+      ],
+      "Australia": [
+        "MW Short",
+        "C Connolly",
+        "M Labuschagne",
+        "JP Inglis",
+        "AT Carey",
+        "C Green",
+        "MT Renshaw",
+        "L Scott",
+        "XC Bartlett",
+        "NT Ellis",
+        "A Zampa"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Zampa": "14f96089",
+        "AG Wharf": "2e0fcc58",
+        "AT Carey": "69d03465",
+        "Ahsan Raza": "e0e5b209",
+        "C Connolly": "fe366f34",
+        "C Green": "eaa76d3c",
+        "Gazi Sohel": "f0df3ed7",
+        "JP Inglis": "989889ff",
+        "L Scott": "0ebb3444",
+        "Liton Das": "0404d43c",
+        "M Labuschagne": "fa433be6",
+        "MT Renshaw": "218d4d78",
+        "MW Short": "a90e53ec",
+        "Mehedi Hasan Miraz": "c58b0108",
+        "Morshed Ali Khan": "a7c3cf5f",
+        "Mosaddek Hossain": "8919756f",
+        "Mustafizur Rahman": "0a8fce53",
+        "NT Ellis": "9eb1455b",
+        "Nahid Rana": "5318ee68",
+        "Nazmul Hossain Shanto": "1274d7ab",
+        "Prakash Bhatt": "f848ab0b",
+        "Saif Hassan": "bb95564b",
+        "Tanvir Islam": "aa467af0",
+        "Tanzid Hasan": "80fe764d",
+        "Taskin Ahmed": "ef18b66e",
+        "Towhid Hridoy": "9e52a414",
+        "XC Bartlett": "3b53243a"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Bangladesh",
+      "Australia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Australia"
+    },
+    "venue": "Shere Bangla National Stadium, Mirpur"
+  },
+  "innings": [
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Saif Hassan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saif Hassan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saif Hassan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Saif Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Saif Hassan",
+              "bowler": "NT Ellis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saif Hassan",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saif Hassan",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saif Hassan",
+                  "fielders": [
+                    {
+                      "name": "M Labuschagne"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "XC Bartlett",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "NT Ellis",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "C Green",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "C Green",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "C Green",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "C Green",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "C Green",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "C Green",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "MW Short",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "MW Short",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "MW Short",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "C Green",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "L Scott",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "L Scott",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "C Green",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "C Green",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "MW Short",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "MW Short",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Tanzid Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "NT Ellis",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "NT Ellis",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanzid Hasan",
+              "bowler": "NT Ellis",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tanzid Hasan",
+                  "fielders": [
+                    {
+                      "name": "XC Bartlett"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "NT Ellis",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "MW Short",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "MW Short",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "MW Short",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MW Short",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "XC Bartlett",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "MT Renshaw",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Liton Das",
+              "bowler": "NT Ellis",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "NT Ellis",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "NT Ellis",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Liton Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "MT Renshaw",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Liton Das",
+              "bowler": "MT Renshaw",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Liton Das",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Nazmul Hossain Shanto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazmul Hossain Shanto",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nazmul Hossain Shanto",
+                  "fielders": [
+                    {
+                      "name": "C Connolly"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "C Green",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "C Green",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "C Green",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "C Green",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "C Green",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "C Green",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "C Green",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "MT Renshaw",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "MT Renshaw",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "NT Ellis",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Towhid Hridoy",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Towhid Hridoy",
+                  "fielders": [
+                    {
+                      "name": "NT Ellis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Mehedi Hasan Miraz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mehedi Hasan Miraz",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "review": {
+                "by": "Bangladesh",
+                "umpire": "AG Wharf",
+                "batter": "Mehedi Hasan Miraz",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mehedi Hasan Miraz",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Tanvir Islam",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanvir Islam",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Tanvir Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Tanvir Islam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Tanvir Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "A Zampa",
+              "non_striker": "Tanvir Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tanvir Islam",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanvir Islam",
+              "bowler": "A Zampa",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Tanvir Islam",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tanvir Islam",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Tanvir Islam",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tanvir Islam",
+                  "fielders": [
+                    {
+                      "name": "L Scott"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "NT Ellis",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "NT Ellis",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "NT Ellis",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "XC Bartlett",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "XC Bartlett",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mosaddek Hossain",
+              "bowler": "L Scott",
+              "non_striker": "Taskin Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "L Scott",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taskin Ahmed",
+              "bowler": "L Scott",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taskin Ahmed",
+                  "fielders": [
+                    {
+                      "name": "NT Ellis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MW Short",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MW Short",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Taskin Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "M Labuschagne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Labuschagne",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "review": {
+                "by": "Bangladesh",
+                "umpire": "Gazi Sohel",
+                "batter": "M Labuschagne",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Labuschagne",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "Nahid Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Nahid Rana",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JP Inglis",
+                  "fielders": [
+                    {
+                      "name": "Liton Das"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Nahid Rana",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "C Connolly",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Taskin Ahmed",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "C Connolly",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Connolly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "C Connolly",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Connolly",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Connolly",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "AT Carey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Carey",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AT Carey",
+                  "fielders": [
+                    {
+                      "name": "Liton Das"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "MT Renshaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MT Renshaw",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MT Renshaw",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "L Scott",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "L Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "L Scott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "L Scott",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "L Scott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Scott",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Scott",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Scott",
+                  "fielders": [
+                    {
+                      "name": "Towhid Hridoy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "XC Bartlett",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XC Bartlett",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "XC Bartlett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "XC Bartlett",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "XC Bartlett",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XC Bartlett",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "XC Bartlett",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "XC Bartlett",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "XC Bartlett",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "XC Bartlett",
+                  "fielders": [
+                    {
+                      "name": "Tanzid Hasan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Nahid Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Mosaddek Hossain",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "NT Ellis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NT Ellis",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NT Ellis",
+                  "fielders": [
+                    {
+                      "name": "Mosaddek Hossain"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "A Zampa",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Nahid Rana",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Nahid Rana",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Tanvir Islam",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Tanvir Islam",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Green",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Mehedi Hasan Miraz",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "C Green",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "A Zampa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Zampa",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "C Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 42.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 42.2,
+        "runs": 278
+      }
+    }
+  ]
+}

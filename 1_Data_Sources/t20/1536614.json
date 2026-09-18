@@ -1,0 +1,1059 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-06-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2026-06-03"
+    ],
+    "event": {
+      "name": "Asian Cricket Council Women's Premier Cup",
+      "match_number": 3,
+      "group": "A"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2803,
+    "officials": {
+      "match_referees": [
+        "Edwin Seah"
+      ],
+      "reserve_umpires": [
+        "L Poobalan"
+      ],
+      "umpires": [
+        "AS Guha",
+        "Humaira Farah"
+      ]
+    },
+    "outcome": {
+      "winner": "Thailand",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "T Putthawong"
+    ],
+    "players": {
+      "Mongolia": [
+        "N Erdenebat",
+        "B Ichinkhorloo",
+        "O Amarjargal",
+        "G Anujin",
+        "M Batnasan",
+        "U Bayarjavkhlan",
+        "E Khaliunaa",
+        "Sunjidmaa Phillips",
+        "G Urjindulam",
+        "D Enkhtsetseg",
+        "B Unenchtseceg"
+      ],
+      "Thailand": [
+        "N Chantam",
+        "P Maya",
+        "S Chaturongrattana",
+        "N Chaiwai",
+        "N Koncharoenkai",
+        "O Kamchomphu",
+        "S Laomi",
+        "T Putthawong",
+        "A Suwanchonrathi",
+        "N Chaihan",
+        "Chayanisa Phengpaen"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Suwanchonrathi": "43a2244f",
+        "AS Guha": "c21b184d",
+        "B Ichinkhorloo": "3cc55f88",
+        "B Unenchtseceg": "93b40209",
+        "Chayanisa Phengpaen": "ab45cae8",
+        "D Enkhtsetseg": "babd401e",
+        "E Khaliunaa": "1349b940",
+        "Edwin Seah": "be24f868",
+        "G Anujin": "e749f016",
+        "G Urjindulam": "a51e7c73",
+        "Humaira Farah": "6b6d6623",
+        "L Poobalan": "93cc9718",
+        "M Batnasan": "0e01e881",
+        "N Chaihan": "61b60bb3",
+        "N Chaiwai": "0825e4b3",
+        "N Chantam": "b5626ff7",
+        "N Erdenebat": "9e1e821f",
+        "N Koncharoenkai": "82c78412",
+        "O Amarjargal": "c054cf6f",
+        "O Kamchomphu": "519b872a",
+        "P Maya": "72eada4c",
+        "S Chaturongrattana": "bd36bc39",
+        "S Laomi": "4b15618c",
+        "Sunjidmaa Phillips": "d5b6cb2e",
+        "T Putthawong": "23e3f2d6",
+        "U Bayarjavkhlan": "92c81a4f"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Mongolia",
+      "Thailand"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Mongolia"
+    },
+    "venue": "Selangor Turf Club, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "Mongolia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Erdenebat",
+              "bowler": "P Maya",
+              "non_striker": "B Ichinkhorloo",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "B Ichinkhorloo",
+              "bowler": "P Maya",
+              "non_striker": "N Erdenebat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Ichinkhorloo",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "P Maya",
+              "non_striker": "N Erdenebat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Erdenebat",
+              "bowler": "P Maya",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Erdenebat",
+              "bowler": "P Maya",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Erdenebat",
+                  "fielders": [
+                    {
+                      "name": "N Koncharoenkai"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "G Anujin",
+              "bowler": "P Maya",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Anujin",
+              "bowler": "T Putthawong",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "G Anujin",
+              "bowler": "P Maya",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "P Maya",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "P Maya",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "P Maya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "P Maya",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "P Maya",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "P Maya",
+              "non_striker": "G Anujin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "G Anujin",
+              "bowler": "T Putthawong",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Anujin",
+              "bowler": "T Putthawong",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Anujin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Batnasan",
+              "bowler": "T Putthawong",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Batnasan",
+                  "fielders": [
+                    {
+                      "name": "N Koncharoenkai"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "U Bayarjavkhlan",
+              "bowler": "T Putthawong",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "U Bayarjavkhlan",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "E Khaliunaa",
+              "bowler": "T Putthawong",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Khaliunaa",
+              "bowler": "T Putthawong",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Khaliunaa",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "O Amarjargal",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "S Chaturongrattana",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "T Putthawong",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "O Amarjargal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Amarjargal",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Amarjargal",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "G Urjindulam",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Urjindulam",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Urjindulam",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "T Putthawong",
+              "non_striker": "G Urjindulam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "T Putthawong",
+              "non_striker": "G Urjindulam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "T Putthawong",
+              "non_striker": "G Urjindulam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "T Putthawong",
+              "non_striker": "G Urjindulam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "T Putthawong",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "G Urjindulam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Urjindulam",
+              "bowler": "T Putthawong",
+              "non_striker": "Sunjidmaa Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Urjindulam",
+                  "fielders": [
+                    {
+                      "name": "Chayanisa Phengpaen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "Chayanisa Phengpaen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "Chayanisa Phengpaen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "Chayanisa Phengpaen",
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sunjidmaa Phillips",
+              "bowler": "Chayanisa Phengpaen",
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sunjidmaa Phillips",
+                  "fielders": [
+                    {
+                      "name": "N Koncharoenkai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B Unenchtseceg",
+              "bowler": "Chayanisa Phengpaen",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Unenchtseceg",
+              "bowler": "Chayanisa Phengpaen",
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Unenchtseceg",
+              "bowler": "Chayanisa Phengpaen",
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Unenchtseceg",
+              "bowler": "Chayanisa Phengpaen",
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Unenchtseceg",
+              "bowler": "Chayanisa Phengpaen",
+              "non_striker": "D Enkhtsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D Enkhtsetseg",
+              "bowler": "S Laomi",
+              "non_striker": "B Unenchtseceg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Enkhtsetseg",
+              "bowler": "S Laomi",
+              "non_striker": "B Unenchtseceg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Enkhtsetseg",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Chantam",
+              "bowler": "U Bayarjavkhlan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "U Bayarjavkhlan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "U Bayarjavkhlan",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "U Bayarjavkhlan",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "U Bayarjavkhlan",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "U Bayarjavkhlan",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "N Chantam",
+              "bowler": "O Amarjargal",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "O Amarjargal",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "O Amarjargal",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "O Amarjargal",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "O Amarjargal",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "O Amarjargal",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "P Maya",
+              "bowler": "U Bayarjavkhlan",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "U Bayarjavkhlan",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 20
+      }
+    }
+  ]
+}

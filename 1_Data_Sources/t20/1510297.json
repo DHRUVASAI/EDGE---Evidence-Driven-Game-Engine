@@ -1,0 +1,3007 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-11-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2025-11-25"
+    ],
+    "event": {
+      "name": "ICC Women's Emerging Nations Trophy",
+      "match_number": 13
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2568,
+    "officials": {
+      "match_referees": [
+        "SM Bartlett"
+      ],
+      "reserve_umpires": [
+        "Rokeya Sultana"
+      ],
+      "umpires": [
+        "AS Guha",
+        "Champa Chakma"
+      ]
+    },
+    "outcome": {
+      "winner": "Thailand",
+      "by": {
+        "runs": 51
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "S Chaturongrattana"
+    ],
+    "players": {
+      "Thailand": [
+        "N Boochatham",
+        "C Sutthiruang",
+        "N Koncharoenkai",
+        "N Chantam",
+        "N Chaiwai",
+        "S Khiaoto",
+        "P Maya",
+        "O Kamchomphu",
+        "S Laomi",
+        "S Chaturongrattana",
+        "T Putthawong"
+      ],
+      "Tanzania": [
+        "S Mtae",
+        "FO Kibasu",
+        "NJ Pius",
+        "HM Omary",
+        "Nasra Mohamedi",
+        "JG Kimaro",
+        "NN Saidi",
+        "SD Hussein",
+        "MH Ushanga",
+        "S Kizito",
+        "SF Jerome"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AS Guha": "c21b184d",
+        "C Sutthiruang": "f6ddfe08",
+        "Champa Chakma": "4fc732f7",
+        "FO Kibasu": "1c726c76",
+        "HM Omary": "2cbe5db1",
+        "JG Kimaro": "3f0be08f",
+        "MH Ushanga": "0286eabe",
+        "N Boochatham": "58acb320",
+        "N Chaiwai": "0825e4b3",
+        "N Chantam": "b5626ff7",
+        "N Koncharoenkai": "82c78412",
+        "NJ Pius": "f4270fc7",
+        "NN Saidi": "16610c7b",
+        "Nasra Mohamedi": "754c719b",
+        "O Kamchomphu": "519b872a",
+        "P Maya": "72eada4c",
+        "Rokeya Sultana": "20abf9b9",
+        "S Chaturongrattana": "bd36bc39",
+        "S Khiaoto": "3ac854ca",
+        "S Kizito": "d91a936b",
+        "S Laomi": "4b15618c",
+        "S Mtae": "bb641155",
+        "SD Hussein": "5f36cd39",
+        "SF Jerome": "e393c6c1",
+        "SM Bartlett": "7ba18406",
+        "T Putthawong": "23e3f2d6"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Thailand",
+      "Tanzania"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Tanzania"
+    },
+    "venue": "Terdthai Cricket Ground, Bangkok"
+  },
+  "innings": [
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Boochatham",
+              "bowler": "NN Saidi",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "NN Saidi",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "NN Saidi",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "NN Saidi",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "NN Saidi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "NN Saidi",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "S Kizito",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "S Kizito",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "S Kizito",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "S Kizito",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "S Kizito",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N Boochatham",
+              "bowler": "NN Saidi",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "NN Saidi",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "NN Saidi",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "NN Saidi",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "NN Saidi",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "NN Saidi",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "N Boochatham",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "S Kizito",
+              "non_striker": "N Boochatham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Boochatham",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Boochatham",
+                  "fielders": [
+                    {
+                      "name": "NJ Pius"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "S Kizito",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "S Kizito",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "S Kizito",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Sutthiruang",
+              "bowler": "S Kizito",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Sutthiruang",
+                  "fielders": [
+                    {
+                      "name": "SD Hussein"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "S Kizito",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "S Kizito",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "S Kizito",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "MH Ushanga",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Chantam",
+              "bowler": "SF Jerome",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Koncharoenkai",
+              "bowler": "SF Jerome",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "N Koncharoenkai",
+                  "fielders": [
+                    {
+                      "name": "NJ Pius"
+                    },
+                    {
+                      "name": "SD Hussein"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "N Chantam",
+              "bowler": "NN Saidi",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Chantam",
+                  "fielders": [
+                    {
+                      "name": "SD Hussein"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "NN Saidi",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "NN Saidi",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "NN Saidi",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "NN Saidi",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "NN Saidi",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Khiaoto",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chaiwai",
+              "bowler": "JG Kimaro",
+              "non_striker": "S Khiaoto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chaiwai",
+              "bowler": "JG Kimaro",
+              "non_striker": "S Khiaoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "JG Kimaro",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "N Chaiwai",
+              "bowler": "NN Saidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Khiaoto",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chaiwai",
+              "bowler": "NN Saidi",
+              "non_striker": "S Khiaoto",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "NN Saidi",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "NN Saidi",
+              "non_striker": "N Chaiwai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chaiwai",
+              "bowler": "NN Saidi",
+              "non_striker": "S Khiaoto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Chaiwai",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "NN Saidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Khiaoto",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maya",
+              "bowler": "NN Saidi",
+              "non_striker": "S Khiaoto",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Khiaoto",
+              "bowler": "NN Saidi",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Khiaoto",
+                  "fielders": [
+                    {
+                      "name": "NN Saidi"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "P Maya",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "P Maya",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "T Putthawong",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "T Putthawong",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "T Putthawong",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "T Putthawong",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "T Putthawong",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "T Putthawong",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "P Maya",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "T Putthawong",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Mtae",
+                  "fielders": [
+                    {
+                      "name": "N Chantam"
+                    },
+                    {
+                      "name": "T Putthawong"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "T Putthawong",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "T Putthawong",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "T Putthawong",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "T Putthawong",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FO Kibasu",
+                  "fielders": [
+                    {
+                      "name": "N Koncharoenkai"
+                    },
+                    {
+                      "name": "S Laomi"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "T Putthawong",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "NJ Pius",
+              "bowler": "P Maya",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "P Maya",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "P Maya",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "P Maya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "P Maya",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "P Maya",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "P Maya",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NJ Pius",
+              "bowler": "T Putthawong",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NJ Pius",
+                  "fielders": [
+                    {
+                      "name": "C Sutthiruang"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "T Putthawong",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nasra Mohamedi",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "T Putthawong",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "T Putthawong",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "T Putthawong",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "T Putthawong",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HM Omary",
+              "bowler": "S Laomi",
+              "non_striker": "JG Kimaro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Laomi",
+              "non_striker": "JG Kimaro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "S Laomi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "S Laomi",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "S Laomi",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JG Kimaro",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Laomi",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HM Omary",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Chaturongrattana",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Laomi",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Laomi",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Laomi",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "HM Omary",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HM Omary",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SD Hussein",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hussein",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "SD Hussein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "SD Hussein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "SD Hussein",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SD Hussein",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Laomi",
+              "non_striker": "SD Hussein",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SD Hussein",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hussein",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hussein",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SD Hussein",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SD Hussein",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SD Hussein",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MH Ushanga",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MH Ushanga",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MH Ushanga",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MH Ushanga",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MH Ushanga",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MH Ushanga",
+                  "fielders": [
+                    {
+                      "name": "N Koncharoenkai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Laomi",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "S Laomi",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Laomi",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "S Laomi",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Kizito",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "O Kamchomphu",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "O Kamchomphu",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Kizito",
+              "bowler": "T Putthawong",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "T Putthawong",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "T Putthawong",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "T Putthawong",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "T Putthawong",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kizito",
+              "bowler": "T Putthawong",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "S Kizito",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kizito",
+                  "fielders": [
+                    {
+                      "name": "C Sutthiruang"
+                    },
+                    {
+                      "name": "N Koncharoenkai"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "O Kamchomphu",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "O Kamchomphu",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "NN Saidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "C Sutthiruang",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "C Sutthiruang",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "C Sutthiruang",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "C Sutthiruang",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "C Sutthiruang",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "C Sutthiruang",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "O Kamchomphu",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SF Jerome",
+              "bowler": "O Kamchomphu",
+              "non_striker": "NN Saidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Saidi",
+              "bowler": "O Kamchomphu",
+              "non_striker": "SF Jerome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NN Saidi",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 111
+      }
+    }
+  ]
+}

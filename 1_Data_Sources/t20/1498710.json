@@ -1,0 +1,3045 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-01",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Windhoek",
+    "dates": [
+      "2025-08-31"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Africa Region Division One Qualifier",
+      "match_number": 4,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2462,
+    "officials": {
+      "match_referees": [
+        "SA Fritz"
+      ],
+      "reserve_umpires": [
+        "Lauren Agenbag"
+      ],
+      "umpires": [
+        "E Lassen",
+        "IO Oyieko"
+      ]
+    },
+    "outcome": {
+      "winner": "Tanzania",
+      "by": {
+        "runs": 1
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "E Iloku"
+    ],
+    "players": {
+      "Tanzania": [
+        "S Mtae",
+        "NJ Pius",
+        "FO Kibasu",
+        "HM Omary",
+        "Nasra Mohamedi",
+        "AS Qwele",
+        "SH Mohamedi",
+        "PZ Kamunya",
+        "NN Saidi",
+        "MH Ushanga",
+        "SF Jerome"
+      ],
+      "Uganda": [
+        "J Mbabazi",
+        "E Iloku",
+        "I Nakisuuyi",
+        "R Musamali",
+        "S Nampiina",
+        "P Alako",
+        "K Awino",
+        "M Ariokot",
+        "NJ Amongin",
+        "I Mutoni",
+        "C Aweko"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AS Qwele": "26b3df21",
+        "C Aweko": "01c1b96c",
+        "E Iloku": "f1fa1c6b",
+        "E Lassen": "a476d6d0",
+        "FO Kibasu": "1c726c76",
+        "HM Omary": "2cbe5db1",
+        "I Mutoni": "284604cf",
+        "I Nakisuuyi": "2f145a4f",
+        "IO Oyieko": "de4828fa",
+        "J Mbabazi": "aaa6e84c",
+        "K Awino": "c4e7749a",
+        "Lauren Agenbag": "40849abd",
+        "M Ariokot": "c328bc6c",
+        "MH Ushanga": "0286eabe",
+        "NJ Amongin": "98cdb42d",
+        "NJ Pius": "f4270fc7",
+        "NN Saidi": "16610c7b",
+        "Nasra Mohamedi": "754c719b",
+        "P Alako": "fcf37e14",
+        "PZ Kamunya": "6e60bbe2",
+        "R Musamali": "017cadb2",
+        "S Mtae": "bb641155",
+        "S Nampiina": "91d9aa26",
+        "SA Fritz": "d15e60c8",
+        "SF Jerome": "e393c6c1",
+        "SH Mohamedi": "10ab6a37"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Tanzania",
+      "Uganda"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Uganda"
+    },
+    "venue": "High Performance Oval, Windhoek"
+  },
+  "innings": [
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Mutoni",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Mutoni",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Mutoni",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "NJ Amongin",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "NJ Amongin",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "NJ Amongin",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "NJ Amongin",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "NJ Amongin",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "NJ Amongin",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Mutoni",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Mutoni",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Mutoni",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "C Aweko",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "C Aweko",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "C Aweko",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "C Aweko",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "C Aweko",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "C Aweko",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Nakisuuyi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "C Aweko",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "C Aweko",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "C Aweko",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "C Aweko",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "C Aweko",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "C Aweko",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Nakisuuyi",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "J Mbabazi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "S Nampiina",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NJ Pius",
+                  "fielders": [
+                    {
+                      "name": "R Musamali"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "S Nampiina",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "S Nampiina",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "S Nampiina",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "S Nampiina",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "J Mbabazi",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "J Mbabazi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "I Nakisuuyi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FO Kibasu",
+                  "fielders": [
+                    {
+                      "name": "K Awino"
+                    },
+                    {
+                      "name": "M Ariokot"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "S Nampiina",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "S Nampiina",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "S Nampiina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "S Nampiina",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Mtae",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "HM Omary",
+              "bowler": "C Aweko",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "C Aweko",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "C Aweko",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HM Omary",
+                  "fielders": [
+                    {
+                      "name": "R Musamali"
+                    },
+                    {
+                      "name": "K Awino"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "S Nampiina",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "S Nampiina",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "S Nampiina",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "S Nampiina",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "S Nampiina",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "S Nampiina",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AS Qwele",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Qwele",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Qwele",
+              "bowler": "I Nakisuuyi",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "J Mbabazi",
+              "non_striker": "AS Qwele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Qwele",
+              "bowler": "J Mbabazi",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AS Qwele",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SH Mohamedi",
+              "bowler": "J Mbabazi",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SH Mohamedi",
+              "bowler": "J Mbabazi",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SH Mohamedi",
+              "bowler": "J Mbabazi",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SH Mohamedi",
+              "bowler": "J Mbabazi",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "I Mutoni",
+              "non_striker": "SH Mohamedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SH Mohamedi",
+              "bowler": "I Mutoni",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SH Mohamedi",
+              "bowler": "I Mutoni",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SH Mohamedi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "PZ Kamunya",
+              "bowler": "I Mutoni",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PZ Kamunya",
+              "bowler": "I Mutoni",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PZ Kamunya",
+              "bowler": "I Mutoni",
+              "non_striker": "Nasra Mohamedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "PZ Kamunya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "PZ Kamunya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "PZ Kamunya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "PZ Kamunya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "PZ Kamunya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "PZ Kamunya",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Nasra Mohamedi",
+              "bowler": "C Aweko",
+              "non_striker": "PZ Kamunya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nasra Mohamedi",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Uganda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "J Mbabazi",
+              "bowler": "AS Qwele",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "AS Qwele",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "AS Qwele",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "AS Qwele",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Mbabazi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NN Saidi",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "PZ Kamunya",
+              "non_striker": "J Mbabazi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Mbabazi",
+              "bowler": "PZ Kamunya",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Mbabazi",
+                  "fielders": [
+                    {
+                      "name": "SH Mohamedi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "E Iloku",
+              "bowler": "NN Saidi",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NN Saidi",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NN Saidi",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "SF Jerome",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "SF Jerome",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "SF Jerome",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "SF Jerome",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "SF Jerome",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "SF Jerome",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NN Saidi",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NN Saidi",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NN Saidi",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NN Saidi",
+              "extras": {
+                "legbyes": 3
+              },
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NN Saidi",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NJ Pius",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NJ Pius",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NJ Pius",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NJ Pius",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NJ Pius",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NJ Pius",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "MH Ushanga",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "MH Ushanga",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "NJ Pius",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NJ Pius",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NJ Pius",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NJ Pius",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NJ Pius",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "NJ Pius",
+              "non_striker": "I Nakisuuyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "SF Jerome",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Nakisuuyi",
+              "bowler": "SF Jerome",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Nakisuuyi",
+                  "fielders": [
+                    {
+                      "name": "AS Qwele"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "SF Jerome",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "SF Jerome",
+              "non_striker": "E Iloku",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "SF Jerome",
+              "non_striker": "R Musamali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Iloku",
+              "bowler": "SF Jerome",
+              "non_striker": "R Musamali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Iloku",
+                  "fielders": [
+                    {
+                      "name": "AS Qwele"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "non_striker": "S Nampiina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Nampiina",
+              "bowler": "AS Qwele",
+              "non_striker": "R Musamali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Nampiina",
+              "bowler": "AS Qwele",
+              "non_striker": "R Musamali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Nampiina",
+              "bowler": "AS Qwele",
+              "non_striker": "R Musamali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "non_striker": "S Nampiina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "non_striker": "S Nampiina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Musamali",
+              "bowler": "NN Saidi",
+              "non_striker": "S Nampiina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "NN Saidi",
+              "non_striker": "S Nampiina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "NN Saidi",
+              "non_striker": "S Nampiina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "NN Saidi",
+              "non_striker": "S Nampiina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Nampiina",
+                  "fielders": [
+                    {
+                      "name": "NJ Pius"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "NN Saidi",
+              "non_striker": "P Alako",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Alako",
+              "bowler": "NN Saidi",
+              "non_striker": "R Musamali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "non_striker": "P Alako",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Alako",
+              "bowler": "AS Qwele",
+              "non_striker": "R Musamali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "non_striker": "P Alako",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "non_striker": "P Alako",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "non_striker": "P Alako",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Alako",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Musamali",
+              "bowler": "AS Qwele",
+              "non_striker": "P Alako",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "P Alako",
+                  "fielders": [
+                    {
+                      "name": "SH Mohamedi"
+                    },
+                    {
+                      "name": "AS Qwele"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 122
+      }
+    }
+  ]
+}

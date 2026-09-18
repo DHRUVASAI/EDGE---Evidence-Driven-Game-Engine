@@ -1,0 +1,3269 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-02-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Al Amarat",
+    "dates": [
+      "2026-02-04"
+    ],
+    "event": {
+      "name": "Denmark Women tour of Oman",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2672,
+    "officials": {
+      "reserve_umpires": [
+        "Sagir Vengitta"
+      ],
+      "umpires": [
+        "Freddie Lonappan",
+        "Merita Pinto"
+      ]
+    },
+    "outcome": {
+      "winner": "Oman",
+      "by": {
+        "runs": 70
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Javed Hina"
+    ],
+    "players": {
+      "Oman": [
+        "J Gunasekar",
+        "N Joshi",
+        "Fiza",
+        "PE Mendonca",
+        "Javed Hina",
+        "TB Pawde",
+        "Sameera Khan",
+        "CM Saldanha",
+        "SA Sathiya",
+        "Afida Afthab",
+        "Alifiya Sayed"
+      ],
+      "Denmark": [
+        "K Brock-Nielsen",
+        "S Hojholt",
+        "L Ostergaard",
+        "L Leisner",
+        "A Ostergaard",
+        "K Pandya",
+        "AB Slebsager",
+        "NP Dalgaard",
+        "S Ostergaard",
+        "L Holmgaard",
+        "C Ostergaard"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ostergaard": "36ffe914",
+        "AB Slebsager": "4ae7048b",
+        "Afida Afthab": "9446598e",
+        "Alifiya Sayed": "81423620",
+        "C Ostergaard": "e212b0fd",
+        "CM Saldanha": "aee1bc06",
+        "Fiza": "c7c60bc5",
+        "Freddie Lonappan": "5f5d6d83",
+        "J Gunasekar": "e50c13a5",
+        "Javed Hina": "a487762e",
+        "K Brock-Nielsen": "c14ba87c",
+        "K Pandya": "75b4acc8",
+        "L Holmgaard": "8ea1f4c4",
+        "L Leisner": "ed614ded",
+        "L Ostergaard": "3a5160d9",
+        "Merita Pinto": "44098b1a",
+        "N Joshi": "cfece11f",
+        "NP Dalgaard": "40283617",
+        "PE Mendonca": "70bab30b",
+        "S Hojholt": "1a14aefd",
+        "S Ostergaard": "a19e799b",
+        "SA Sathiya": "1ba007d8",
+        "Sagir Vengitta": "ef1d2a81",
+        "Sameera Khan": "237baa2c",
+        "TB Pawde": "42d5be2e"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Oman",
+      "Denmark"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Denmark"
+    },
+    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)"
+  },
+  "innings": [
+    {
+      "team": "Oman",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Gunasekar",
+              "bowler": "S Ostergaard",
+              "non_striker": "N Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Joshi",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Joshi",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Joshi",
+                  "fielders": [
+                    {
+                      "name": "AB Slebsager"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Fiza",
+              "bowler": "L Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "L Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "L Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "L Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "L Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "L Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "S Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "S Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Gunasekar",
+              "bowler": "L Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "L Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "L Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "L Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "L Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "L Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "S Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "S Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "S Ostergaard",
+              "non_striker": "Fiza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fiza",
+              "bowler": "S Ostergaard",
+              "non_striker": "J Gunasekar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fiza",
+                  "fielders": [
+                    {
+                      "name": "L Ostergaard"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Gunasekar",
+              "bowler": "AB Slebsager",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Gunasekar",
+              "bowler": "AB Slebsager",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Gunasekar",
+                  "fielders": [
+                    {
+                      "name": "L Ostergaard"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "AB Slebsager",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "AB Slebsager",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "AB Slebsager",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "AB Slebsager",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "NP Dalgaard",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "AB Slebsager",
+              "non_striker": "PE Mendonca",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PE Mendonca",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PE Mendonca",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Holmgaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Holmgaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "TB Pawde",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "AB Slebsager",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "AB Slebsager",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "AB Slebsager",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Holmgaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Holmgaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "L Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Javed Hina",
+              "bowler": "C Ostergaard",
+              "non_striker": "TB Pawde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "C Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "C Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TB Pawde",
+              "bowler": "C Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TB Pawde",
+                  "fielders": [
+                    {
+                      "name": "K Brock-Nielsen"
+                    },
+                    {
+                      "name": "C Ostergaard"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "C Ostergaard",
+              "non_striker": "Sameera Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "C Ostergaard",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Sameera Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sameera Khan",
+              "bowler": "C Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameera Khan",
+              "bowler": "C Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Ostergaard",
+              "non_striker": "Sameera Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameera Khan",
+              "bowler": "L Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sameera Khan",
+              "bowler": "L Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Ostergaard",
+              "non_striker": "Sameera Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sameera Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Ostergaard",
+              "non_striker": "Sameera Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "L Ostergaard",
+              "non_striker": "Sameera Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Sameera Khan",
+              "bowler": "C Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameera Khan",
+              "bowler": "C Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "C Ostergaard",
+              "non_striker": "Sameera Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameera Khan",
+              "bowler": "C Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sameera Khan",
+              "bowler": "C Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sameera Khan",
+              "bowler": "C Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sameera Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CM Saldanha",
+              "bowler": "C Ostergaard",
+              "non_striker": "Javed Hina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "C Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javed Hina",
+              "bowler": "C Ostergaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Javed Hina",
+                  "fielders": [
+                    {
+                      "name": "S Hojholt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CM Saldanha",
+              "bowler": "S Ostergaard",
+              "non_striker": "SA Sathiya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "S Ostergaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "S Ostergaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Saldanha",
+              "bowler": "S Ostergaard",
+              "non_striker": "SA Sathiya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CM Saldanha",
+              "bowler": "S Ostergaard",
+              "non_striker": "SA Sathiya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Saldanha",
+              "bowler": "S Ostergaard",
+              "non_striker": "SA Sathiya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SA Sathiya",
+              "bowler": "C Ostergaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "C Ostergaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "C Ostergaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "CM Saldanha",
+              "bowler": "C Ostergaard",
+              "non_striker": "SA Sathiya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "C Ostergaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "C Ostergaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SA Sathiya",
+              "bowler": "NP Dalgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "CM Saldanha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM Saldanha",
+              "bowler": "NP Dalgaard",
+              "non_striker": "SA Sathiya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM Saldanha",
+              "bowler": "NP Dalgaard",
+              "non_striker": "SA Sathiya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CM Saldanha",
+                  "fielders": [
+                    {
+                      "name": "S Hojholt"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Afida Afthab",
+              "bowler": "NP Dalgaard",
+              "non_striker": "SA Sathiya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Sathiya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Afida Afthab",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Denmark",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "K Brock-Nielsen",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Brock-Nielsen",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Brock-Nielsen",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Brock-Nielsen",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Brock-Nielsen",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Brock-Nielsen",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Brock-Nielsen",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Alifiya Sayed",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Afida Afthab",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "Afida Afthab",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "PE Mendonca",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "PE Mendonca",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "PE Mendonca",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "PE Mendonca",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "PE Mendonca",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "PE Mendonca",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "SA Sathiya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "SA Sathiya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "SA Sathiya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "L Ostergaard",
+              "bowler": "PE Mendonca",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "PE Mendonca",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "PE Mendonca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "PE Mendonca",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "PE Mendonca",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "PE Mendonca",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "PE Mendonca",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "PE Mendonca",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "L Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Ostergaard",
+                  "fielders": [
+                    {
+                      "name": "J Gunasekar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "SA Sathiya",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "SA Sathiya",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "SA Sathiya",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "SA Sathiya",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "L Leisner",
+              "bowler": "Fiza",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "Fiza",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "L Leisner",
+              "bowler": "J Gunasekar",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "J Gunasekar",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "J Gunasekar",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "J Gunasekar",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "J Gunasekar",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "J Gunasekar",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "Fiza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "Fiza",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Hojholt",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "Fiza",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "A Ostergaard",
+              "bowler": "J Gunasekar",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "J Gunasekar",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Leisner",
+              "bowler": "J Gunasekar",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Leisner",
+                  "fielders": [
+                    {
+                      "name": "CM Saldanha"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "J Gunasekar",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "J Gunasekar",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "J Gunasekar",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "K Pandya",
+              "bowler": "Sameera Khan",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "Sameera Khan",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "Sameera Khan",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "Sameera Khan",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "Sameera Khan",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "Sameera Khan",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "K Pandya",
+              "bowler": "SA Sathiya",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "SA Sathiya",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "SA Sathiya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Ostergaard",
+              "bowler": "Sameera Khan",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Ostergaard",
+                  "fielders": [
+                    {
+                      "name": "Fiza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "Sameera Khan",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "Sameera Khan",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "Sameera Khan",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "Sameera Khan",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "Sameera Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "Sameera Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "Sameera Khan",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AB Slebsager",
+              "bowler": "N Joshi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "N Joshi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "N Joshi",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "N Joshi",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "N Joshi",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "N Joshi",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "N Joshi",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "N Joshi",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "K Pandya",
+              "bowler": "PE Mendonca",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "PE Mendonca",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "PE Mendonca",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "PE Mendonca",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "PE Mendonca",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "PE Mendonca",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AB Slebsager",
+              "bowler": "Sameera Khan",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Pandya",
+              "bowler": "Sameera Khan",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Pandya",
+                  "fielders": [
+                    {
+                      "name": "SA Sathiya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NP Dalgaard",
+              "bowler": "Sameera Khan",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NP Dalgaard",
+              "bowler": "Sameera Khan",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NP Dalgaard",
+                  "fielders": [
+                    {
+                      "name": "Sameera Khan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "Sameera Khan",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ostergaard",
+              "bowler": "Sameera Khan",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 153
+      }
+    }
+  ]
+}

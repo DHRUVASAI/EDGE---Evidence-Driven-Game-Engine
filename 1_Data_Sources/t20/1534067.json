@@ -1,0 +1,3080 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-11",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Corfu",
+    "dates": [
+      "2026-05-10"
+    ],
+    "event": {
+      "name": "Denmark Women tour of Greece",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2763,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Denmark",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Greece": [
+        "A Savvani",
+        "M Syrioti",
+        "E Kallous",
+        "A Makri",
+        "A Argyropoulou",
+        "S Georgota",
+        "M Vervitsioti",
+        "M Polimeri",
+        "T Skordili",
+        "T Parisi-mesimeri",
+        "Maria Penna"
+      ],
+      "Denmark": [
+        "S Hojholt",
+        "A Ostergaard",
+        "Farhat Afroz",
+        "L Ostergaard",
+        "AB Slebsager",
+        "NP Dalgaard",
+        "ML Karlsen",
+        "C Ostergaard",
+        "S Ostergaard",
+        "D Golechha",
+        "L Holmgaard"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Argyropoulou": "3f1bfd19",
+        "A Makri": "98affc04",
+        "A Ostergaard": "36ffe914",
+        "A Savvani": "5d006a1a",
+        "AB Slebsager": "4ae7048b",
+        "C Ostergaard": "e212b0fd",
+        "D Golechha": "c2c12f2a",
+        "E Kallous": "0680ff7f",
+        "Farhat Afroz": "f65e75df",
+        "L Holmgaard": "8ea1f4c4",
+        "L Ostergaard": "3a5160d9",
+        "M Polimeri": "35ccd83f",
+        "M Syrioti": "f9df0aa2",
+        "M Vervitsioti": "6fd40892",
+        "ML Karlsen": "4302af3d",
+        "Maria Penna": "5063c3cf",
+        "NP Dalgaard": "40283617",
+        "S Georgota": "d07b6842",
+        "S Hojholt": "1a14aefd",
+        "S Ostergaard": "a19e799b",
+        "T Parisi-mesimeri": "c002a904",
+        "T Skordili": "60d0efc4"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Greece",
+      "Denmark"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Greece"
+    },
+    "venue": "Marina Ground, Corfu"
+  },
+  "innings": [
+    {
+      "team": "Greece",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Savvani",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Savvani",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Savvani",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Savvani",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "D Golechha",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "D Golechha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "D Golechha",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Syrioti",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Savvani",
+              "bowler": "C Ostergaard",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Savvani",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Savvani",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Savvani",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Savvani",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "D Golechha",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "D Golechha",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Savvani",
+              "bowler": "C Ostergaard",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Savvani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Savvani",
+              "bowler": "C Ostergaard",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Savvani",
+                  "fielders": [
+                    {
+                      "name": "ML Karlsen"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "C Ostergaard",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Kallous",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "D Golechha",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "D Golechha",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Syrioti",
+              "bowler": "D Golechha",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "D Golechha",
+              "non_striker": "M Syrioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Syrioti",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "D Golechha",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Makri",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "E Kallous",
+              "bowler": "D Golechha",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "D Golechha",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "D Golechha",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "D Golechha",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "D Golechha",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "D Golechha",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Makri",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "C Ostergaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Makri",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "AB Slebsager",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "AB Slebsager",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "AB Slebsager",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "non_striker": "E Kallous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kallous",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Kallous",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "NP Dalgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Makri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "A Makri",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Makri",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Makri",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "AB Slebsager",
+              "non_striker": "S Georgota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "AB Slebsager",
+              "non_striker": "S Georgota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Georgota",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "AB Slebsager",
+              "non_striker": "S Georgota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "AB Slebsager",
+              "non_striker": "S Georgota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Georgota",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Georgota",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Georgota",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Georgota",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "NP Dalgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "NP Dalgaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "L Ostergaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "L Ostergaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "NP Dalgaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "L Ostergaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vervitsioti",
+              "bowler": "L Ostergaard",
+              "non_striker": "A Argyropoulou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Vervitsioti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Vervitsioti",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "S Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Argyropoulou",
+              "bowler": "S Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Argyropoulou",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "T Skordili",
+              "bowler": "S Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Skordili",
+              "bowler": "S Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "S Ostergaard",
+              "non_striker": "T Skordili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "S Ostergaard",
+              "non_striker": "T Skordili",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "M Polimeri",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "T Skordili",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Skordili",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Skordili",
+              "bowler": "AB Slebsager",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Skordili",
+              "bowler": "AB Slebsager",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Skordili",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "AB Slebsager",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "AB Slebsager",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "AB Slebsager",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "AB Slebsager",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Polimeri",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Parisi-mesimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Parisi-mesimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Parisi-mesimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "S Ostergaard",
+              "non_striker": "T Parisi-mesimeri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "S Ostergaard",
+              "non_striker": "T Parisi-mesimeri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "S Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "S Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "S Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Parisi-mesimeri",
+              "bowler": "S Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Parisi-mesimeri",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Maria Penna",
+              "bowler": "S Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "M Polimeri",
+              "bowler": "L Ostergaard",
+              "non_striker": "Maria Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maria Penna",
+              "bowler": "L Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maria Penna",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "L Ostergaard",
+              "non_striker": "Maria Penna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "L Ostergaard",
+              "non_striker": "Maria Penna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Polimeri",
+              "bowler": "L Ostergaard",
+              "non_striker": "Maria Penna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Maria Penna",
+              "bowler": "L Ostergaard",
+              "non_striker": "M Polimeri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "miscounted_overs": {
+        "11": {
+          "balls": "7"
+        },
+        "15": {
+          "balls": "7"
+        }
+      }
+    },
+    {
+      "team": "Denmark",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Syrioti",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "A Savvani",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Syrioti",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Syrioti",
+              "non_striker": "A Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ostergaard",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Ostergaard",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "M Syrioti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "A Savvani",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "A Savvani",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "A Savvani",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Savvani",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Vervitsioti",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "M Vervitsioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "M Vervitsioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Vervitsioti",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "M Vervitsioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Vervitsioti",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "E Kallous",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "E Kallous",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "E Kallous",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "E Kallous",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "E Kallous",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "E Kallous",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "E Kallous",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "E Kallous",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Farhat Afroz",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "S Georgota",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Farhat Afroz",
+                  "fielders": [
+                    {
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "S Georgota",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Ostergaard",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Ostergaard",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "A Makri",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "A Makri",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Syrioti",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Vervitsioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Vervitsioti",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Vervitsioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Vervitsioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Vervitsioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Vervitsioti",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Hojholt",
+              "bowler": "M Vervitsioti",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB Slebsager",
+              "bowler": "M Syrioti",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 99
+      },
+      "miscounted_overs": {
+        "12": {
+          "balls": "7"
+        }
+      }
+    }
+  ]
+}

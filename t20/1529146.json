@@ -1,0 +1,3005 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Windhoek",
+    "dates": [
+      "2026-04-17"
+    ],
+    "event": {
+      "name": "Scotland tour of Namibia",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3818,
+    "officials": {
+      "match_referees": [
+        "ET Dube"
+      ],
+      "reserve_umpires": [
+        "I Chabi"
+      ],
+      "umpires": [
+        "E Lassen",
+        "P Sizara"
+      ]
+    },
+    "outcome": {
+      "winner": "Scotland",
+      "by": {
+        "runs": 19
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MW Jones"
+    ],
+    "players": {
+      "Scotland": [
+        "HG Munsey",
+        "FDW McCreath",
+        "BJ McMullen",
+        "RD Berrington",
+        "OGT Gould",
+        "CM McBride",
+        "J Jarvis",
+        "O Davidson",
+        "MA Leask",
+        "SM Sharif",
+        "MW Jones"
+      ],
+      "Namibia": [
+        "L Steenkamp",
+        "JN Frylinck",
+        "JN Loftie-Eaton",
+        "MG Erasmus",
+        "A Busing-Volschenk",
+        "JC Balt",
+        "R Trumpelmann",
+        "L Basson",
+        "BM Scholtz",
+        "JT Brassell",
+        "M Heingo"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Busing-Volschenk": "e9e37173",
+        "BJ McMullen": "436c763a",
+        "BM Scholtz": "e85d03d6",
+        "CM McBride": "9ec74db8",
+        "E Lassen": "a476d6d0",
+        "ET Dube": "4c0891bc",
+        "FDW McCreath": "bccead86",
+        "HG Munsey": "ff014c34",
+        "I Chabi": "5e39110e",
+        "J Jarvis": "ab54f9e7",
+        "JC Balt": "75be3b2a",
+        "JN Frylinck": "3c87f0c3",
+        "JN Loftie-Eaton": "f468293b",
+        "JT Brassell": "537021f5",
+        "L Basson": "fb8389e6",
+        "L Steenkamp": "8bd9fd13",
+        "M Heingo": "0abb2525",
+        "MA Leask": "28131839",
+        "MG Erasmus": "95a5e066",
+        "MW Jones": "487b8546",
+        "O Davidson": "63249474",
+        "OGT Gould": "2c66ee1e",
+        "P Sizara": "5d45bb7f",
+        "R Trumpelmann": "ff6a7ab5",
+        "RD Berrington": "e21bc7f3",
+        "SM Sharif": "f43dd8c2"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Scotland",
+      "Namibia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Namibia"
+    },
+    "venue": "Namibia Cricket Ground, Windhoek"
+  },
+  "innings": [
+    {
+      "team": "Scotland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HG Munsey",
+              "bowler": "R Trumpelmann",
+              "non_striker": "FDW McCreath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FDW McCreath",
+              "bowler": "R Trumpelmann",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FDW McCreath",
+                  "fielders": [
+                    {
+                      "name": "A Busing-Volschenk"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "R Trumpelmann",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "R Trumpelmann",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "R Trumpelmann",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "R Trumpelmann",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BJ McMullen",
+              "bowler": "M Heingo",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "M Heingo",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "M Heingo",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "M Heingo",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "M Heingo",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "M Heingo",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BJ McMullen",
+              "bowler": "R Trumpelmann",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "R Trumpelmann",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "R Trumpelmann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "R Trumpelmann",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "R Trumpelmann",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "R Trumpelmann",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "R Trumpelmann",
+              "non_striker": "HG Munsey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HG Munsey",
+              "bowler": "JT Brassell",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HG Munsey",
+              "bowler": "JT Brassell",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HG Munsey",
+                  "fielders": [
+                    {
+                      "name": "R Trumpelmann"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "JT Brassell",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "JT Brassell",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "JT Brassell",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "JT Brassell",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RD Berrington",
+              "bowler": "M Heingo",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "M Heingo",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "M Heingo",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "M Heingo",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "M Heingo",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "M Heingo",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BJ McMullen",
+              "bowler": "JC Balt",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "JC Balt",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Berrington",
+                  "fielders": [
+                    {
+                      "name": "R Trumpelmann"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BJ McMullen",
+              "bowler": "BM Scholtz",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "BM Scholtz",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "BM Scholtz",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "BM Scholtz",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "JC Balt",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "BM Scholtz",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "BJ McMullen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ McMullen",
+              "bowler": "JC Balt",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BJ McMullen",
+                  "fielders": [
+                    {
+                      "name": "MG Erasmus"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "JC Balt",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "JC Balt",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "JC Balt",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "BM Scholtz",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "BM Scholtz",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "BM Scholtz",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "BM Scholtz",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "JC Balt",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "JC Balt",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JC Balt",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "JC Balt",
+              "non_striker": "OGT Gould",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "OGT Gould",
+              "bowler": "JT Brassell",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JT Brassell",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "OGT Gould",
+              "bowler": "JT Brassell",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OGT Gould",
+                  "fielders": [
+                    {
+                      "name": "MG Erasmus"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "JT Brassell",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "JT Brassell",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "JT Brassell",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Jarvis",
+              "bowler": "BM Scholtz",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "BM Scholtz",
+              "non_striker": "CM McBride",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "BM Scholtz",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "BM Scholtz",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "BM Scholtz",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "BM Scholtz",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CM McBride",
+              "bowler": "R Trumpelmann",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "R Trumpelmann",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CM McBride",
+              "bowler": "R Trumpelmann",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CM McBride",
+                  "fielders": [
+                    {
+                      "name": "JT Brassell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "R Trumpelmann",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "R Trumpelmann",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "O Davidson",
+              "bowler": "MG Erasmus",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "MG Erasmus",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "MG Erasmus",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "MG Erasmus",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "MG Erasmus",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "MG Erasmus",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "J Jarvis",
+              "bowler": "JT Brassell",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "JT Brassell",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "JT Brassell",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "JT Brassell",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "JT Brassell",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "JT Brassell",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "J Jarvis",
+              "bowler": "M Heingo",
+              "non_striker": "O Davidson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "M Heingo",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Davidson",
+              "bowler": "M Heingo",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Davidson",
+                  "fielders": [
+                    {
+                      "name": "JC Balt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "M Heingo",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "M Heingo",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Leask",
+              "bowler": "M Heingo",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "R Trumpelmann",
+              "non_striker": "MA Leask",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MA Leask",
+              "bowler": "JT Brassell",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Leask",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SM Sharif",
+              "bowler": "JT Brassell",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "JT Brassell",
+              "non_striker": "SM Sharif",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Jarvis",
+              "bowler": "JT Brassell",
+              "non_striker": "SM Sharif",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Sharif",
+              "bowler": "JT Brassell",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Sharif",
+              "bowler": "JT Brassell",
+              "non_striker": "J Jarvis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Namibia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Steenkamp",
+              "bowler": "MA Leask",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "MA Leask",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "MA Leask",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "MA Leask",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "MA Leask",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "MA Leask",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Steenkamp",
+              "bowler": "J Jarvis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "J Jarvis",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "J Jarvis",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "J Jarvis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "J Jarvis",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "J Jarvis",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "J Jarvis",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "J Jarvis",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Steenkamp",
+              "bowler": "SM Sharif",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "SM Sharif",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "SM Sharif",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "SM Sharif",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "SM Sharif",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "SM Sharif",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "L Steenkamp",
+              "bowler": "MW Jones",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Frylinck",
+              "bowler": "MW Jones",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JN Frylinck",
+                  "fielders": [
+                    {
+                      "name": "OGT Gould"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "MW Jones",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "MW Jones",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "MW Jones",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "MW Jones",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "MW Jones",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Steenkamp",
+              "bowler": "J Jarvis",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "J Jarvis",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "J Jarvis",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "J Jarvis",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "J Jarvis",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "J Jarvis",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "SM Sharif",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "SM Sharif",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "SM Sharif",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "SM Sharif",
+              "non_striker": "JN Loftie-Eaton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "SM Sharif",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "SM Sharif",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "MW Jones",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JN Loftie-Eaton",
+              "bowler": "MW Jones",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JN Loftie-Eaton",
+                  "fielders": [
+                    {
+                      "name": "J Jarvis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MW Jones",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MW Jones",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MW Jones",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MW Jones",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Steenkamp",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Steenkamp",
+                  "fielders": [
+                    {
+                      "name": "HG Munsey"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "MA Leask",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "J Jarvis",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "J Jarvis",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "J Jarvis",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "J Jarvis",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "J Jarvis",
+              "non_striker": "A Busing-Volschenk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "J Jarvis",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "A Busing-Volschenk",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Busing-Volschenk",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "O Davidson",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "O Davidson",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "O Davidson",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SM Sharif",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "SM Sharif",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "SM Sharif",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "SM Sharif",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "SM Sharif",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "SM Sharif",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JC Balt",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MA Leask",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "MA Leask",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "O Davidson",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "O Davidson",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "O Davidson",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Balt",
+              "bowler": "O Davidson",
+              "non_striker": "MG Erasmus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "O Davidson",
+              "non_striker": "JC Balt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Balt",
+                  "fielders": [
+                    {
+                      "name": "OGT Gould"
+                    },
+                    {
+                      "name": "CM McBride"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MW Jones",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MW Jones",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MG Erasmus",
+              "bowler": "MW Jones",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MG Erasmus",
+                  "fielders": [
+                    {
+                      "name": "HG Munsey"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "MW Jones",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "MW Jones",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "MW Jones",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "R Trumpelmann",
+              "bowler": "O Davidson",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Trumpelmann",
+              "bowler": "O Davidson",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "O Davidson",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "O Davidson",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "O Davidson",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "O Davidson",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Trumpelmann",
+              "bowler": "MW Jones",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "MW Jones",
+              "non_striker": "R Trumpelmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Trumpelmann",
+              "bowler": "MW Jones",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trumpelmann",
+              "bowler": "MW Jones",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Trumpelmann",
+              "bowler": "MW Jones",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Trumpelmann",
+              "bowler": "MW Jones",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Trumpelmann",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "L Basson",
+              "bowler": "SM Sharif",
+              "non_striker": "BM Scholtz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "SM Sharif",
+              "non_striker": "BM Scholtz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Scholtz",
+              "bowler": "SM Sharif",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "SM Sharif",
+              "non_striker": "BM Scholtz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Scholtz",
+              "bowler": "SM Sharif",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "SM Sharif",
+              "non_striker": "BM Scholtz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "L Basson",
+              "bowler": "J Jarvis",
+              "non_striker": "BM Scholtz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "J Jarvis",
+              "non_striker": "BM Scholtz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BM Scholtz",
+              "bowler": "J Jarvis",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BM Scholtz",
+              "bowler": "J Jarvis",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BM Scholtz",
+              "bowler": "J Jarvis",
+              "non_striker": "L Basson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Basson",
+              "bowler": "J Jarvis",
+              "non_striker": "BM Scholtz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 158
+      }
+    }
+  ]
+}

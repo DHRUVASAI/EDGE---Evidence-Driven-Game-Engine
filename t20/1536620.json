@@ -1,0 +1,2968 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-06-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2026-06-04"
+    ],
+    "event": {
+      "name": "Asian Cricket Council Women's Premier Cup",
+      "match_number": 9,
+      "group": "C"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2811,
+    "officials": {
+      "match_referees": [
+        "VR Nagre"
+      ],
+      "reserve_umpires": [
+        "AK Rana"
+      ],
+      "umpires": [
+        "Afia Amin",
+        "Humaira Farah"
+      ]
+    },
+    "outcome": {
+      "winner": "Malaysia",
+      "by": {
+        "runs": 40
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Mahirah Izzati Ismail"
+    ],
+    "players": {
+      "Malaysia": [
+        "Ainna Hamizah Hashim",
+        "WA Duraisingam",
+        "Nazatul Hidayah Husna",
+        "Mas Elysa",
+        "Mahirah Izzati Ismail",
+        "SM Dhanusri",
+        "Nur Arianna Natsya",
+        "Aina Najwa",
+        "Nur Dania Syuhada",
+        "Aisya Eleesa",
+        "Nur Qalysha"
+      ],
+      "Singapore": [
+        "A Tomar",
+        "Shafina Mahesh",
+        "Vinu Kumar",
+        "Rashmeka Badri Narayanan",
+        "DA Galia",
+        "RR Seth",
+        "PSR Gurusinghe",
+        "Riyaa Bhasin",
+        "LAR Bommareddy",
+        "E Ungerman",
+        "H Dhavina"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Tomar": "2af2427a",
+        "AK Rana": "562d74d0",
+        "Afia Amin": "7fc47de1",
+        "Aina Najwa": "31453abb",
+        "Ainna Hamizah Hashim": "4c7744de",
+        "Aisya Eleesa": "2cd18a73",
+        "DA Galia": "ae0b5b95",
+        "E Ungerman": "3959c505",
+        "H Dhavina": "cd12f384",
+        "Humaira Farah": "6b6d6623",
+        "LAR Bommareddy": "3da8cd3a",
+        "Mahirah Izzati Ismail": "b9b32e3c",
+        "Mas Elysa": "857de42e",
+        "Nazatul Hidayah Husna": "e9c394c4",
+        "Nur Arianna Natsya": "4db4c8be",
+        "Nur Dania Syuhada": "3af75717",
+        "Nur Qalysha": "3704ffe1",
+        "PSR Gurusinghe": "591a7004",
+        "RR Seth": "7ccc0a38",
+        "Rashmeka Badri Narayanan": "56a660cc",
+        "Riyaa Bhasin": "3ff26cea",
+        "SM Dhanusri": "4e4d2c20",
+        "Shafina Mahesh": "0c40b02d",
+        "VR Nagre": "fadaac76",
+        "Vinu Kumar": "3775b9f9",
+        "WA Duraisingam": "7467fe01"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Malaysia",
+      "Singapore"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Singapore"
+    },
+    "venue": "Bayuemas Oval, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "Malaysia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "E Ungerman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "E Ungerman",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "E Ungerman",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "E Ungerman",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "E Ungerman",
+              "non_striker": "WA Duraisingam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Duraisingam",
+              "bowler": "E Ungerman",
+              "non_striker": "Ainna Hamizah Hashim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WA Duraisingam",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "E Ungerman",
+              "non_striker": "Ainna Hamizah Hashim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ainna Hamizah Hashim",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ainna Hamizah Hashim",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "E Ungerman",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "E Ungerman",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "E Ungerman",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "E Ungerman",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "E Ungerman",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "E Ungerman",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "E Ungerman",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "E Ungerman",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "E Ungerman",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "E Ungerman",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "E Ungerman",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "E Ungerman",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "E Ungerman",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "E Ungerman",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Nazatul Hidayah Husna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nazatul Hidayah Husna",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nazatul Hidayah Husna",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "LAR Bommareddy",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "LAR Bommareddy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "H Dhavina",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "H Dhavina",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "H Dhavina",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "H Dhavina",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "H Dhavina",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "H Dhavina",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "H Dhavina",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "H Dhavina",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "H Dhavina",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "H Dhavina",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "H Dhavina",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "H Dhavina",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "H Dhavina",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "RR Seth",
+              "non_striker": "Mas Elysa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mas Elysa",
+              "bowler": "RR Seth",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mas Elysa",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "RR Seth",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "RR Seth",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "RR Seth",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "RR Seth",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Rashmeka Badri Narayanan",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "RR Seth",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "RR Seth",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "RR Seth",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "RR Seth",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "RR Seth",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "RR Seth",
+              "non_striker": "SM Dhanusri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SM Dhanusri",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Dhanusri",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Nur Arianna Natsya",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nur Arianna Natsya",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Aina Najwa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Mahirah Izzati Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mahirah Izzati Ismail",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Aina Najwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Tomar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Tomar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Tomar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Tomar",
+                  "fielders": [
+                    {
+                      "name": "Aina Najwa"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Nur Dania Syuhada",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vinu Kumar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Rashmeka Badri Narayanan",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shafina Mahesh",
+                  "fielders": [
+                    {
+                      "name": "Aina Najwa"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Rashmeka Badri Narayanan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "Rashmeka Badri Narayanan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Rashmeka Badri Narayanan",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashmeka Badri Narayanan",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rashmeka Badri Narayanan",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rashmeka Badri Narayanan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DA Galia",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Aisya Eleesa",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Nur Qalysha",
+              "non_striker": "RR Seth",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "Nur Qalysha",
+                    "out": "Ainna Hamizah Hashim",
+                    "reason": "injury",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Nur Qalysha",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Nur Qalysha",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Nur Qalysha",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Nur Qalysha",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DA Galia",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Nur Arianna Natsya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Nur Arianna Natsya",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "WA Duraisingam",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "WA Duraisingam",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "WA Duraisingam",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "WA Duraisingam",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "WA Duraisingam",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "WA Duraisingam",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Seth",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DA Galia",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "WA Duraisingam",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "WA Duraisingam",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DA Galia",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Galia",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Nur Dania Syuhada",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Ainna Hamizah Hashim",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "WA Duraisingam",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "WA Duraisingam",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "WA Duraisingam",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PSR Gurusinghe",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "Riyaa Bhasin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Riyaa Bhasin",
+              "bowler": "Mahirah Izzati Ismail",
+              "non_striker": "PSR Gurusinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 121
+      }
+    }
+  ]
+}

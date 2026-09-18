@@ -1,0 +1,2922 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gaborone",
+    "dates": [
+      "2026-04-10"
+    ],
+    "event": {
+      "name": "BCA Kalahari Women's T20 International Tournament",
+      "match_number": 19
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2719,
+    "officials": {
+      "match_referees": [
+        "J Chibhabha"
+      ],
+      "reserve_umpires": [
+        "L Msemburi"
+      ],
+      "umpires": [
+        "Imran Zakir",
+        "J Mukandi"
+      ]
+    },
+    "outcome": {
+      "winner": "Malawi",
+      "by": {
+        "runs": 53
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "P Maziya"
+    ],
+    "players": {
+      "Malawi": [
+        "S Chinawa",
+        "P Maziya",
+        "E Chiralile",
+        "S Kananji",
+        "A Alfonso",
+        "M Ndipo",
+        "C Mangulama",
+        "C Bwanali",
+        "L Wesley",
+        "L Malino",
+        "B Kasinja"
+      ],
+      "Zambia": [
+        "F Chenda",
+        "N Chabula",
+        "Rithika Sriram",
+        "R Chanda",
+        "M Chabula",
+        "M Kachingo",
+        "T Banda",
+        "E Mulenga",
+        "E Malama",
+        "P Chabuta",
+        "P Munsanda"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Alfonso": "5088c217",
+        "B Kasinja": "eaba37fc",
+        "C Bwanali": "b26a30f9",
+        "C Mangulama": "857c13f8",
+        "E Chiralile": "4e193c55",
+        "E Malama": "cd440d77",
+        "E Mulenga": "10ae734d",
+        "F Chenda": "c3d8b72f",
+        "Imran Zakir": "0071171d",
+        "J Chibhabha": "4c5c47a4",
+        "J Mukandi": "b7954ae3",
+        "L Malino": "7a81836e",
+        "L Msemburi": "ef6037f8",
+        "L Wesley": "320d39c0",
+        "M Chabula": "7952fe28",
+        "M Kachingo": "287dab75",
+        "M Ndipo": "e6a893a1",
+        "N Chabula": "c6fee9f1",
+        "P Chabuta": "85f0529e",
+        "P Maziya": "4f85f02c",
+        "P Munsanda": "a648fdcd",
+        "R Chanda": "43fe74b1",
+        "Rithika Sriram": "d409b68f",
+        "S Chinawa": "bdbde085",
+        "S Kananji": "23917bf0",
+        "T Banda": "cd3a34f9"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Malawi",
+      "Zambia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Malawi"
+    },
+    "venue": "Botswana Cricket Association Oval 2, Gaborone"
+  },
+  "innings": [
+    {
+      "team": "Malawi",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Chinawa",
+              "bowler": "P Chabuta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "P Chabuta",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "P Chabuta",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Chinawa",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "M Kachingo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Chinawa",
+              "bowler": "M Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Chinawa",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "P Chabuta",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "P Chabuta",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Chinawa",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Chinawa",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "E Chiralile",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Chiralile",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Chiralile",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "non_striker": "E Chiralile",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "non_striker": "E Chiralile",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Chiralile",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Chiralile",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Chiralile",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Chiralile",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Chiralile",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kananji",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kananji",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Kananji",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Kananji",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kananji",
+                  "fielders": [
+                    {
+                      "name": "R Chanda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Alfonso",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Alfonso",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "M Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "M Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "Rithika Sriram",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "M Ndipo",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "M Kachingo",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Ndipo",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "Rithika Sriram",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "M Ndipo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Ndipo",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Ndipo",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "non_striker": "C Mangulama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Mangulama",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Mangulama",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "non_striker": "C Mangulama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Mangulama",
+              "bowler": "N Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Mangulama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "N Chabula",
+              "non_striker": "C Mangulama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "E Mulenga",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "C Mangulama",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Mangulama",
+              "bowler": "E Mulenga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Mangulama",
+              "bowler": "E Mulenga",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Mangulama",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Bwanali",
+              "bowler": "E Mulenga",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bwanali",
+              "bowler": "E Mulenga",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bwanali",
+              "bowler": "E Mulenga",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bwanali",
+              "bowler": "E Mulenga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bwanali",
+              "bowler": "E Mulenga",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bwanali",
+              "bowler": "E Mulenga",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "P Chabuta",
+              "non_striker": "C Bwanali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "P Chabuta",
+              "non_striker": "C Bwanali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "P Chabuta",
+              "non_striker": "C Bwanali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bwanali",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bwanali",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bwanali",
+                  "fielders": [
+                    {
+                      "name": "N Chabula"
+                    },
+                    {
+                      "name": "E Malama"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "P Chabuta",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Kachingo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Kachingo",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Kachingo",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Wesley",
+              "bowler": "M Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "M Chabula",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Chabula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Chabula",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Wesley",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "Rithika Sriram",
+              "non_striker": "P Maziya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Maziya",
+              "bowler": "Rithika Sriram",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "P Maziya",
+              "bowler": "P Chabuta",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Maziya",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "L Malino",
+              "bowler": "P Chabuta",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "P Chabuta",
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Malino",
+              "bowler": "P Chabuta",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "P Chabuta",
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "P Chabuta",
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "L Malino",
+              "bowler": "M Chabula",
+              "non_striker": "L Wesley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wesley",
+              "bowler": "M Chabula",
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Wesley",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B Kasinja",
+              "bowler": "M Chabula",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Kasinja",
+              "bowler": "M Chabula",
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Malino",
+              "bowler": "M Chabula",
+              "non_striker": "B Kasinja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Malino",
+              "bowler": "M Chabula",
+              "non_striker": "B Kasinja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Malino",
+              "bowler": "M Chabula",
+              "non_striker": "B Kasinja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Malino",
+                  "fielders": [
+                    {
+                      "name": "P Munsanda"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Zambia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "F Chenda",
+              "bowler": "L Malino",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Chenda",
+              "bowler": "L Malino",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Chenda",
+              "bowler": "L Malino",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "F Chenda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "F Chenda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "F Chenda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "F Chenda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "F Chenda",
+              "bowler": "S Kananji",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Chenda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Rithika Sriram",
+              "bowler": "S Kananji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rithika Sriram",
+              "bowler": "S Kananji",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rithika Sriram",
+              "bowler": "S Kananji",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rithika Sriram",
+              "bowler": "S Kananji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rithika Sriram",
+              "bowler": "S Kananji",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "Rithika Sriram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rithika Sriram",
+              "bowler": "S Kananji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rithika Sriram",
+              "bowler": "S Kananji",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "Rithika Sriram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "Rithika Sriram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Rithika Sriram",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rithika Sriram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "Rithika Sriram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rithika Sriram",
+                  "fielders": [
+                    {
+                      "name": "P Maziya"
+                    },
+                    {
+                      "name": "L Malino"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "R Chanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "R Chanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "L Malino",
+              "non_striker": "R Chanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Chanda",
+              "bowler": "S Kananji",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chanda",
+              "bowler": "S Kananji",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "R Chanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "R Chanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "R Chanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "R Chanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Chanda",
+              "bowler": "L Malino",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chanda",
+              "bowler": "L Malino",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chanda",
+              "bowler": "L Malino",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chanda",
+              "bowler": "L Malino",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Chanda",
+              "bowler": "L Malino",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chanda",
+              "bowler": "L Malino",
+              "non_striker": "N Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Chanda",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Chabula",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "M Kachingo",
+              "bowler": "S Kananji",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kachingo",
+              "bowler": "S Kananji",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kachingo",
+              "bowler": "S Kananji",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kachingo",
+              "bowler": "S Kananji",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Kachingo",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "S Kananji",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Chabula",
+              "bowler": "L Malino",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Chabula",
+              "bowler": "L Malino",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "L Malino",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "L Malino",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "L Malino",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "L Malino",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "L Malino",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "M Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Chabula",
+              "bowler": "S Kananji",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "S Kananji",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "S Kananji",
+              "non_striker": "M Chabula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "M Chabula",
+              "bowler": "P Maziya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Chabula",
+              "bowler": "P Maziya",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Chabula",
+              "bowler": "P Maziya",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Chabula",
+              "bowler": "P Maziya",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Chabula",
+              "bowler": "P Maziya",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Chabula",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Banda",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "B Kasinja",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "B Kasinja",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "B Kasinja",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "B Kasinja",
+              "non_striker": "T Banda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "T Banda",
+              "bowler": "P Maziya",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Banda",
+              "bowler": "P Maziya",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Banda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "E Malama",
+              "bowler": "P Maziya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Malama",
+              "bowler": "P Maziya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Malama",
+              "bowler": "P Maziya",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Malama",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "P Chabuta",
+              "bowler": "P Maziya",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Chabuta",
+              "bowler": "P Maziya",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Chabuta",
+              "bowler": "P Maziya",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "E Mulenga",
+              "bowler": "B Kasinja",
+              "non_striker": "P Chabuta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "B Kasinja",
+              "non_striker": "P Chabuta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Chabuta",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Chabuta",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Chabuta",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Chabuta",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Chabuta",
+                  "fielders": [
+                    {
+                      "name": "S Kananji"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "P Maziya",
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "P Munsanda",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Munsanda",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Munsanda",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "B Kasinja",
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Mulenga",
+              "bowler": "B Kasinja",
+              "non_striker": "P Munsanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Munsanda",
+              "bowler": "B Kasinja",
+              "non_striker": "E Mulenga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Munsanda",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 87
+      }
+    }
+  ]
+}

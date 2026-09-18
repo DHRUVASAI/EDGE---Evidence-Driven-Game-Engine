@@ -1,0 +1,2916 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gaborone",
+    "dates": [
+      "2026-04-06"
+    ],
+    "event": {
+      "name": "BCA Kalahari Women's T20 International Tournament",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2701,
+    "officials": {
+      "reserve_umpires": [
+        "Imran Zakir"
+      ],
+      "umpires": [
+        "L Msemburi",
+        "S Bhargava"
+      ]
+    },
+    "outcome": {
+      "winner": "Brazil",
+      "by": {
+        "runs": 83
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "L Cardoso"
+    ],
+    "players": {
+      "Brazil": [
+        "LV Boas",
+        "L Agatha",
+        "RMAM Avery",
+        "L Cardoso",
+        "CS Nascimento",
+        "L Moises",
+        "M Ribeiro",
+        "MB dos Santos",
+        "MR Machado",
+        "MLG Silva",
+        "NC Monteiro"
+      ],
+      "Botswana": [
+        "O Kgeresi",
+        "L Mophakedi",
+        "W Moutswi",
+        "T Shadrack",
+        "G Matome",
+        "P Mapotsane",
+        "M Phiase",
+        "M Modise",
+        "K Inakale",
+        "M Sefati",
+        "A Mokgotlhe"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mokgotlhe": "781f1a40",
+        "CS Nascimento": "df997334",
+        "G Matome": "a6898f7a",
+        "Imran Zakir": "0071171d",
+        "K Inakale": "eea862f6",
+        "L Agatha": "1aebb2fa",
+        "L Cardoso": "5777d460",
+        "L Moises": "b27f9716",
+        "L Mophakedi": "c8cdbb92",
+        "L Msemburi": "ef6037f8",
+        "LV Boas": "3a00d34f",
+        "M Modise": "024e0635",
+        "M Phiase": "537cc79f",
+        "M Ribeiro": "38424a4d",
+        "M Sefati": "6c9abc8a",
+        "MB dos Santos": "8ba8dd7a",
+        "MLG Silva": "3b62a6b4",
+        "MR Machado": "4a4f94fa",
+        "NC Monteiro": "752af5a4",
+        "O Kgeresi": "cba01c28",
+        "P Mapotsane": "9ea555a4",
+        "RMAM Avery": "4cf645c9",
+        "S Bhargava": "81ce2e0e",
+        "T Shadrack": "6d972d02",
+        "W Moutswi": "e8c42000"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Brazil",
+      "Botswana"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Brazil"
+    },
+    "venue": "Botswana Cricket Association Oval 1, Gaborone"
+  },
+  "innings": [
+    {
+      "team": "Brazil",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "W Moutswi",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "W Moutswi",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Agatha",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "W Moutswi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LV Boas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "K Inakale",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "K Inakale",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "M Phiase",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "M Phiase",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Phiase",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "W Moutswi",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "W Moutswi",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "A Mokgotlhe",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Sefati",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Sefati",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Sefati",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "M Sefati",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "M Sefati",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Sefati",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "M Sefati",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "K Inakale",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "K Inakale",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "T Shadrack",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "T Shadrack",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "G Matome",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "G Matome",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Botswana",
+      "absent_hurt": [
+        "A Mokgotlhe"
+      ],
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "O Kgeresi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Kgeresi",
+                  "fielders": [
+                    {
+                      "name": "LV Boas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "W Moutswi",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Moises",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Moises",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Moutswi",
+                  "fielders": [
+                    {
+                      "name": "MR Machado"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "T Shadrack",
+              "bowler": "M Ribeiro",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Shadrack",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Shadrack",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Shadrack",
+              "bowler": "M Ribeiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Moises",
+              "non_striker": "T Shadrack",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Shadrack",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Shadrack",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Shadrack",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Shadrack",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Moises",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "CS Nascimento",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "CS Nascimento",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "CS Nascimento",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "CS Nascimento",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "CS Nascimento",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "CS Nascimento",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "CS Nascimento",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "CS Nascimento",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "G Matome",
+              "bowler": "L Cardoso",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Matome",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "L Cardoso",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "L Cardoso",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "L Cardoso",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "L Cardoso",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "L Cardoso",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Mapotsane",
+              "bowler": "CS Nascimento",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "CS Nascimento",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "CS Nascimento",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "CS Nascimento",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "CS Nascimento",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "CS Nascimento",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Cardoso",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Cardoso",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Cardoso",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Cardoso",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Cardoso",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Cardoso",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "NC Monteiro",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "NC Monteiro",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "NC Monteiro",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "NC Monteiro",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "NC Monteiro",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "NC Monteiro",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "P Mapotsane",
+              "bowler": "RMAM Avery",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "RMAM Avery",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "RMAM Avery",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "RMAM Avery",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "RMAM Avery",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "RMAM Avery",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Mophakedi",
+                  "fielders": [
+                    {
+                      "name": "L Cardoso"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "P Mapotsane",
+              "bowler": "NC Monteiro",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "NC Monteiro",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "NC Monteiro",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "NC Monteiro",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "NC Monteiro",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "NC Monteiro",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "P Mapotsane",
+              "bowler": "RMAM Avery",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "RMAM Avery",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "RMAM Avery",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "RMAM Avery",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "RMAM Avery",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "RMAM Avery",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "RMAM Avery",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "P Mapotsane",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Mapotsane",
+                  "fielders": [
+                    {
+                      "name": "MR Machado"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "LV Boas",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Modise",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "LV Boas",
+              "non_striker": "M Modise",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "LV Boas",
+              "non_striker": "M Modise",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Phiase",
+              "bowler": "L Cardoso",
+              "non_striker": "M Modise",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "L Cardoso",
+              "non_striker": "M Modise",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "L Cardoso",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "L Cardoso",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "L Cardoso",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "L Cardoso",
+              "non_striker": "M Modise",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Modise",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Modise",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Modise",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "K Inakale",
+              "bowler": "LV Boas",
+              "non_striker": "M Phiase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Phiase",
+              "bowler": "L Moises",
+              "non_striker": "K Inakale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "L Moises",
+              "non_striker": "K Inakale",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "L Moises",
+              "non_striker": "K Inakale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "L Moises",
+              "non_striker": "K Inakale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Phiase",
+              "bowler": "L Moises",
+              "non_striker": "K Inakale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Phiase",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Sefati",
+              "bowler": "L Moises",
+              "non_striker": "K Inakale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Sefati",
+                  "fielders": [
+                    {
+                      "name": "MR Machado"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 148
+      }
+    }
+  ]
+}

@@ -1,0 +1,2508 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2026-04-28"
+    ],
+    "event": {
+      "name": "ICC Women's T20I Challenge Trophy",
+      "match_number": 16
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2748,
+    "officials": {
+      "match_referees": [
+        "J Chibhabha"
+      ],
+      "reserve_umpires": [
+        "L Rusere"
+      ],
+      "umpires": [
+        "F Mutizwa",
+        "VR Angara"
+      ]
+    },
+    "outcome": {
+      "winner": "Italy",
+      "by": {
+        "runs": 8
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "EL Bartram"
+    ],
+    "players": {
+      "Vanuatu": [
+        "V Langiatu",
+        "S Stephen",
+        "R Andrew",
+        "N Navaika",
+        "A Chilia",
+        "A Griffin",
+        "G Chilia",
+        "MV Fare",
+        "N Kakor",
+        "R Ova",
+        "V Vira"
+      ],
+      "Italy": [
+        "A Kontopirakis",
+        "EL Bartram",
+        "HA Daluwatta",
+        "Ilenia Sims",
+        "ECB Moore",
+        "M Rathnayake",
+        "Amaya Rajapaksha",
+        "C Mahamalage",
+        "D Nanayakkara",
+        "S Kanankege",
+        "S Malwatta"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Chilia": "a0d07fd6",
+        "A Griffin": "de1c0045",
+        "A Kontopirakis": "4f05f64e",
+        "Amaya Rajapaksha": "9b52731d",
+        "C Mahamalage": "3250b7db",
+        "D Nanayakkara": "dbf22922",
+        "ECB Moore": "d0ff93a9",
+        "EL Bartram": "5fa7f030",
+        "F Mutizwa": "d3e83eef",
+        "G Chilia": "daf255ce",
+        "HA Daluwatta": "8bbfc744",
+        "Ilenia Sims": "03c98aa6",
+        "J Chibhabha": "4c5c47a4",
+        "L Rusere": "6a4734ae",
+        "M Rathnayake": "a969dc4c",
+        "MV Fare": "314463cc",
+        "N Kakor": "1bc685ee",
+        "N Navaika": "b0023708",
+        "R Andrew": "66c1accf",
+        "R Ova": "88bba252",
+        "S Kanankege": "01815edc",
+        "S Malwatta": "bc11f3a3",
+        "S Stephen": "b48304b5",
+        "V Langiatu": "fdd18ca0",
+        "V Vira": "94271647",
+        "VR Angara": "5b7b706f"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Vanuatu",
+      "Italy"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Italy"
+    },
+    "venue": "Gahanga B Ground, Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Vanuatu",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "C Mahamalage",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kanankege",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kanankege",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kanankege",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "C Mahamalage",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "C Mahamalage",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "C Mahamalage",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kanankege",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "S Kanankege",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "S Kanankege",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "C Mahamalage",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "C Mahamalage",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "C Mahamalage",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "C Mahamalage",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "C Mahamalage",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "A Kontopirakis",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "A Kontopirakis",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "A Kontopirakis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "A Kontopirakis",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "A Kontopirakis",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "A Kontopirakis",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "A Kontopirakis",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "Ilenia Sims",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "Ilenia Sims",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "Ilenia Sims",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "Ilenia Sims",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "Ilenia Sims",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "Ilenia Sims",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "V Langiatu",
+              "bowler": "A Kontopirakis",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "A Kontopirakis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "A Kontopirakis",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "A Kontopirakis",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "A Kontopirakis",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "A Kontopirakis",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "A Kontopirakis",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Stephen",
+              "bowler": "Ilenia Sims",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "Ilenia Sims",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Langiatu",
+              "bowler": "Ilenia Sims",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Langiatu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "Ilenia Sims",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "Ilenia Sims",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "HA Daluwatta",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "HA Daluwatta",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "HA Daluwatta",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "HA Daluwatta",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "HA Daluwatta",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "HA Daluwatta",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "HA Daluwatta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "HA Daluwatta",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "HA Daluwatta",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "D Nanayakkara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "D Nanayakkara",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "D Nanayakkara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "D Nanayakkara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "D Nanayakkara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "D Nanayakkara",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Stephen",
+              "bowler": "Ilenia Sims",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Stephen",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Stephen",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "Ilenia Sims",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "Ilenia Sims",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "N Navaika",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "ECB Moore",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "ECB Moore",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Navaika",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "Ilenia Sims",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "N Navaika",
+              "bowler": "A Kontopirakis",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "A Kontopirakis",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "A Kontopirakis",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "A Kontopirakis",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "A Kontopirakis",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "A Kontopirakis",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "D Nanayakkara",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "C Mahamalage",
+              "non_striker": "N Navaika",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "C Mahamalage",
+                    "out": "D Nanayakkara",
+                    "reason": "unknown",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "C Mahamalage",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Navaika",
+              "bowler": "C Mahamalage",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "C Mahamalage",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "C Mahamalage",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "C Mahamalage",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "R Andrew",
+              "bowler": "A Kontopirakis",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "A Kontopirakis",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "A Kontopirakis",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "A Kontopirakis",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "A Kontopirakis",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Andrew",
+              "bowler": "A Kontopirakis",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Italy",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kontopirakis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "HA Daluwatta",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HA Daluwatta",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ilenia Sims",
+                  "fielders": [
+                    {
+                      "name": "N Kakor"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "EL Bartram",
+              "bowler": "R Andrew",
+              "non_striker": "ECB Moore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "non_striker": "ECB Moore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ECB Moore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "V Vira",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "non_striker": "ECB Moore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ECB Moore",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ECB Moore",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ECB Moore",
+                  "fielders": [
+                    {
+                      "name": "R Andrew"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "EL Bartram",
+              "bowler": "S Stephen",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "S Stephen",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "S Stephen",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "S Stephen",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "S Stephen",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "S Stephen",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "R Andrew",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Andrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Andrew",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Navaika",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Navaika",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Navaika",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Navaika",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Kakor",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Kakor",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Kakor",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Kakor",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "V Vira",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Kakor",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "N Kakor",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Kakor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Kakor",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "N Navaika",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Ova",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Ova",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Ova",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Bartram",
+              "bowler": "R Ova",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Rathnayake",
+              "bowler": "R Ova",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 154
+      }
+    }
+  ]
+}

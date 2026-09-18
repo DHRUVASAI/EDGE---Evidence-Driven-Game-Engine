@@ -1,0 +1,1682 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-06-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Edinburgh",
+    "dates": [
+      "2026-06-03"
+    ],
+    "event": {
+      "name": "Scotland Women's T20I Tri-Series",
+      "match_number": 5
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2809,
+    "officials": {
+      "match_referees": [
+        "S Graham"
+      ],
+      "reserve_umpires": [
+        "DH Mclean"
+      ],
+      "umpires": [
+        "I McDonald",
+        "Ryan Milne"
+      ]
+    },
+    "outcome": {
+      "winner": "Scotland",
+      "by": {
+        "runs": 24
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "KE Bryce"
+    ],
+    "players": {
+      "Scotland": [
+        "DEM Carter",
+        "K Fraser",
+        "KE Bryce",
+        "SJ Bryce",
+        "A Lister",
+        "KL Gordon",
+        "M McColl",
+        "PA Chatterji",
+        "O Bell",
+        "C Abel",
+        "AH Maqsood"
+      ],
+      "Netherlands": [
+        "HDJ Siegers",
+        "P Molkenboer",
+        "B de Leede",
+        "SL Kalis",
+        "R Rijke",
+        "S Khurana",
+        "IJR Zwilling",
+        "HWA Landheer",
+        "C de Lange",
+        "S Siegers",
+        "I van der Woning"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Lister": "090c0213",
+        "AH Maqsood": "f61e2829",
+        "B de Leede": "b3020075",
+        "C Abel": "d92d3563",
+        "C de Lange": "c6a019f5",
+        "DEM Carter": "c3394c16",
+        "DH Mclean": "281d4749",
+        "HDJ Siegers": "6d48df01",
+        "HWA Landheer": "a6ec88f4",
+        "I McDonald": "37b55799",
+        "I van der Woning": "5aa8574b",
+        "IJR Zwilling": "47b32a5a",
+        "K Fraser": "a0a65375",
+        "KE Bryce": "f13d3eba",
+        "KL Gordon": "00823a96",
+        "M McColl": "d5fa2ab3",
+        "O Bell": "385eac52",
+        "P Molkenboer": "fa9db243",
+        "PA Chatterji": "8e7be59c",
+        "R Rijke": "42e4b276",
+        "Ryan Milne": "d2343b26",
+        "S Graham": "f93dbab9",
+        "S Khurana": "9a9a056d",
+        "S Siegers": "9a58f2c8",
+        "SJ Bryce": "2ca65aee",
+        "SL Kalis": "2b150c6b"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Scotland",
+      "Netherlands"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Netherlands"
+    },
+    "venue": "Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+  },
+  "innings": [
+    {
+      "team": "Scotland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DEM Carter",
+              "bowler": "IJR Zwilling",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "IJR Zwilling",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DEM Carter",
+              "bowler": "HDJ Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "HDJ Siegers",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "HDJ Siegers",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "HDJ Siegers",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "HDJ Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DEM Carter",
+                  "fielders": [
+                    {
+                      "name": "P Molkenboer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "IJR Zwilling",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "IJR Zwilling",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "K Fraser",
+              "bowler": "I van der Woning",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "I van der Woning",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "I van der Woning",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "I van der Woning",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "I van der Woning",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "I van der Woning",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KE Bryce",
+              "bowler": "C de Lange",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "C de Lange",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "C de Lange",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "C de Lange",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Fraser",
+              "bowler": "C de Lange",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Fraser",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "C de Lange",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KE Bryce",
+              "bowler": "HWA Landheer",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "HWA Landheer",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "HWA Landheer",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "HWA Landheer",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "HWA Landheer",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "HWA Landheer",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "S Siegers",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KE Bryce",
+              "bowler": "I van der Woning",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "I van der Woning",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "I van der Woning",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "I van der Woning",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "I van der Woning",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "I van der Woning",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KE Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KE Bryce",
+              "bowler": "IJR Zwilling",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Bryce",
+              "bowler": "IJR Zwilling",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KE Bryce",
+                  "fielders": [
+                    {
+                      "name": "S Khurana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Lister",
+              "bowler": "IJR Zwilling",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "IJR Zwilling",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Lister",
+              "bowler": "IJR Zwilling",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "IJR Zwilling",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "A Lister",
+              "bowler": "HDJ Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Lister",
+              "bowler": "HDJ Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Lister",
+              "bowler": "HDJ Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "HDJ Siegers",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Lister",
+              "bowler": "HDJ Siegers",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.4,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HDJ Siegers",
+              "bowler": "KL Gordon",
+              "non_striker": "P Molkenboer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HDJ Siegers",
+              "bowler": "KL Gordon",
+              "non_striker": "P Molkenboer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Molkenboer",
+              "bowler": "KL Gordon",
+              "non_striker": "HDJ Siegers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Molkenboer",
+              "bowler": "KL Gordon",
+              "non_striker": "HDJ Siegers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Molkenboer",
+              "bowler": "KL Gordon",
+              "non_striker": "HDJ Siegers",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "HDJ Siegers",
+              "bowler": "KL Gordon",
+              "non_striker": "P Molkenboer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HDJ Siegers",
+              "bowler": "KE Bryce",
+              "non_striker": "P Molkenboer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HDJ Siegers",
+              "bowler": "KE Bryce",
+              "non_striker": "P Molkenboer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Molkenboer",
+              "bowler": "KE Bryce",
+              "non_striker": "HDJ Siegers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Molkenboer",
+              "bowler": "KE Bryce",
+              "non_striker": "HDJ Siegers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Molkenboer",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "KE Bryce",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HDJ Siegers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDJ Siegers",
+              "bowler": "KE Bryce",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "B de Leede",
+              "bowler": "O Bell",
+              "non_striker": "HDJ Siegers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "O Bell",
+              "non_striker": "HDJ Siegers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDJ Siegers",
+              "bowler": "O Bell",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HDJ Siegers",
+                  "fielders": [
+                    {
+                      "name": "KE Bryce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "O Bell",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "O Bell",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "O Bell",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SL Kalis",
+              "bowler": "KE Bryce",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KE Bryce",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KE Bryce",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "KE Bryce",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KE Bryce",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KE Bryce",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SL Kalis",
+              "bowler": "KL Gordon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KL Gordon",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KL Gordon",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KL Gordon",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KL Gordon",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KL Gordon",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "KL Gordon",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SL Kalis",
+              "bowler": "AH Maqsood",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "AH Maqsood",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "AH Maqsood",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "AH Maqsood",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "AH Maqsood",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "AH Maqsood",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SL Kalis",
+              "bowler": "C Abel",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "C Abel",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "C Abel",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "C Abel",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B de Leede",
+                  "fielders": [
+                    {
+                      "name": "SJ Bryce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "C Abel",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "C Abel",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "R Rijke",
+              "bowler": "PA Chatterji",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "PA Chatterji",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SL Kalis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Khurana",
+              "bowler": "PA Chatterji",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "PA Chatterji",
+              "non_striker": "S Khurana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Khurana",
+              "bowler": "PA Chatterji",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "PA Chatterji",
+              "non_striker": "S Khurana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Khurana",
+              "bowler": "C Abel",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Khurana",
+                  "fielders": [
+                    {
+                      "name": "KE Bryce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "IJR Zwilling",
+              "bowler": "C Abel",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IJR Zwilling",
+              "bowler": "C Abel",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IJR Zwilling",
+              "bowler": "C Abel",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "C Abel",
+              "non_striker": "IJR Zwilling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IJR Zwilling",
+              "bowler": "C Abel",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Rijke",
+              "bowler": "K Fraser",
+              "non_striker": "IJR Zwilling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IJR Zwilling",
+              "bowler": "K Fraser",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IJR Zwilling",
+              "bowler": "K Fraser",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IJR Zwilling",
+              "bowler": "K Fraser",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "K Fraser",
+              "non_striker": "IJR Zwilling",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "R Rijke",
+                  "fielders": [
+                    {
+                      "name": "SJ Bryce"
+                    },
+                    {
+                      "name": "M McColl"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "HWA Landheer",
+              "bowler": "K Fraser",
+              "non_striker": "IJR Zwilling",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.4,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 105
+      }
+    }
+  ]
+}

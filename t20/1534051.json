@@ -1,0 +1,3134 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Episkopi",
+    "dates": [
+      "2026-05-20"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Europe Qualifier A",
+      "match_number": 14,
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3890,
+    "officials": {
+      "match_referees": [
+        "G McCrea"
+      ],
+      "reserve_umpires": [
+        "I McDonald"
+      ],
+      "umpires": [
+        "N Bathi",
+        "Rizwan Akram"
+      ]
+    },
+    "outcome": {
+      "winner": "Switzerland",
+      "by": {
+        "runs": 25
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Musa Khan Ahmadzai"
+    ],
+    "players": {
+      "Switzerland": [
+        "Arjun Vinod",
+        "H Deshan",
+        "M Stanikzai",
+        "Jai Sinh",
+        "Ahmed Hassan",
+        "MK Gnanasekaram",
+        "D Johnson",
+        "Jai Tiwari",
+        "NK Aneesh Kumar",
+        "Sheraz Sirwari",
+        "Musa Khan Ahmadzai"
+      ],
+      "Cyprus": [
+        "R Mazumder",
+        "AA Senn",
+        "A Shahi",
+        "Adam Senn",
+        "MPGT Ketiyage",
+        "RMR Brathwaite",
+        "Taranjit Singh",
+        "Karan Singh",
+        "S Tharanga",
+        "Lovedeep Singh",
+        "Waqar Ali"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Shahi": "2011735e",
+        "AA Senn": "719ac15b",
+        "Adam Senn": "34c3f7b9",
+        "Ahmed Hassan": "c439461b",
+        "Arjun Vinod": "033e9d59",
+        "D Johnson": "945981e5",
+        "G McCrea": "46f4a901",
+        "H Deshan": "cdc9bbec",
+        "I McDonald": "37b55799",
+        "Jai Sinh": "10ae134c",
+        "Jai Tiwari": "036e7ed1",
+        "Karan Singh": "56a94565",
+        "Lovedeep Singh": "a6e5e144",
+        "M Stanikzai": "ad8d5827",
+        "MK Gnanasekaram": "24b3651c",
+        "MPGT Ketiyage": "2d45d7d2",
+        "Musa Khan Ahmadzai": "e901d179",
+        "N Bathi": "96a0edf9",
+        "NK Aneesh Kumar": "e23da78c",
+        "R Mazumder": "b23d3ec5",
+        "RMR Brathwaite": "349c5e58",
+        "Rizwan Akram": "b5346f1e",
+        "S Tharanga": "32332eea",
+        "Sheraz Sirwari": "b2431c60",
+        "Taranjit Singh": "985b649e",
+        "Waqar Ali": "55a73018"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Switzerland",
+      "Cyprus"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Cyprus"
+    },
+    "venue": "Happy Valley Ground 2"
+  },
+  "innings": [
+    {
+      "team": "Switzerland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Waqar Ali",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Waqar Ali",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Waqar Ali",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Karan Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Karan Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Waqar Ali",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Waqar Ali",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "H Deshan",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Karan Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Karan Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Adam Senn",
+              "non_striker": "H Deshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Deshan",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Deshan",
+                  "fielders": [
+                    {
+                      "name": "A Shahi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Stanikzai",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Stanikzai",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Stanikzai",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Stanikzai",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Stanikzai",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Stanikzai",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "M Stanikzai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Lovedeep Singh",
+              "non_striker": "M Stanikzai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "M Stanikzai",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Stanikzai",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Adam Senn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Adam Senn",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Adam Senn",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Adam Senn",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Shahi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Karan Singh",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Karan Singh",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Karan Singh",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Karan Singh",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Waqar Ali",
+              "non_striker": "Arjun Vinod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arjun Vinod",
+              "bowler": "Waqar Ali",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arjun Vinod",
+                  "fielders": [
+                    {
+                      "name": "A Shahi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Waqar Ali",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Waqar Ali",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Waqar Ali",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Adam Senn",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Adam Senn",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Adam Senn",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Adam Senn",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Adam Senn",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "Adam Senn",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "non_striker": "Ahmed Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Hassan",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmed Hassan",
+                  "fielders": [
+                    {
+                      "name": "Lovedeep Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MK Gnanasekaram",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "A Shahi",
+              "non_striker": "MK Gnanasekaram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MK Gnanasekaram",
+              "bowler": "Adam Senn",
+              "non_striker": "Jai Sinh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Sinh",
+              "bowler": "Adam Senn",
+              "non_striker": "MK Gnanasekaram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jai Sinh",
+                  "fielders": [
+                    {
+                      "name": "A Shahi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "D Johnson",
+              "bowler": "Adam Senn",
+              "non_striker": "MK Gnanasekaram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Johnson",
+              "bowler": "Adam Senn",
+              "non_striker": "MK Gnanasekaram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Johnson",
+              "bowler": "Adam Senn",
+              "non_striker": "MK Gnanasekaram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Johnson",
+                  "fielders": [
+                    {
+                      "name": "S Tharanga"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Adam Senn",
+              "non_striker": "MK Gnanasekaram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MK Gnanasekaram",
+              "bowler": "Taranjit Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Gnanasekaram",
+              "bowler": "Taranjit Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Gnanasekaram",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Gnanasekaram",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "MK Gnanasekaram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Gnanasekaram",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MK Gnanasekaram",
+                  "fielders": [
+                    {
+                      "name": "Adam Senn"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "A Shahi",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "A Shahi",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "A Shahi",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "A Shahi",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "A Shahi",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "A Shahi",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "Waqar Ali",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Waqar Ali",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "Waqar Ali",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Waqar Ali",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Waqar Ali",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "Waqar Ali",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "Taranjit Singh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "A Shahi",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "A Shahi",
+              "non_striker": "NK Aneesh Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NK Aneesh Kumar",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NK Aneesh Kumar",
+                  "fielders": [
+                    {
+                      "name": "AA Senn"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sheraz Sirwari",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sheraz Sirwari",
+              "bowler": "A Shahi",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sheraz Sirwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Sheraz Sirwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sheraz Sirwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Jai Tiwari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Sheraz Sirwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jai Tiwari",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Sheraz Sirwari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jai Tiwari",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Musa Khan Ahmadzai",
+              "bowler": "Taranjit Singh",
+              "non_striker": "Sheraz Sirwari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cyprus",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Mazumder",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "Jai Sinh",
+              "non_striker": "R Mazumder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Mazumder",
+              "bowler": "Jai Sinh",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Mazumder",
+                  "fielders": [
+                    {
+                      "name": "Musa Khan Ahmadzai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Jai Sinh",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Jai Sinh",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Jai Sinh",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Jai Sinh",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Shahi",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Sheraz Sirwari",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Sheraz Sirwari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "Jai Sinh",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Jai Sinh",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Jai Sinh",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Shahi",
+              "bowler": "Jai Sinh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Jai Sinh",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Jai Sinh",
+              "non_striker": "A Shahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "A Shahi",
+                  "kind": "retired out"
+                }
+              ]
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "Jai Sinh",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "D Johnson",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "D Johnson",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Adam Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Adam Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adam Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adam Senn",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "NK Aneesh Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "NK Aneesh Kumar",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "M Stanikzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "M Stanikzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "M Stanikzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "M Stanikzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "M Stanikzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "M Stanikzai",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "MPGT Ketiyage",
+              "bowler": "M Stanikzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "M Stanikzai",
+              "non_striker": "MPGT Ketiyage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPGT Ketiyage",
+                  "fielders": [
+                    {
+                      "name": "M Stanikzai"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "M Stanikzai",
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AA Senn",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Musa Khan Ahmadzai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Musa Khan Ahmadzai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AA Senn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Musa Khan Ahmadzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Senn",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Senn",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "Taranjit Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Taranjit Singh",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Taranjit Singh",
+                  "fielders": [
+                    {
+                      "name": "Arjun Vinod"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "Karan Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karan Singh",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karan Singh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Tharanga",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Tharanga",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "RMR Brathwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Sheraz Sirwari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMR Brathwaite",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RMR Brathwaite",
+                  "fielders": [
+                    {
+                      "name": "M Stanikzai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Lovedeep Singh",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Lovedeep Singh",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Lovedeep Singh",
+                  "fielders": [
+                    {
+                      "name": "MK Gnanasekaram"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Waqar Ali",
+              "bowler": "Sheraz Sirwari",
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Waqar Ali",
+              "bowler": "Musa Khan Ahmadzai",
+              "non_striker": "S Tharanga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waqar Ali",
+                  "fielders": [
+                    {
+                      "name": "Jai Sinh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 156
+      }
+    }
+  ]
+}

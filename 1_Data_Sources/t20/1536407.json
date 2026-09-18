@@ -1,0 +1,1215 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2026-05-31"
+    ],
+    "event": {
+      "name": "Asian Games Women's Qualifier",
+      "stage": "3rd Place Play-Off"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2793,
+    "officials": {
+      "match_referees": [
+        "VR Nagre"
+      ],
+      "reserve_umpires": [
+        "Afia Amin"
+      ],
+      "umpires": [
+        "LDVV Silva",
+        "Rokeya Sultana"
+      ]
+    },
+    "outcome": {
+      "winner": "China",
+      "by": {
+        "wickets": 5
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "M Zhu"
+    ],
+    "players": {
+      "Nepal": [
+        "Samjhana Khadka",
+        "Puja Mahato",
+        "S Pakhrin",
+        "R Poddar",
+        "I Barma",
+        "K Kunwar",
+        "RC Belbashi",
+        "S Magar",
+        "Riya Sharma",
+        "M Upadhayay",
+        "Seemana KC"
+      ],
+      "China": [
+        "M Zhu",
+        "Wang Huiying",
+        "Gong Yuting",
+        "Jiaping Li",
+        "Cai Yuzhi",
+        "Wei Haiting",
+        "Chen Xinyu",
+        "Ma Ruike",
+        "F Qian",
+        "Zhao Yihan",
+        "J Chunquin"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Afia Amin": "7fc47de1",
+        "Cai Yuzhi": "80d30c5f",
+        "Chen Xinyu": "b2cd8abe",
+        "F Qian": "39f01c3d",
+        "Gong Yuting": "edcd847a",
+        "I Barma": "521abce2",
+        "J Chunquin": "c37b1ed5",
+        "Jiaping Li": "35cac794",
+        "K Kunwar": "97e6e41a",
+        "LDVV Silva": "6e226c31",
+        "M Upadhayay": "cdda92be",
+        "M Zhu": "36c3302e",
+        "Ma Ruike": "8ccef7e2",
+        "Puja Mahato": "4b95058b",
+        "R Poddar": "4e38a3d6",
+        "RC Belbashi": "dfdaca74",
+        "Riya Sharma": "8b7cda26",
+        "Rokeya Sultana": "20abf9b9",
+        "S Magar": "4fc3790e",
+        "S Pakhrin": "18377910",
+        "Samjhana Khadka": "765a2354",
+        "Seemana KC": "927d0471",
+        "VR Nagre": "fadaac76",
+        "Wang Huiying": "c84a3e06",
+        "Wei Haiting": "a1e30490",
+        "Zhao Yihan": "a9cd14fc"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Nepal",
+      "China"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "China"
+    },
+    "venue": "Bayuemas Oval, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "Ma Ruike",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "Ma Ruike",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "Ma Ruike",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "Ma Ruike",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "Ma Ruike",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "Ma Ruike",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "Ma Ruike",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "M Zhu",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "M Zhu",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "M Zhu",
+              "non_striker": "Puja Mahato",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "M Zhu",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Puja Mahato",
+              "bowler": "M Zhu",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Puja Mahato",
+                  "fielders": [
+                    {
+                      "name": "J Chunquin"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "M Zhu",
+              "non_striker": "Samjhana Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Samjhana Khadka",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Samjhana Khadka",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Poddar",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Poddar",
+                  "fielders": [
+                    {
+                      "name": "M Zhu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "Ma Ruike",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "Ma Ruike",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "Wang Huiying",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Wang Huiying",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "Wang Huiying",
+              "non_striker": "I Barma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Wang Huiying",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Wang Huiying",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Wang Huiying",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "I Barma",
+              "bowler": "Zhao Yihan",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Barma",
+              "bowler": "Zhao Yihan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "I Barma",
+                  "fielders": [
+                    {
+                      "name": "J Chunquin"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "Zhao Yihan",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "Zhao Yihan",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "Zhao Yihan",
+              "non_striker": "S Pakhrin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "Zhao Yihan",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Pakhrin",
+              "bowler": "Zhao Yihan",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Pakhrin",
+                  "kind": "retired out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Jiaping Li",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "Jiaping Li",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "Jiaping Li",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "Jiaping Li",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "Jiaping Li",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "Jiaping Li",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RC Belbashi",
+              "bowler": "M Zhu",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "M Zhu",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RC Belbashi",
+              "bowler": "M Zhu",
+              "non_striker": "K Kunwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "M Zhu",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "M Zhu",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kunwar",
+              "bowler": "M Zhu",
+              "non_striker": "RC Belbashi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "China",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Zhu",
+              "bowler": "M Upadhayay",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "M Upadhayay",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "M Upadhayay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "M Upadhayay",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "M Upadhayay",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "M Upadhayay",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "M Upadhayay",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Zhu",
+              "bowler": "K Kunwar",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "K Kunwar",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "K Kunwar",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "K Kunwar",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "K Kunwar",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "K Kunwar",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Zhu",
+              "bowler": "Riya Sharma",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Riya Sharma",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Riya Sharma",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "Riya Sharma",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Wang Huiying",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Gong Yuting",
+              "bowler": "Riya Sharma",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gong Yuting",
+                  "fielders": [
+                    {
+                      "name": "Riya Sharma"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "Riya Sharma",
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Zhu",
+                  "fielders": [
+                    {
+                      "name": "I Barma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Jiaping Li",
+              "bowler": "K Kunwar",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "K Kunwar",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "K Kunwar",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "K Kunwar",
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "K Kunwar",
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jiaping Li",
+                  "fielders": [
+                    {
+                      "name": "I Barma"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "K Kunwar",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Riya Sharma",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Riya Sharma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Riya Sharma",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "Riya Sharma",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Riya Sharma",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "Riya Sharma",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Wei Haiting",
+              "bowler": "M Upadhayay",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "M Upadhayay",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "M Upadhayay",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "M Upadhayay",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "M Upadhayay",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "M Upadhayay",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "S Magar",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "S Magar",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "S Magar",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "S Magar",
+              "non_striker": "Wei Haiting",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wei Haiting",
+              "bowler": "S Magar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Wei Haiting",
+                  "fielders": [
+                    {
+                      "name": "R Poddar"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "S Magar",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "S Magar",
+              "non_striker": "Chen Xinyu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.1,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 7,
+        "runs": 43
+      }
+    }
+  ]
+}

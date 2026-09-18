@@ -1,0 +1,988 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gaborone",
+    "dates": [
+      "2026-04-10"
+    ],
+    "event": {
+      "name": "BCA Kalahari Women's T20 International Tournament",
+      "match_number": 18
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2718,
+    "officials": {
+      "match_referees": [
+        "J Chibhabha"
+      ],
+      "reserve_umpires": [
+        "O Musiyamanje"
+      ],
+      "umpires": [
+        "G Mere",
+        "S Bhargava"
+      ]
+    },
+    "outcome": {
+      "winner": "Brazil",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "LV Boas"
+    ],
+    "players": {
+      "Mozambique": [
+        "O Mondlane",
+        "P Cuinica",
+        "AL Mundundo",
+        "WNA Bucuane",
+        "C Magaia",
+        "AA Moiane",
+        "I Chuma",
+        "R Haiong",
+        "RO Mazumba",
+        "L Chipanga",
+        "A Salomao"
+      ],
+      "Brazil": [
+        "LV Boas",
+        "AC Sabino",
+        "MLG Silva",
+        "CS Nascimento",
+        "M Ribeiro",
+        "L Moises",
+        "M Artur",
+        "MR Machado",
+        "RMAM Avery",
+        "NC Monteiro",
+        "L Cardoso"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Salomao": "04e145f4",
+        "AA Moiane": "80190078",
+        "AC Sabino": "dd45b04b",
+        "AL Mundundo": "c1edced9",
+        "C Magaia": "bb4d1237",
+        "CS Nascimento": "df997334",
+        "G Mere": "03b5814e",
+        "I Chuma": "b1021056",
+        "J Chibhabha": "4c5c47a4",
+        "L Cardoso": "5777d460",
+        "L Chipanga": "70722cc7",
+        "L Moises": "b27f9716",
+        "LV Boas": "3a00d34f",
+        "M Artur": "400b36cd",
+        "M Ribeiro": "38424a4d",
+        "MLG Silva": "3b62a6b4",
+        "MR Machado": "4a4f94fa",
+        "NC Monteiro": "752af5a4",
+        "O Mondlane": "7f97139f",
+        "O Musiyamanje": "b74c5754",
+        "P Cuinica": "efca38df",
+        "R Haiong": "2832fbba",
+        "RMAM Avery": "4cf645c9",
+        "RO Mazumba": "2a753483",
+        "S Bhargava": "81ce2e0e",
+        "WNA Bucuane": "eea3be2e"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Mozambique",
+      "Brazil"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Mozambique"
+    },
+    "venue": "Botswana Cricket Association Oval 1, Gaborone"
+  },
+  "innings": [
+    {
+      "team": "Mozambique",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "O Mondlane",
+              "bowler": "M Ribeiro",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Mondlane",
+              "bowler": "M Ribeiro",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Mondlane",
+                  "fielders": [
+                    {
+                      "name": "MLG Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "M Ribeiro",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "M Ribeiro",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "M Ribeiro",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "M Ribeiro",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "M Ribeiro",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "M Ribeiro",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Cuinica",
+              "bowler": "M Ribeiro",
+              "non_striker": "AL Mundundo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "P Cuinica",
+              "bowler": "M Ribeiro",
+              "non_striker": "AL Mundundo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Cuinica",
+              "bowler": "M Ribeiro",
+              "non_striker": "AL Mundundo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Cuinica",
+              "bowler": "M Ribeiro",
+              "non_striker": "AL Mundundo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Cuinica",
+              "bowler": "M Ribeiro",
+              "non_striker": "AL Mundundo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Cuinica",
+              "bowler": "M Ribeiro",
+              "non_striker": "AL Mundundo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Cuinica",
+                  "fielders": [
+                    {
+                      "name": "LV Boas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "M Ribeiro",
+              "non_striker": "AL Mundundo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "non_striker": "WNA Bucuane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Mundundo",
+              "bowler": "LV Boas",
+              "non_striker": "WNA Bucuane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AL Mundundo",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Magaia",
+              "bowler": "LV Boas",
+              "non_striker": "WNA Bucuane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Magaia",
+              "bowler": "LV Boas",
+              "non_striker": "WNA Bucuane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Magaia",
+              "bowler": "LV Boas",
+              "non_striker": "WNA Bucuane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Magaia",
+                  "fielders": [
+                    {
+                      "name": "AC Sabino"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AA Moiane",
+              "bowler": "LV Boas",
+              "non_striker": "WNA Bucuane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "M Ribeiro",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "M Ribeiro",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "M Ribeiro",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "M Ribeiro",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Moiane",
+              "bowler": "M Ribeiro",
+              "non_striker": "WNA Bucuane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "M Ribeiro",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "LV Boas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "LV Boas",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "LV Boas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "LV Boas",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "LV Boas",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WNA Bucuane",
+              "bowler": "LV Boas",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WNA Bucuane",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "I Chuma",
+              "bowler": "LV Boas",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Chuma",
+              "bowler": "LV Boas",
+              "non_striker": "AA Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Chuma",
+                  "fielders": [
+                    {
+                      "name": "L Cardoso"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AA Moiane",
+              "bowler": "NC Monteiro",
+              "non_striker": "R Haiong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Moiane",
+              "bowler": "NC Monteiro",
+              "non_striker": "R Haiong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Moiane",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RO Mazumba",
+              "bowler": "NC Monteiro",
+              "non_striker": "R Haiong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RO Mazumba",
+              "bowler": "NC Monteiro",
+              "non_striker": "R Haiong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RO Mazumba",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Chipanga",
+              "bowler": "NC Monteiro",
+              "non_striker": "R Haiong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Chipanga",
+              "bowler": "NC Monteiro",
+              "non_striker": "R Haiong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Chipanga",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "R Haiong",
+              "bowler": "LV Boas",
+              "non_striker": "A Salomao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Haiong",
+              "bowler": "LV Boas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Salomao",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Haiong",
+              "bowler": "LV Boas",
+              "non_striker": "A Salomao",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Haiong",
+              "bowler": "LV Boas",
+              "non_striker": "A Salomao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Haiong",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Brazil",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "A Salomao",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "A Salomao",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "A Salomao",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "A Salomao",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "A Salomao",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LV Boas",
+                  "fielders": [
+                    {
+                      "name": "R Haiong"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Salomao",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Salomao",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "A Salomao",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MLG Silva",
+              "bowler": "P Cuinica",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "P Cuinica",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "P Cuinica",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "P Cuinica",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "P Cuinica",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLG Silva",
+              "bowler": "P Cuinica",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AC Sabino",
+              "bowler": "A Salomao",
+              "non_striker": "MLG Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.1,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 20
+      }
+    }
+  ]
+}

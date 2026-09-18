@@ -1,0 +1,2974 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-30",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sylhet",
+    "dates": [
+      "2026-04-30"
+    ],
+    "event": {
+      "name": "Sri Lanka Women tour of Bangladesh",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2750,
+    "officials": {
+      "match_referees": [
+        "SR Das"
+      ],
+      "reserve_umpires": [
+        "Shathira Jakir"
+      ],
+      "tv_umpires": [
+        "Champa Chakma"
+      ],
+      "umpires": [
+        "Eloise Sheridan",
+        "Rokeya Sultana"
+      ]
+    },
+    "outcome": {
+      "winner": "Sri Lanka",
+      "by": {
+        "runs": 21
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "WK Dilhari"
+    ],
+    "players": {
+      "Sri Lanka": [
+        "GWHM Perera",
+        "AC Jayangani",
+        "I Dulani",
+        "H Madavi",
+        "NND de Silva",
+        "H Karunaratne",
+        "WK Dilhari",
+        "EMKNH Senavirathna",
+        "M Madara",
+        "BMSM Kumari",
+        "M Ayodhya"
+      ],
+      "Bangladesh": [
+        "Dilara Akter",
+        "Juairiya Ferdous",
+        "Sharmin Akhter",
+        "Nigar Sultana",
+        "S Mostary",
+        "Shorna Akter",
+        "Ritu Moni",
+        "Fahima Khatun",
+        "Nahida Akter",
+        "Sultana Khatun",
+        "Fariha Trisna"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AC Jayangani": "ac56b5a7",
+        "BMSM Kumari": "b55fb828",
+        "Champa Chakma": "4fc732f7",
+        "Dilara Akter": "f2670a3d",
+        "EMKNH Senavirathna": "ec691a5b",
+        "Eloise Sheridan": "d8d43840",
+        "Fahima Khatun": "558cdd64",
+        "Fariha Trisna": "7b51bfa4",
+        "GWHM Perera": "53068b45",
+        "H Karunaratne": "f8e27d4a",
+        "H Madavi": "85021bcd",
+        "I Dulani": "a2c23f31",
+        "Juairiya Ferdous": "e6f05a84",
+        "M Ayodhya": "843e067e",
+        "M Madara": "ecbcfef6",
+        "NND de Silva": "f0b4294e",
+        "Nahida Akter": "66078174",
+        "Nigar Sultana": "3827f6a2",
+        "Ritu Moni": "ad3940a5",
+        "Rokeya Sultana": "20abf9b9",
+        "S Mostary": "94de63bf",
+        "SR Das": "f4e52218",
+        "Sharmin Akhter": "84fdd3cf",
+        "Shathira Jakir": "6b992a6f",
+        "Shorna Akter": "89895ae1",
+        "Sultana Khatun": "fb0c0bcc",
+        "WK Dilhari": "c34a15e6"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bangladesh"
+    },
+    "venue": "Sylhet International Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "GWHM Perera",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GWHM Perera",
+                  "fielders": [
+                    {
+                      "name": "Nigar Sultana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "I Dulani",
+              "bowler": "Nahida Akter",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Nahida Akter",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Nahida Akter",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Nahida Akter",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Nahida Akter",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Nahida Akter",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Fariha Trisna",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "I Dulani",
+              "bowler": "Nahida Akter",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Nahida Akter",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Nahida Akter",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Nahida Akter",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Nahida Akter",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Nahida Akter",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "I Dulani",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "I Dulani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "I Dulani",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Dulani",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Dulani",
+                  "fielders": [
+                    {
+                      "name": "Nigar Sultana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "H Madavi",
+              "bowler": "S Mostary",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "S Mostary",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "S Mostary",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "S Mostary",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "S Mostary",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "S Mostary",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Ritu Moni",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Sultana Khatun",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Jayangani",
+              "bowler": "Sultana Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Jayangani",
+                  "fielders": [
+                    {
+                      "name": "Fariha Trisna"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Sultana Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "NND de Silva",
+              "bowler": "Fahima Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Fahima Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Fahima Khatun",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Fahima Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Fahima Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Fahima Khatun",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "H Madavi",
+              "bowler": "Nahida Akter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Nahida Akter",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Nahida Akter",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Nahida Akter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Nahida Akter",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Nahida Akter",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "NND de Silva",
+              "bowler": "Fahima Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Fahima Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Fahima Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Fahima Khatun",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Fahima Khatun",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Fahima Khatun",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Ritu Moni",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Ritu Moni",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "H Madavi",
+              "bowler": "S Mostary",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "S Mostary",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "S Mostary",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "S Mostary",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "S Mostary",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "S Mostary",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "H Madavi",
+              "bowler": "Nahida Akter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NND de Silva",
+              "bowler": "Nahida Akter",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Nahida Akter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Nahida Akter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Nahida Akter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Madavi",
+              "bowler": "Nahida Akter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Madavi",
+                  "fielders": [
+                    {
+                      "name": "Shorna Akter"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bangladesh",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Madara",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Madara",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Madara",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Madara",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Madara",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Madara",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "AC Jayangani",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "AC Jayangani",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "AC Jayangani",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "AC Jayangani",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "BMSM Kumari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Ayodhya",
+              "non_striker": "Dilara Akter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Dilara Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dilara Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dilara Akter",
+                  "fielders": [
+                    {
+                      "name": "H Karunaratne"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Madara",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Madara",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Madara",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Madara",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Madara",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "M Madara",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "WK Dilhari",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Juairiya Ferdous",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Juairiya Ferdous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Juairiya Ferdous",
+                  "fielders": [
+                    {
+                      "name": "I Dulani"
+                    },
+                    {
+                      "name": "EMKNH Senavirathna"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Nigar Sultana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "NND de Silva",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "NND de Silva",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "NND de Silva",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "NND de Silva",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nigar Sultana",
+              "bowler": "NND de Silva",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nigar Sultana",
+              "bowler": "NND de Silva",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Nigar Sultana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nigar Sultana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Madara",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Madara",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nigar Sultana",
+              "bowler": "M Madara",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Madara",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nigar Sultana",
+              "bowler": "M Madara",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Madara",
+              "non_striker": "Nigar Sultana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nigar Sultana",
+                  "fielders": [
+                    {
+                      "name": "I Dulani"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "S Mostary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mostary",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mostary",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Mostary",
+                  "fielders": [
+                    {
+                      "name": "WK Dilhari"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "BMSM Kumari",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shorna Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shorna Akter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shorna Akter",
+              "bowler": "WK Dilhari",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shorna Akter",
+                  "fielders": [
+                    {
+                      "name": "EMKNH Senavirathna"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Ritu Moni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Ritu Moni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Ritu Moni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ritu Moni",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ritu Moni",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "AC Jayangani",
+              "non_striker": "Ritu Moni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Ritu Moni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ritu Moni",
+              "bowler": "M Ayodhya",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ritu Moni",
+              "bowler": "M Ayodhya",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Ritu Moni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ritu Moni",
+              "bowler": "M Ayodhya",
+              "non_striker": "Sharmin Akhter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sharmin Akhter",
+              "bowler": "M Ayodhya",
+              "non_striker": "Ritu Moni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.11,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 155
+      }
+    }
+  ]
+}

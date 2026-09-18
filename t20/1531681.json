@@ -1,0 +1,3126 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-07",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Marsa",
+    "dates": [
+      "2026-05-07"
+    ],
+    "event": {
+      "name": "Gibraltar tour of Malta",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3836,
+    "officials": {
+      "reserve_umpires": [
+        "Vinay Malhotra"
+      ],
+      "umpires": [
+        "N Dhanawade",
+        "S Gowda"
+      ]
+    },
+    "outcome": {
+      "winner": "Malta",
+      "by": {
+        "runs": 50
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Mohammed Qasim"
+    ],
+    "players": {
+      "Malta": [
+        "Mohammed Qasim",
+        "Mehboob Ali",
+        "P Pushparajan",
+        "Jaspal Singh",
+        "Flynn Zahra",
+        "Zeeshan Khan",
+        "SB Patel",
+        "Muhammad Ajmal",
+        "Ajin Soman",
+        "Jaswinder Singh",
+        "Imran Ameer"
+      ],
+      "Gibraltar": [
+        "PA Raikes",
+        "L Bruce",
+        "C Pyle",
+        "KJ Ferrary",
+        "IDM Latin",
+        "K Mirpuri",
+        "BA Pai",
+        "M Whelan",
+        "J Horrocks",
+        "J Wilson",
+        "S Bodha"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ajin Soman": "23cbe719",
+        "BA Pai": "716bf559",
+        "C Pyle": "d278b70b",
+        "Flynn Zahra": "b929c3ae",
+        "IDM Latin": "78f719ea",
+        "Imran Ameer": "b8e65260",
+        "J Horrocks": "1c8cd1c3",
+        "J Wilson": "1a3295a1",
+        "Jaspal Singh": "adca37a2",
+        "Jaswinder Singh": "63aa8148",
+        "K Mirpuri": "441006af",
+        "KJ Ferrary": "81898acc",
+        "L Bruce": "2a03bd2f",
+        "M Whelan": "d613f046",
+        "Mehboob Ali": "f1e0417f",
+        "Mohammed Qasim": "a120e81b",
+        "Muhammad Ajmal": "0782aec3",
+        "N Dhanawade": "bc68912b",
+        "P Pushparajan": "a143d606",
+        "PA Raikes": "dfe5db8a",
+        "S Bodha": "00467a76",
+        "S Gowda": "52f6fb22",
+        "SB Patel": "b24e0ffd",
+        "Vinay Malhotra": "452837d1",
+        "Zeeshan Khan": "3f9b1a96"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Malta",
+      "Gibraltar"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Gibraltar"
+    },
+    "venue": "Marsa Sports Club"
+  },
+  "innings": [
+    {
+      "team": "Malta",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mehboob Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "Mehboob Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "Mehboob Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "Mehboob Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "Mehboob Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Mehboob Ali",
+                  "fielders": [
+                    {
+                      "name": "PA Raikes"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Pushparajan",
+              "bowler": "J Horrocks",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "J Horrocks",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "BA Pai",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "L Bruce",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "S Bodha",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "S Bodha",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "S Bodha",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "S Bodha",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "S Bodha",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "S Bodha",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "S Bodha",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "L Bruce",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "L Bruce",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "S Bodha",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "S Bodha",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "S Bodha",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "S Bodha",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "S Bodha",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "S Bodha",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Wilson",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Wilson",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Wilson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "P Pushparajan",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Wilson",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Wilson",
+              "non_striker": "P Pushparajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Pushparajan",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Pushparajan",
+                  "fielders": [
+                    {
+                      "name": "IDM Latin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Wilson",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Horrocks",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "J Horrocks",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "J Horrocks",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "J Horrocks",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Wilson",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "J Wilson",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "J Wilson",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "K Mirpuri",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "K Mirpuri",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "L Bruce",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "L Bruce",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "L Bruce",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "L Bruce",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "L Bruce",
+              "non_striker": "Mohammed Qasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "L Bruce",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Mohammed Qasim",
+              "bowler": "L Bruce",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammed Qasim",
+                  "fielders": [
+                    {
+                      "name": "PA Raikes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "L Bruce",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "L Bruce",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "M Whelan",
+              "extras": {
+                "byes": 3
+              },
+              "non_striker": "Flynn Zahra",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "M Whelan",
+              "non_striker": "Jaspal Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Jaspal Singh",
+              "bowler": "S Bodha",
+              "non_striker": "Flynn Zahra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Jaspal Singh",
+                  "fielders": [
+                    {
+                      "name": "C Pyle"
+                    },
+                    {
+                      "name": "IDM Latin"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Bodha",
+              "non_striker": "Flynn Zahra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Zeeshan Khan",
+              "bowler": "S Bodha",
+              "non_striker": "Flynn Zahra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "S Bodha",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "S Bodha",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Flynn Zahra",
+              "bowler": "S Bodha",
+              "non_striker": "Zeeshan Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Gibraltar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PA Raikes",
+              "bowler": "Mehboob Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Mehboob Ali",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PA Raikes",
+              "bowler": "Ajin Soman",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Ajin Soman",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Ajin Soman",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Ajin Soman",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mehboob Ali",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Ajin Soman",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Bruce",
+              "bowler": "Imran Ameer",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Imran Ameer",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Imran Ameer",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Imran Ameer",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Imran Ameer",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Imran Ameer",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Bruce",
+              "bowler": "Mohammed Qasim",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bruce",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "L Bruce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Bruce",
+              "bowler": "P Pushparajan",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Bruce",
+                  "fielders": [
+                    {
+                      "name": "Mohammed Qasim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "P Pushparajan",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "P Pushparajan",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "PA Raikes",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "PA Raikes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Raikes",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PA Raikes",
+                  "fielders": [
+                    {
+                      "name": "SB Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "P Pushparajan",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "P Pushparajan",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "P Pushparajan",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "P Pushparajan",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "C Pyle",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "P Pushparajan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "P Pushparajan",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "P Pushparajan",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Mohammed Qasim",
+              "non_striker": "C Pyle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "P Pushparajan",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "C Pyle",
+              "bowler": "Imran Ameer",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Pyle",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Pyle",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Imran Ameer",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Imran Ameer",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Imran Ameer",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Imran Ameer",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Jaswinder Singh",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "IDM Latin",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Imran Ameer",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Imran Ameer",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Imran Ameer",
+              "non_striker": "KJ Ferrary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Ferrary",
+              "bowler": "Imran Ameer",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KJ Ferrary",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "K Mirpuri",
+              "bowler": "Imran Ameer",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "IDM Latin",
+              "bowler": "Mehboob Ali",
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Mehboob Ali",
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Mirpuri",
+              "bowler": "Mehboob Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Mirpuri",
+              "bowler": "Mehboob Ali",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Mehboob Ali",
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Mehboob Ali",
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Mirpuri",
+              "bowler": "Mehboob Ali",
+              "non_striker": "IDM Latin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "IDM Latin",
+              "bowler": "Ajin Soman",
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Ajin Soman",
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IDM Latin",
+              "bowler": "Ajin Soman",
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IDM Latin",
+                  "fielders": [
+                    {
+                      "name": "Jaspal Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Ajin Soman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BA Pai",
+              "bowler": "Ajin Soman",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Mirpuri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Mirpuri",
+              "bowler": "Ajin Soman",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Mirpuri",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Whelan",
+              "bowler": "Ajin Soman",
+              "non_striker": "BA Pai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Whelan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 232
+      }
+    }
+  ]
+}

@@ -1,0 +1,3682 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-09-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Walferdange",
+    "dates": [
+      "2025-09-13"
+    ],
+    "event": {
+      "name": "Luxembourg Women's T20I Tri-Series",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2509,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Switzerland",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AM Zepeda"
+    ],
+    "players": {
+      "Austria": [
+        "P Sabu",
+        "H Bhullar",
+        "AM Zepeda",
+        "H Simpson-Parker",
+        "EL Kirkman",
+        "MPM Pathirannehelage",
+        "S Bhardwaj",
+        "Hadia Siddiqui",
+        "P Ganeshan",
+        "Ashi Chopla",
+        "V Poglitsch"
+      ],
+      "Switzerland": [
+        "L Pickard",
+        "Amrita Sasidharan",
+        "Meghna Rajan",
+        "Ananya Srinivasan",
+        "M Holmes",
+        "S Dabholkatr",
+        "D Medagoda",
+        "M Parinitha",
+        "Natalie Clarke",
+        "Naina Saju",
+        "Saranya Kotha"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AM Zepeda": "c9f95a16",
+        "Amrita Sasidharan": "b21446f8",
+        "Ananya Srinivasan": "74d9909b",
+        "Ashi Chopla": "89d6902b",
+        "D Medagoda": "77b49bd9",
+        "EL Kirkman": "ecc585f0",
+        "H Bhullar": "c9ffb93d",
+        "H Simpson-Parker": "59b0a7ad",
+        "Hadia Siddiqui": "14bc5d2d",
+        "L Pickard": "bfe58c8a",
+        "M Holmes": "ba69926f",
+        "M Parinitha": "28615668",
+        "MPM Pathirannehelage": "0c142594",
+        "Meghna Rajan": "97ae78b7",
+        "Naina Saju": "756989cf",
+        "Natalie Clarke": "739ed6df",
+        "P Ganeshan": "3829c5ea",
+        "P Sabu": "a38da707",
+        "S Bhardwaj": "83e9173e",
+        "S Dabholkatr": "280dc48c",
+        "Saranya Kotha": "d27caa9c",
+        "V Poglitsch": "e7351fbd"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Austria",
+      "Switzerland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Austria"
+    },
+    "venue": "Pierre Werner Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "P Sabu",
+              "bowler": "M Parinitha",
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Sabu",
+              "bowler": "M Parinitha",
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Sabu",
+                  "fielders": [
+                    {
+                      "name": "Ananya Srinivasan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "S Dabholkatr",
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "S Dabholkatr",
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "S Dabholkatr",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "S Dabholkatr",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "S Dabholkatr",
+              "non_striker": "H Bhullar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "H Bhullar",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Bhullar",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Bhullar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Meghna Rajan",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Meghna Rajan",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Meghna Rajan",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Meghna Rajan",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Meghna Rajan",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Meghna Rajan",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Meghna Rajan",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Meghna Rajan",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "D Medagoda",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "non_striker": "H Simpson-Parker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "H Simpson-Parker",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Simpson-Parker",
+                  "fielders": [
+                    {
+                      "name": "M Holmes"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "M Parinitha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Parinitha",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "M Parinitha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "Naina Saju",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "Naina Saju",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "EL Kirkman",
+              "bowler": "M Holmes",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "M Holmes",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "M Holmes",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Zepeda",
+              "bowler": "S Dabholkatr",
+              "non_striker": "EL Kirkman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Kirkman",
+              "bowler": "S Dabholkatr",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              },
+              "wickets": [
+                {
+                  "player_out": "EL Kirkman",
+                  "kind": "obstructing the field"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AM Zepeda",
+              "bowler": "D Medagoda",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Zepeda",
+                  "fielders": [
+                    {
+                      "name": "Meghna Rajan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Bhardwaj",
+              "bowler": "D Medagoda",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bhardwaj",
+              "bowler": "D Medagoda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bhardwaj",
+              "bowler": "D Medagoda",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Bhardwaj",
+              "bowler": "D Medagoda",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Bhardwaj",
+              "bowler": "D Medagoda",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPM Pathirannehelage",
+              "bowler": "D Medagoda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPM Pathirannehelage",
+              "bowler": "D Medagoda",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Bhardwaj",
+              "bowler": "Meghna Rajan",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPM Pathirannehelage",
+              "bowler": "Meghna Rajan",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MPM Pathirannehelage",
+              "bowler": "Meghna Rajan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPM Pathirannehelage",
+              "bowler": "Meghna Rajan",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Bhardwaj",
+              "bowler": "Meghna Rajan",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPM Pathirannehelage",
+              "bowler": "Meghna Rajan",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPM Pathirannehelage",
+                  "fielders": [
+                    {
+                      "name": "Meghna Rajan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Hadia Siddiqui",
+              "bowler": "Meghna Rajan",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Switzerland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Pickard",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Pickard",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Pickard",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Pickard",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "L Pickard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "L Pickard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Pickard",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "L Pickard",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "L Pickard",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Pickard",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Pickard",
+                  "fielders": [
+                    {
+                      "name": "P Sabu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "V Poglitsch",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "V Poglitsch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "V Poglitsch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "V Poglitsch",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "V Poglitsch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "V Poglitsch",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "V Poglitsch",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "V Poglitsch",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "V Poglitsch",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "V Poglitsch",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "V Poglitsch",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Hadia Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Hadia Siddiqui",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Hadia Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Hadia Siddiqui",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "AM Zepeda",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "P Sabu",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "Amrita Sasidharan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amrita Sasidharan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amrita Sasidharan",
+                  "fielders": [
+                    {
+                      "name": "AM Zepeda"
+                    },
+                    {
+                      "name": "EL Kirkman"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Ananya Srinivasan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ananya Srinivasan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ananya Srinivasan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Ananya Srinivasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ananya Srinivasan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ananya Srinivasan",
+                  "fielders": [
+                    {
+                      "name": "H Bhullar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Holmes",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Holmes",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Holmes",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Holmes",
+              "bowler": "Ashi Chopla",
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "M Holmes",
+              "bowler": "P Sabu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Meghna Rajan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Meghna Rajan",
+              "bowler": "P Sabu",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Meghna Rajan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Dabholkatr",
+              "bowler": "P Sabu",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Holmes",
+              "bowler": "P Sabu",
+              "non_striker": "S Dabholkatr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Dabholkatr",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dabholkatr",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dabholkatr",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dabholkatr",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dabholkatr",
+              "bowler": "Ashi Chopla",
+              "non_striker": "M Holmes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 146
+      }
+    }
+  ]
+}

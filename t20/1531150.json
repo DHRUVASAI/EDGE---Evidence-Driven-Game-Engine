@@ -1,0 +1,1496 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2026-04-18"
+    ],
+    "event": {
+      "name": "ICC Women's T20I Challenge Trophy",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2725,
+    "officials": {
+      "match_referees": [
+        "J Chibhabha"
+      ],
+      "reserve_umpires": [
+        "D Odhiambo"
+      ],
+      "umpires": [
+        "F Mutizwa",
+        "VR Angara"
+      ]
+    },
+    "outcome": {
+      "winner": "Italy",
+      "by": {
+        "runs": 16
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "A Kontopirakis"
+    ],
+    "players": {
+      "Italy": [
+        "K Peddrick",
+        "A Kontopirakis",
+        "Ilenia Sims",
+        "M Rathnayake",
+        "EL Bartram",
+        "S Kanankege",
+        "C Mahamalage",
+        "ECB Moore",
+        "D Nanayakkara",
+        "Amaya Rajapaksha",
+        "S Toffoletto"
+      ],
+      "Rwanda": [
+        "G Ishimwe",
+        "F Utagushimaninde",
+        "A Ikuzwe",
+        "C Uwase",
+        "M Uwase",
+        "H Ishimwe",
+        "MD Bimenyimana",
+        "S Niyomuhoza",
+        "Rosine Irera",
+        "R Shimwamana",
+        "R Uwimana"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ikuzwe": "6762a445",
+        "A Kontopirakis": "4f05f64e",
+        "Amaya Rajapaksha": "9b52731d",
+        "C Mahamalage": "3250b7db",
+        "C Uwase": "808bb510",
+        "D Nanayakkara": "dbf22922",
+        "D Odhiambo": "45994517",
+        "ECB Moore": "d0ff93a9",
+        "EL Bartram": "5fa7f030",
+        "F Mutizwa": "d3e83eef",
+        "F Utagushimaninde": "b973a7ee",
+        "G Ishimwe": "b5ae57ee",
+        "H Ishimwe": "ffa296f7",
+        "Ilenia Sims": "03c98aa6",
+        "J Chibhabha": "4c5c47a4",
+        "K Peddrick": "a031b75e",
+        "M Rathnayake": "a969dc4c",
+        "M Uwase": "7d6ce83f",
+        "MD Bimenyimana": "c1a0cebe",
+        "R Shimwamana": "03fb10bd",
+        "R Uwimana": "d8c37884",
+        "Rosine Irera": "b84718fd",
+        "S Kanankege": "01815edc",
+        "S Niyomuhoza": "a5424013",
+        "S Toffoletto": "9e498eac",
+        "VR Angara": "5b7b706f"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Italy",
+      "Rwanda"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Rwanda"
+    },
+    "venue": "Gahanga International Cricket Stadium, Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Italy",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "Rosine Irera",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "Rosine Irera",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "Rosine Irera",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Uwimana",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "R Uwimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "R Uwimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Uwimana",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Uwimana",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Uwimana",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "Rosine Irera",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "Rosine Irera",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "Rosine Irera",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Uwimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Uwimana",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "R Uwimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Peddrick",
+              "bowler": "R Uwimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Peddrick",
+                  "fielders": [
+                    {
+                      "name": "G Ishimwe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "R Uwimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "R Uwimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "R Uwimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "A Ikuzwe",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "A Ikuzwe",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "A Ikuzwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "MD Bimenyimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "H Ishimwe",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "H Ishimwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "H Ishimwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "H Ishimwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "H Ishimwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "H Ishimwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "H Ishimwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "R Shimwamana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Shimwamana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Shimwamana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Shimwamana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "R Shimwamana",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "R Shimwamana",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "H Ishimwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "H Ishimwe",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "H Ishimwe",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "H Ishimwe",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Kontopirakis",
+              "bowler": "H Ishimwe",
+              "non_striker": "Ilenia Sims",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ilenia Sims",
+              "bowler": "H Ishimwe",
+              "non_striker": "A Kontopirakis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Rwanda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "G Ishimwe",
+              "bowler": "C Mahamalage",
+              "non_striker": "F Utagushimaninde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ishimwe",
+                  "fielders": [
+                    {
+                      "name": "A Kontopirakis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "C Mahamalage",
+              "non_striker": "F Utagushimaninde",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "C Mahamalage",
+              "non_striker": "F Utagushimaninde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Utagushimaninde",
+              "bowler": "C Mahamalage",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "F Utagushimaninde",
+              "bowler": "C Mahamalage",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Utagushimaninde",
+              "bowler": "C Mahamalage",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Utagushimaninde",
+                  "fielders": [
+                    {
+                      "name": "A Kontopirakis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "S Kanankege",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "S Kanankege",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "S Kanankege",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "S Kanankege",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "S Kanankege",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "S Kanankege",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "S Kanankege",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "C Mahamalage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "C Mahamalage",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "C Uwase",
+              "bowler": "Ilenia Sims",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "Ilenia Sims",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "Ilenia Sims",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Ikuzwe",
+                  "fielders": [
+                    {
+                      "name": "K Peddrick"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "Ilenia Sims",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "Ilenia Sims",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "Ilenia Sims",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "Ilenia Sims",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "C Uwase",
+              "bowler": "D Nanayakkara",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "D Nanayakkara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "D Nanayakkara",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "D Nanayakkara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "D Nanayakkara",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "D Nanayakkara",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "D Nanayakkara",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "D Nanayakkara",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Uwase",
+              "bowler": "Ilenia Sims",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Uwase",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "Ilenia Sims",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "Ilenia Sims",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "Ilenia Sims",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "Ilenia Sims",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "Ilenia Sims",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "H Ishimwe",
+              "bowler": "K Peddrick",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "K Peddrick",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "K Peddrick",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "K Peddrick",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "K Peddrick",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "K Peddrick",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 7,
+        "runs": 67
+      }
+    }
+  ]
+}

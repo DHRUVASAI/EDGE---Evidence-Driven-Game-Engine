@@ -1,0 +1,3131 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dublin",
+    "dates": [
+      "2026-05-29"
+    ],
+    "event": {
+      "name": "Ireland Tri-Nation Women's T20I Series",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2786,
+    "officials": {
+      "match_referees": [
+        "G McCrea"
+      ],
+      "reserve_umpires": [
+        "Jonathan Kennedy"
+      ],
+      "umpires": [
+        "G Morrisey",
+        "GN Brolly"
+      ]
+    },
+    "outcome": {
+      "winner": "West Indies",
+      "by": {
+        "runs": 25
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "CA Henry"
+    ],
+    "players": {
+      "West Indies": [
+        "HK Matthews",
+        "DJS Dottin",
+        "Q Joseph",
+        "SR Taylor",
+        "JKC Claxton",
+        "CA Henry",
+        "J Glasgow",
+        "S Hector",
+        "M Mangru",
+        "ASS Fletcher",
+        "A Munisar"
+      ],
+      "Pakistan": [
+        "Muneeba Ali",
+        "Gull Feroza",
+        "Saira Jabeen",
+        "Ayesha Zafar",
+        "Rameen Shamim",
+        "Iram Javed",
+        "Aliya Riaz",
+        "Fatima Sana",
+        "Diana Baig",
+        "Nashra Sandhu",
+        "Sadia Iqbal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Munisar": "a811cb83",
+        "ASS Fletcher": "42d9dd09",
+        "Aliya Riaz": "2904b4b6",
+        "Ayesha Zafar": "e15f4fa4",
+        "CA Henry": "75820733",
+        "DJS Dottin": "53bee17f",
+        "Diana Baig": "a51e6c6e",
+        "Fatima Sana": "ea9c54de",
+        "G McCrea": "46f4a901",
+        "G Morrisey": "f442110f",
+        "GN Brolly": "b7e4df9e",
+        "Gull Feroza": "9ff1e91e",
+        "HK Matthews": "d32cf49a",
+        "Iram Javed": "dc596fac",
+        "J Glasgow": "a2632c7c",
+        "JKC Claxton": "e22f8ec1",
+        "Jonathan Kennedy": "f7ad4494",
+        "M Mangru": "b9fec7a5",
+        "Muneeba Ali": "86fdf668",
+        "Nashra Sandhu": "c981d3c2",
+        "Q Joseph": "d6164dc0",
+        "Rameen Shamim": "0b78b7c1",
+        "S Hector": "3faa312e",
+        "SR Taylor": "92cf79a8",
+        "Sadia Iqbal": "53bb50f0",
+        "Saira Jabeen": "e4ff6a62"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "West Indies"
+    },
+    "venue": "Castle Avenue, Dublin"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "Fatima Sana",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Fatima Sana",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Fatima Sana",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Fatima Sana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Fatima Sana",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Fatima Sana",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Fatima Sana",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Diana Baig",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Diana Baig",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Diana Baig",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Diana Baig",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Diana Baig",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Diana Baig",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Fatima Sana",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Fatima Sana",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Fatima Sana",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Fatima Sana",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Fatima Sana",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Fatima Sana",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Diana Baig",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Diana Baig",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Diana Baig",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Diana Baig",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Diana Baig",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "Diana Baig",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HK Matthews",
+                  "fielders": [
+                    {
+                      "name": "Saira Jabeen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Q Joseph",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJS Dottin",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "Rameen Shamim",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Q Joseph",
+                  "fielders": [
+                    {
+                      "name": "Saira Jabeen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "Diana Baig",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Diana Baig",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Diana Baig",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Diana Baig",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Diana Baig",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Diana Baig",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Rameen Shamim",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SR Taylor",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "Rameen Shamim",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JKC Claxton",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Rameen Shamim",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Rameen Shamim",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Rameen Shamim",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Rameen Shamim",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CA Henry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Nashra Sandhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CA Henry",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CA Henry",
+              "bowler": "Fatima Sana",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Fatima Sana",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Fatima Sana",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "J Glasgow",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Fatima Sana",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "J Glasgow",
+              "bowler": "Diana Baig",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Diana Baig",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "Diana Baig",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Diana Baig",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "J Glasgow",
+                  "fielders": [
+                    {
+                      "name": "Fatima Sana"
+                    },
+                    {
+                      "name": "Diana Baig"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Diana Baig",
+              "non_striker": "S Hector",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Diana Baig",
+              "non_striker": "S Hector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "Diana Baig",
+              "non_striker": "S Hector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Muneeba Ali",
+              "bowler": "S Hector",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gull Feroza",
+              "bowler": "S Hector",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gull Feroza",
+              "bowler": "S Hector",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gull Feroza",
+              "bowler": "S Hector",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Gull Feroza",
+              "bowler": "S Hector",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gull Feroza",
+              "bowler": "S Hector",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Gull Feroza",
+              "bowler": "S Hector",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gull Feroza",
+                  "fielders": [
+                    {
+                      "name": "M Mangru"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Muneeba Ali",
+              "bowler": "CA Henry",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "CA Henry",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "CA Henry",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "CA Henry",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muneeba Ali",
+              "bowler": "CA Henry",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muneeba Ali",
+              "bowler": "CA Henry",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "CA Henry",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muneeba Ali",
+              "bowler": "CA Henry",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muneeba Ali",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "S Hector",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "S Hector",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "S Hector",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "S Hector",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "S Hector",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "S Hector",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "S Hector",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "CA Henry",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "CA Henry",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "CA Henry",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "CA Henry",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "CA Henry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "CA Henry",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ayesha Zafar",
+                  "fielders": [
+                    {
+                      "name": "JKC Claxton"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "CA Henry",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "JKC Claxton",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "JKC Claxton",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "JKC Claxton",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "JKC Claxton",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "JKC Claxton",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "JKC Claxton",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "A Munisar",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "A Munisar",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "A Munisar",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "A Munisar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "A Munisar",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "A Munisar",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "A Munisar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saira Jabeen",
+              "bowler": "A Munisar",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saira Jabeen",
+                  "fielders": [
+                    {
+                      "name": "Q Joseph"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "HK Matthews",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "HK Matthews",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "HK Matthews",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "HK Matthews",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "HK Matthews",
+              "non_striker": "Rameen Shamim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Rameen Shamim",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Rameen Shamim",
+                  "fielders": [
+                    {
+                      "name": "J Glasgow"
+                    },
+                    {
+                      "name": "M Mangru"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "ASS Fletcher",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "DJS Dottin",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "DJS Dottin",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "DJS Dottin",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "DJS Dottin",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "Q Joseph",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "HK Matthews",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "HK Matthews",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "HK Matthews",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "HK Matthews",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Iram Javed",
+                  "fielders": [
+                    {
+                      "name": "JKC Claxton"
+                    },
+                    {
+                      "name": "M Mangru"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "HK Matthews",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Q Joseph",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "Q Joseph",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "Q Joseph",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "DJS Dottin",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "non_striker": "Aliya Riaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "JKC Claxton",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aliya Riaz",
+              "bowler": "JKC Claxton",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aliya Riaz",
+                  "fielders": [
+                    {
+                      "name": "M Mangru"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "JKC Claxton",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "JKC Claxton",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Fatima Sana",
+              "bowler": "A Munisar",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "A Munisar",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "A Munisar",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "A Munisar",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "A Munisar",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "A Munisar",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "JKC Claxton",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "JKC Claxton",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Diana Baig",
+              "bowler": "S Hector",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "S Hector",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fatima Sana",
+              "bowler": "S Hector",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fatima Sana",
+                  "fielders": [
+                    {
+                      "name": "DJS Dottin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "S Hector",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "S Hector",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "S Hector",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "S Hector",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 200
+      }
+    }
+  ]
+}

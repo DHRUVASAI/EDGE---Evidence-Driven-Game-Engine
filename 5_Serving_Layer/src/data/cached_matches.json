@@ -1,0 +1,101 @@
+{
+  "source": "live",
+  "showingDate": "today",
+  "liveCount": 1,
+  "matches": [
+    {
+      "id": 1,
+      "matchId": "57703e5b-6187-4ea9-829a-bd202036bb1a",
+      "name": "India Women U19 vs Sri Lanka Women U19, 3rd unofficial ODI, Sri Lanka Women U19 tour of India 2026",
+      "gender": "women",
+      "isLive": false,
+      "isEnded": true,
+      "isUpcoming": false,
+      "matchType": "INT'L",
+      "dateStr": "6 Jul, 08:30 am IST",
+      "teams": {
+        "t1": "IND W-U19",
+        "t1Name": "India Women U19",
+        "t1Logo": "https://g.cricapi.com/iapi/3831-638101641377822973.webp?w=48",
+        "t1IsImage": true,
+        "t2": "SLW-U19",
+        "t2Name": "Sri Lanka Women U19",
+        "t2Logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=48",
+        "t2IsImage": true
+      },
+      "score1": "159/10 (48.5 Ov)",
+      "score2": "161/2 (18.2 Ov)",
+      "overs": "18.2 Ov",
+      "status": "RESULT: India Women U19 won by 8 wkts",
+      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
+      "pitch": "Match completed. Final scorecard available.",
+      "winProb1": 19,
+      "winProb2": 81,
+      "liveBatsmen": [
+        {
+          "name": "–",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "sr": 0
+        }
+      ],
+      "liveBowler": {
+        "name": "–",
+        "overs": "0.0",
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "econ": 0
+      }
+    },
+    {
+      "id": 2,
+      "matchId": "51861aa2-cf08-4fda-909b-83deac4572cc",
+      "name": "Zimbabwe vs Bangladesh, 1st ODI, Bangladesh tour of Zimbabwe, 2026",
+      "gender": "men",
+      "isLive": true,
+      "isEnded": false,
+      "isUpcoming": false,
+      "matchType": "INT'L",
+      "dateStr": "6 Jul, 07:15 am IST",
+      "teams": {
+        "t1": "BAN",
+        "t1Name": "Bangladesh",
+        "t1Logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48",
+        "t1IsImage": true,
+        "t2": "ZIM",
+        "t2Name": "Zimbabwe",
+        "t2Logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=48",
+        "t2IsImage": true
+      },
+      "score1": "141/10 (36.4 Ov)",
+      "score2": "18/3 (4.3 Ov)",
+      "overs": "4.3 Ov",
+      "status": "LIVE • Bangladesh need 124 runs",
+      "venue": "Harare Sports Club, Harare",
+      "pitch": "Live match data powered by CricAPI. Conditions updating in real-time.",
+      "winProb1": 91,
+      "winProb2": 9,
+      "liveBatsmen": [
+        {
+          "name": "–",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "sr": 0
+        }
+      ],
+      "liveBowler": {
+        "name": "–",
+        "overs": "0.0",
+        "maidens": 0,
+        "runs": 0,
+        "wickets": 0,
+        "econ": 0
+      }
+    }
+  ]
+}

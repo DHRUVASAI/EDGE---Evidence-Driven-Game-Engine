@@ -1,0 +1,2925 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-06-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2026-06-05"
+    ],
+    "event": {
+      "name": "Asian Games Men's Qualifier",
+      "match_number": 9,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3936,
+    "officials": {
+      "match_referees": [
+        "T Senthil Kumar"
+      ],
+      "reserve_umpires": [
+        "A Natarajan"
+      ],
+      "umpires": [
+        "N Sivan",
+        "U Dorji"
+      ]
+    },
+    "outcome": {
+      "winner": "Hong Kong",
+      "by": {
+        "runs": 154
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Anshuman Rath"
+    ],
+    "players": {
+      "Hong Kong": [
+        "Nizakat Khan",
+        "Anshuman Rath",
+        "Babar Hayat",
+        "Yasim Murtaza",
+        "Ehsan Khan",
+        "A Shukla",
+        "Shahid Wasif",
+        "Mohammad Ghazanfar",
+        "Nasrulla Rana",
+        "S Mathur",
+        "Hassan Khan Mohammad"
+      ],
+      "Oman": [
+        "Mohammed Al Balushi",
+        "Shuaib Al Balushi",
+        "Muzaffar Shiralkar",
+        "Zubair Al Balushi",
+        "Issa Al Balushi",
+        "Munthir Al Balushi",
+        "Sufyan Mehmood",
+        "Nawed Al Balushi",
+        "Wasim Al Balushi",
+        "Faris Al Balushi",
+        "Sameer Othman"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Natarajan": "a2b73ae0",
+        "A Shukla": "a1e80d06",
+        "Anshuman Rath": "552b228c",
+        "Babar Hayat": "fbb657bb",
+        "Ehsan Khan": "d3851cd8",
+        "Faris Al Balushi": "cd336877",
+        "Hafeez Khan": "aa45ea62",
+        "Hassan Khan Mohammad": "a46de6e0",
+        "Issa Al Balushi": "91cdf3ae",
+        "Mohammad Ghazanfar": "00321fff",
+        "Mohammed Al Balushi": "967ee086",
+        "Munthir Al Balushi": "a00a53dd",
+        "Muzaffar Shiralkar": "d9d08ea3",
+        "N Sivan": "8f4a0102",
+        "Nasrulla Rana": "9ffb7550",
+        "Nawed Al Balushi": "1b6aafc8",
+        "Nizakat Khan": "e3eb9e46",
+        "S Mathur": "11378dda",
+        "Sameer Othman": "874c2cb3",
+        "Shahid Wasif": "2cc08c3c",
+        "Shuaib Al Balushi": "87968c84",
+        "Sufyan Mehmood": "bf172ae6",
+        "T Senthil Kumar": "961ddfac",
+        "U Dorji": "12bba2d4",
+        "Wasim Al Balushi": "385bb7ff",
+        "Yasim Murtaza": "c9d05f1a",
+        "Zubair Al Balushi": "9d5440c0"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Hong Kong",
+      "Oman"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Oman"
+    },
+    "venue": "Singapore National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Hong Kong",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Zubair Al Balushi",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Shuaib Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Zubair Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sameer Othman",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sameer Othman",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sameer Othman",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sameer Othman",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Faris Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Faris Al Balushi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Faris Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Faris Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Faris Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Faris Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Faris Al Balushi",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sameer Othman",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sameer Othman",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nizakat Khan",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nizakat Khan",
+                  "fielders": [
+                    {
+                      "name": "Wasim Al Balushi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Nawed Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sufyan Mehmood",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Wasim Al Balushi",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anshuman Rath",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Babar Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Babar Hayat",
+              "bowler": "Sufyan Mehmood",
+              "non_striker": "Anshuman Rath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Oman",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Shuaib Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Shuaib Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Shuaib Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Shuaib Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Shuaib Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Shuaib Al Balushi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Shuaib Al Balushi",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shuaib Al Balushi",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shuaib Al Balushi",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shuaib Al Balushi",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shuaib Al Balushi",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shuaib Al Balushi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "A Shukla",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "A Shukla",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "A Shukla",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Hassan Khan Mohammad",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "A Shukla",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "A Shukla",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "A Shukla",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Mohammed Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammed Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammed Al Balushi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Muzaffar Shiralkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muzaffar Shiralkar",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muzaffar Shiralkar",
+                  "fielders": [
+                    {
+                      "name": "Hafeez Khan",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Issa Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Issa Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Issa Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Issa Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Issa Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Issa Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Nasrulla Rana",
+              "non_striker": "Issa Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Issa Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Issa Al Balushi",
+                  "fielders": [
+                    {
+                      "name": "Hafeez Khan",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Munthir Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Munthir Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Munthir Al Balushi",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Zubair Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zubair Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zubair Al Balushi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Nawed Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nawed Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nawed Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nawed Al Balushi",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Wasim Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wasim Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wasim Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Wasim Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Wasim Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wasim Al Balushi",
+              "bowler": "Mohammad Ghazanfar",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Wasim Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wasim Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wasim Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wasim Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wasim Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wasim Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Wasim Al Balushi",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Faris Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Faris Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Yasim Murtaza",
+              "non_striker": "Faris Al Balushi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Ehsan Khan",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Babar Hayat",
+              "non_striker": "Faris Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Babar Hayat",
+              "non_striker": "Faris Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Babar Hayat",
+              "non_striker": "Faris Al Balushi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sufyan Mehmood",
+              "bowler": "Babar Hayat",
+              "non_striker": "Faris Al Balushi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Babar Hayat",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faris Al Balushi",
+              "bowler": "Babar Hayat",
+              "non_striker": "Sufyan Mehmood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 288
+      }
+    }
+  ]
+}

@@ -1,0 +1,2150 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-11",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nisshin",
+    "dates": [
+      "2026-05-10"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup East Asia-Pacific Qualifier",
+      "match_number": 8,
+      "group": "1"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3856,
+    "officials": {
+      "match_referees": [
+        "Kent Hannam"
+      ],
+      "reserve_umpires": [
+        "Tabarak Dar"
+      ],
+      "umpires": [
+        "DM Koch",
+        "Suresh Subramanian"
+      ]
+    },
+    "outcome": {
+      "winner": "Japan",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Esam Rahman"
+    ],
+    "players": {
+      "Fiji": [
+        "N Acawei",
+        "V Veiqravi",
+        "SM Tupou",
+        "J Baleicikoibia",
+        "M Beitaki",
+        "T Jikoibure",
+        "PV Vuniwaqa",
+        "K Tayaga",
+        "P Dakainivanua",
+        "S Tabuisulu",
+        "VM Waqavakatoga"
+      ],
+      "Japan": [
+        "Abhishek Anand",
+        "R Sakurano-Thomas",
+        "Esam Rahman",
+        "W Miyauchi",
+        "B Ito-Davis",
+        "K Kadowaki-Fleming",
+        "I Takahashi",
+        "S Ravichandran",
+        "M Taniyama",
+        "S Sugaya-Slater",
+        "Abdul Samad"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdul Samad": "21dbacff",
+        "Abhishek Anand": "2c12bc65",
+        "B Ito-Davis": "96275259",
+        "DM Koch": "6d10c034",
+        "Esam Rahman": "5ea3a7c6",
+        "I Takahashi": "c988daa1",
+        "J Baleicikoibia": "30a307d3",
+        "K Kadowaki-Fleming": "33290a80",
+        "K Tayaga": "ae677077",
+        "Kent Hannam": "8cc171e7",
+        "M Beitaki": "3d29b5fc",
+        "M Taniyama": "cbd91942",
+        "N Acawei": "93c8799e",
+        "P Dakainivanua": "5485c999",
+        "PV Vuniwaqa": "653a7fa8",
+        "R Sakurano-Thomas": "dd14abf5",
+        "S Ravichandran": "9f2be73d",
+        "S Sugaya-Slater": "2d02f041",
+        "S Tabuisulu": "62708dce",
+        "SM Tupou": "a02b9f81",
+        "Suresh Subramanian": "4e869e23",
+        "T Jikoibure": "447760ed",
+        "Tabarak Dar": "2259c12d",
+        "V Veiqravi": "38085d31",
+        "VM Waqavakatoga": "b2e79789",
+        "W Miyauchi": "fef40097"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Fiji",
+      "Japan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Fiji"
+    },
+    "venue": "Korogi Sports Park, Nisshin"
+  },
+  "innings": [
+    {
+      "team": "Fiji",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "N Acawei",
+              "bowler": "Abdul Samad",
+              "non_striker": "V Veiqravi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Veiqravi",
+                  "fielders": [
+                    {
+                      "name": "W Miyauchi"
+                    },
+                    {
+                      "name": "I Takahashi"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "Abdul Samad",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "Abdul Samad",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "Abdul Samad",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "Abdul Samad",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "Abdul Samad",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "N Acawei",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "N Acawei",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Acawei",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Acawei",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "Abdul Samad",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Tupou",
+              "bowler": "Abdul Samad",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abdul Samad",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abdul Samad",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abdul Samad",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abdul Samad",
+              "non_striker": "SM Tupou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SM Tupou",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Tupou",
+                  "fielders": [
+                    {
+                      "name": "W Miyauchi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "Esam Rahman",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "Esam Rahman",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "Esam Rahman",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Beitaki",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "Esam Rahman",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "I Takahashi",
+              "non_striker": "M Beitaki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Beitaki",
+              "bowler": "I Takahashi",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Beitaki",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "T Jikoibure",
+              "bowler": "I Takahashi",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Jikoibure",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "I Takahashi",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "I Takahashi",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "I Takahashi",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "Abhishek Anand",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "Abhishek Anand",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "Abhishek Anand",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "M Taniyama",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "M Taniyama",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "M Taniyama",
+              "non_striker": "PV Vuniwaqa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PV Vuniwaqa",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PV Vuniwaqa",
+                  "fielders": [
+                    {
+                      "name": "Abdul Samad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Abhishek Anand",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "M Taniyama",
+              "non_striker": "K Tayaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "M Taniyama",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Tayaga",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Tayaga",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "M Taniyama",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "M Taniyama",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "M Taniyama",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "M Taniyama",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "M Taniyama",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Ravichandran",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "S Ravichandran",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Ravichandran",
+              "non_striker": "P Dakainivanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Dakainivanua",
+              "bowler": "S Ravichandran",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Dakainivanua",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Tabuisulu",
+              "bowler": "S Ravichandran",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Ravichandran",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Tabuisulu",
+              "bowler": "R Sakurano-Thomas",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "S Tabuisulu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Tabuisulu",
+                  "fielders": [
+                    {
+                      "name": "R Sakurano-Thomas"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "R Sakurano-Thomas",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "Esam Rahman",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "Esam Rahman",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "Esam Rahman",
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "Esam Rahman",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "Esam Rahman",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "S Sugaya-Slater",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VM Waqavakatoga",
+              "bowler": "S Sugaya-Slater",
+              "non_striker": "J Baleicikoibia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "S Sugaya-Slater",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "I Takahashi",
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "I Takahashi",
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "I Takahashi",
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Baleicikoibia",
+              "bowler": "I Takahashi",
+              "non_striker": "VM Waqavakatoga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Baleicikoibia",
+                  "fielders": [
+                    {
+                      "name": "Abhishek Anand"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Japan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Abhishek Anand",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhishek Anand",
+                  "fielders": [
+                    {
+                      "name": "T Jikoibure"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "S Tabuisulu",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "S Tabuisulu",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "VM Waqavakatoga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "VM Waqavakatoga",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "S Tabuisulu",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "S Tabuisulu",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "S Tabuisulu",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Esam Rahman",
+              "bowler": "SM Tupou",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "SM Tupou",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "SM Tupou",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "SM Tupou",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "SM Tupou",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "SM Tupou",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "R Sakurano-Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "R Sakurano-Thomas",
+              "bowler": "SM Tupou",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Sakurano-Thomas",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "W Miyauchi",
+              "bowler": "SM Tupou",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Miyauchi",
+              "bowler": "SM Tupou",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "SM Tupou",
+              "non_striker": "W Miyauchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Miyauchi",
+              "bowler": "SM Tupou",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Esam Rahman",
+              "bowler": "SM Tupou",
+              "non_striker": "W Miyauchi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "W Miyauchi",
+              "bowler": "PV Vuniwaqa",
+              "non_striker": "Esam Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 75
+      }
+    }
+  ]
+}

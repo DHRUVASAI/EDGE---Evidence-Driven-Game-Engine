@@ -1,0 +1,3012 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sano",
+    "dates": [
+      "2026-05-16"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup East Asia-Pacific Qualifier",
+      "match_number": 16
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 3868,
+    "officials": {
+      "match_referees": [
+        "Kent Hannam"
+      ],
+      "reserve_umpires": [
+        "Tabarak Dar"
+      ],
+      "umpires": [
+        "Suresh Subramanian",
+        "WR Knights"
+      ]
+    },
+    "outcome": {
+      "winner": "Vanuatu",
+      "by": {
+        "runs": 1
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "J Rasu"
+    ],
+    "players": {
+      "Vanuatu": [
+        "J Rasu",
+        "C Tommy",
+        "A Mansale",
+        "JP Kaltapau",
+        "N Nipiko",
+        "N Venables",
+        "W Wotu",
+        "PK Matautaava",
+        "TL Cutler",
+        "W Nalisa",
+        "D Wotu"
+      ],
+      "Indonesia": [
+        "S Jegannathan",
+        "S Kharvi",
+        "KN Chaddha",
+        "GA Priandana",
+        "KD Kesuma",
+        "Anjar Tadarus",
+        "DJ Hawoe",
+        "IKEG Artawan",
+        "GD Arta",
+        "AA Rahayu",
+        "F Banunaek"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mansale": "a22b4f3f",
+        "AA Rahayu": "2327fdc7",
+        "Anjar Tadarus": "72275237",
+        "C Tommy": "c6d4cff0",
+        "D Wotu": "9585854d",
+        "DJ Hawoe": "a62f55ba",
+        "F Banunaek": "3c8faed4",
+        "GA Priandana": "2af0e3b1",
+        "GD Arta": "e969e580",
+        "IKEG Artawan": "190957d2",
+        "J Rasu": "1021b6e5",
+        "JP Kaltapau": "d8dccff5",
+        "KD Kesuma": "4b349dc0",
+        "KN Chaddha": "a88e4013",
+        "Kent Hannam": "8cc171e7",
+        "N Nipiko": "c498c510",
+        "N Venables": "6f852c49",
+        "PK Matautaava": "af19aa66",
+        "S Jegannathan": "866e9f3d",
+        "S Kharvi": "41a61623",
+        "Suresh Subramanian": "4e869e23",
+        "TL Cutler": "384fa385",
+        "Tabarak Dar": "2259c12d",
+        "W Nalisa": "673be48f",
+        "W Wotu": "6b25ef46",
+        "WR Knights": "63cbf8d8"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Vanuatu",
+      "Indonesia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Indonesia"
+    },
+    "venue": "Sano International Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Vanuatu",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "F Banunaek",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "F Banunaek",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "C Tommy",
+              "bowler": "S Jegannathan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "S Jegannathan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "F Banunaek",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "F Banunaek",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "DJ Hawoe",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "DJ Hawoe",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "DJ Hawoe",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "DJ Hawoe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "DJ Hawoe",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "DJ Hawoe",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "DJ Hawoe",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Tommy",
+              "bowler": "S Jegannathan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "S Jegannathan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "S Jegannathan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "S Jegannathan",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "C Tommy",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "GD Arta",
+              "non_striker": "C Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Tommy",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Tommy",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "IKEG Artawan",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "IKEG Artawan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "IKEG Artawan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "IKEG Artawan",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "IKEG Artawan",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "IKEG Artawan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "IKEG Artawan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "IKEG Artawan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "IKEG Artawan",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "IKEG Artawan",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "IKEG Artawan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "IKEG Artawan",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "J Rasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Rasu",
+              "bowler": "KN Chaddha",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "KN Chaddha",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Rasu",
+              "bowler": "KN Chaddha",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Rasu",
+                  "fielders": [
+                    {
+                      "name": "GD Arta"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "KN Chaddha",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "GD Arta",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "GD Arta",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "A Mansale",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "KN Chaddha",
+              "non_striker": "A Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mansale",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Mansale",
+                  "fielders": [
+                    {
+                      "name": "Anjar Tadarus"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "IKEG Artawan",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "IKEG Artawan",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "IKEG Artawan",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "IKEG Artawan",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Kaltapau",
+              "bowler": "IKEG Artawan",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "IKEG Artawan",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "KN Chaddha",
+              "non_striker": "JP Kaltapau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JP Kaltapau",
+                  "fielders": [
+                    {
+                      "name": "KD Kesuma"
+                    },
+                    {
+                      "name": "F Banunaek"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "N Venables",
+              "bowler": "KN Chaddha",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Venables",
+              "bowler": "KN Chaddha",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Venables",
+              "bowler": "KN Chaddha",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Venables",
+              "bowler": "KN Chaddha",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Venables",
+                  "fielders": [
+                    {
+                      "name": "IKEG Artawan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Nipiko",
+              "bowler": "IKEG Artawan",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "IKEG Artawan",
+              "non_striker": "W Wotu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "IKEG Artawan",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Wotu",
+              "bowler": "IKEG Artawan",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Wotu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "IKEG Artawan",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "IKEG Artawan",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "PK Matautaava",
+              "bowler": "KN Chaddha",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "KN Chaddha",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "KN Chaddha",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "KN Chaddha",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "KN Chaddha",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "KN Chaddha",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "PK Matautaava",
+              "bowler": "F Banunaek",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "F Banunaek",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "F Banunaek",
+              "non_striker": "N Nipiko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nipiko",
+              "bowler": "F Banunaek",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Nipiko",
+                  "fielders": [
+                    {
+                      "name": "KD Kesuma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "TL Cutler",
+              "bowler": "F Banunaek",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Cutler",
+              "bowler": "F Banunaek",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "PK Matautaava",
+              "bowler": "S Jegannathan",
+              "non_striker": "TL Cutler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "S Jegannathan",
+              "non_striker": "TL Cutler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TL Cutler",
+              "bowler": "S Jegannathan",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TL Cutler",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "W Nalisa",
+              "bowler": "S Jegannathan",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PK Matautaava",
+              "bowler": "S Jegannathan",
+              "non_striker": "W Nalisa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Nalisa",
+              "bowler": "S Jegannathan",
+              "non_striker": "PK Matautaava",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "PK Matautaava",
+                  "fielders": [
+                    {
+                      "name": "S Jegannathan"
+                    },
+                    {
+                      "name": "Anjar Tadarus"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Indonesia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "D Wotu",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "D Wotu",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "D Wotu",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "D Wotu",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "D Wotu",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "D Wotu",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "J Rasu",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kharvi",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Kharvi",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kharvi",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Kharvi",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kharvi",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Kharvi",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Kharvi",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "S Kharvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Kharvi",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Kharvi",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Kharvi",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kharvi",
+                  "fielders": [
+                    {
+                      "name": "W Wotu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "J Rasu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "N Venables",
+              "non_striker": "KN Chaddha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "N Venables",
+              "non_striker": "KN Chaddha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "N Venables",
+              "non_striker": "KN Chaddha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "N Venables",
+              "non_striker": "KN Chaddha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "N Venables",
+              "non_striker": "KN Chaddha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KN Chaddha",
+              "bowler": "W Nalisa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "W Nalisa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "KN Chaddha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "KN Chaddha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KN Chaddha",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "N Venables",
+              "non_striker": "KN Chaddha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KN Chaddha",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KN Chaddha",
+                  "fielders": [
+                    {
+                      "name": "D Wotu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GA Priandana",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GA Priandana",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GA Priandana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "GA Priandana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "GA Priandana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "GA Priandana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "GA Priandana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GA Priandana",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "GA Priandana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GA Priandana",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GA Priandana",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "KD Kesuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Kesuma",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KD Kesuma",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KD Kesuma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "TL Cutler",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "TL Cutler",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "N Venables",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "N Venables",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "W Nalisa",
+              "non_striker": "Anjar Tadarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "W Nalisa",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Anjar Tadarus",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Anjar Tadarus",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Hawoe",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hawoe",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Hawoe",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "IKEG Artawan",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IKEG Artawan",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "N Venables",
+              "non_striker": "IKEG Artawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IKEG Artawan",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IKEG Artawan",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IKEG Artawan",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IKEG Artawan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "N Venables",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "PK Matautaava",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "J Rasu",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "J Rasu",
+              "non_striker": "GD Arta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GD Arta",
+              "bowler": "J Rasu",
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GD Arta",
+                  "fielders": [
+                    {
+                      "name": "W Nalisa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Rahayu",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Jegannathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jegannathan",
+              "bowler": "PK Matautaava",
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Jegannathan",
+                  "fielders": [
+                    {
+                      "name": "C Tommy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "F Banunaek",
+              "bowler": "PK Matautaava",
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Banunaek",
+              "bowler": "PK Matautaava",
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Banunaek",
+              "bowler": "PK Matautaava",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AA Rahayu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 103
+      }
+    }
+  ]
+}

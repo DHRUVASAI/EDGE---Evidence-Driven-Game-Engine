@@ -1,0 +1,2054 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-04-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Guacima",
+    "dates": [
+      "2026-04-26"
+    ],
+    "event": {
+      "name": "Chile Women tour of Costa Rica",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2742,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Costa Rica",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "YP Molina"
+    ],
+    "players": {
+      "Chile": [
+        "Camila Valdes",
+        "IIA Vildosola",
+        "YB Rodriguez",
+        "Sofia Mardones",
+        "Florencia Martinez",
+        "MBT Montero",
+        "Maria Salazar",
+        "Franchesca Moya",
+        "JA Miranda",
+        "Sofia Araya",
+        "NCC Perez"
+      ],
+      "Costa Rica": [
+        "DG Perez",
+        "MPA Miranda",
+        "EFB Estrada",
+        "JC Molina",
+        "AB Martinez",
+        "SB Martinez",
+        "YP Molina",
+        "WM Delgado",
+        "ADP Diaz",
+        "SRE Lara",
+        "APS Sanchez"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB Martinez": "07c15419",
+        "ADP Diaz": "1fc086bc",
+        "APS Sanchez": "e2b2c927",
+        "Camila Valdes": "dfe8ddeb",
+        "DG Perez": "4aff35ac",
+        "EFB Estrada": "4b490566",
+        "Florencia Martinez": "0626d312",
+        "Franchesca Moya": "dd30467d",
+        "IIA Vildosola": "4081b382",
+        "JA Miranda": "8c8a3ac6",
+        "JC Molina": "dff2ffa0",
+        "MBT Montero": "7f3f5e0b",
+        "MPA Miranda": "9f015fdd",
+        "Maria Salazar": "0e4abf0c",
+        "NCC Perez": "4da3f550",
+        "SB Martinez": "a972ca63",
+        "SRE Lara": "2f644e7f",
+        "Sofia Araya": "e4d4c4e0",
+        "Sofia Mardones": "f4e6469b",
+        "TU Montero": "d03845b7",
+        "WM Delgado": "236e88ea",
+        "YB Rodriguez": "779f6c19",
+        "YP Molina": "dca2e79a"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Chile",
+      "Costa Rica"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Costa Rica"
+    },
+    "venue": "Los Reyes Polo Club"
+  },
+  "innings": [
+    {
+      "team": "Chile",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "non_striker": "IIA Vildosola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "non_striker": "IIA Vildosola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "non_striker": "IIA Vildosola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IIA Vildosola",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "non_striker": "IIA Vildosola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "non_striker": "IIA Vildosola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IIA Vildosola",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "non_striker": "IIA Vildosola",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "IIA Vildosola",
+              "bowler": "YP Molina",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IIA Vildosola",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "YB Rodriguez",
+              "bowler": "YP Molina",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YB Rodriguez",
+              "bowler": "YP Molina",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "YP Molina",
+              "non_striker": "YB Rodriguez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YB Rodriguez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "YP Molina",
+              "non_striker": "YB Rodriguez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "YP Molina",
+              "non_striker": "YB Rodriguez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "YP Molina",
+              "non_striker": "YB Rodriguez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "YB Rodriguez",
+              "bowler": "SB Martinez",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YB Rodriguez",
+              "bowler": "SB Martinez",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YB Rodriguez",
+              "bowler": "SB Martinez",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YB Rodriguez",
+              "bowler": "SB Martinez",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YB Rodriguez",
+              "bowler": "SB Martinez",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "SB Martinez",
+              "non_striker": "YB Rodriguez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "YB Rodriguez",
+              "bowler": "YP Molina",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "YB Rodriguez",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sofia Mardones",
+              "bowler": "YP Molina",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Mardones",
+              "bowler": "YP Molina",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Mardones",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sofia Mardones",
+              "bowler": "YP Molina",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Mardones",
+              "bowler": "YP Molina",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Mardones",
+              "bowler": "YP Molina",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sofia Mardones",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Camila Valdes",
+              "bowler": "EFB Estrada",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "EFB Estrada",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "EFB Estrada",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "EFB Estrada",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "EFB Estrada",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "EFB Estrada",
+              "non_striker": "Camila Valdes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Camila Valdes",
+              "bowler": "JC Molina",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Camila Valdes",
+              "bowler": "JC Molina",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Camila Valdes",
+                  "fielders": [
+                    {
+                      "name": "JC Molina"
+                    },
+                    {
+                      "name": "AB Martinez"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MBT Montero",
+              "bowler": "EFB Estrada",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "EFB Estrada",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "EFB Estrada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "EFB Estrada",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "EFB Estrada",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "EFB Estrada",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "EFB Estrada",
+              "non_striker": "Florencia Martinez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Florencia Martinez",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Florencia Martinez",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Maria Salazar",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Maria Salazar",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Maria Salazar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "JC Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "JC Molina",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "ADP Diaz",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "WM Delgado",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "WM Delgado",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "WM Delgado",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "WM Delgado",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "WM Delgado",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "WM Delgado",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "WM Delgado",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "WM Delgado",
+              "non_striker": "MBT Montero",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "WM Delgado",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "WM Delgado",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MBT Montero",
+              "bowler": "WM Delgado",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MBT Montero",
+                  "fielders": [
+                    {
+                      "name": "TU Montero",
+                      "substitute": true
+                    },
+                    {
+                      "name": "WM Delgado"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JA Miranda",
+              "bowler": "SB Martinez",
+              "non_striker": "Franchesca Moya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Franchesca Moya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Franchesca Moya",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "YP Molina",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "YP Molina",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JA Miranda",
+              "bowler": "SB Martinez",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "SB Martinez",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "SB Martinez",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sofia Araya",
+              "bowler": "SB Martinez",
+              "non_striker": "JA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "JA Miranda",
+              "bowler": "YP Molina",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JA Miranda",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "NCC Perez",
+              "bowler": "YP Molina",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NCC Perez",
+              "bowler": "YP Molina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NCC Perez",
+              "bowler": "YP Molina",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NCC Perez",
+              "bowler": "YP Molina",
+              "non_striker": "Sofia Araya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NCC Perez",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Costa Rica",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DG Perez",
+              "bowler": "JA Miranda",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DG Perez",
+              "bowler": "JA Miranda",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DG Perez",
+              "bowler": "JA Miranda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DG Perez",
+              "bowler": "JA Miranda",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DG Perez",
+              "bowler": "JA Miranda",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DG Perez",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "JA Miranda",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "JA Miranda",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "JA Miranda",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Camila Valdes",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Sofia Mardones",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Sofia Mardones",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Sofia Mardones",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Sofia Mardones",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Sofia Mardones",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Sofia Mardones",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Sofia Mardones",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Sofia Mardones",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Sofia Mardones",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Sofia Mardones",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Florencia Martinez",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Florencia Martinez",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Florencia Martinez",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Florencia Martinez",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Florencia Martinez",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Florencia Martinez",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Florencia Martinez",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Florencia Martinez",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MPA Miranda",
+              "bowler": "JA Miranda",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "JA Miranda",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "JA Miranda",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "JA Miranda",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "JA Miranda",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "JA Miranda",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Camila Valdes",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Camila Valdes",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Camila Valdes",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Camila Valdes",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Camila Valdes",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Sofia Mardones",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Sofia Mardones",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EFB Estrada",
+              "bowler": "Sofia Mardones",
+              "non_striker": "MPA Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MPA Miranda",
+              "bowler": "Sofia Mardones",
+              "non_striker": "EFB Estrada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.9,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 47
+      }
+    }
+  ]
+}

@@ -1,0 +1,2448 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-06-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2026-06-09"
+    ],
+    "event": {
+      "name": "Asian Cricket Council Women's Premier Cup",
+      "match_number": 31,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2834,
+    "officials": {
+      "match_referees": [
+        "Shivani Mishra"
+      ],
+      "reserve_umpires": [
+        "Sun Meng Yao"
+      ],
+      "umpires": [
+        "AS Guha",
+        "Nur Hijrah"
+      ]
+    },
+    "outcome": {
+      "winner": "United Arab Emirates",
+      "by": {
+        "runs": 149
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "ER Oza"
+    ],
+    "players": {
+      "United Arab Emirates": [
+        "ER Oza",
+        "Theertha Satish",
+        "Rinitha Rajith",
+        "MP Kulkarni",
+        "L Keny",
+        "S Dharnidharka",
+        "H Hotchandani",
+        "Vaishnave Mahesh",
+        "KC Thompson",
+        "S Kotte",
+        "SHA Sheth"
+      ],
+      "Philippines": [
+        "AR Valdez",
+        "Elyza Wall",
+        "Karri Gullem Keen",
+        "Zoe Isabela Wong",
+        "KK Donovan",
+        "JY Masaya",
+        "R Castillo",
+        "Ma Luz Barcelona",
+        "Kyte Gullem Keen",
+        "JKD Andreano",
+        "SF Sirah"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AR Valdez": "3c3f34b0",
+        "AS Guha": "c21b184d",
+        "ER Oza": "fdc6b34d",
+        "Elyza Wall": "bbb5073b",
+        "H Hotchandani": "f537d39c",
+        "JKD Andreano": "757baa30",
+        "JY Masaya": "44368e16",
+        "KC Thompson": "e381ae69",
+        "KK Donovan": "ef2a7af4",
+        "Karri Gullem Keen": "bb7b014a",
+        "Kyte Gullem Keen": "f3f654c2",
+        "L Keny": "aea89d48",
+        "MP Kulkarni": "418787e5",
+        "Ma Luz Barcelona": "b36c42ac",
+        "Nur Hijrah": "6c068720",
+        "R Castillo": "716ba9ef",
+        "Rinitha Rajith": "36ba7f0b",
+        "S Dharnidharka": "f8b50da3",
+        "S Kotte": "6c8904c8",
+        "SF Sirah": "48bd237f",
+        "SHA Sheth": "2afebf34",
+        "Shivani Mishra": "2982a0c7",
+        "Sun Meng Yao": "84a96566",
+        "Theertha Satish": "ee3dcb3f",
+        "Vaishnave Mahesh": "31c56f40",
+        "Zoe Isabela Wong": "e0460748"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "United Arab Emirates",
+      "Philippines"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Philippines"
+    },
+    "venue": "Bayuemas Oval, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "KK Donovan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "KK Donovan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "KK Donovan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "JKD Andreano",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "JKD Andreano",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "JKD Andreano",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "JKD Andreano",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "R Castillo",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "R Castillo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "R Castillo",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "R Castillo",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "R Castillo",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "R Castillo",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "R Castillo",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Theertha Satish",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Theertha Satish",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "JKD Andreano",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "JKD Andreano",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "JKD Andreano",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Elyza Wall",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Karri Gullem Keen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Elyza Wall",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Karri Gullem Keen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Elyza Wall",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Elyza Wall",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Elyza Wall",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Elyza Wall",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "Elyza Wall",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "KK Donovan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rinitha Rajith",
+              "bowler": "KK Donovan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rinitha Rajith",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MP Kulkarni",
+              "bowler": "KK Donovan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP Kulkarni",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "KK Donovan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "KK Donovan",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Elyza Wall",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ER Oza",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "Elyza Wall",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "Elyza Wall",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "Elyza Wall",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "Elyza Wall",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "Elyza Wall",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Keny",
+              "bowler": "KK Donovan",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "KK Donovan",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "KK Donovan",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "KK Donovan",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dharnidharka",
+              "bowler": "KK Donovan",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Dharnidharka",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "KK Donovan",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Keny",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Kyte Gullem Keen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "Kyte Gullem Keen",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "L Keny",
+              "bowler": "Karri Gullem Keen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Keny",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "H Hotchandani",
+              "bowler": "R Castillo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "R Castillo",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "R Castillo",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "R Castillo",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "R Castillo",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "R Castillo",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "R Castillo",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Philippines",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AR Valdez",
+              "bowler": "SHA Sheth",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "SHA Sheth",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "SHA Sheth",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "SHA Sheth",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "SHA Sheth",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Elyza Wall",
+              "bowler": "SHA Sheth",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Elyza Wall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Elyza Wall",
+              "bowler": "SHA Sheth",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Elyza Wall",
+                  "fielders": [
+                    {
+                      "name": "H Hotchandani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Karri Gullem Keen",
+              "bowler": "SHA Sheth",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karri Gullem Keen",
+              "bowler": "SHA Sheth",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karri Gullem Keen",
+              "bowler": "SHA Sheth",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Karri Gullem Keen",
+              "bowler": "SHA Sheth",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karri Gullem Keen",
+              "bowler": "SHA Sheth",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Kotte",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karri Gullem Keen",
+              "bowler": "S Kotte",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AR Valdez",
+              "bowler": "H Hotchandani",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Karri Gullem Keen",
+              "bowler": "H Hotchandani",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Karri Gullem Keen",
+              "bowler": "H Hotchandani",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karri Gullem Keen",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "H Hotchandani",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Valdez",
+              "bowler": "H Hotchandani",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "H Hotchandani",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AR Valdez",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Valdez",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KK Donovan",
+              "bowler": "H Hotchandani",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "H Hotchandani",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "H Hotchandani",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "H Hotchandani",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "H Hotchandani",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "H Hotchandani",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KK Donovan",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "S Dharnidharka",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "ER Oza",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "ER Oza",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "ER Oza",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "ER Oza",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "ER Oza",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "ER Oza",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KK Donovan",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Donovan",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Donovan",
+                  "fielders": [
+                    {
+                      "name": "KC Thompson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JY Masaya",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JY Masaya",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JY Masaya",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "ER Oza",
+              "non_striker": "JY Masaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "ER Oza",
+              "non_striker": "JY Masaya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JY Masaya",
+                  "fielders": [
+                    {
+                      "name": "SHA Sheth"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "ER Oza",
+              "extras": {
+                "legbyes": 3
+              },
+              "non_striker": "R Castillo",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "R Castillo",
+              "bowler": "ER Oza",
+              "non_striker": "Zoe Isabela Wong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Zoe Isabela Wong",
+              "bowler": "ER Oza",
+              "non_striker": "R Castillo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zoe Isabela Wong",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Ma Luz Barcelona",
+              "bowler": "ER Oza",
+              "non_striker": "R Castillo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ma Luz Barcelona",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "R Castillo",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Castillo",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Castillo",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Castillo",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Castillo",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Castillo",
+                  "fielders": [
+                    {
+                      "name": "H Hotchandani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JKD Andreano",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JKD Andreano",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ER Oza",
+              "non_striker": "SF Sirah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kyte Gullem Keen",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 201
+      }
+    }
+  ]
+}

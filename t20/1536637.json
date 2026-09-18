@@ -1,0 +1,924 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-06-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2026-06-07"
+    ],
+    "event": {
+      "name": "Asian Cricket Council Women's Premier Cup",
+      "match_number": 26,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2829,
+    "officials": {
+      "match_referees": [
+        "VR Nagre"
+      ],
+      "reserve_umpires": [
+        "Afia Amin"
+      ],
+      "umpires": [
+        "Rokeya Sultana",
+        "V Krithika"
+      ]
+    },
+    "outcome": {
+      "winner": "United Arab Emirates",
+      "by": {
+        "runs": 18
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "H Hotchandani"
+    ],
+    "players": {
+      "United Arab Emirates": [
+        "Theertha Satish",
+        "ER Oza",
+        "H Hotchandani",
+        "S Dharnidharka",
+        "Rinitha Rajith",
+        "L Keny",
+        "Vaishnave Mahesh",
+        "KC Thompson",
+        "ATS Silva",
+        "S Kotte",
+        "MP Kulkarni"
+      ],
+      "China": [
+        "M Zhu",
+        "Wang Huiying",
+        "Cai Yuzhi",
+        "Ma Ruike",
+        "Chen Xinyu",
+        "Jiaping Li",
+        "Gong Yuting",
+        "Zhao Yihan",
+        "Wei Haiting",
+        "F Qian",
+        "Hong Yali"
+      ]
+    },
+    "registry": {
+      "people": {
+        "ATS Silva": "9ca533cc",
+        "Afia Amin": "7fc47de1",
+        "Cai Yuzhi": "80d30c5f",
+        "Chen Xinyu": "b2cd8abe",
+        "ER Oza": "fdc6b34d",
+        "F Qian": "39f01c3d",
+        "Gong Yuting": "edcd847a",
+        "H Hotchandani": "f537d39c",
+        "Hong Yali": "a375ac64",
+        "Jiaping Li": "35cac794",
+        "KC Thompson": "e381ae69",
+        "L Keny": "aea89d48",
+        "M Zhu": "36c3302e",
+        "MP Kulkarni": "418787e5",
+        "Ma Ruike": "8ccef7e2",
+        "Rinitha Rajith": "36ba7f0b",
+        "Rokeya Sultana": "20abf9b9",
+        "S Dharnidharka": "f8b50da3",
+        "S Kotte": "6c8904c8",
+        "Theertha Satish": "ee3dcb3f",
+        "V Krithika": "bcbb203c",
+        "VR Nagre": "fadaac76",
+        "Vaishnave Mahesh": "31c56f40",
+        "Wang Huiying": "c84a3e06",
+        "Wei Haiting": "a1e30490",
+        "Zhao Yihan": "a9cd14fc"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "United Arab Emirates",
+      "China"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "China"
+    },
+    "venue": "YSD-UKM Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Ma Ruike",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Ma Ruike",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Ma Ruike",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Ma Ruike",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Ma Ruike",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Theertha Satish",
+              "bowler": "Ma Ruike",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Theertha Satish",
+                  "fielders": [
+                    {
+                      "name": "Jiaping Li"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "M Zhu",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "M Zhu",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "M Zhu",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "M Zhu",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "M Zhu",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "M Zhu",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Chen Xinyu",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Chen Xinyu",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Chen Xinyu",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Chen Xinyu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Chen Xinyu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Chen Xinyu",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Chen Xinyu",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Chen Xinyu",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Zhao Yihan",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Zhao Yihan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Zhao Yihan",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Zhao Yihan",
+              "non_striker": "H Hotchandani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Zhao Yihan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Hotchandani",
+              "bowler": "Zhao Yihan",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "H Hotchandani",
+                  "fielders": [
+                    {
+                      "name": "Wang Huiying"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "ER Oza",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Ma Ruike",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Dharnidharka",
+                  "fielders": [
+                    {
+                      "name": "Jiaping Li"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "ER Oza",
+              "bowler": "Ma Ruike",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "China",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Zhu",
+              "bowler": "S Kotte",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "S Kotte",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "S Kotte",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "S Kotte",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Zhu",
+              "bowler": "S Kotte",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Zhu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "S Kotte",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "S Kotte",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Wang Huiying",
+              "bowler": "H Hotchandani",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "H Hotchandani",
+              "non_striker": "Cai Yuzhi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Cai Yuzhi",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Cai Yuzhi",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Wang Huiying",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Ma Ruike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Ma Ruike",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ma Ruike",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ma Ruike",
+                  "fielders": [
+                    {
+                      "name": "Theertha Satish"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Chen Xinyu",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Chen Xinyu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "H Hotchandani",
+              "non_striker": "Jiaping Li",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "H Hotchandani",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Vaishnave Mahesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Jiaping Li",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jiaping Li",
+                  "fielders": [
+                    {
+                      "name": "Theertha Satish"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Gong Yuting",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Wang Huiying",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wang Huiying",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "Gong Yuting",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 48
+      }
+    }
+  ]
+}

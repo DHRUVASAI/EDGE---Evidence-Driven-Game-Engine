@@ -1,0 +1,6874 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-10-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dubai",
+    "dates": [
+      "2025-10-28"
+    ],
+    "event": {
+      "name": "ICC Men's Cricket World Cup League 2",
+      "match_number": 86
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4918,
+    "officials": {
+      "match_referees": [
+        "Hamim Khan"
+      ],
+      "reserve_umpires": [
+        "Shiju Sam"
+      ],
+      "umpires": [
+        "Aasif Iqbal",
+        "R Pandit"
+      ]
+    },
+    "outcome": {
+      "winner": "United States of America",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Shubham Ranjane"
+    ],
+    "players": {
+      "United Arab Emirates": [
+        "A Sharafu",
+        "A Sharma",
+        "Muhammad Shahdad",
+        "R Chopra",
+        "Shoaib Khan",
+        "Waseem Muhammad",
+        "H Kaushik",
+        "Haider Ali",
+        "SS Kang",
+        "Junaid Siddique",
+        "Muhammad Rohid"
+      ],
+      "United States of America": [
+        "SK Patel",
+        "AGS Gous",
+        "MD Patel",
+        "SR Mukkamalla",
+        "Shayan Jahangir",
+        "Milind Kumar",
+        "Shubham Ranjane",
+        "Harmeet Singh",
+        "Jasdeep Singh",
+        "SN Netravalkar",
+        "R Ugarkar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Sharafu": "06cad4f0",
+        "A Sharma": "5661ef90",
+        "AGS Gous": "d1305df0",
+        "Aasif Iqbal": "42c41e1a",
+        "H Kaushik": "2bfec670",
+        "Haider Ali": "dd572696",
+        "Hamim Khan": "f82540a3",
+        "Harmeet Singh": "0bf15e52",
+        "Jasdeep Singh": "5ec41cd7",
+        "Junaid Siddique": "84dc72db",
+        "MD Patel": "25d7f1ac",
+        "Milind Kumar": "b4296080",
+        "Muhammad Rohid": "9103ecdb",
+        "Muhammad Shahdad": "a8ac334b",
+        "R Chopra": "a71d0f89",
+        "R Pandit": "8a604384",
+        "R Ugarkar": "8a58f203",
+        "SK Patel": "f93b43dd",
+        "SN Netravalkar": "c8a3f688",
+        "SR Mukkamalla": "156d0ea2",
+        "SS Kang": "797ee165",
+        "Shayan Jahangir": "571e1d2a",
+        "Shiju Sam": "1e2f3eae",
+        "Shoaib Khan": "fdee4a01",
+        "Shubham Ranjane": "6c7a68d0",
+        "Waseem Muhammad": "6f02fe2a"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "United Arab Emirates",
+      "United States of America"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "United States of America"
+    },
+    "venue": "Dubai International Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Sharafu",
+              "bowler": "SN Netravalkar",
+              "non_striker": "A Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "SN Netravalkar",
+              "non_striker": "A Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharma",
+              "bowler": "SN Netravalkar",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharma",
+              "bowler": "SN Netravalkar",
+              "non_striker": "A Sharafu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "SN Netravalkar",
+              "non_striker": "A Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharafu",
+              "bowler": "SN Netravalkar",
+              "non_striker": "A Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Sharafu",
+                  "fielders": [
+                    {
+                      "name": "Milind Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Sharma",
+              "bowler": "R Ugarkar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharma",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharma",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Sharma",
+              "bowler": "R Ugarkar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Sharma",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Sharma",
+                  "fielders": [
+                    {
+                      "name": "Milind Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "Shubham Ranjane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Milind Kumar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Chopra",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Chopra",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "R Ugarkar",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "R Ugarkar",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Khan",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shoaib Khan",
+                  "fielders": [
+                    {
+                      "name": "R Ugarkar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Muhammad Shahdad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Muhammad Shahdad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Shahdad",
+                  "fielders": [
+                    {
+                      "name": "SR Mukkamalla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Harmeet Singh",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Harmeet Singh",
+              "extras": {
+                "byes": 3
+              },
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Harmeet Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Waseem Muhammad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Waseem Muhammad",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waseem Muhammad",
+                  "fielders": [
+                    {
+                      "name": "MD Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Shubham Ranjane",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "Haider Ali",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Haider Ali",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Haider Ali",
+                  "fielders": [
+                    {
+                      "name": "R Ugarkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "SN Netravalkar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "SN Netravalkar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Milind Kumar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "Milind Kumar",
+              "non_striker": "H Kaushik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Kaushik",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Kaushik",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "Jasdeep Singh",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Junaid Siddique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddique",
+              "bowler": "SN Netravalkar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Junaid Siddique",
+                  "fielders": [
+                    {
+                      "name": "Shayan Jahangir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Muhammad Rohid",
+              "bowler": "SN Netravalkar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Rohid",
+              "bowler": "SN Netravalkar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Rohid",
+              "bowler": "SN Netravalkar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "SN Netravalkar",
+              "non_striker": "Muhammad Rohid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Rohid",
+              "bowler": "SN Netravalkar",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "Muhammad Rohid",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Rohid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Rohid",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Rohid",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "SS Kang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "Jasdeep Singh",
+              "non_striker": "Muhammad Rohid",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Kang",
+              "bowler": "Jasdeep Singh",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Muhammad Rohid",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "United States of America",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SK Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SK Patel",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AGS Gous",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AGS Gous",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AGS Gous",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AGS Gous",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AGS Gous",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AGS Gous",
+                  "fielders": [
+                    {
+                      "name": "Waseem Muhammad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "SR Mukkamalla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "SR Mukkamalla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "SR Mukkamalla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "SR Mukkamalla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "SR Mukkamalla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "SR Mukkamalla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "SR Mukkamalla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Mukkamalla",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SR Mukkamalla",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Shayan Jahangir",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shayan Jahangir",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shayan Jahangir",
+                  "fielders": [
+                    {
+                      "name": "H Kaushik"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "H Kaushik",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "H Kaushik",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "H Kaushik",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "H Kaushik",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "H Kaushik",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "H Kaushik",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "H Kaushik",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "H Kaushik",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "H Kaushik",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "H Kaushik",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "H Kaushik",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "H Kaushik",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "H Kaushik",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "MD Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Patel",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Patel",
+                  "fielders": [
+                    {
+                      "name": "A Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Haider Ali",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Haider Ali",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "SS Kang",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "SS Kang",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "Milind Kumar",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Milind Kumar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Rohid",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Junaid Siddique",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubham Ranjane",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Harmeet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Muhammad Shahdad",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "Harmeet Singh",
+              "bowler": "Shoaib Khan",
+              "non_striker": "Shubham Ranjane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.1,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 212
+      }
+    }
+  ]
+}

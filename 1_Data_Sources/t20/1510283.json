@@ -1,0 +1,2583 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-11-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2025-11-17"
+    ],
+    "event": {
+      "name": "Women's T20 Quadrangular Series (in Thailand)",
+      "match_number": 5
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2554,
+    "officials": {
+      "reserve_umpires": [
+        "KB Suresh"
+      ],
+      "umpires": [
+        "Samad Akbar",
+        "S Jeyasooriyam"
+      ]
+    },
+    "outcome": {
+      "winner": "Scotland",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "R Slater"
+    ],
+    "players": {
+      "Namibia": [
+        "M Mwatile",
+        "KA Green",
+        "Yasmeen Khan",
+        "SA Wittmann",
+        "B Manuel",
+        "M Gorases",
+        "JA Diergaardt",
+        "W Mwatile",
+        "SN Shihepo",
+        "EU Kejarukua",
+        "V Hamunyela"
+      ],
+      "Scotland": [
+        "A Lister",
+        "DEM Carter",
+        "EL Watson",
+        "SJ Bryce",
+        "M McColl",
+        "PA Chatterji",
+        "K Fraser",
+        "R Slater",
+        "AH Maqsood",
+        "HRA Rainey",
+        "O Bell"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Lister": "090c0213",
+        "AH Maqsood": "f61e2829",
+        "B Manuel": "06cbeba1",
+        "DEM Carter": "c3394c16",
+        "EL Watson": "45dd7433",
+        "EU Kejarukua": "e7068bfd",
+        "HRA Rainey": "7027d12f",
+        "JA Diergaardt": "b72a8938",
+        "K Fraser": "a0a65375",
+        "KA Green": "fa9fdefa",
+        "KB Suresh": "40316210",
+        "M Gorases": "d034d60a",
+        "M McColl": "d5fa2ab3",
+        "M Mwatile": "92b9e9af",
+        "O Bell": "385eac52",
+        "PA Chatterji": "8e7be59c",
+        "R Slater": "8a452195",
+        "S Jeyasooriyam": "bb20a975",
+        "SA Wittmann": "531aef3b",
+        "SJ Bryce": "2ca65aee",
+        "SN Shihepo": "1b3f7dbb",
+        "Samad Akbar": "f05bd21b",
+        "V Hamunyela": "d758a366",
+        "W Mwatile": "5728635a",
+        "Yasmeen Khan": "ade5c0c0"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "international",
+    "teams": [
+      "Namibia",
+      "Scotland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Namibia"
+    },
+    "venue": "Terdthai Cricket Ground, Bangkok"
+  },
+  "innings": [
+    {
+      "team": "Namibia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Mwatile",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mwatile",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mwatile",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mwatile",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Mwatile",
+              "bowler": "R Slater",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Mwatile",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Mwatile",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Yasmeen Khan",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "Yasmeen Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yasmeen Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "Yasmeen Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yasmeen Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "Yasmeen Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "Yasmeen Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "Yasmeen Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "Yasmeen Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Yasmeen Khan",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasmeen Khan",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasmeen Khan",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yasmeen Khan",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Yasmeen Khan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SA Wittmann",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Wittmann",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SA Wittmann",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "R Slater",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "R Slater",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "R Slater",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "R Slater",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "R Slater",
+              "non_striker": "SA Wittmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SA Wittmann",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Wittmann",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Wittmann",
+                  "fielders": [
+                    {
+                      "name": "SJ Bryce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B Manuel",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Manuel",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Manuel",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Manuel",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "B Manuel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "B Manuel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Manuel",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Manuel",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Manuel",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Manuel",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Manuel",
+                  "fielders": [
+                    {
+                      "name": "SJ Bryce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "AH Maqsood",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "AH Maqsood",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "AH Maqsood",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "AH Maqsood",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "AH Maqsood",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "AH Maqsood",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "DEM Carter",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "DEM Carter",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "DEM Carter",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "DEM Carter",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "DEM Carter",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "O Bell",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "DEM Carter",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "DEM Carter",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "O Bell",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "O Bell",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "PA Chatterji",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "DEM Carter",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "DEM Carter",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "O Bell",
+              "non_striker": "M Gorases",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "O Bell",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "O Bell",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "O Bell",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Gorases",
+              "bowler": "O Bell",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Gorases",
+                  "fielders": [
+                    {
+                      "name": "AH Maqsood"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JA Diergaardt",
+              "bowler": "O Bell",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JA Diergaardt",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "W Mwatile",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "HRA Rainey",
+              "non_striker": "W Mwatile",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Mwatile",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Mwatile",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Mwatile",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Mwatile",
+                  "fielders": [
+                    {
+                      "name": "SJ Bryce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SN Shihepo",
+              "bowler": "HRA Rainey",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SN Shihepo",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "R Slater",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SN Shihepo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Shihepo",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SN Shihepo",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "EU Kejarukua",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EU Kejarukua",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EU Kejarukua",
+              "bowler": "R Slater",
+              "non_striker": "KA Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "EU Kejarukua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "EU Kejarukua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "EU Kejarukua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Green",
+              "bowler": "PA Chatterji",
+              "non_striker": "EU Kejarukua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KA Green",
+                  "fielders": [
+                    {
+                      "name": "SJ Bryce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "V Hamunyela",
+              "bowler": "PA Chatterji",
+              "non_striker": "EU Kejarukua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Hamunyela",
+              "bowler": "PA Chatterji",
+              "non_striker": "EU Kejarukua",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Scotland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Lister",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Lister",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Lister",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "W Mwatile",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "W Mwatile",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "W Mwatile",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "A Lister",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Lister",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Lister",
+                  "fielders": [
+                    {
+                      "name": "M Gorases"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "W Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "W Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "W Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "W Mwatile",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "EU Kejarukua",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "EU Kejarukua",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "DEM Carter",
+              "bowler": "SN Shihepo",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "SN Shihepo",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "SN Shihepo",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "SN Shihepo",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "SN Shihepo",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "SN Shihepo",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DEM Carter",
+              "bowler": "V Hamunyela",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "V Hamunyela",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "V Hamunyela",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "V Hamunyela",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "V Hamunyela",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "V Hamunyela",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DEM Carter",
+              "bowler": "M Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "M Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "M Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "M Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "M Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DEM Carter",
+              "bowler": "M Mwatile",
+              "non_striker": "EL Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "EL Watson",
+              "bowler": "SA Wittmann",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EL Watson",
+              "bowler": "SA Wittmann",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EL Watson",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "SA Wittmann",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "SA Wittmann",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "SA Wittmann",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "SA Wittmann",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DEM Carter",
+              "bowler": "M Mwatile",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DEM Carter",
+                  "fielders": [
+                    {
+                      "name": "M Gorases"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "M McColl",
+              "bowler": "M Mwatile",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M McColl",
+              "bowler": "M Mwatile",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M McColl",
+              "bowler": "M Mwatile",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M McColl",
+              "bowler": "M Mwatile",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "M Mwatile",
+              "non_striker": "M McColl",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SJ Bryce",
+              "bowler": "V Hamunyela",
+              "non_striker": "M McColl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "V Hamunyela",
+              "non_striker": "M McColl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "V Hamunyela",
+              "non_striker": "M McColl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "V Hamunyela",
+              "non_striker": "M McColl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "V Hamunyela",
+              "non_striker": "M McColl",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Bryce",
+              "bowler": "V Hamunyela",
+              "non_striker": "M McColl",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M McColl",
+              "bowler": "JA Diergaardt",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M McColl",
+              "bowler": "JA Diergaardt",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 82
+      }
+    }
+  ]
+}

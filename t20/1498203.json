@@ -1,0 +1,2636 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-08-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2025-08-13"
+    ],
+    "event": {
+      "name": "Cambodia Women tour of Singapore",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2436,
+    "officials": {
+      "match_referees": [
+        "T Senthil Kumar"
+      ],
+      "reserve_umpires": [
+        "A Narayanapillai"
+      ],
+      "umpires": [
+        "A Natarajan",
+        "S Chukkala"
+      ]
+    },
+    "outcome": {
+      "winner": "Singapore",
+      "by": {
+        "runs": 125
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Shafina Mahesh"
+    ],
+    "players": {
+      "Singapore": [
+        "Shafina Mahesh",
+        "DA Galia",
+        "Vinu Kumar",
+        "RR Seth",
+        "GK Diviya",
+        "NL Jacinta Si Ping",
+        "H Dhavina",
+        "Ada Bhasin",
+        "Riyaa Bhasin",
+        "LAR Bommareddy",
+        "PSR Gurusinghe"
+      ],
+      "Cambodia": [
+        "Pech Pisa",
+        "Ly Saomakara",
+        "N Vichara",
+        "Heal Theara",
+        "Pen Samon",
+        "Dok Da Nit",
+        "LY Loch Srey",
+        "Phoup Srey Pheak",
+        "Hor Siv na",
+        "Em Rotana",
+        "Sok Srey Maov"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Narayanapillai": "4eea28b2",
+        "A Natarajan": "a2b73ae0",
+        "Ada Bhasin": "b1c113d7",
+        "DA Galia": "ae0b5b95",
+        "Dok Da Nit": "d6ca2714",
+        "Em Rotana": "196ccd33",
+        "GK Diviya": "992979fa",
+        "H Dhavina": "cd12f384",
+        "Heal Theara": "aae7b7f0",
+        "Hor Siv na": "05d1964e",
+        "LAR Bommareddy": "3da8cd3a",
+        "LY Loch Srey": "a994e18f",
+        "Ly Saomakara": "a9668b5f",
+        "N Vichara": "2641de7a",
+        "NL Jacinta Si Ping": "68c9a36f",
+        "PSR Gurusinghe": "591a7004",
+        "Pech Pisa": "c7eb3b9c",
+        "Pen Samon": "caa4444c",
+        "Phoup Srey Pheak": "8c73dff5",
+        "RR Seth": "7ccc0a38",
+        "Riyaa Bhasin": "3ff26cea",
+        "S Chukkala": "170d5d60",
+        "Shafina Mahesh": "0c40b02d",
+        "Sok Srey Maov": "c5e3fe3c",
+        "T Senthil Kumar": "961ddfac",
+        "Vinu Kumar": "3775b9f9"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Singapore",
+      "Cambodia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Singapore"
+    },
+    "venue": "Singapore National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Galia",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Phoup Srey Pheak",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Hor Siv na",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Hor Siv na",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Hor Siv na",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Hor Siv na",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Hor Siv na",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Hor Siv na",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Hor Siv na",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Hor Siv na",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "N Vichara",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "N Vichara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "N Vichara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "N Vichara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "N Vichara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "N Vichara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "N Vichara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "N Vichara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Dok Da Nit",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "N Vichara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "N Vichara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "N Vichara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "N Vichara",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "N Vichara",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "N Vichara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "N Vichara",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "N Vichara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vinu Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Vinu Kumar",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Vinu Kumar",
+                  "fielders": [
+                    {
+                      "name": "Sok Srey Maov"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "LY Loch Srey",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Heal Theara",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Heal Theara",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Dok Da Nit",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "Dok Da Nit",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Seth",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cambodia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Pech Pisa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pech Pisa",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N Vichara",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vichara",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vichara",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Vichara",
+                  "fielders": [
+                    {
+                      "name": "Vinu Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Heal Theara",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Heal Theara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Pen Samon",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pen Samon",
+                  "fielders": [
+                    {
+                      "name": "Vinu Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "Ada Bhasin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "LAR Bommareddy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "LAR Bommareddy",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dok Da Nit",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dok Da Nit",
+                  "fielders": [
+                    {
+                      "name": "Vinu Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LY Loch Srey",
+              "bowler": "Ada Bhasin",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "H Dhavina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "LY Loch Srey",
+              "bowler": "GK Diviya",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "GK Diviya",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "GK Diviya",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "GK Diviya",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LY Loch Srey",
+              "bowler": "GK Diviya",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LY Loch Srey",
+              "bowler": "GK Diviya",
+              "non_striker": "Ly Saomakara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ly Saomakara",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ly Saomakara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Phoup Srey Pheak",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Hor Siv na",
+              "bowler": "H Dhavina",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "LY Loch Srey",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "Hor Siv na",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LY Loch Srey",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "Hor Siv na",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hor Siv na",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hor Siv na",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LY Loch Srey",
+                  "fielders": [
+                    {
+                      "name": "Shafina Mahesh"
+                    },
+                    {
+                      "name": "NL Jacinta Si Ping"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Em Rotana",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "Hor Siv na",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Em Rotana",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sok Srey Maov",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "Hor Siv na",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sok Srey Maov",
+                  "fielders": [
+                    {
+                      "name": "NL Jacinta Si Ping"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 152
+      }
+    }
+  ]
+}
