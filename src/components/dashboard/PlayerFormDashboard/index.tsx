@@ -10,7 +10,13 @@ import WorkloadChart from "./WorkloadChart";
 import ConsistencyChart from "./ConsistencyChart";
 import { ChevronDown, Search, X } from "lucide-react";
 
-const fetcher = (url: string) => fetch(url).then((res) => res.json());
+const fetcher = (url: string) =>
+  fetch(url)
+    .then((res) => (res.ok ? res.json() : null))
+    .catch((err) => {
+      console.warn(`PlayerFormDashboard fetch warning for ${url}:`, err.message);
+      return null;
+    });
 
 interface Player {
   player_id: string;
@@ -125,8 +131,13 @@ function PlayerPicker({
                     <img
                       src={`/api/player-image?name=${encodeURIComponent(p.player_name)}`}
                       alt=""
-                      className="w-7 h-7 rounded-full object-cover border border-zinc-700 flex-shrink-0"
-                      onError={(e) => { (e.currentTarget as HTMLImageElement).onerror = null; }}
+                      className="w-7 h-7 rounded-full object-cover object-top border border-zinc-700 flex-shrink-0 bg-zinc-800"
+                      onError={(e) => {
+                        const el = e.currentTarget as HTMLImageElement;
+                        if (!el.src.includes('fallback=svg')) {
+                          el.src = `/api/player-image?name=${encodeURIComponent(p.player_name)}&fallback=svg`;
+                        }
+                      }}
                     />
                     <span className="text-sm text-white truncate">{p.player_name}</span>
                   </div>

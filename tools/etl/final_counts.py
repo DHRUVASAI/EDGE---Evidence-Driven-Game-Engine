@@ -2,8 +2,8 @@ import os
 import psycopg2
 from dotenv import load_dotenv
 
-load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
-db_url = os.environ.get('DIRECT_URL')
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '..', '.env'))
+db_url = os.environ.get('DATABASE_URL')
 conn = psycopg2.connect(db_url)
 cur = conn.cursor()
 

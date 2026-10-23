@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { prisma } from '@/lib/prisma';
-import { getPlayerImageUrl, getDisplayName } from '@/lib/utils';
+import { getPlayerImageApiUrl, getDisplayName } from '@/lib/utils';
 
 export async function GET(request: Request) {
   try {
@@ -76,7 +76,7 @@ export async function GET(request: Request) {
         country: player.country,
         role: player.role,
         espnId: player.espnId,
-        imageUrl: getPlayerImageUrl(player.espnId),
+        imageUrl: getPlayerImageApiUrl(player),
         topFormat,
         runs: totalRuns,
         wickets: totalWickets,

@@ -1,11 +1,26 @@
-export function getPlayerImageUrl(urlOrId: string | null): string | null {
-  if (!urlOrId) return null;
+import verifiedPlayerImages from '@/lib/player_images.json';
 
-  if (/^\d+$/.test(urlOrId)) {
-    return `https://a.espncdn.com/i/headshots/cricket/players/full/${urlOrId}.png`;
+export function getPlayerImageUrl(urlOrIdOrName: string | null): string | null {
+  if (!urlOrIdOrName) return null;
+
+  // Direct full URL
+  if (urlOrIdOrName.startsWith('http://') || urlOrIdOrName.startsWith('https://')) {
+    return urlOrIdOrName;
   }
 
-  return urlOrId;
+  // Pure numeric ESPN ID
+  if (/^\d+$/.test(urlOrIdOrName)) {
+    return `https://a.espncdn.com/i/headshots/cricket/players/full/${urlOrIdOrName}.png`;
+  }
+
+  // Check verified dictionary by name / alias
+  const key = urlOrIdOrName.toLowerCase().trim();
+  const dict = verifiedPlayerImages as Record<string, string>;
+  if (dict[key]) {
+    return dict[key];
+  }
+
+  return urlOrIdOrName;
 }
 
 export function getPlayerImageApiUrl(player: { id?: string | null; imageUrl?: string | null; espnId?: string | null; name?: string | null; fullName?: string | null }): string {

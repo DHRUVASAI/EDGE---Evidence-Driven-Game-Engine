@@ -26,14 +26,18 @@ function PlayerAvatar({
   name: string;
   textSize?: string;
 }) {
+  const [src, setSrc] = useState<string>(
+    imageUrl || `/api/player-image?name=${encodeURIComponent(name)}`
+  );
   const [error, setError] = useState(false);
   const initials = getInitials(name);
 
   useEffect(() => {
+    setSrc(imageUrl || `/api/player-image?name=${encodeURIComponent(name)}`);
     setError(false);
-  }, [imageUrl]);
+  }, [imageUrl, name]);
 
-  if (!imageUrl || error) {
+  if (error) {
     return (
       <div
         className={`flex items-center justify-center bg-lime-400/[0.04] text-lime-400 font-extrabold ${textSize} border border-lime-400/10 rounded-full w-full h-full`}
@@ -45,10 +49,16 @@ function PlayerAvatar({
 
   return (
     <img
-      src={imageUrl}
+      src={src}
       alt={name}
-      onError={() => setError(true)}
-      className="w-full h-full object-cover"
+      onError={() => {
+        if (!src.includes('fallback=svg')) {
+          setSrc(`/api/player-image?name=${encodeURIComponent(name)}&fallback=svg`);
+        } else {
+          setError(true);
+        }
+      }}
+      className="w-full h-full object-cover object-top"
     />
   );
 }

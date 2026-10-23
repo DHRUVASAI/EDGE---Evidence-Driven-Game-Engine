@@ -83,14 +83,16 @@ function getInitials(name: string): string {
 }
 
 function PlayerAvatar({ imageUrl, name, colorTheme }: { imageUrl: string | null; name: string; colorTheme: string }) {
+  const [src, setSrc] = useState<string | null>(imageUrl || `/api/player-image?name=${encodeURIComponent(name)}`);
   const [error, setError] = useState(false);
   const initials = getInitials(name);
 
   useEffect(() => {
+    setSrc(imageUrl || `/api/player-image?name=${encodeURIComponent(name)}`);
     setError(false);
-  }, [imageUrl]);
+  }, [imageUrl, name]);
 
-  if (!imageUrl || error) {
+  if (!src || error) {
     return (
       <div
         style={{ color: colorTheme, borderColor: `${colorTheme}15`, backgroundColor: `${colorTheme}05` }}
@@ -103,10 +105,16 @@ function PlayerAvatar({ imageUrl, name, colorTheme }: { imageUrl: string | null;
 
   return (
     <img
-      src={imageUrl}
+      src={src}
       alt={name}
-      onError={() => setError(true)}
-      className="w-full h-full object-cover animate-fade-in"
+      onError={() => {
+        if (!src.includes('fallback=svg')) {
+          setSrc(`/api/player-image?name=${encodeURIComponent(name)}&fallback=svg`);
+        } else {
+          setError(true);
+        }
+      }}
+      className="w-full h-full object-cover object-top animate-fade-in"
     />
   );
 }

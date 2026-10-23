@@ -10,8 +10,8 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 from urllib.parse import unquote
 
-load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
-db_url = os.environ.get('DIRECT_URL')
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '..', '.env'))
+db_url = os.environ.get('DATABASE_URL')
 
 def get_connection():
     return psycopg2.connect(db_url)

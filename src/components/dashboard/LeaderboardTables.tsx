@@ -30,14 +30,16 @@ function getInitials(name: string): string {
 }
 
 function PlayerAvatar({ imageUrl, name }: { imageUrl: string | null; name: string }) {
+  const [src, setSrc] = useState<string | null>(imageUrl || `/api/player-image?name=${encodeURIComponent(name)}`);
   const [error, setError] = useState(false);
   const initials = getInitials(name);
 
   useEffect(() => {
+    setSrc(imageUrl || `/api/player-image?name=${encodeURIComponent(name)}`);
     setError(false);
-  }, [imageUrl]);
+  }, [imageUrl, name]);
 
-  if (!imageUrl || error) {
+  if (!src || error) {
     return (
       <div className="flex items-center justify-center bg-lime-400/[0.06] text-lime-400 font-bold text-xs border border-lime-400/10 rounded-full w-full h-full">
         {initials}
@@ -47,10 +49,16 @@ function PlayerAvatar({ imageUrl, name }: { imageUrl: string | null; name: strin
 
   return (
     <img
-      src={imageUrl}
+      src={src}
       alt={name}
-      onError={() => setError(true)}
-      className="w-full h-full object-cover"
+      onError={() => {
+        if (!src.includes('fallback=svg')) {
+          setSrc(`/api/player-image?name=${encodeURIComponent(name)}&fallback=svg`);
+        } else {
+          setError(true);
+        }
+      }}
+      className="w-full h-full object-cover object-top"
     />
   );
 }

@@ -113,17 +113,19 @@ function PlayerCard({ player, rank }: { player: XIPlayer; rank: number }) {
       {/* Image + name section */}
       <div className="flex flex-col items-center pt-5 pb-3 px-3">
         {/* Avatar */}
-        <div className={`w-16 h-16 rounded-full overflow-hidden border-2 flex-shrink-0 mb-2 ${
-          player.is_captain ? "border-yellow-500/60" : player.is_vice_captain ? "border-purple-500/50" : "border-zinc-700"
+        <div className={`w-16 h-16 rounded-full overflow-hidden border-2 flex-shrink-0 mb-2 bg-zinc-900 ${
+          player.is_captain ? "border-yellow-500/60 shadow-[0_0_12px_rgba(234,179,8,0.2)]" : player.is_vice_captain ? "border-purple-500/50 shadow-[0_0_12px_rgba(168,85,247,0.2)]" : "border-zinc-700/80"
         }`}>
           <img
             src={`/api/player-image?name=${encodeURIComponent(player.player)}`}
             alt={player.player}
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover object-top"
             loading="lazy"
             onError={(e) => {
-              // Let the server-side SVG fallback do its job — don't hide the img
-              (e.currentTarget as HTMLImageElement).onerror = null;
+              const el = e.currentTarget as HTMLImageElement;
+              if (!el.src.includes('fallback=svg')) {
+                el.src = `/api/player-image?name=${encodeURIComponent(player.player)}&fallback=svg`;
+              }
             }}
           />
         </div>

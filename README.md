@@ -12,9 +12,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-A3E635?style=for-the-badge)](LICENSE)
 
 **EDGE** transforms raw ball-by-ball cricket data into actionable intelligence.  
-Built on **800K+ deliveries**, **5,000+ players**, and **4,500+ matches** across all formats — it powers real-time dashboards, AI-driven match advisors, and franchise analytics that professional cricket teams wish they had.
+Built on **800K+ deliveries**, **5,000+ players**, and **4,500+ matches** across all formats — it powers real-time dashboards, AI-driven match advisors, and franchise analytics.
 
-[Features](#-features) · [Screenshots](#-screenshots) · [Architecture](#-architecture) · [Getting Started](#-getting-started) · [API Reference](#-api-reference)
+[Features](#-features) · [Screenshots](#-screenshots) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [API Reference](#-api-reference)
 
 </div>
 
@@ -24,13 +24,13 @@ Built on **800K+ deliveries**, **5,000+ players**, and **4,500+ matches** across
 
 | Feature | Description |
 |---------|-------------|
-| 🏟️ **Live Match Center** | Real-time scores from CricAPI with smart local caching — when the API quota is exhausted, EDGE serves the last known good state with a `(Cached)` badge instead of going dark |
-| 🏆 **ICC Rankings** | Live ICC player rankings for batting, bowling, and all-rounders across Test, ODI, and T20I formats |
-| 🎯 **IPL Franchise Intelligence Hub** | Select any IPL team and instantly see franchise stats, MVP batter/bowler (computed from ball-by-ball data), and recent match history |
-| 📊 **Chase Win Probability Simulator** | Input any match situation (target, overs, wickets, score) and get a real-time chase win probability with color-coded risk scoring (High / Medium / Low) |
-| 🤖 **AI Match Situation Advisor** | Claude-powered tactical analysis — enter a match state and get AI-generated strategic recommendations for the batting and bowling teams |
-| 🎳 **AI Bowling Change Recommender** | Type a bowler's name (with autocomplete) and get AI-driven bowling spell analysis with expected economy, spell patterns, and pace/spin recommendations |
-| 👤 **Player Profile Cards** | Deep-dive into any player with full career stats across formats, batting/bowling breakdowns, and AI-generated biographical summaries |
+| 🏟️ **Live Match Center** | Real-time scores from CricAPI with smart local caching — when API quota is exhausted, EDGE serves the last known good state with a `(Cached)` badge |
+| 🏆 **ICC Rankings** | Live ICC player rankings for batting, bowling, and all-rounders across Test, ODI, and T20I |
+| 🎯 **IPL Franchise Intelligence Hub** | Select any IPL team and instantly see franchise stats, MVP batter/bowler, and recent match history |
+| 📊 **Chase Win Probability Simulator** | Input any match situation (target, overs, wickets, score) and get a real-time chase win probability |
+| 🤖 **AI Match Situation Advisor** | Gemini-powered tactical analysis — enter a match state and get AI-generated strategic recommendations |
+| 🎳 **AI Bowling Change Recommender** | Type a bowler's name and get AI-driven bowling spell analysis with expected economy and pace/spin recommendations |
+| 👤 **Player Profile Cards** | Deep-dive into any player with full career stats across formats and AI-generated biographical summaries |
 | 📈 **Leaderboard & Trend Charts** | All-time run scorers, wicket takers, and format-wise statistical leaderboards with interactive Recharts visualizations |
 
 ---
@@ -40,32 +40,17 @@ Built on **800K+ deliveries**, **5,000+ players**, and **4,500+ matches** across
 <div align="center">
 
 ### Command Center Dashboard
-<img src="docs/screenshot_dashboard.png" width="100%" alt="EDGE Dashboard — Command center with real-time stats, delivery counts, and format breakdowns" />
+<img src="docs/screenshot_dashboard.png" width="100%" alt="EDGE Dashboard" />
 
 ---
 
 ### Live Match Center
-<img src="docs/screenshot_live_matches.png" width="100%" alt="Live Match Center — Real-time scores with smart caching fallback" />
-
----
-
-### ICC Rankings
-<img src="docs/screenshot_icc_rankings.png" width="100%" alt="ICC Rankings — Live player rankings across Test, ODI, and T20I" />
-
----
-
-### IPL Franchise Intelligence Hub
-<img src="docs/screenshot_ipl_hub.png" width="100%" alt="IPL Franchise Hub — Team stats, MVP performers, and match history" />
-
----
-
-### Chase Win Probability Simulator
-<img src="docs/screenshot_win_probability.png" width="100%" alt="Chase Win Probability — Real-time probability calculation with risk scoring" />
+<img src="docs/screenshot_live_matches.png" width="100%" alt="Live Match Center" />
 
 ---
 
 ### AI Match Simulator & Bowling Advisor
-<img src="docs/screenshot_match_simulator.png" width="100%" alt="Match Simulator — AI-powered tactical analysis and bowling change recommendations" />
+<img src="docs/screenshot_match_simulator.png" width="100%" alt="Match Simulator" />
 
 </div>
 
@@ -89,19 +74,18 @@ graph TB
         I["/api/dashboard/ipl-team"]
         J["/api/recommend"]
         K["/api/player-stats/[id]"]
-        L["/api/h2h"]
-        M["/api/stats/leaderboard"]
     end
 
     subgraph Data["🗄️ Data Layer"]
-        N[(PostgreSQL<br/>Supabase)]
+        N[(PostgreSQL)]
         O[Prisma ORM]
-        P[CricAPI<br/>Live Feed]
-        Q[Local Cache<br/>Fallback]
+        P[CricAPI Live Feed]
+        Q[Local Cache Fallback]
     end
 
     subgraph AI["🤖 AI Layer"]
-        R[Anthropic Claude<br/>Match Analysis]
+        R[Google Gemini]
+        S[Groq Fallback]
     end
 
     Client --> API
@@ -110,49 +94,33 @@ graph TB
     H --> Q
     I --> O
     J --> R
+    J --> S
     K --> O
-    L --> O
-    M --> O
 ```
 
 ---
 
 ## 🗃️ Database Schema
 
-The platform is built on 5 core tables ingested from Cricsheet ball-by-ball data and enriched with ESPN, SportMonks, and CricAPI metadata:
-
 ```mermaid
 erDiagram
     Player {
         string id PK
         string name
-        string fullName
         string country
         string role
-        string battingStyle
-        string bowlingStyle
         string espnId
         string cricsheetId UK
-        datetime dob
-        string bio
         string imageUrl
     }
-
     Match {
         string id PK
         string matchId UK
         string format
         datetime date
         string venue
-        string team1
-        string team2
         string winner
-        string playerOfMatch
-        string tossWinner
-        string tossDecision
-        string season
     }
-
     Delivery {
         string id PK
         string matchId FK
@@ -161,35 +129,23 @@ erDiagram
         int ball
         string batter
         string bowler
-        int runsBatter
-        int runsExtras
         int runsTotal
-        json wicket
-        json extras
     }
-
     CareerStat {
         string id PK
         string playerId FK
         string format
-        int matches
         int runs
         float avg
-        float sr
         int wickets
-        float bowlAvg
-        float bowlEcon
     }
-
     AuctionHistory {
         string id PK
         string playerId FK
         int year
         string team
         string soldPrice
-        string basePrice
     }
-
     Player ||--o{ CareerStat : "has"
     Player ||--o{ AuctionHistory : "has"
     Match ||--o{ Delivery : "contains"
@@ -205,32 +161,17 @@ erDiagram
 
 ---
 
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| **Framework** | Next.js 16 (App Router + Turbopack) |
-| **Frontend** | React 19, Framer Motion, Recharts, Lucide Icons |
-| **Styling** | Tailwind CSS 4 |
-| **Database** | PostgreSQL 16 (Supabase) |
-| **ORM** | Prisma 6 |
-| **AI** | Anthropic Claude (Match Advisor) |
-| **Live Data** | CricAPI (Live Scores) |
-| **Language** | TypeScript 5 |
-| **Data Ingestion** | Python ETL pipeline (Cricsheet, ESPN, SportMonks) |
-
----
-
-## 🚀 Getting Started
+## ⚡ Quick Start
 
 ### Prerequisites
 
-- **Node.js** ≥ 20
-- **PostgreSQL** database (or [Supabase](https://supabase.com) free tier)
-- **CricAPI Key** from [cricapi.com](https://cricapi.com) (free tier: 100 req/day)
-- **Anthropic API Key** for AI features (optional)
+| Tool | Version | Notes |
+|------|---------|-------|
+| **Node.js** | ≥ 20 | [nodejs.org](https://nodejs.org) |
+| **PostgreSQL** | ≥ 14 | Local install **or** free [Supabase](https://supabase.com) |
+| **Python** | ≥ 3.9 | For ETL data ingestion |
 
-### 1. Clone & Install
+### Step 1 — Clone & Install
 
 ```bash
 git clone https://github.com/DHRUVASAI/EDGE---Evidence-Driven-Game-Engine.git
@@ -238,46 +179,74 @@ cd EDGE---Evidence-Driven-Game-Engine
 npm install
 ```
 
-### 2. Configure Environment
+### Step 2 — Set Up Environment
 
 ```bash
 cp .env.example .env
 ```
 
-Edit `.env` with your credentials:
+Open `.env` and fill in your keys:
 
 ```env
-DATABASE_URL="postgresql://USER:PASSWORD@HOST:5432/DATABASE?sslmode=require"
-DIRECT_URL="postgresql://USER:PASSWORD@HOST:5432/DATABASE?sslmode=require"
-CRICAPI_KEY="your_cricapi_key"
-ANTHROPIC_API_KEY="sk-ant-your-key"
+# PostgreSQL — local install default:
+DATABASE_URL="postgresql://postgres:yourpassword@localhost:5432/cricmetrics"
+
+# Live match scores (free 100 req/day): https://cricapi.com
+CRICAPI_KEY="your_cricapi_key_here"
+
+# AI features — Google Gemini (free): https://aistudio.google.com/app/apikey
+GOOGLE_API_KEY="your_google_gemini_api_key_here"
+
+# AI fallback — Groq (free, optional): https://console.groq.com
+GROQ_API_KEY="your_groq_api_key_here"
 ```
 
-### 3. Set Up Database
+> **Only `DATABASE_URL` is strictly required** to run the app. `CRICAPI_KEY` enables live scores; `GOOGLE_API_KEY` / `GROQ_API_KEY` enable the AI advisor.
+
+### Step 3 — Create the Database
+
+**Option A — Local PostgreSQL:**
+```bash
+# In psql:
+CREATE DATABASE cricmetrics;
+```
+
+**Option B — Supabase (free cloud):**
+1. Go to [supabase.com](https://supabase.com) → New project
+2. Copy the connection string into `DATABASE_URL`
+
+### Step 4 — Run Prisma Migrations
 
 ```bash
-npx prisma migrate deploy
 npx prisma generate
+npx prisma migrate deploy
 ```
 
-### 4. Ingest Data (Optional — if starting from scratch)
+This creates all 5 tables with proper indexes.
+
+### Step 5 — Ingest Cricket Data
+
+Download ball-by-ball data from [Cricsheet](https://cricsheet.org/downloads/) (free, JSON format), then:
 
 ```bash
 cd tools/etl
 pip install -r requirements.txt
-python ingest_jsons.py     # Ingest Cricsheet ball-by-ball JSONs
-python ingest_csvs.py      # Ingest player career CSVs
+
+python ingest_jsons.py      # Ingest Cricsheet ball-by-ball JSONs
+python ingest_csvs.py       # Ingest player career CSVs
 python compute_aggregates.py
 python add_indexes.py
 ```
 
-### 5. Run Development Server
+> The ETL scripts read `DATABASE_URL` from your root `.env` file automatically.
+
+### Step 6 — Run the App
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to see EDGE in action.
+Open [http://localhost:3000](http://localhost:3000) 🎉
 
 ---
 
@@ -293,24 +262,32 @@ Open [http://localhost:3000](http://localhost:3000) to see EDGE in action.
 | `/api/player-search?q=virat` | GET | Fuzzy player name search with trigram matching |
 | `/api/player-stats/[id]` | GET | Full career statistics for a player across all formats |
 | `/api/players/[id]` | GET | Player profile with bio and image |
-| `/api/players/[id]/deliveries` | GET | Ball-by-ball delivery data for a player |
-| `/api/players/[id]/matches` | GET | Match history for a player |
 | `/api/h2h?batter=...&bowler=...` | GET | Head-to-head batter vs bowler statistics |
 | `/api/recommend` | POST | AI-powered match situation analysis and bowling recommendations |
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| **Framework** | Next.js 16 (App Router + Turbopack) |
+| **Frontend** | React 19, Framer Motion, Recharts, Lucide Icons |
+| **Styling** | Tailwind CSS 4 |
+| **Database** | PostgreSQL 16 |
+| **ORM** | Prisma 6 |
+| **AI (Primary)** | Google Gemini |
+| **AI (Fallback)** | Groq |
+| **Live Data** | CricAPI |
+| **Language** | TypeScript 5 |
+| **Data Ingestion** | Python ETL pipeline (Cricsheet, ESPN, SportMonks) |
 
 ---
 
 ## 📁 Project Structure
 
 ```
-EDGE---Evidence-Driven-Game-Engine/
-├── prisma/                          # Database schema & migrations
-│   ├── schema.prisma                #   Prisma data model (5 tables)
-│   └── migrations/                  #   SQL migration history
-│
-├── public/                          # Static assets
-│   └── hero.mp4                     #   Landing page hero video
-│
+EDGE/
 ├── src/                             # Next.js application source
 │   ├── app/                         #   App Router pages & API routes
 │   │   ├── page.tsx                 #     Main dashboard
@@ -324,47 +301,31 @@ EDGE---Evidence-Driven-Game-Engine/
 │   │       └── recommend/           #       AI advisor
 │   │
 │   ├── components/                  #   React UI components
-│   │   ├── Hero.tsx                 #     Landing hero section
-│   │   ├── Navbar.tsx               #     Navigation bar
-│   │   ├── Footer.tsx               #     Footer with links
-│   │   └── dashboard/               #     Dashboard-specific components
-│   │       ├── DashboardHeader.tsx   #       Stats header bar
-│   │       ├── LiveMatches.tsx       #       Live match cards
-│   │       ├── ICCRankings.tsx       #       ICC ranking tables
-│   │       ├── IPLConsole.tsx        #       IPL franchise hub
-│   │       ├── WinProbabilityCalculator.tsx  # Chase probability
-│   │       └── QuickActions.tsx      #       Feature navigation grid
-│   │
-│   ├── data/                        #   Cached data (CricAPI fallback)
-│   └── lib/                         #   Utility functions
-│       ├── prisma.ts                #     Prisma client singleton
-│       ├── utils.ts                 #     Helper utilities
-│       └── generatePlayerBio.ts     #     AI bio generation
+│   └── lib/                         #   Utility functions & Prisma client
+│
+├── prisma/                          # Database schema & migrations
+│   ├── schema.prisma                #   Prisma data model (5 tables)
+│   └── migrations/                  #   SQL migration history
+│
+├── public/                          # Static assets
 │
 ├── tools/                           # Offline tooling (not part of web app)
-│   ├── analytics/                   #   Feature engineering & benchmarks
-│   │   ├── data_audit.py            #     Database quality audit
-│   │   ├── task1_backfill_batting_team.py  # Batting team backfill
-│   │   ├── task2_delivery_features.py     # Delivery feature engineering
-│   │   ├── task3_player_styles.py         # Player style classification
-│   │   └── task4_cudf_benchmark.py        # cuDF GPU benchmark
-│   │
-│   ├── db-seed/                     #   Database seeding & patching
-│   │   ├── seed_teams.mjs           #     Team metadata seeder
-│   │   ├── import_missing_players.mjs  #  Missing player importer
-│   │   ├── patch_players_v2.mjs     #     Player data patches
-│   │   └── data/                    #     Seed data files
-│   │
 │   └── etl/                         #   CSV/JSON ingestion pipeline
-│       ├── ingest_jsons.py          #     Cricsheet JSON ingestion
-│       ├── ingest_csvs.py           #     CSV data ingestion
-│       ├── compute_aggregates.py    #     Career stat aggregation
-│       └── requirements.txt         #     Python dependencies
+│       ├── ingest_jsons.py
+│       ├── ingest_csvs.py
+│       ├── compute_aggregates.py
+│       ├── add_indexes.py
+│       └── requirements.txt
 │
-├── .env.example                     # Environment variable template
-├── LICENSE                          # MIT License
-├── package.json                     # Node.js dependencies
-└── tsconfig.json                    # TypeScript configuration
+├── 1_Data_Sources/                  # Architecture documentation
+├── 2_Ingestion_Layer/
+├── 3_Storage_Layer/
+├── 4_Processing_Layer/
+├── 5_Serving_Layer/
+│
+├── .env.example                     # ← Copy this to .env and fill in your keys
+├── package.json
+└── tsconfig.json
 ```
 
 ---

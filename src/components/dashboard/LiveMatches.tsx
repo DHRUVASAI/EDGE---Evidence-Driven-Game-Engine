@@ -102,28 +102,60 @@ function MatchTabButton({ match, isActive, onClick }: { match: LiveMatch; isActi
   );
 }
 
+const DEFAULT_MATCHES: LiveMatch[] = [
+  {
+    id: 1,
+    name: "India vs England, 1st T20I",
+    gender: "men",
+    isLive: false,
+    isEnded: false,
+    isUpcoming: true,
+    matchType: "T20I",
+    dateStr: "Today, 07:30 PM IST",
+    teams: {
+      t1: "IND",
+      t1Name: "India",
+      t1Logo: "bg-blue-600 text-white border-blue-400",
+      t1IsImage: false,
+      t2: "ENG",
+      t2Name: "England",
+      t2Logo: "bg-sky-700 text-white border-sky-500",
+      t2IsImage: false,
+    },
+    score1: "Yet to bat",
+    score2: "Yet to bat",
+    overs: "–",
+    status: "UPCOMING • Match starts at 7:30 PM IST",
+    venue: "Wankhede Stadium, Mumbai",
+    pitch: "Good batting pitch. Expected score 180+.",
+    winProb1: 52,
+    winProb2: 48,
+    liveBatsmen: [{ name: "–", runs: 0, balls: 0, fours: 0, sixes: 0, sr: 0 }],
+    liveBowler: { name: "–", overs: "0.0", maidens: 0, runs: 0, wickets: 0, econ: 0 },
+  }
+];
+
 export default function LiveMatches() {
-  const [matches, setMatches] = useState<LiveMatch[]>([]);
+  const [matches, setMatches] = useState<LiveMatch[]>(DEFAULT_MATCHES);
   const [activeMatchIndex, setActiveMatchIndex] = useState<number>(0);
-  const [loading, setLoading] = useState<boolean>(true);
-  const [source, setSource] = useState<string>("mock");
+  const [loading, setLoading] = useState<boolean>(false);
+  const [source, setSource] = useState<string>("simulated");
   const [liveCount, setLiveCount] = useState<number>(0);
   const [showingDate, setShowingDate] = useState<string>("today");
 
   const fetchLiveMatches = async () => {
     try {
-      const res = await fetch("/api/dashboard/live-matches");
-      if (res.ok) {
-        const data = await res.json();
-        if (data.matches && data.matches.length > 0) {
-          setMatches(data.matches);
-          setSource(data.source || "mock");
-          setLiveCount(data.liveCount ?? 0);
-          setShowingDate(data.showingDate || "today");
-        }
+      const res = await fetch("/api/dashboard/live-matches", { cache: "no-store" }).catch(() => null);
+      if (!res || !res.ok) return;
+      const data = await res.json().catch(() => null);
+      if (data && Array.isArray(data.matches) && data.matches.length > 0) {
+        setMatches(data.matches);
+        setSource(data.source || "mock");
+        setLiveCount(data.liveCount ?? 0);
+        setShowingDate(data.showingDate || "today");
       }
-    } catch (err) {
-      console.error("Error fetching live matches:", err);
+    } catch {
+      // Quietly fall back to current matches state without noisy console error toasts
     } finally {
       setLoading(false);
     }

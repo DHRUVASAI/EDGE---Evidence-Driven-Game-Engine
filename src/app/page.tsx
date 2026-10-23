@@ -13,7 +13,16 @@ import MicroBattleAnalysis from "@/components/dashboard/MicroBattleAnalysis";
 import PlayerFormDashboard from "@/components/dashboard/PlayerFormDashboard";
 import Footer from "@/components/Footer";
 
-const fetcher = (url: string) => fetch(url).then((res) => res.json());
+const fetcher = (url: string) =>
+  fetch(url)
+    .then((res) => {
+      if (!res.ok) throw new Error(`HTTP error ${res.status}`);
+      return res.json();
+    })
+    .catch((err) => {
+      console.warn(`Dashboard fetch warning for ${url}:`, err.message);
+      return null;
+    });
 
 function LoadingSkeleton() {
   return (

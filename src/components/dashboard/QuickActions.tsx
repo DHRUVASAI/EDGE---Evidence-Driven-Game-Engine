@@ -37,6 +37,16 @@ export default function QuickActions() {
       buttonStyle: "border border-zinc-700 hover:border-zinc-500 text-zinc-200 hover:text-white bg-zinc-900/20"
     },
     {
+      title: "Autonomous Match Strategist",
+      description: "Trigger our multi-agent decision engine powered by Self-Driving Agents, HydraDB nemesis graphs, and Hindsight cross-session memory.",
+      icon: Users,
+      cta: "Launch Agent Strategist",
+      href: "/agents",
+      borderGlow: "hover:border-purple-500/30",
+      iconColor: "text-purple-400 bg-purple-400/[0.06] border-purple-400/10",
+      buttonStyle: "bg-purple-500 hover:bg-purple-400 text-white"
+    },
+    {
       title: "Live Win Probability & Risk Scoring",
       description: "Compute chasing success rates and risk index for any live game scenario. Assess required run rates against dynamic historical baselines.",
       icon: TrendingUp,
