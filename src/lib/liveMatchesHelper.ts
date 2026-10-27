@@ -517,7 +517,9 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
   }
 
   // Never substitute hardcoded historical/demo fixtures for a current provider feed.
-  return {
+  // Cache failures too, otherwise every open SSE connection could retry a quota-exhausted
+  // provider every 15 seconds and make the outage worse.
+  const unavailableResult = {
     source: "CricAPI",
     feedStatus: CRICAPI_KEYS.length === 0 ? "missing_api_key" : "provider_unavailable",
     lastSyncedAt: null,
@@ -530,4 +532,6 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
     completedCount: 0,
     matches: [],
   };
+  writeCache(unavailableResult);
+  return unavailableResult;
 }
