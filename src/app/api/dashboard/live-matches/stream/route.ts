@@ -5,37 +5,76 @@ export const dynamic = "force-dynamic";
 
 export async function GET(req: NextRequest) {
   const encoder = new TextEncoder();
+  let pollInterval: ReturnType<typeof setInterval> | undefined;
+  let heartbeatInterval: ReturnType<typeof setInterval> | undefined;
+  let closed = false;
+  let inFlight = false;
+  let controllerRef: ReadableStreamDefaultController<Uint8Array> | undefined;
+  let lastPayload = "";
 
-  const stream = new ReadableStream({
+  const closeStream = () => {
+    if (closed) return;
+    closed = true;
+    if (pollInterval) clearInterval(pollInterval);
+    if (heartbeatInterval) clearInterval(heartbeatInterval);
+    try {
+      controllerRef?.close();
+    } catch {
+      // Stream may already have been closed by the runtime.
+    }
+  };
+
+  const sendSnapshot = (eventName: "snapshot" | "update", data: unknown) => {
+    const payload = JSON.stringify(data);
+    // Do not resend the same cached snapshot every few seconds.
+    if (payload === lastPayload || closed || !controllerRef) return;
+    lastPayload = payload;
+    try {
+      controllerRef.enqueue(encoder.encode(`event: ${eventName}\ndata: ${payload}\n\n`));
+    } catch {
+      closeStream();
+    }
+  };
+
+  const stream = new ReadableStream<Uint8Array>({
     async start(controller) {
+      controllerRef = controller;
+
       try {
-        // 1. Send initial match snapshot immediately upon client connection
-        const initialData = await fetchLiveMatchesInternal();
-        controller.enqueue(
-          encoder.encode(`event: snapshot\ndata: ${JSON.stringify(initialData)}\n\n`)
-        );
+        sendSnapshot("snapshot", await fetchLiveMatchesInternal());
       } catch (err) {
         console.warn("[LiveMatches SSE] Initial snapshot failed:", err);
       }
 
-      // 2. Stream real-time score and probability updates every 12 seconds
-      const interval = setInterval(async () => {
+      // The provider cache controls upstream request frequency to preserve quota.
+      // SSE is only the delivery channel; it cannot make provider data fresher than its cache.
+      pollInterval = setInterval(async () => {
+        if (inFlight || closed) return;
+        inFlight = true;
         try {
-          const freshData = await fetchLiveMatchesInternal();
-          controller.enqueue(
-            encoder.encode(`event: update\ndata: ${JSON.stringify(freshData)}\n\n`)
-          );
+          const data = await fetchLiveMatchesInternal();
+          sendSnapshot("update", data);
         } catch (err) {
-          // Keep SSE connection open on transient API hiccups
+          // Keep the stream open on transient provider failures.
+        } finally {
+          inFlight = false;
         }
-      }, 12000);
+      }, 15_000);
 
-      req.signal.addEventListener("abort", () => {
-        clearInterval(interval);
+      // Keep proxies from dropping an idle connection without publishing duplicate scores.
+      heartbeatInterval = setInterval(() => {
+        if (closed || !controllerRef) return;
         try {
-          controller.close();
-        } catch {}
-      });
+          controllerRef.enqueue(encoder.encode(": keepalive\n\n"));
+        } catch {
+          closeStream();
+        }
+      }, 20_000);
+
+      req.signal.addEventListener("abort", closeStream, { once: true });
+    },
+    cancel() {
+      closeStream();
     },
   });
 
