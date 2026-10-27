@@ -275,9 +275,9 @@ function buildWinProbability(
     }
   }
 
-  // A Test summary with only first-innings totals cannot support a chase probability.
-  // Keep the value neutral here; parseMatch labels it unavailable rather than a prediction.
-  if (statusLower.includes("session") || /need \d+ runs?/.test(statusLower)) {
+  // Session-only summaries do not contain enough state to estimate a live chase.
+  // Test-specific missing innings is handled in parseMatch below.
+  if (statusLower.includes("session")) {
     return { winProb1: 50, winProb2: 50 };
   }
 
