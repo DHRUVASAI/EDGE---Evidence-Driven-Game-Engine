@@ -461,13 +461,21 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
           return true;
         });
 
-        const validMatches = deduped
-          .filter(m => isInternational(m.name || "", m.teams || []))
+        const internationalMatches = deduped
+          .filter(m => isInternational(m.name || "", m.teams || []));
+        const dataQualityWarnings = internationalMatches
+          .filter(hasContradictoryMatchState)
+          .map(m => ({
+            matchId: m.id || m.matchId || null,
+            name: m.name || "Unknown fixture",
+            reason: "Provider marks match ended while status text indicates active play",
+            providerStatus: m.status || null,
+          }));
+        const validMatches = internationalMatches
           .filter(m => isMatchInThreeDayWindow(m))
-          // Never publish records whose provider flags and status string contradict each other.
           .filter(m => classifyMatchWindow(m) !== "stale");
 
-        if (validMatches.length > 0) {
+        if (validMatches.length > 0 || dataQualityWarnings.length > 0) {
           const parsed = validMatches.map((m, idx) => parseMatch(m, idx + 1));
 
           parsed.sort((a, b) => getMatchPriorityScore(b) - getMatchPriorityScore(a));
