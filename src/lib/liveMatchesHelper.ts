@@ -275,9 +275,10 @@ function buildWinProbability(
     }
   }
 
-  // Multi-day test in session
-  if (statusLower.includes("session") || statusLower.includes("need 149")) {
-    return { winProb1: 44, winProb2: 56 };
+  // A Test summary with only first-innings totals cannot support a chase probability.
+  // Keep the value neutral here; parseMatch labels it unavailable rather than a prediction.
+  if (statusLower.includes("session") || /need \d+ runs?/.test(statusLower)) {
+    return { winProb1: 50, winProb2: 50 };
   }
 
   if (!scores || scores.length < 2) return { winProb1: 50, winProb2: 50 };
@@ -351,7 +352,17 @@ function parseMatch(m: any, idx: number): any {
   }
 
   const matchLabel = (m.matchType || "INT'L").toUpperCase();
-  const { winProb1, winProb2 } = buildWinProbability(m.score || [], statusText, isEnded, t1Name, t2Name, t1Short, t2Short);
+  const statusLowerForProbability = statusText.toLowerCase();
+  const missingTestChaseData =
+    matchLabel === "TEST" &&
+    /session|need \d+ runs?|day \d+/i.test(statusLowerForProbability) &&
+    (!Array.isArray(m.score) || m.score.length < 3);
+  const probability = buildWinProbability(m.score || [], statusText, isEnded, t1Name, t2Name, t1Short, t2Short);
+  const winProb1 = missingTestChaseData ? 50 : probability.winProb1;
+  const winProb2 = missingTestChaseData ? 50 : probability.winProb2;
+  const winProbLabel = missingTestChaseData
+    ? "Unavailable — provider summary lacks current innings data"
+    : "EDGE heuristic estimate (not an official provider metric)";
   const subtitle = extractMatchSubtitle(m.name, matchLabel);
   const gender = isWomens(m.name) ? "women" : "men";
 
@@ -388,13 +399,13 @@ function parseMatch(m: any, idx: number): any {
     status: statusText,
     venue: m.venue || "International Cricket Venue",
     pitch: isLive
-      ? "Live match telemetry active. Pitch conditions updating in real-time."
+      ? "Match in progress. Pitch conditions are not included in the current summary feed."
       : isUpcoming
-        ? "Match scheduled. Pitch report and playing XIs confirmed at toss."
-        : "Match concluded. Final statistical records indexed.",
+        ? "Scheduled fixture. Playing XIs and pitch details require provider confirmation."
+        : "Match concluded. Use the linked scorecard for detailed statistical records.",
     winProb1,
     winProb2,
-    winProbLabel: "EDGE Empirical Model Estimate",
+    winProbLabel,
     hasLiveCreaseData: hasLiveCrease,
     liveBatsmen: hasLiveCrease ? m.liveBatsmen : [],
     liveBowler: hasLiveCrease ? m.liveBowler : null,
