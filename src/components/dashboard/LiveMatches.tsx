@@ -351,6 +351,7 @@ export default function LiveMatches() {
   });
 
   const currentMatch = filteredMatches[activeMatchIndex] || filteredMatches[0] || matches[0];
+  const targetRemaining = currentMatch?.status?.match(/\bneed\s+(\d+)\s+runs?\b/i)?.[1] || null;
 
   const handlePrev = () => {
     if (filteredMatches.length === 0) return;
@@ -923,7 +924,7 @@ export default function LiveMatches() {
                           Live Match Situation
                         </span>
                         <span className="text-[9px] font-mono font-bold text-zinc-400 px-2 py-0.5 rounded bg-zinc-900 border border-zinc-800">
-                          {currentMatch.matchType === "TEST" ? "Day 4 Session 3" : "Live Innings"}
+                          {currentMatch.status?.replace(/^LIVE\s*[•:-]\s*/i, "").slice(0, 56) || "Live status from provider"}
                         </span>
                       </div>
 
@@ -938,7 +939,7 @@ export default function LiveMatches() {
                         </div>
                         <div className="mt-1 pt-2 border-t border-zinc-900 flex justify-between items-center text-xs">
                           <span className="font-extrabold text-amber-400">Target Chase</span>
-                          <span className="font-mono font-black text-lime-400">Target: 149 runs</span>
+                          <span className="font-mono font-black text-lime-400">{targetRemaining ? `Target remaining: ${targetRemaining} runs` : "Target unavailable"}</span>
                         </div>
                       </div>
 
@@ -947,7 +948,7 @@ export default function LiveMatches() {
                           Data Integrity Status
                         </span>
                         <p className="text-[11px] text-zinc-400 leading-relaxed font-medium">
-                          Official CricAPI feed provides verified team totals and target requirement. Individual ball-by-ball crease scorecard pending detailed tier sync.
+                          {currentMatch.scorecardNotice || "Detailed player telemetry is not included in this provider response."}
                         </p>
                       </div>
                     </div>
