@@ -21,6 +21,8 @@ import { prisma } from '@/lib/prisma';
 import * as https from 'https';
 import * as http from 'http';
 import verifiedPlayerImages from '@/lib/player_images.json';
+import fs from 'fs';
+import path from 'path';
 
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
@@ -32,7 +34,140 @@ export const ALLOWED_IMAGE_HOSTS = new Set([
   'static.cricbuzz.com',
   'upload.wikimedia.org',
   'thumb.wikimedia.org',
+  'en.wikipedia.org',
+  'cdn.sportmonks.com',
+  'images.sportmonks.com',
 ]);
+
+// Strict placeholder URL detection to reject fake silhouettes and 1x1 blanks
+export function isPlaceholderUrl(url: string | null | undefined): boolean {
+  if (!url) return true;
+  const lower = url.toLowerCase();
+  return (
+    lower.includes('/placeholder') ||
+    lower.includes('default_avatar') ||
+    lower.includes('default-avatar') ||
+    lower.includes('default-player') ||
+    lower.includes('silhouette') ||
+    lower.includes('generic_player') ||
+    lower.includes('blank-profile') ||
+    lower.includes('no-image')
+  );
+}
+
+// Sportmonks 17,386 Player Catalog in-memory index
+let _sportmonksMap: Map<string, string> | null = null;
+
+export function getSportmonksMap(): Map<string, string> {
+  if (_sportmonksMap) return _sportmonksMap;
+  _sportmonksMap = new Map();
+  try {
+    const candidatePaths = [
+      path.join(process.cwd(), 'players_data_with_all_info.csv'),
+      path.join(process.cwd(), 'other', 'players_data_with_all_info.csv'),
+    ];
+    const csvPath = candidatePaths.find(p => fs.existsSync(p));
+    if (csvPath) {
+      const content = fs.readFileSync(csvPath, 'utf8');
+      const lines = content.split('\n');
+      for (let i = 1; i < lines.length; i++) {
+        const line = lines[i];
+        if (!line) continue;
+        const parts = line.split(',');
+        const fullname = parts[3]?.trim();
+        const imagePath = parts[4]?.trim();
+        if (fullname && imagePath && imagePath.startsWith('http') && !isPlaceholderUrl(imagePath)) {
+          const norm = normalizePlayerName(fullname);
+          _sportmonksMap.set(norm, imagePath);
+          const alias = fullname.toLowerCase().replace(/[.\-_]/g, ' ').replace(/\s+/g, ' ').trim();
+          _sportmonksMap.set(alias, imagePath);
+        }
+      }
+    }
+  } catch (err) {
+    console.warn('[PlayerImageResolver] Error loading Sportmonks player CSV:', err);
+  }
+  return _sportmonksMap;
+}
+
+export function getSportmonksPlayerImage(name: string): string | null {
+  if (!name) return null;
+  const map = getSportmonksMap();
+  const normalized = normalizePlayerName(name);
+  if (map.has(normalized)) return map.get(normalized)!;
+
+  const alias = name.toLowerCase().replace(/[.\-_]/g, ' ').replace(/\s+/g, ' ').trim();
+  if (map.has(alias)) return map.get(alias)!;
+
+  if (normalized.length >= 6) {
+    for (const [key, val] of map.entries()) {
+      if (key.includes(normalized) || normalized.includes(key)) {
+        return val;
+      }
+    }
+  }
+  return null;
+}
+
+// Brand-aligned obsidian (#0a0a0f) and tactical lime (#a3e635) SVG avatar generator
+export function generateBrandAlignedAvatarSvg(name: string | null): string {
+  const cleanName = (name || 'Cricketer')
+    .replace(/\s*\([^)]*\)\s*/g, ' ')
+    .replace(/[.\-_]/g, ' ')
+    .trim();
+
+  const words = cleanName.split(/\s+/).filter(Boolean);
+  const initials = words.length >= 2
+    ? (words[0][0] + words[words.length - 1][0]).toUpperCase()
+    : cleanName.slice(0, 2).toUpperCase() || 'CR';
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <radialGradient id="edge-radial" cx="50%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#182312" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#0a0a0f" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#050508" stop-opacity="1"/>
+    </radialGradient>
+    <linearGradient id="lime-accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a3e635"/>
+      <stop offset="100%" stop-color="#4d7c0f"/>
+    </linearGradient>
+    <linearGradient id="glow-text" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7fee7"/>
+      <stop offset="50%" stop-color="#bef264"/>
+      <stop offset="100%" stop-color="#a3e635"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Deep Obsidian Base -->
+  <rect width="160" height="160" rx="80" fill="url(#edge-radial)"/>
+  
+  <!-- Outer HUD Tactical Reticles -->
+  <circle cx="80" cy="80" r="77" fill="none" stroke="#a3e635" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 6"/>
+  <circle cx="80" cy="80" r="70" fill="none" stroke="#27272a" stroke-width="1"/>
+
+  <!-- Tactical Coordinate Ticks -->
+  <line x1="80" y1="3" x2="80" y2="10" stroke="#a3e635" stroke-width="2" stroke-linecap="round"/>
+  <line x1="80" y1="150" x2="80" y2="157" stroke="#a3e635" stroke-width="2" stroke-linecap="round"/>
+  <line x1="3" y1="80" x2="10" y2="80" stroke="#a3e635" stroke-width="2" stroke-linecap="round"/>
+  <line x1="150" y1="80" x2="157" y2="80" stroke="#a3e635" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Athletic Player Silhouette Wireframe -->
+  <circle cx="80" cy="54" r="24" fill="#141c10" stroke="#a3e635" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M34 134 C44 98 60 88 80 88 C100 88 116 98 126 134" fill="#141c10" stroke="#a3e635" stroke-opacity="0.4" stroke-width="1.5"/>
+
+  <!-- Monogram Initials -->
+  <text x="80" y="62" text-anchor="middle" dominant-baseline="central"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    font-size="24" font-weight="900" letter-spacing="1.5" fill="url(#glow-text)">${initials}</text>
+
+  <!-- Tactical HUD Badge -->
+  <rect x="42" y="132" width="76" height="16" rx="4" fill="#0a0a0f" stroke="#a3e635" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="80" y="142" text-anchor="middle" dominant-baseline="central"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace"
+    font-size="7.5" font-weight="900" letter-spacing="1.5" fill="#a3e635">EDGE TELEMETRY</text>
+</svg>`;
+}
 
 // High-speed in-memory LRU cache to prevent redundant DB or network checks
 const MEMORY_CACHE = new Map<string, { url: string | null; timestamp: number }>();
@@ -199,6 +334,9 @@ function nodeGet(url: string, timeoutMs = 3000): Promise<{ status: number; body:
 export function checkUrlHead(url: string, timeoutMs = 2500): Promise<boolean> {
   return new Promise((resolve) => {
     try {
+      if (isPlaceholderUrl(url)) {
+        return resolve(false);
+      }
       const parsed = new URL(url);
       if (!ALLOWED_IMAGE_HOSTS.has(parsed.hostname)) {
         return resolve(false);
@@ -209,6 +347,12 @@ export function checkUrlHead(url: string, timeoutMs = 2500): Promise<boolean> {
         { method: 'HEAD', headers: { 'User-Agent': UA } },
         (res) => {
           const status = res.statusCode ?? 0;
+          if (status === 301 || status === 302) {
+            const redirectLoc = res.headers.location;
+            if (isPlaceholderUrl(redirectLoc)) {
+              return resolve(false);
+            }
+          }
           const contentType = (res.headers['content-type'] || '').toLowerCase();
           const isImage = contentType.startsWith('image/') || contentType.includes('octet-stream') || status === 200;
           resolve(status === 200 && isImage);
@@ -357,6 +501,24 @@ export async function getEspnCricinfoPlayerImage(
       }
       MEMORY_CACHE.set(cacheKey, { url: cdnUrl, timestamp: Date.now() });
       return cdnUrl;
+    }
+  }
+
+  // 4.5 Check Sportmonks 17,386 Player Catalog
+  if (normalized) {
+    const sportmonksUrl = getSportmonksPlayerImage(rawName);
+    if (sportmonksUrl) {
+      const isValid = await checkUrlHead(sportmonksUrl, 2000);
+      if (isValid) {
+        if (playerId) {
+          prisma.player.update({
+            where: { id: playerId },
+            data: { imageUrl: sportmonksUrl },
+          }).catch(() => {});
+        }
+        MEMORY_CACHE.set(cacheKey, { url: sportmonksUrl, timestamp: Date.now() });
+        return sportmonksUrl;
+      }
     }
   }
 
