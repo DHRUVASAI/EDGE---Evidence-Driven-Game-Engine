@@ -5,7 +5,6 @@ import useSWR from "swr";
 import { motion } from "framer-motion";
 import FormTrendsChart from "./FormTrendsChart";
 import VenueOpponentChart from "./VenueOpponentChart";
-import XIRecommendations from "./XIRecommendations";
 import WorkloadChart from "./WorkloadChart";
 import ConsistencyChart from "./ConsistencyChart";
 import { ChevronDown, Search, X } from "lucide-react";
@@ -190,12 +189,6 @@ export default function PlayerFormDashboard() {
     { revalidateOnFocus: false },
   );
 
-  const { data: xiRecommendations } = useSWR(
-    `/api/xi-recommendations?format=${selectedFormat}`,
-    fetcher,
-    { revalidateOnFocus: false },
-  );
-
   const { data: workload } = useSWR(
     activePlayer && selectedMetric === "bowling"
       ? `/api/workload?player_id=${activePlayer}&format=${selectedFormat}`
@@ -345,16 +338,6 @@ export default function PlayerFormDashboard() {
           />
         </motion.div>
       </div>
-
-      {/* ── Row 2: XI Recommendations (full width) ───────────────────────────── */}
-      <motion.div
-        initial={{ opacity: 0, y: 16 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.16 }}
-        className={cardCls}
-      >
-        <XIRecommendations data={xiRecommendations} format={selectedFormat} />
-      </motion.div>
 
       {/* ── Row 3: Workload + Consistency ───────────────────────────────────── */}
       <motion.div
