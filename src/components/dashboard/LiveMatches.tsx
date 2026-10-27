@@ -213,13 +213,17 @@ function MatchMiniCard({
       {/* Footer Status Snippet */}
       <div className="mt-2 pt-1.5 border-t border-zinc-900/80 w-full flex items-center justify-between">
         <span
-          title={match.status}
-          className="text-[9px] text-zinc-500 truncate max-w-[190px] font-medium leading-none"
+          title={isUpcoming && match.dateStr ? match.dateStr : match.status}
+          className={`text-[9px] truncate max-w-[190px] font-medium leading-none ${
+            isLive ? "text-amber-400 font-bold" : "text-zinc-500"
+          }`}
         >
-          {match.status
-            .replace(/RESULT:\s*/i, "")
-            .replace(/LIVE\s*•\s*/i, "")
-            .replace(/UPCOMING\s*•\s*/i, "")}
+          {isUpcoming && match.dateStr
+            ? match.dateStr
+            : match.status
+                .replace(/RESULT:\s*/i, "")
+                .replace(/LIVE\s*•\s*/i, "")
+                .replace(/UPCOMING\s*•\s*/i, "")}
         </span>
       </div>
 
@@ -234,8 +238,8 @@ function MatchMiniCard({
 const DEFAULT_MATCHES: LiveMatch[] = [
   {
     id: 1,
-    matchId: "default-ind-eng-1",
-    name: "India vs England, 3rd T20I (Series Decider)",
+    matchId: "live-ind-aus-t20i-decider",
+    name: "India vs Australia, 3rd T20I (Series Decider)",
     subtitle: "3rd T20I",
     gender: "men",
     isLive: true,
@@ -246,21 +250,108 @@ const DEFAULT_MATCHES: LiveMatch[] = [
     windowState: "live",
     teams: {
       t1: "IND", t1Name: "India", t1Logo: "bg-blue-600 text-white border-blue-400", t1IsImage: false,
-      t2: "ENG", t2Name: "England", t2Logo: "bg-sky-700 text-white border-sky-500", t2IsImage: false,
+      t2: "AUS", t2Name: "Australia", t2Logo: "bg-yellow-500 text-black border-yellow-400", t2IsImage: false,
     },
-    score1: "194/4 (20 Ov)",
-    score2: "152/4 (16.2 Ov)",
-    overs: "16.2 Ov",
-    status: "LIVE • England need 43 runs in 22 balls",
+    score1: "201/5 (20 Ov)",
+    score2: "181/4 (17.5 Ov)",
+    overs: "17.5 Ov",
+    status: "LIVE • Australia need 21 runs in 13 balls (RRR: 9.7)",
     venue: "Wankhede Stadium, Mumbai",
-    pitch: "Flat batting deck with consistent carry. Dew factor settling in.",
-    winProb1: 64,
-    winProb2: 36,
+    pitch: "High-scoring deck with true bounce. Dew factor active on the outfield for the chase.",
+    winProb1: 52,
+    winProb2: 48,
     liveBatsmen: [
-      { name: "Jos Buttler", runs: 68, balls: 41, fours: 6, sixes: 3, sr: 165.8 },
-      { name: "Harry Brook", runs: 24, balls: 14, fours: 2, sixes: 1, sr: 171.4 }
+      { name: "Glenn Maxwell", runs: 61, balls: 30, fours: 4, sixes: 4, sr: 203.3 },
+      { name: "Tim David", runs: 17, balls: 9, fours: 1, sixes: 1, sr: 188.8 }
     ],
-    liveBowler: { name: "Jasprit Bumrah", overs: "3.2", maidens: 0, runs: 21, wickets: 2, econ: 6.3 }
+    liveBowler: { name: "Jasprit Bumrah", overs: "3.5", maidens: 0, runs: 29, wickets: 2, econ: 7.6 }
+  },
+  {
+    id: 2,
+    matchId: "live-eng-pak-t20i-2",
+    name: "England vs Pakistan, 2nd T20I",
+    subtitle: "2nd T20I",
+    gender: "men",
+    isLive: true,
+    isEnded: false,
+    isUpcoming: false,
+    matchType: "T20I",
+    dateStr: "Live Now • Today",
+    windowState: "live",
+    teams: {
+      t1: "ENG", t1Name: "England", t1Logo: "bg-sky-700 text-white border-sky-500", t1IsImage: false,
+      t2: "PAK", t2Name: "Pakistan", t2Logo: "bg-emerald-800 text-emerald-200 border-emerald-600", t2IsImage: false,
+    },
+    score1: "188/6 (20 Ov)",
+    score2: "146/3 (15.4 Ov)",
+    overs: "15.4 Ov",
+    status: "LIVE • Pakistan need 43 runs in 26 balls (RRR: 9.9)",
+    venue: "National Stadium, Karachi",
+    pitch: "Flat track with good carry. Spinners finding mild grip in the middle overs.",
+    winProb1: 39,
+    winProb2: 61,
+    liveBatsmen: [
+      { name: "Babar Azam", runs: 67, balls: 44, fours: 8, sixes: 1, sr: 152.2 },
+      { name: "Mohammad Rizwan", runs: 51, balls: 35, fours: 4, sixes: 1, sr: 145.7 }
+    ],
+    liveBowler: { name: "Jofra Archer", overs: "2.4", maidens: 0, runs: 21, wickets: 1, econ: 7.9 }
+  },
+  {
+    id: 3,
+    matchId: "yesterday-sa-nz-odi-1",
+    name: "South Africa vs New Zealand, 1st ODI",
+    subtitle: "1st ODI",
+    gender: "men",
+    isLive: false,
+    isEnded: true,
+    isUpcoming: false,
+    matchType: "ODI",
+    dateStr: "Yesterday • Final Result",
+    windowState: "completed",
+    teams: {
+      t1: "RSA", t1Name: "South Africa", t1Logo: "bg-green-700 text-white border-green-500", t1IsImage: false,
+      t2: "NZ", t2Name: "New Zealand", t2Logo: "bg-zinc-800 text-white border-zinc-600", t2IsImage: false,
+    },
+    score1: "312/7 (50 Ov)",
+    score2: "288/10 (48.2 Ov)",
+    overs: "48.2 Ov",
+    status: "RESULT: South Africa won by 24 runs",
+    venue: "SuperSport Park, Centurion",
+    pitch: "Pacy, bouncy Highveld track with seam assistance in the evening under lights.",
+    winProb1: 100,
+    winProb2: 0,
+    liveBatsmen: [
+      { name: "Heinrich Klaasen", runs: 94, balls: 58, fours: 8, sixes: 5, sr: 162.0 },
+      { name: "David Miller", runs: 62, balls: 44, fours: 4, sixes: 3, sr: 140.9 }
+    ],
+    liveBowler: { name: "Kagiso Rabada", overs: "9.2", maidens: 1, runs: 46, wickets: 4, econ: 4.9 }
+  },
+  {
+    id: 4,
+    matchId: "tomorrow-aus-ind-odi-1",
+    name: "Australia vs India, 1st ODI (Series Opener)",
+    subtitle: "1st ODI",
+    gender: "men",
+    isLive: false,
+    isEnded: false,
+    isUpcoming: true,
+    matchType: "ODI",
+    dateStr: "Tomorrow, 09:30 AM IST",
+    windowState: "upcoming",
+    teams: {
+      t1: "AUS", t1Name: "Australia", t1Logo: "bg-yellow-500 text-black border-yellow-400", t1IsImage: false,
+      t2: "IND", t2Name: "India", t2Logo: "bg-blue-600 text-white border-blue-400", t2IsImage: false,
+    },
+    score1: "Yet to bat",
+    score2: "Yet to bat",
+    overs: "–",
+    status: "UPCOMING • Toss at 9:00 AM IST",
+    venue: "Sydney Cricket Ground, Sydney",
+    pitch: "Classic SCG pitch with even pace and spin expected later in the afternoon.",
+    winProb1: 51,
+    winProb2: 49,
+    liveBatsmen: [{ name: "Travis Head", runs: 0, balls: 0, fours: 0, sixes: 0, sr: 0 }],
+    liveBowler: { name: "Mohammed Siraj", overs: "0.0", maidens: 0, runs: 0, wickets: 0, econ: 0.0 }
   }
 ];
 
