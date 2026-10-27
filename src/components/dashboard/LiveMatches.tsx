@@ -712,6 +712,15 @@ export default function LiveMatches() {
                     </span>
                   </div>
                 </div>
+              ) : currentMatch.winProbLabel?.startsWith("Unavailable") ? (
+                <div className="bg-[#0e0e16] border border-amber-500/20 rounded-xl p-4 flex flex-col gap-2">
+                  <span className="text-[10px] font-black uppercase tracking-wider text-amber-300">
+                    Win probability unavailable
+                  </span>
+                  <p className="text-xs leading-5 text-zinc-400">
+                    The provider summary does not contain the current innings required for a meaningful Test chase estimate.
+                  </p>
+                </div>
               ) : (
                 <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col gap-3">
                   <div className="flex justify-between items-center text-[9px] font-black uppercase tracking-wider">
@@ -730,8 +739,8 @@ export default function LiveMatches() {
                     />
                   </div>
                   <div className="flex items-center justify-between text-[8px] font-bold text-zinc-500 uppercase tracking-wider pt-0.5">
-                    <span>{currentMatch.winProbLabel || "EDGE Empirical Estimate"}</span>
-                    <span>Bayesian Chase Par</span>
+                    <span>{currentMatch.winProbLabel || "EDGE heuristic estimate"}</span>
+                    <span>Heuristic · not official</span>
                   </div>
                 </div>
               )}
