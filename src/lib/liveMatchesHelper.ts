@@ -48,6 +48,11 @@ const ICC_KEYWORDS = [
   "New Zealand tour", "South Africa tour", "West Indies tour", "Zimbabwe tour"
 ];
 
+const MARQUEE_TEAMS = [
+  "india", "australia", "england", "pakistan", "south africa",
+  "new zealand", "west indies", "sri lanka", "afghanistan", "bangladesh"
+];
+
 export type MatchWindowState = "live" | "upcoming" | "completed" | "stale";
 
 export function classifyMatchWindow(m: any): MatchWindowState {
@@ -62,9 +67,6 @@ export function classifyMatchWindow(m: any): MatchWindowState {
 
   // Completed matches
   if (m.isEnded || status.includes("won by") || status.includes("tied") || status.includes("no result") || status.includes("result")) {
-    if (dateStr.includes("today") || dateStr.includes("yesterday") || status.includes("today") || status.includes("yesterday")) {
-      return "completed";
-    }
     return "completed";
   }
 
@@ -113,6 +115,21 @@ function makeShortName(name: string): string {
   return words.map(w => w[0]).join("").toUpperCase().slice(0, 3);
 }
 
+export function extractMatchSubtitle(matchName: string, matchType?: string): string {
+  if (!matchName) return matchType || "Match";
+  const parts = matchName.split(",").map(p => p.trim());
+  if (parts.length >= 2) {
+    const candidate = parts[1];
+    if (/\b(\d+(st|nd|rd|th)\s+(T20I|ODI|Test|Match)|Final|Semi-Final|Qualifier|Playoff)\b/i.test(candidate)) {
+      return candidate.replace(/Unofficial\s+/i, "");
+    }
+    if (candidate.length <= 24) {
+      return candidate;
+    }
+  }
+  return matchType || "Match";
+}
+
 const TEAM_COLORS: Record<string, string> = {
   "India": "bg-blue-600 text-white border-blue-400",
   "Pakistan": "bg-emerald-800 text-emerald-200 border-emerald-600",
@@ -136,17 +153,75 @@ function getTeamColor(name: string): string {
   return TEAM_COLORS.default;
 }
 
-function buildWinProbability(scores: any[]): { winProb1: number; winProb2: number } {
+function buildWinProbability(
+  scores: any[],
+  statusText: string = "",
+  isEnded: boolean = false,
+  t1Name: string = "",
+  t2Name: string = "",
+  t1Short: string = "",
+  t2Short: string = ""
+): { winProb1: number; winProb2: number } {
+  const statusLower = (statusText || "").toLowerCase();
+
+  // If match has concluded with an explicit winner:
+  if (isEnded || statusLower.includes("won by") || statusLower.includes("won the")) {
+    const t1N = t1Name.toLowerCase();
+    const t2N = t2Name.toLowerCase();
+    const t1S = t1Short.toLowerCase();
+    const t2S = t2Short.toLowerCase();
+
+    // Check if Team 1 won
+    if (statusLower.includes(t1N) || (t1S.length > 1 && statusLower.includes(t1S))) {
+      return { winProb1: 100, winProb2: 0 };
+    }
+    // Check if Team 2 won
+    if (statusLower.includes(t2N) || (t2S.length > 1 && statusLower.includes(t2S))) {
+      return { winProb1: 0, winProb2: 100 };
+    }
+    // Tied or No result
+    if (statusLower.includes("tied") || statusLower.includes("no result") || statusLower.includes("drawn")) {
+      return { winProb1: 50, winProb2: 50 };
+    }
+  }
+
   if (!scores || scores.length < 2) return { winProb1: 50, winProb2: 50 };
   const batting = scores[0];
   const chasing = scores[1];
-  if (!chasing) return { winProb1: 50, winProb2: 50 };
+  if (!chasing || typeof chasing.r !== "number" || typeof batting.r !== "number") {
+    return { winProb1: 50, winProb2: 50 };
+  }
   const target = batting.r + 1;
   const chasingRuns = chasing.r;
   const wicketsLeft = 10 - (chasing.w || 0);
   const progress = chasingRuns / target;
   const chasingProb = Math.min(95, Math.max(5, progress * 100 * (wicketsLeft / 10)));
   return { winProb1: Math.round(100 - chasingProb), winProb2: Math.round(chasingProb) };
+}
+
+function getMatchPriorityScore(m: any): number {
+  let score = 0;
+  // 1. Live matches have highest priority
+  if (m.isLive || m.windowState === "live") {
+    score += 10000;
+  }
+  // 2. Upcoming matches today
+  if (m.isUpcoming || m.windowState === "upcoming") {
+    score += 2000;
+  }
+  // 3. Marquee teams
+  const nameLower = (m.name || "").toLowerCase();
+  for (const team of MARQUEE_TEAMS) {
+    if (nameLower.includes(team)) {
+      score += 4000;
+      break;
+    }
+  }
+  // 4. Tournament Finals
+  if (nameLower.includes("final")) {
+    score += 1500;
+  }
+  return score;
 }
 
 function parseMatch(m: any, idx: number): any {
@@ -161,7 +236,6 @@ function parseMatch(m: any, idx: number): any {
 
   const score1 = m.score?.[0] ? `${m.score[0].r}/${m.score[0].w} (${m.score[0].o} Ov)` : "Yet to bat";
   const score2 = m.score?.[1] ? `${m.score[1].r}/${m.score[1].w} (${m.score[1].o} Ov)` : "Yet to bat";
-  const { winProb1, winProb2 } = buildWinProbability(m.score || []);
 
   const isLive = m.matchStarted && !m.matchEnded;
   const isEnded = !!m.matchEnded;
@@ -174,6 +248,8 @@ function parseMatch(m: any, idx: number): any {
   else if (isEnded) statusText = `RESULT: ${statusText}`;
   else if (isUpcoming) statusText = `UPCOMING • ${statusText}`;
 
+  const { winProb1, winProb2 } = buildWinProbability(m.score || [], statusText, isEnded, t1Name, t2Name, t1Short, t2Short);
+  const subtitle = extractMatchSubtitle(m.name, matchLabel);
   const gender = isWomens(m.name) ? "women" : "men";
 
   let dateStr = "";
@@ -189,6 +265,7 @@ function parseMatch(m: any, idx: number): any {
     id: idx,
     matchId: m.id,
     name: m.name,
+    subtitle,
     gender,
     isLive,
     isEnded,
@@ -277,6 +354,10 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
             .map((m, idx) => parseMatch(m, idx + 1))
             .filter(m => m.windowState !== "stale");
 
+          // Sort by priority so marquee and live matches appear first
+          parsed.sort((a, b) => getMatchPriorityScore(b) - getMatchPriorityScore(a));
+          parsed.forEach((m, idx) => { m.id = idx + 1; });
+
           const liveCount = parsed.filter(m => m.windowState === "live").length;
           const upcomingCount = parsed.filter(m => m.windowState === "upcoming").length;
           const completedCount = parsed.filter(m => m.windowState === "completed").length;
@@ -302,6 +383,35 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
   const cached = readCache();
   if (cached && Array.isArray(cached.matches) && cached.matches.length > 0) {
     cached.source = "CricAPI (Cached)";
+    // Enrich with subtitle and calibrated win probabilities
+    cached.matches = cached.matches.map((m: any) => {
+      const subtitle = m.subtitle || extractMatchSubtitle(m.name, m.matchType);
+      const isEnded = m.isEnded ?? (m.windowState === "completed");
+      const { winProb1, winProb2 } = buildWinProbability(
+        m.score,
+        m.status,
+        isEnded,
+        m.teams?.t1Name || "",
+        m.teams?.t2Name || "",
+        m.teams?.t1 || "",
+        m.teams?.t2 || ""
+      );
+      return {
+        ...m,
+        subtitle,
+        winProb1,
+        winProb2,
+      };
+    });
+
+    // Sort by priority so marquee and live matches appear first
+    cached.matches.sort((a: any, b: any) => getMatchPriorityScore(b) - getMatchPriorityScore(a));
+    cached.matches.forEach((m: any, idx: number) => { m.id = idx + 1; });
+
+    cached.liveCount = cached.matches.filter((m: any) => m.windowState === "live").length;
+    cached.upcomingCount = cached.matches.filter((m: any) => m.windowState === "upcoming").length;
+    cached.completedCount = cached.matches.filter((m: any) => m.windowState === "completed").length;
+
     return cached;
   }
 
@@ -323,6 +433,7 @@ function getCuratedMatchTelemetry() {
       id: 1,
       matchId: "live-ind-eng-t20-1",
       name: "India vs England, 3rd T20I (Series Decider)",
+      subtitle: "3rd T20I",
       gender: "men",
       isLive: true,
       isEnded: false,
@@ -352,6 +463,7 @@ function getCuratedMatchTelemetry() {
       id: 2,
       matchId: "upcoming-aus-sa-odi-2",
       name: "Australia vs South Africa, 2nd ODI",
+      subtitle: "2nd ODI",
       gender: "men",
       isLive: false,
       isEnded: false,
@@ -378,6 +490,7 @@ function getCuratedMatchTelemetry() {
       id: 3,
       matchId: "completed-csk-mi-ipl-1",
       name: "Chennai Super Kings vs Mumbai Indians, IPL Clash",
+      subtitle: "IPL Clash",
       gender: "men",
       isLive: false,
       isEnded: true,
@@ -398,8 +511,8 @@ function getCuratedMatchTelemetry() {
       winProb1: 0,
       winProb2: 100,
       liveBatsmen: [
-        { name: "Rohit Sharma", runs: 86, balls: 47, average: 0, fours: 8, sixes: 5, sr: 183.0 },
-        { name: "Suryakumar Yadav", runs: 53, balls: 26, average: 0, fours: 5, sixes: 3, sr: 203.8 }
+        { name: "Rohit Sharma", runs: 86, balls: 47, fours: 8, sixes: 5, sr: 183.0 },
+        { name: "Suryakumar Yadav", runs: 53, balls: 26, fours: 5, sixes: 3, sr: 203.8 }
       ],
       liveBowler: { name: "Matheesha Pathirana", overs: "4.0", maidens: 0, runs: 38, wickets: 2, econ: 9.5 }
     }

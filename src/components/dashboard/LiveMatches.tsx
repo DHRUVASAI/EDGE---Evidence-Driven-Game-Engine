@@ -1,12 +1,28 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import { Activity, MapPin, Loader2, Calendar, Clock, Radio, CheckCircle2, Flame } from "lucide-react";
+import React, { useState, useEffect, useRef } from "react";
+import {
+  Activity,
+  MapPin,
+  Calendar,
+  Clock,
+  Radio,
+  CheckCircle2,
+  Flame,
+  Trophy,
+  ChevronLeft,
+  ChevronRight,
+  TrendingUp,
+  BarChart2,
+  Layers,
+  ArrowRight
+} from "lucide-react";
 
 export interface LiveMatch {
   id: number;
   matchId?: string;
   name?: string;
+  subtitle?: string;
   gender?: string;
   isLive?: boolean;
   isEnded?: boolean;
@@ -58,7 +74,7 @@ const FLAG_MAP: Record<string, string> = {
 
 function TeamLogo({ logo, isImage, shortName }: { logo: string; isImage: boolean; shortName: string }) {
   const [imgError, setImgError] = useState(false);
-  const code = shortName.replace(/-W$/i, "").trim().toUpperCase();
+  const code = shortName.replace(/-W$/i, "").replace(/-A$/i, "").trim().toUpperCase();
   const countryFlagCode = FLAG_MAP[code];
   const logoUrl = countryFlagCode ? `https://flagcdn.com/h40/${countryFlagCode}.png` : logo;
   const isActualImage = isImage || !!countryFlagCode;
@@ -82,7 +98,31 @@ function TeamLogo({ logo, isImage, shortName }: { logo: string; isImage: boolean
   );
 }
 
-function MatchTabButton({
+function MiniTeamBadge({ logo, isImage, shortName }: { logo: string; isImage: boolean; shortName: string }) {
+  const [imgError, setImgError] = useState(false);
+  const code = shortName.replace(/-W$/i, "").replace(/-A$/i, "").trim().toUpperCase();
+  const countryFlagCode = FLAG_MAP[code];
+  const logoUrl = countryFlagCode ? `https://flagcdn.com/h24/${countryFlagCode}.png` : logo;
+  const isActualImage = isImage || !!countryFlagCode;
+
+  if (isActualImage && logoUrl && !imgError) {
+    return (
+      <img
+        src={logoUrl}
+        alt={shortName}
+        onError={() => setImgError(true)}
+        className="w-4 h-4 rounded-full object-cover border border-zinc-750 bg-zinc-900 shrink-0"
+      />
+    );
+  }
+  return (
+    <div className="w-4 h-4 rounded-full bg-zinc-800 border border-zinc-700 flex items-center justify-center text-[7px] font-black text-zinc-300 shrink-0">
+      {shortName.slice(0, 2)}
+    </div>
+  );
+}
+
+function MatchMiniCard({
   match,
   isActive,
   onClick
@@ -91,29 +131,102 @@ function MatchTabButton({
   isActive: boolean;
   onClick: () => void;
 }) {
-  const genderLabel = match.gender === "women" ? "W" : "M";
-  const stateColor = match.isLive || match.windowState === "live"
-    ? "bg-red-500 shadow-[0_0_8px_rgba(239,68,68,0.6)]"
-    : match.isUpcoming || match.windowState === "upcoming"
-    ? "bg-amber-400"
-    : "bg-zinc-500";
+  const genderLabel = match.gender === "women" ? "W" : null;
+  const isLive = match.isLive || match.windowState === "live";
+  const isUpcoming = match.isUpcoming || match.windowState === "upcoming";
+  const subtitle = match.subtitle || match.matchType || "Fixture";
 
   return (
     <button
       onClick={onClick}
-      className={`flex items-center gap-2 px-3.5 py-2 rounded-xl text-[11px] font-black tracking-wider uppercase transition-all border ${
+      className={`group relative flex flex-col justify-between w-[215px] min-w-[215px] p-3 rounded-xl text-left transition-all border shrink-0 cursor-pointer ${
         isActive
-          ? "bg-lime-400 text-black border-lime-400 shadow-[0_0_15px_rgba(163,230,53,0.2)]"
-          : "bg-zinc-950/60 border-zinc-800/80 text-zinc-400 hover:text-zinc-200 hover:border-zinc-700"
+          ? "bg-gradient-to-b from-[#151f10] via-[#0b1008] to-[#060a05] border-lime-400 shadow-[0_0_20px_rgba(163,230,53,0.18)]"
+          : "bg-zinc-950/70 border-zinc-800/80 hover:border-zinc-700 hover:bg-zinc-900/50"
       }`}
     >
-      <span className={`w-2 h-2 rounded-full shrink-0 ${stateColor} ${match.isLive ? "animate-ping" : ""}`} />
-      <span className="font-extrabold">{match.teams.t1} vs {match.teams.t2}</span>
-      <span className={`text-[8px] px-1 py-0.5 rounded border font-black ${
-        match.gender === "women"
-          ? "bg-pink-500/20 text-pink-400 border-pink-500/30"
-          : "bg-sky-500/20 text-sky-400 border-sky-500/30"
-      }`}>{genderLabel}</span>
+      {/* Top Meta Bar */}
+      <div className="flex items-center justify-between gap-1 w-full mb-2">
+        <div className="flex items-center gap-1.5">
+          {isLive ? (
+            <span className="flex items-center gap-1 text-[8px] font-black uppercase tracking-wider text-red-400 bg-red-500/15 border border-red-500/35 px-1.5 py-0.5 rounded">
+              <span className="w-1.5 h-1.5 rounded-full bg-red-500 animate-ping shrink-0" />
+              LIVE
+            </span>
+          ) : isUpcoming ? (
+            <span className="flex items-center gap-1 text-[8px] font-black uppercase tracking-wider text-amber-300 bg-amber-500/15 border border-amber-500/35 px-1.5 py-0.5 rounded">
+              <Clock size={8} />
+              UPCOMING
+            </span>
+          ) : (
+            <span className="flex items-center gap-1 text-[8px] font-black uppercase tracking-wider text-zinc-400 bg-zinc-900 border border-zinc-800 px-1.5 py-0.5 rounded">
+              FINAL
+            </span>
+          )}
+          {genderLabel && (
+            <span className="text-[8px] font-black text-pink-400 bg-pink-500/15 border border-pink-500/25 px-1 py-0.5 rounded">
+              W
+            </span>
+          )}
+        </div>
+
+        {/* Subtitle / Series Tag */}
+        <span
+          title={subtitle}
+          className={`text-[9px] font-bold truncate max-w-[95px] tracking-wide ${
+            isActive ? "text-lime-300 font-extrabold" : "text-zinc-500 group-hover:text-zinc-400"
+          }`}
+        >
+          {subtitle}
+        </span>
+      </div>
+
+      {/* Teams & Scores */}
+      <div className="flex flex-col gap-1.5 w-full my-1">
+        {/* Team 1 */}
+        <div className="flex items-center justify-between text-xs">
+          <div className="flex items-center gap-2">
+            <MiniTeamBadge logo={match.teams.t1Logo} isImage={match.teams.t1IsImage} shortName={match.teams.t1} />
+            <span className={`font-black tracking-tight ${isActive ? "text-white" : "text-zinc-300"}`}>
+              {match.teams.t1}
+            </span>
+          </div>
+          <span className="text-[11px] font-mono font-bold text-zinc-400">
+            {match.score1 && match.score1 !== "Yet to bat" ? match.score1.split(" ")[0] : "–"}
+          </span>
+        </div>
+
+        {/* Team 2 */}
+        <div className="flex items-center justify-between text-xs">
+          <div className="flex items-center gap-2">
+            <MiniTeamBadge logo={match.teams.t2Logo} isImage={match.teams.t2IsImage} shortName={match.teams.t2} />
+            <span className={`font-black tracking-tight ${isActive ? "text-lime-400" : "text-zinc-300"}`}>
+              {match.teams.t2}
+            </span>
+          </div>
+          <span className={`text-[11px] font-mono font-bold ${isActive ? "text-lime-400 font-extrabold" : "text-zinc-400"}`}>
+            {match.score2 && match.score2 !== "Yet to bat" ? match.score2.split(" ")[0] : "–"}
+          </span>
+        </div>
+      </div>
+
+      {/* Footer Status Snippet */}
+      <div className="mt-2 pt-1.5 border-t border-zinc-900/80 w-full flex items-center justify-between">
+        <span
+          title={match.status}
+          className="text-[9px] text-zinc-500 truncate max-w-[190px] font-medium leading-none"
+        >
+          {match.status
+            .replace(/RESULT:\s*/i, "")
+            .replace(/LIVE\s*•\s*/i, "")
+            .replace(/UPCOMING\s*•\s*/i, "")}
+        </span>
+      </div>
+
+      {/* Active Glowing Reticle Indicator */}
+      {isActive && (
+        <span className="absolute -top-1 left-1/2 -translate-x-1/2 w-10 h-1 rounded-full bg-lime-400 shadow-[0_0_10px_#a3e635]" />
+      )}
     </button>
   );
 }
@@ -123,6 +236,7 @@ const DEFAULT_MATCHES: LiveMatch[] = [
     id: 1,
     matchId: "default-ind-eng-1",
     name: "India vs England, 3rd T20I (Series Decider)",
+    subtitle: "3rd T20I",
     gender: "men",
     isLive: true,
     isEnded: false,
@@ -157,6 +271,8 @@ export default function LiveMatches() {
   const [loading, setLoading] = useState<boolean>(false);
   const [source, setSource] = useState<string>("cricapi-live");
   const [isStreamConnected, setIsStreamConnected] = useState<boolean>(false);
+
+  const carouselRef = useRef<HTMLDivElement>(null);
 
   const fetchLiveMatches = async () => {
     try {
@@ -238,17 +354,47 @@ export default function LiveMatches() {
   const currentMatch = filteredMatches[activeMatchIndex] || filteredMatches[0] || matches[0];
 
   const handlePrev = () => {
+    if (filteredMatches.length === 0) return;
     setActiveMatchIndex((prev) => (prev === 0 ? filteredMatches.length - 1 : prev - 1));
   };
 
   const handleNext = () => {
+    if (filteredMatches.length === 0) return;
     setActiveMatchIndex((prev) => (prev === filteredMatches.length - 1 ? 0 : prev + 1));
   };
 
+  const scrollLeft = () => {
+    if (carouselRef.current) {
+      carouselRef.current.scrollBy({ left: -360, behavior: "smooth" });
+    }
+  };
+
+  const scrollRight = () => {
+    if (carouselRef.current) {
+      carouselRef.current.scrollBy({ left: 360, behavior: "smooth" });
+    }
+  };
+
+  // Auto-scroll active card into view in the carousel
+  useEffect(() => {
+    const container = carouselRef.current;
+    if (!container || filteredMatches.length === 0) return;
+    const cardEl = container.children[activeMatchIndex] as HTMLElement;
+    if (cardEl) {
+      const elLeft = cardEl.offsetLeft;
+      const elRight = elLeft + cardEl.offsetWidth;
+      const containerLeft = container.scrollLeft;
+      const containerRight = containerLeft + container.offsetWidth;
+      if (elLeft < containerLeft || elRight > containerRight) {
+        cardEl.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+      }
+    }
+  }, [activeMatchIndex, filteredMatches.length]);
+
   return (
-    <div className="w-full flex flex-col gap-6 mb-12">
-      {/* Section Header */}
-      <div className="flex items-center justify-between border-b border-zinc-800 pb-4 flex-wrap gap-4">
+    <div className="w-full flex flex-col gap-5 mb-12">
+      {/* 1. Header Bar with Categories and Stream Status */}
+      <div className="flex items-center justify-between border-b border-zinc-800/80 pb-4 flex-wrap gap-4">
         <div className="flex items-center gap-3 flex-wrap">
           <span className="flex h-3 w-3 relative">
             <span className={`animate-ping absolute inline-flex h-full w-full rounded-full opacity-75 ${
@@ -328,12 +474,68 @@ export default function LiveMatches() {
         </div>
       </div>
 
-      {/* Match Selector Buttons Strip */}
+      {/* 2. Sleek Horizontal Fixture Ribbon / Carousel (No Wrapping!) */}
       {filteredMatches.length > 0 && (
-        <div className="flex items-center justify-between gap-4 overflow-x-auto pb-1 scrollbar-none">
-          <div className="flex items-center gap-2 flex-wrap">
+        <div className="flex flex-col gap-2">
+          {/* Subheader with Track Navigation Controls */}
+          <div className="flex items-center justify-between px-1">
+            <span className="text-[10px] font-extrabold text-zinc-500 uppercase tracking-widest flex items-center gap-1.5">
+              <Layers size={12} className="text-lime-400" />
+              Fixture Telemetry Track ({filteredMatches.length} Matches)
+            </span>
+
+            <div className="flex items-center gap-2">
+              <span className="text-[10px] font-mono font-bold text-zinc-500 uppercase tracking-widest px-2.5 py-0.5 bg-zinc-950/80 border border-zinc-900 rounded-md">
+                {activeMatchIndex + 1} / {filteredMatches.length}
+              </span>
+
+              {/* Prev / Next Track Scroll chevrons */}
+              <div className="flex items-center gap-1">
+                <button
+                  onClick={scrollLeft}
+                  className="p-1 rounded-md bg-zinc-950/80 border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-700 transition-all"
+                  aria-label="Scroll Carousel Left"
+                  title="Scroll Left"
+                >
+                  <ChevronLeft size={14} />
+                </button>
+                <button
+                  onClick={scrollRight}
+                  className="p-1 rounded-md bg-zinc-950/80 border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-700 transition-all"
+                  aria-label="Scroll Carousel Right"
+                  title="Scroll Right"
+                >
+                  <ChevronRight size={14} />
+                </button>
+              </div>
+
+              {/* Direct Prev / Next Match Selector */}
+              <div className="flex items-center gap-1 pl-1 border-l border-zinc-800">
+                <button
+                  onClick={handlePrev}
+                  className="px-2 py-1 rounded-md bg-zinc-950/80 border border-zinc-800 text-[10px] font-black uppercase text-zinc-400 hover:text-lime-400 hover:border-zinc-700 transition-all"
+                  aria-label="Previous Match"
+                >
+                  Prev
+                </button>
+                <button
+                  onClick={handleNext}
+                  className="px-2 py-1 rounded-md bg-zinc-950/80 border border-zinc-800 text-[10px] font-black uppercase text-zinc-400 hover:text-lime-400 hover:border-zinc-700 transition-all"
+                  aria-label="Next Match"
+                >
+                  Next
+                </button>
+              </div>
+            </div>
+          </div>
+
+          {/* Single-Row Scrollable Track */}
+          <div
+            ref={carouselRef}
+            className="flex items-stretch gap-3 overflow-x-auto scroll-smooth py-1 px-0.5 scrollbar-none [scrollbar-width:none] [-ms-overflow-style:none]"
+          >
             {filteredMatches.map((m, idx) => (
-              <MatchTabButton
+              <MatchMiniCard
                 key={m.matchId || m.id || idx}
                 match={m}
                 isActive={idx === activeMatchIndex}
@@ -341,38 +543,31 @@ export default function LiveMatches() {
               />
             ))}
           </div>
-
-          <div className="flex items-center gap-2 shrink-0">
-            <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest px-2.5 py-1 bg-zinc-950/40 border border-zinc-900 rounded-lg">
-              {activeMatchIndex + 1} / {filteredMatches.length}
-            </span>
-            <button
-              onClick={handlePrev}
-              className="p-1.5 rounded-lg bg-zinc-950/60 border border-zinc-800 text-zinc-400 hover:text-zinc-200 hover:border-zinc-700 transition-all"
-              aria-label="Previous Match"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="m15 18-6-6 6-6"/></svg>
-            </button>
-            <button
-              onClick={handleNext}
-              className="p-1.5 rounded-lg bg-zinc-950/60 border border-zinc-800 text-zinc-400 hover:text-zinc-200 hover:border-zinc-700 transition-all"
-              aria-label="Next Match"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="m9 18 6-6-6-6"/></svg>
-            </button>
-          </div>
         </div>
       )}
 
-      {/* Main Scoreboard & Telemetry Card */}
-      {!currentMatch ? (
-        <div className="w-full flex flex-col items-center justify-center p-12 rounded-2xl border border-zinc-800/80 bg-zinc-950/40 gap-3 min-h-[220px]">
-          <Clock className="text-zinc-600" size={28} />
-          <span className="text-sm font-bold text-zinc-400 uppercase tracking-wider">No Matches in this Category</span>
-          <span className="text-xs text-zinc-600">Select "All Active" or check back when new international fixtures begin.</span>
+      {/* 3. Main Telemetry Scoreboard Card */}
+      {!currentMatch || filteredMatches.length === 0 ? (
+        <div className="w-full flex flex-col items-center justify-center p-12 rounded-2xl border border-zinc-800/80 bg-zinc-950/40 gap-3 min-h-[240px]">
+          <div className="w-12 h-12 rounded-full bg-zinc-900 border border-zinc-800 flex items-center justify-center text-zinc-500">
+            <Clock size={22} />
+          </div>
+          <span className="text-sm font-black text-white uppercase tracking-wider">
+            No Fixtures In {activeFilter.toUpperCase()} Window
+          </span>
+          <span className="text-xs text-zinc-500 max-w-md text-center leading-relaxed">
+            There are currently no international matches tagged in this specific state. Select "All Active" or "Recent" to inspect completed encounters.
+          </span>
+          <button
+            onClick={() => { setActiveFilter("all"); setActiveMatchIndex(0); }}
+            className="mt-2 px-4 py-2 rounded-xl bg-lime-400 text-black text-xs font-black uppercase tracking-wider hover:bg-lime-300 transition-all shadow-[0_0_15px_rgba(163,230,53,0.2)]"
+          >
+            View All Active ({matches.length}) Matches
+          </button>
         </div>
       ) : (
         <div className="relative rounded-2xl border border-zinc-800/80 bg-zinc-950/60 p-6 overflow-hidden shadow-2xl backdrop-blur-md">
+          {/* Subtle Ambient Tactical Lighting */}
           <div className="absolute -top-12 -left-12 w-72 h-72 rounded-full blur-[140px] opacity-15 bg-lime-400 pointer-events-none" />
 
           {/* Top Metadata Badges */}
@@ -380,7 +575,7 @@ export default function LiveMatches() {
             {currentMatch.windowState === "live" && (
               <span className="flex items-center gap-1.5 text-[9px] font-black uppercase tracking-widest px-2.5 py-1 rounded-md border bg-red-500/20 text-red-300 border-red-500/40">
                 <span className="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse" />
-                LIVE
+                LIVE TELEMETRY
               </span>
             )}
             {currentMatch.windowState === "upcoming" && (
@@ -396,16 +591,16 @@ export default function LiveMatches() {
               </span>
             )}
             <span className="text-[9px] font-black uppercase tracking-widest px-2.5 py-1 rounded-md border bg-zinc-900/90 text-zinc-400 border-zinc-800">
-              {currentMatch.matchType || "T20"}
+              {currentMatch.subtitle || currentMatch.matchType || "T20"}
             </span>
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 relative z-10 pt-2">
-            {/* Column 1: Match Scoreboard */}
+            {/* Column 1: Match Scoreboard & Outcome Telemetry */}
             <div className="flex flex-col justify-between gap-6 lg:border-r lg:border-zinc-900/80 lg:pr-8">
-              <div className="flex flex-col gap-5 mt-4">
-                {/* Team 1 */}
-                <div className="flex items-center justify-between gap-4 p-2.5 rounded-xl bg-zinc-900/30 border border-zinc-800/40">
+              <div className="flex flex-col gap-4 mt-4">
+                {/* Team 1 Score Card */}
+                <div className="flex items-center justify-between gap-4 p-3 rounded-xl bg-zinc-900/40 border border-zinc-800/60">
                   <div className="flex items-center gap-3">
                     <TeamLogo logo={currentMatch.teams.t1Logo} isImage={currentMatch.teams.t1IsImage} shortName={currentMatch.teams.t1} />
                     <div className="flex flex-col">
@@ -413,11 +608,11 @@ export default function LiveMatches() {
                       <span className="text-[10px] text-zinc-500 font-bold uppercase tracking-wider">{currentMatch.teams.t1}</span>
                     </div>
                   </div>
-                  <span className="text-base font-black text-white shrink-0 tracking-tight">{currentMatch.score1}</span>
+                  <span className="text-base font-black text-white shrink-0 tracking-tight font-mono">{currentMatch.score1}</span>
                 </div>
 
-                {/* Team 2 */}
-                <div className="flex items-center justify-between gap-4 p-2.5 rounded-xl bg-zinc-900/30 border border-zinc-800/40">
+                {/* Team 2 Score Card */}
+                <div className="flex items-center justify-between gap-4 p-3 rounded-xl bg-zinc-900/40 border border-zinc-800/60">
                   <div className="flex items-center gap-3">
                     <TeamLogo logo={currentMatch.teams.t2Logo} isImage={currentMatch.teams.t2IsImage} shortName={currentMatch.teams.t2} />
                     <div className="flex flex-col">
@@ -425,7 +620,7 @@ export default function LiveMatches() {
                       <span className="text-[10px] text-zinc-500 font-bold uppercase tracking-wider">{currentMatch.teams.t2}</span>
                     </div>
                   </div>
-                  <span className={`text-base font-black shrink-0 tracking-tight ${
+                  <span className={`text-base font-black shrink-0 tracking-tight font-mono ${
                     currentMatch.isUpcoming ? "text-zinc-500" : "text-lime-400"
                   }`}>
                     {currentMatch.score2}
@@ -433,11 +628,25 @@ export default function LiveMatches() {
                 </div>
               </div>
 
-              {/* Real-time Win Probability */}
+              {/* Dynamic Telemetry Matrix: Live Dual Bar vs Victor Card vs Pre-Match */}
               {currentMatch.isUpcoming ? (
-                <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col items-center justify-center gap-1.5">
-                  <span className="text-[9px] font-black uppercase tracking-wider text-zinc-500">Win Probability Matrix</span>
-                  <span className="text-xs font-bold text-amber-400">Calibrating match telemetry prior to toss</span>
+                <div className="bg-[#0e0e16] border border-[#181824] rounded-xl p-4 flex flex-col items-center justify-center gap-1.5 text-center">
+                  <span className="text-[9px] font-black uppercase tracking-wider text-zinc-500">Pre-Match Probability Matrix</span>
+                  <span className="text-xs font-bold text-amber-400">Calibrating venue par score & odds prior to toss</span>
+                </div>
+              ) : currentMatch.windowState === "completed" ? (
+                <div className="bg-[#0a1107] border border-lime-500/30 rounded-xl p-3.5 flex items-center gap-3.5 shadow-[0_0_15px_rgba(163,230,53,0.06)]">
+                  <div className="w-10 h-10 rounded-xl bg-lime-400/10 border border-lime-400/30 flex items-center justify-center shrink-0">
+                    <Trophy size={18} className="text-lime-400" />
+                  </div>
+                  <div className="flex flex-col">
+                    <span className="text-[9px] font-black uppercase tracking-wider text-lime-400">
+                      Match Concluded • Official Result
+                    </span>
+                    <span className="text-xs font-black text-white leading-snug mt-0.5">
+                      {currentMatch.status.replace(/RESULT:\s*/i, "")}
+                    </span>
+                  </div>
                 </div>
               ) : (
                 <div className="bg-[#0e0e16] border border-[#141420] rounded-xl p-4 flex flex-col gap-3">
@@ -484,10 +693,10 @@ export default function LiveMatches() {
               {/* Status Banner */}
               <div className={`rounded-xl p-3 flex items-center gap-3 border ${
                 currentMatch.windowState === "live"
-                  ? "bg-red-500/[0.06] border-red-500/30 text-red-300"
+                  ? "bg-red-500/[0.08] border-red-500/35 text-red-300"
                   : currentMatch.windowState === "upcoming"
-                  ? "bg-amber-500/[0.06] border-amber-500/30 text-amber-300"
-                  : "bg-lime-500/[0.06] border-lime-500/30 text-lime-300"
+                  ? "bg-amber-500/[0.08] border-amber-500/35 text-amber-300"
+                  : "bg-lime-500/[0.08] border-lime-500/35 text-lime-300"
               }`}>
                 {currentMatch.windowState === "live" && (
                   <span className="relative flex h-2.5 w-2.5 shrink-0">
@@ -503,13 +712,18 @@ export default function LiveMatches() {
               </div>
             </div>
 
-            {/* Column 3: Live Crease Telemetry or Match Preview */}
+            {/* Column 3: Live Crease Telemetry OR Match Impact Summary (Adaptive) */}
             <div className="flex flex-col gap-4">
               <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-widest flex items-center gap-1.5">
                 <Activity size={13} className="text-lime-400" />
-                {currentMatch.isUpcoming ? "Scheduled Match Preview" : "Live Crease Telemetry"}
+                {currentMatch.isUpcoming
+                  ? "Scheduled Match Intelligence"
+                  : currentMatch.windowState === "completed"
+                  ? "Match Impact & Telemetry Summary"
+                  : "Live Crease Telemetry"}
               </span>
 
+              {/* Case A: Upcoming Fixture */}
               {currentMatch.isUpcoming ? (
                 <div className="flex flex-col gap-3">
                   <div className="bg-[#0a0a0f] border border-zinc-900 rounded-xl p-4 flex flex-col gap-3">
@@ -530,7 +744,54 @@ export default function LiveMatches() {
                     )}
                   </div>
                 </div>
+              ) : currentMatch.windowState === "completed" ? (
+                /* Case B: Concluded Match Impact Summary */
+                <div className="flex flex-col gap-3">
+                  <div className="bg-[#0a0a0f] border border-zinc-900 rounded-xl p-4 flex flex-col gap-3">
+                    <div className="flex items-center justify-between pb-2.5 border-b border-zinc-900">
+                      <span className="text-[10px] font-extrabold text-zinc-400 uppercase tracking-wider flex items-center gap-1.5">
+                        <BarChart2 size={12} className="text-lime-400" />
+                        Final Score Matrix
+                      </span>
+                      <span className="text-[9px] font-mono font-bold text-zinc-500">
+                        {currentMatch.overs !== "–" ? currentMatch.overs : "20.0 Ov"}
+                      </span>
+                    </div>
+
+                    <div className="flex flex-col gap-2">
+                      <div className="flex justify-between items-center text-xs">
+                        <span className="font-bold text-zinc-300">{currentMatch.teams.t1Name}</span>
+                        <span className="font-mono font-black text-white">{currentMatch.score1}</span>
+                      </div>
+                      <div className="flex justify-between items-center text-xs">
+                        <span className="font-bold text-zinc-300">{currentMatch.teams.t2Name}</span>
+                        <span className="font-mono font-black text-lime-400">{currentMatch.score2}</span>
+                      </div>
+                    </div>
+
+                    <div className="mt-2 pt-2.5 border-t border-zinc-900/80 flex flex-col gap-1.5">
+                      <span className="text-[9px] font-bold uppercase tracking-wider text-zinc-500">
+                        Historical Telemetry Status
+                      </span>
+                      <p className="text-[11px] text-zinc-400 leading-relaxed font-medium">
+                        Complete ball-by-ball deliveries from this encounter are verified and indexed into the EDGE analytical engine.
+                      </p>
+                    </div>
+                  </div>
+
+                  <a
+                    href="#match-lab"
+                    className="flex items-center justify-between p-3 rounded-xl bg-zinc-900/50 border border-zinc-800 text-xs font-black uppercase text-zinc-300 hover:text-lime-400 hover:border-lime-400/40 transition-all group"
+                  >
+                    <span className="flex items-center gap-2">
+                      <TrendingUp size={13} className="text-lime-400" />
+                      Inspect Matchup In Analytics Lab
+                    </span>
+                    <ArrowRight size={13} className="group-hover:translate-x-0.5 transition-transform" />
+                  </a>
+                </div>
               ) : (
+                /* Case C: Live Telemetry Crease */
                 <div className="flex flex-col gap-4">
                   {/* Batters */}
                   <div className="flex flex-col gap-2">
