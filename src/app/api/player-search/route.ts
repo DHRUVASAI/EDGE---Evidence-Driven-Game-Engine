@@ -215,6 +215,63 @@ export async function GET(request: Request) {
       };
     });
 
+    // Database/CSV-backed lookup remains authoritative. Use Wikipedia only as a
+    // profile-discovery fallback when EDGE has no local player record.
+    if (results.length === 0) {
+      try {
+        const wikiUrl = new URL("https://en.wikipedia.org/w/api.php");
+        wikiUrl.searchParams.set("action", "query");
+        wikiUrl.searchParams.set("generator", "search");
+        wikiUrl.searchParams.set("gsrsearch", `${q} cricketer cricket`);
+        wikiUrl.searchParams.set("gsrnamespace", "0");
+        wikiUrl.searchParams.set("gsrlimit", "8");
+        wikiUrl.searchParams.set("prop", "pageimages|extracts");
+        wikiUrl.searchParams.set("piprop", "thumbnail");
+        wikiUrl.searchParams.set("pithumbsize", "320");
+        wikiUrl.searchParams.set("exintro", "1");
+        wikiUrl.searchParams.set("explaintext", "1");
+        wikiUrl.searchParams.set("format", "json");
+
+        const wikiResponse = await fetch(wikiUrl.toString(), {
+          headers: { "User-Agent": "EDGE-Cricket-Analytics/1.0 (player profile fallback)" },
+          signal: AbortSignal.timeout(2500),
+          next: { revalidate: 86400 },
+        });
+
+        if (wikiResponse.ok) {
+          const wikiData = await wikiResponse.json();
+          const pages = Object.values(wikiData?.query?.pages || {}) as Array<any>;
+          const fallbackPlayers = pages
+            .filter(page => /cricket|cricketer|batter|bowler|wicket.?keeper/i.test(
+              `${page.title || ""} ${page.extract || ""}`
+            ))
+            .slice(0, 5)
+            .map(page => ({
+              id: `wikipedia-${page.pageid}`,
+              name: page.title,
+              displayName: page.title,
+              country: null,
+              role: "Unknown",
+              espnId: null,
+              imageUrl: page.thumbnail?.source || null,
+              topFormat: "",
+              runs: 0,
+              wickets: 0,
+              source: "Wikipedia profile fallback",
+              profileUrl: `https://en.wikipedia.org/?curid=${page.pageid}`,
+              statsAvailable: false,
+            }));
+
+          if (fallbackPlayers.length > 0) {
+            return NextResponse.json(fallbackPlayers);
+          }
+        }
+      } catch (wikiError) {
+        // External profile discovery must never break local player search.
+        console.warn("Wikipedia player fallback unavailable:", wikiError);
+      }
+    }
+
     return NextResponse.json(results);
   } catch (error: any) {
     console.error('Error in player-search API:', error);
