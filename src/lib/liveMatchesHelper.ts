@@ -138,7 +138,7 @@ export function hasContradictoryMatchState(m: any): boolean {
   const status = String(m.status || "").toLowerCase();
   const explicitlyEnded = m.matchEnded === true || m.isEnded === true;
   const completedByStatus =
-    /\b(won by|lost by|drawn|tied|no result|abandoned|cancelled|match complete|match completed|result:)\b/i.test(status);
+    /\b(won by|lost by|drawn|tied|no result|abandoned|cancelled|match complete|match completed)\b|result:/i.test(status);
   const liveByStatus =
     /\b(in progress|live|innings break|tea break|lunch break|stumps|need \d+ runs?|trail by|lead by|day \d+|session)\b/i.test(status);
   return explicitlyEnded && liveByStatus && !completedByStatus;
@@ -150,7 +150,7 @@ export function classifyMatchWindow(m: any): MatchWindowState {
   const explicitlyStarted = m.matchStarted === true || m.isLive === true;
 
   const completedByStatus =
-    /\b(won by|lost by|drawn|tied|no result|abandoned|cancelled|match complete|match completed|result:)\b/i.test(status);
+    /\b(won by|lost by|drawn|tied|no result|abandoned|cancelled|match complete|match completed)\b|result:/i.test(status);
   const liveByStatus =
     /\b(in progress|live|innings break|tea break|lunch break|stumps|need \d+ runs?|trail by|lead by|day \d+|session)\b/i.test(status);
 
@@ -486,30 +486,30 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
           .filter(m => isMatchInThreeDayWindow(m))
           .filter(m => classifyMatchWindow(m) !== "stale");
 
-          const parsed = validMatches.map((m, idx) => parseMatch(m, idx + 1));
+        const parsed = validMatches.map((m, idx) => parseMatch(m, idx + 1));
 
-          parsed.sort((a, b) => getMatchPriorityScore(b) - getMatchPriorityScore(a));
-          parsed.forEach((m, idx) => { m.id = idx + 1; });
+        parsed.sort((a, b) => getMatchPriorityScore(b) - getMatchPriorityScore(a));
+        parsed.forEach((m, idx) => { m.id = idx + 1; });
 
-          const liveCount = parsed.filter(m => m.windowState === "live").length;
-          const upcomingCount = parsed.filter(m => m.windowState === "upcoming").length;
-          const completedCount = parsed.filter(m => m.windowState === "completed").length;
+        const liveCount = parsed.filter(m => m.windowState === "live").length;
+        const upcomingCount = parsed.filter(m => m.windowState === "upcoming").length;
+        const completedCount = parsed.filter(m => m.windowState === "completed").length;
 
-          const resultObj = {
-            source: "CricAPI",
-            feedStatus: dataQualityWarnings.length > 0 ? "warning" : "fresh",
-            lastSyncedAt: new Date().toISOString(),
-            lastSyncedAtIST: nowIST,
-            winProbAttribution: "EDGE heuristic estimate (not an official provider metric)",
-            dataQualityWarnings,
-            showingDate: "yesterday-today-tomorrow",
-            liveCount,
-            upcomingCount,
-            completedCount,
-            matches: parsed
-          };
-          writeCache(resultObj);
-          return resultObj;
+        const resultObj = {
+          source: "CricAPI",
+          feedStatus: dataQualityWarnings.length > 0 ? "warning" : "fresh",
+          lastSyncedAt: new Date().toISOString(),
+          lastSyncedAtIST: nowIST,
+          winProbAttribution: "EDGE heuristic estimate (not an official provider metric)",
+          dataQualityWarnings,
+          showingDate: "yesterday-today-tomorrow",
+          liveCount,
+          upcomingCount,
+          completedCount,
+          matches: parsed
+        };
+        writeCache(resultObj);
+        return resultObj;
       }
     } catch (err: any) {
       console.warn(`[LiveMatches] CricAPI Key (${key.substring(0, 8)}...) failed: ${err.message}`);
