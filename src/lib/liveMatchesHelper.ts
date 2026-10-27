@@ -85,70 +85,74 @@ export function getTomorrowIST(): string {
   return d.toLocaleDateString("en-CA", { timeZone: "Asia/Kolkata" });
 }
 
+function getISTDateKey(value: string | Date): string | null {
+  const date = value instanceof Date ? value : new Date(value);
+  if (!Number.isFinite(date.getTime())) return null;
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Kolkata",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(date);
+}
+
+function getISTDateOffset(offsetDays: number): string {
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Kolkata",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date());
+  const get = (type: string) => Number(parts.find(p => p.type === type)?.value);
+  // Start from the current IST calendar day at UTC noon to avoid local-time/DST drift.
+  const utcNoon = new Date(Date.UTC(get("year"), get("month") - 1, get("day") + offsetDays, 12));
+  return utcNoon.toISOString().slice(0, 10);
+}
+
 export function isMatchInThreeDayWindow(m: any): boolean {
-  if (m.isLive || m.windowState === "live" || (m.matchStarted && !m.matchEnded)) {
-    return true;
-  }
+  // Explicit live multi-day matches are retained even if their original start date is older.
+  const state = classifyMatchWindow(m);
+  if (state === "live" && m.matchEnded !== true && m.isEnded !== true) return true;
 
-  const today = getTodayIST();
-  const yesterday = getYesterdayIST();
-  const tomorrow = getTomorrowIST();
+  const rawTimestamp = m.dateTimeGMT || m.startTime || m.date;
+  if (!rawTimestamp) return false;
+  const matchDate = getISTDateKey(rawTimestamp);
+  if (!matchDate) return false;
 
-  if (m.dateTimeGMT || m.date) {
-    const raw = (m.dateTimeGMT || m.date).substring(0, 10);
-    if (raw === today || raw === yesterday || raw === tomorrow) {
-      return true;
-    }
-  }
-
-  const dStr = (m.dateStr || "").toLowerCase();
-  const status = (m.status || "").toLowerCase();
-
-  if (dStr.includes("today") || dStr.includes("yesterday") || dStr.includes("tomorrow")) {
-    return true;
-  }
-
-  // Multi-day test in progress
-  if (status.includes("session") || status.includes("need") || status.includes("day ")) {
-    return true;
-  }
-
-  return true;
+  const allowed = new Set([
+    getISTDateOffset(-1),
+    getISTDateOffset(0),
+    getISTDateOffset(1),
+  ]);
+  return allowed.has(matchDate);
 }
 
 export function classifyMatchWindow(m: any): MatchWindowState {
-  const status = (m.status || "").toLowerCase();
+  const status = String(m.status || "").toLowerCase();
+  const explicitlyEnded = m.matchEnded === true || m.isEnded === true;
+  const explicitlyStarted = m.matchStarted === true || m.isLive === true;
 
-  // If match has an explicit ongoing status (e.g. Day 4: 3rd Session, need X runs, in progress)
-  if (
-    status.includes("need") ||
-    status.includes("session") ||
-    status.includes("trail by") ||
-    status.includes("lead by") ||
-    status.includes("in progress") ||
-    status.includes("live") ||
-    status.includes("innings break") ||
-    status.includes("tea break") ||
-    status.includes("lunch break")
-  ) {
-    if (!status.includes("won by") && !status.includes("tied") && !status.includes("no result")) {
-      return "live";
-    }
-  }
+  const completedByStatus =
+    /\b(won by|lost by|drawn|tied|no result|abandoned|cancelled|match complete|match completed|result:)/i.test(status);
 
-  if (m.isLive) return "live";
+  const liveByStatus =
+    /\b(in progress|live|innings break|tea break|lunch break|stumps|need \d+ runs?|trail by|lead by|day \d+|session)\b/i.test(status);
 
-  // Completed matches
-  if (m.isEnded || status.includes("won by") || status.includes("tied") || status.includes("no result") || status.includes("result")) {
-    return "completed";
-  }
+  // A provider "ended" flag wins unless the status still clearly claims active play.
+  if (explicitlyEnded && liveByStatus && !completedByStatus) return "stale";
+  if (explicitlyEnded || completedByStatus) return "completed";
+  if (explicitlyStarted || liveByStatus) return "live";
 
-  // Upcoming matches
-  if (m.isUpcoming || status.includes("upcoming") || status.includes("starts at") || status.includes("toss")) {
+  const timestamp = m.dateTimeGMT || m.startTime || m.date;
+  const start = timestamp ? Date.parse(timestamp) : NaN;
+  if (Number.isFinite(start) && start > Date.now()) return "upcoming";
+
+  if (m.isUpcoming === true || /\b(upcoming|scheduled|starts at|toss at)\b/i.test(status)) {
     return "upcoming";
   }
 
-  return "completed";
+  // Unknown is safer than falsely calling an ambiguous fixture completed.
+  return "stale";
 }
 
 function isInternational(matchName: string, teams: string[]): boolean {
@@ -321,6 +325,10 @@ function parseMatch(m: any, idx: number): any {
   const isEnded = windowState === "completed";
   const isUpcoming = windowState === "upcoming";
 
+  if (windowState === "stale") {
+    statusText = "STATUS UNVERIFIED • Provider fields conflict or match state is ambiguous";
+  }
+
   if (isLive && !statusText.toLowerCase().includes("live")) {
     statusText = `LIVE • ${statusText}`;
   } else if (isEnded && !statusText.toLowerCase().includes("result")) {
@@ -441,7 +449,9 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
 
         const validMatches = deduped
           .filter(m => isInternational(m.name || "", m.teams || []))
-          .filter(m => isMatchInThreeDayWindow(m));
+          .filter(m => isMatchInThreeDayWindow(m))
+          // Never publish records whose provider flags and status string contradict each other.
+          .filter(m => classifyMatchWindow(m) !== "stale");
 
         if (validMatches.length > 0) {
           const parsed = validMatches.map((m, idx) => parseMatch(m, idx + 1));
