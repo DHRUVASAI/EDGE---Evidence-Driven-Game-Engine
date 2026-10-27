@@ -8,7 +8,7 @@ const CACHE_FILE = path.join(CACHE_DIR, "edge_cached_matches.json");
 
 // In-memory cache to prevent burning CricAPI 100 hit/day quota
 let inMemoryCache: { data: any; timestamp: number } | null = null;
-const CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
+const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes: two provider endpoints stay near a 100-hit/day allowance
 
 function writeCache(data: any) {
   try {
@@ -69,25 +69,22 @@ const MARQUEE_TEAMS = [
 
 export type MatchWindowState = "live" | "upcoming" | "completed" | "stale";
 
-export function getTodayIST(): string {
-  return new Date().toLocaleDateString("en-CA", { timeZone: "Asia/Kolkata" });
+function parseProviderTimestamp(value: string | Date, treatNaiveAsUTC = false): Date | null {
+  if (value instanceof Date) return Number.isFinite(value.getTime()) ? value : null;
+  if (typeof value !== "string" || !value.trim()) return null;
+
+  // CricAPI dateTimeGMT values may omit the trailing Z. Interpret them as UTC.
+  const normalized = treatNaiveAsUTC &&
+    /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2}(?:\.\d+)?)?$/.test(value)
+    ? `${value}Z`
+    : value;
+  const date = new Date(normalized);
+  return Number.isFinite(date.getTime()) ? date : null;
 }
 
-export function getYesterdayIST(): string {
-  const d = new Date();
-  d.setDate(d.getDate() - 1);
-  return d.toLocaleDateString("en-CA", { timeZone: "Asia/Kolkata" });
-}
-
-export function getTomorrowIST(): string {
-  const d = new Date();
-  d.setDate(d.getDate() + 1);
-  return d.toLocaleDateString("en-CA", { timeZone: "Asia/Kolkata" });
-}
-
-function getISTDateKey(value: string | Date): string | null {
-  const date = value instanceof Date ? value : new Date(value);
-  if (!Number.isFinite(date.getTime())) return null;
+function getISTDateKey(value: string | Date, treatNaiveAsUTC = false): string | null {
+  const date = parseProviderTimestamp(value, treatNaiveAsUTC);
+  if (!date) return null;
   return new Intl.DateTimeFormat("en-CA", {
     timeZone: "Asia/Kolkata",
     year: "numeric",
@@ -104,27 +101,47 @@ function getISTDateOffset(offsetDays: number): string {
     day: "2-digit",
   }).formatToParts(new Date());
   const get = (type: string) => Number(parts.find(p => p.type === type)?.value);
+  const utcNoon = new Date(Date.UTC(get("year"), get("month") - 1, get("day") + offsetDays, 12));
+  return utcNoon.toISOString().slice(0, 10);
+}
+
+export function getTodayIST(): string { return getISTDateOffset(0); }
+export function getYesterdayIST(): string { return getISTDateOffset(-1); }
+export function getTomorrowIST(): string { return getISTDateOffset(1); }
+
+function getISTDateOffset(offsetDays: number): string {
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Kolkata",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date());
+  const get = (type: string) => Number(parts.find(p => p.type === type)?.value);
   // Start from the current IST calendar day at UTC noon to avoid local-time/DST drift.
   const utcNoon = new Date(Date.UTC(get("year"), get("month") - 1, get("day") + offsetDays, 12));
   return utcNoon.toISOString().slice(0, 10);
 }
 
 export function isMatchInThreeDayWindow(m: any): boolean {
-  // Explicit live multi-day matches are retained even if their original start date is older.
   const state = classifyMatchWindow(m);
   if (state === "live" && m.matchEnded !== true && m.isEnded !== true) return true;
 
   const rawTimestamp = m.dateTimeGMT || m.startTime || m.date;
   if (!rawTimestamp) return false;
-  const matchDate = getISTDateKey(rawTimestamp);
+  const matchDate = getISTDateKey(rawTimestamp, Boolean(m.dateTimeGMT));
   if (!matchDate) return false;
 
-  const allowed = new Set([
-    getISTDateOffset(-1),
-    getISTDateOffset(0),
-    getISTDateOffset(1),
-  ]);
-  return allowed.has(matchDate);
+  return new Set([getISTDateOffset(-1), getISTDateOffset(0), getISTDateOffset(1)]).has(matchDate);
+}
+
+export function hasContradictoryMatchState(m: any): boolean {
+  const status = String(m.status || "").toLowerCase();
+  const explicitlyEnded = m.matchEnded === true || m.isEnded === true;
+  const completedByStatus =
+    /\b(won by|lost by|drawn|tied|no result|abandoned|cancelled|match complete|match completed|result:)\b/i.test(status);
+  const liveByStatus =
+    /\b(in progress|live|innings break|tea break|lunch break|stumps|need \d+ runs?|trail by|lead by|day \d+|session)\b/i.test(status);
+  return explicitlyEnded && liveByStatus && !completedByStatus;
 }
 
 export function classifyMatchWindow(m: any): MatchWindowState {
@@ -133,28 +150,24 @@ export function classifyMatchWindow(m: any): MatchWindowState {
   const explicitlyStarted = m.matchStarted === true || m.isLive === true;
 
   const completedByStatus =
-    /\b(won by|lost by|drawn|tied|no result|abandoned|cancelled|match complete|match completed|result:)/i.test(status);
-
+    /\b(won by|lost by|drawn|tied|no result|abandoned|cancelled|match complete|match completed|result:)\b/i.test(status);
   const liveByStatus =
     /\b(in progress|live|innings break|tea break|lunch break|stumps|need \d+ runs?|trail by|lead by|day \d+|session)\b/i.test(status);
 
-  // A provider "ended" flag wins unless the status still clearly claims active play.
-  if (explicitlyEnded && liveByStatus && !completedByStatus) return "stale";
+  if (hasContradictoryMatchState(m)) return "stale";
   if (explicitlyEnded || completedByStatus) return "completed";
   if (explicitlyStarted || liveByStatus) return "live";
 
-  const timestamp = m.dateTimeGMT || m.startTime || m.date;
-  const start = timestamp ? Date.parse(timestamp) : NaN;
-  if (Number.isFinite(start) && start > Date.now()) return "upcoming";
-
-  if (m.isUpcoming === true || /\b(upcoming|scheduled|starts at|toss at)\b/i.test(status)) {
+  const rawTimestamp = m.dateTimeGMT || m.startTime || m.date;
+  const parsedStart = rawTimestamp
+    ? parseProviderTimestamp(rawTimestamp, Boolean(m.dateTimeGMT))
+    : null;
+  if (parsedStart && parsedStart.getTime() > Date.now()) return "upcoming";
+  if (!parsedStart && (m.isUpcoming === true || /\b(upcoming|scheduled|starts at|toss at)\b/i.test(status))) {
     return "upcoming";
   }
-
-  // Unknown is safer than falsely calling an ambiguous fixture completed.
   return "stale";
 }
-
 function isInternational(matchName: string, teams: string[]): boolean {
   const name = matchName.toLowerCase();
   for (const kw of ICC_KEYWORDS) {
@@ -344,7 +357,7 @@ function parseMatch(m: any, idx: number): any {
 
   let dateStr = "";
   if (m.dateTimeGMT) {
-    const d = new Date(m.dateTimeGMT);
+    const d = parseProviderTimestamp(m.dateTimeGMT, true) || new Date(m.dateTimeGMT);
     dateStr = d.toLocaleString("en-IN", {
       timeZone: "Asia/Kolkata",
       day: "numeric", month: "short", hour: "2-digit", minute: "2-digit"
@@ -419,18 +432,19 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
   const nowIST = formatToIST(new Date().toISOString());
 
   // 1. Check CricAPI if key has remaining quota
+  // Keep credentials in server environment variables only. Rotate keys previously
+  // committed to source control before deployment.
   const CRICAPI_KEYS = [
     CRICKETDATA_KEY,
-    "72c51c2c-59da-440c-941a-bbd6e327191d",
-    "c28f377a-47ea-4cb5-933b-d3ca06ae2666",
-    "793acd6f-8f1e-4730-986b-929859ebf7c5"
-  ].filter(Boolean) as string[];
+    process.env.CRICKETDATA_API_KEY_2,
+    process.env.CRICKETDATA_API_KEY_3,
+  ].filter((value): value is string => Boolean(value && value.trim()));
 
   for (const key of CRICAPI_KEYS) {
     try {
       const [resCurrent, resMatches] = await Promise.all([
-        fetch(`https://api.cricapi.com/v1/currentMatches?apikey=${key}&offset=0`, { next: { revalidate: 300 } }),
-        fetch(`https://api.cricapi.com/v1/matches?apikey=${key}&offset=0`, { next: { revalidate: 300 } }),
+        fetch(`https://api.cricapi.com/v1/currentMatches?apikey=${key}&offset=0`, { next: { revalidate: 1800 } }),
+        fetch(`https://api.cricapi.com/v1/matches?apikey=${key}&offset=0`, { next: { revalidate: 1800 } }),
       ]);
 
       const [dataCurrent, dataMatches] = await Promise.all([
@@ -464,12 +478,13 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
           const completedCount = parsed.filter(m => m.windowState === "completed").length;
 
           const resultObj = {
-            source: "CricAPI Live Telemetry",
-            feedStatus: "live",
+            source: "CricAPI",
+            feedStatus: "fresh",
             lastSyncedAt: new Date().toISOString(),
             lastSyncedAtIST: nowIST,
-            winProbAttribution: "EDGE Empirical Bayesian Model",
-            showingDate: "today-yesterday-tomorrow",
+            winProbAttribution: "EDGE heuristic estimate (not an official provider metric)",
+            dataQualityWarnings,
+            showingDate: "yesterday-today-tomorrow",
             liveCount,
             upcomingCount,
             completedCount,
@@ -484,443 +499,18 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
     }
   }
 
-  // 2. Fallback to our authentic, verified real international fixtures dataset
-  const realMatches = getRealInternationalFixtures();
-  const liveCount = realMatches.filter(m => m.windowState === "live").length;
-  const upcomingCount = realMatches.filter(m => m.windowState === "upcoming").length;
-  const completedCount = realMatches.filter(m => m.windowState === "completed").length;
-
-  const fallbackResult = {
-    source: "CricAPI Telemetry Store (Quota Throttled)",
-    feedStatus: "quota_throttled",
-    lastSyncedAt: new Date().toISOString(),
-    lastSyncedAtIST: nowIST,
-    winProbAttribution: "EDGE Empirical Bayesian Model",
-    showingDate: "today-yesterday-tomorrow",
-    liveCount,
-    upcomingCount,
-    completedCount,
-    matches: realMatches
+  // Never substitute hardcoded historical/demo fixtures for a current provider feed.
+  return {
+    source: "CricAPI",
+    feedStatus: CRICAPI_KEYS.length === 0 ? "missing_api_key" : "provider_unavailable",
+    lastSyncedAt: null,
+    lastSyncedAtIST: null,
+    winProbAttribution: "EDGE heuristic estimate (not an official provider metric)",
+    dataQualityWarnings: [],
+    showingDate: "yesterday-today-tomorrow",
+    liveCount: 0,
+    upcomingCount: 0,
+    completedCount: 0,
+    matches: [],
   };
-  writeCache(fallbackResult);
-  return fallbackResult;
-}
-
-/**
- * Verified Real International Cricket Fixtures
- * Directly compiled from real CricAPI records:
- * - LIVE: New Zealand A vs India A (Day 4: 3rd Session)
- * - RECENT: India Women vs Zimbabwe Women 2nd ODI, Pakistan vs England 4th Match, Afghanistan vs Zimbabwe Final, UAE vs Netherlands, etc.
- * - UPCOMING: India Women vs Zimbabwe Women 3rd ODI, New Zealand A vs India A 2nd Test, Namibia vs Ireland 3rd ODI
- */
-function getRealInternationalFixtures() {
-  return [
-    // ── 1. LIVE NOW: New Zealand A vs India A (Day 4: 3rd Session) ──
-    {
-      id: 1,
-      matchId: "aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66",
-      name: "New Zealand A vs India A, 1st Unofficial Test, India A tour of New Zealand, 2026",
-      subtitle: "1st Test",
-      gender: "men",
-      isLive: true,
-      isEnded: false,
-      isUpcoming: false,
-      matchType: "TEST",
-      dateStr: "Live Now • Day 4",
-      windowState: "live" as MatchWindowState,
-      teams: {
-        t1: "INA",
-        t1Name: "India A",
-        t1Logo: "bg-blue-600 text-white border-blue-400",
-        t1IsImage: false,
-        t2: "NZA",
-        t2Name: "New Zealand A",
-        t2Logo: "bg-zinc-800 text-white border-zinc-600",
-        t2IsImage: false,
-      },
-      score1: "113/10 (39.3 Ov)",
-      score2: "317/10 (89.3 Ov)",
-      overs: "89.3 Ov",
-      status: "LIVE • Day 4: 3rd Session - New Zealand A need 149 runs",
-      venue: "Bert Sutcliffe Oval, Lincoln",
-      pitch: "Day 4 surface with variable bounce and turning lines for spinners in the final session.",
-      winProb1: 44,
-      winProb2: 56,
-      winProbLabel: "EDGE Empirical Model Estimate",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-      scorecardNotice: "Innings 4 Target Chase (149 runs required). Ball-by-ball crease scorecard pending provider detailed sync.",
-    },
-
-    // ── 2. RECENT: India Women vs Zimbabwe Women, 2nd ODI ──
-    {
-      id: 2,
-      matchId: "real-indw-zimw-odi-2",
-      name: "India Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of India, 2026",
-      subtitle: "2nd ODI",
-      gender: "women",
-      isLive: false,
-      isEnded: true,
-      isUpcoming: false,
-      matchType: "ODI",
-      dateStr: "Yesterday • Final Result",
-      windowState: "completed" as MatchWindowState,
-      teams: {
-        t1: "INDW",
-        t1Name: "India Women",
-        t1Logo: "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48",
-        t1IsImage: true,
-        t2: "ZIMW",
-        t2Name: "Zimbabwe Women",
-        t2Logo: "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48",
-        t2IsImage: true,
-      },
-      score1: "328/6 (50 Ov)",
-      score2: "207/10 (48.5 Ov)",
-      overs: "48.5 Ov",
-      status: "RESULT: India Women won by 121 runs",
-      venue: "BCA Stadium, Kotambi, Vadodara",
-      pitch: "High-scoring belter. India Women registered a record 328 before bundling out Zimbabwe.",
-      winProb1: 100,
-      winProb2: 0,
-      winProbLabel: "Official Match Result",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 3. RECENT: Pakistan vs England, 4th Match (Tri-Series) ──
-    {
-      id: 3,
-      matchId: "real-pak-eng-odi-4",
-      name: "Pakistan vs England, 4th Match, Pakistan ODI Tri-Series, 2026",
-      subtitle: "4th Match",
-      gender: "men",
-      isLive: false,
-      isEnded: true,
-      isUpcoming: false,
-      matchType: "ODI",
-      dateStr: "Yesterday • Final Result",
-      windowState: "completed" as MatchWindowState,
-      teams: {
-        t1: "ENG",
-        t1Name: "England",
-        t1Logo: "bg-sky-700 text-white border-sky-500",
-        t1IsImage: false,
-        t2: "PAK",
-        t2Name: "Pakistan",
-        t2Logo: "bg-emerald-800 text-emerald-200 border-emerald-600",
-        t2IsImage: false,
-      },
-      score1: "241/10 (46.4 Ov)",
-      score2: "243/9 (47.1 Ov)",
-      overs: "47.1 Ov",
-      status: "RESULT: Pakistan won by 1 wkt",
-      venue: "Multan Cricket Stadium, Multan",
-      pitch: "Gripping Multan surface. Pakistan held their nerve in a thrilling 1-wicket final-over finish.",
-      winProb1: 0,
-      winProb2: 100,
-      winProbLabel: "Official Match Result",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 4. RECENT: Afghanistan vs Zimbabwe, Final (Tri-Nation Series) ──
-    {
-      id: 4,
-      matchId: "real-afg-zim-final",
-      name: "Afghanistan vs Zimbabwe, Final, ODI Tri-Nation Series in UAE, 2026",
-      subtitle: "Final",
-      gender: "men",
-      isLive: false,
-      isEnded: true,
-      isUpcoming: false,
-      matchType: "ODI",
-      dateStr: "Yesterday • Final Result",
-      windowState: "completed" as MatchWindowState,
-      teams: {
-        t1: "ZIM",
-        t1Name: "Zimbabwe",
-        t1Logo: "bg-red-700 text-yellow-400 border-red-600",
-        t1IsImage: false,
-        t2: "AFG",
-        t2Name: "Afghanistan",
-        t2Logo: "bg-sky-800 text-white border-sky-600",
-        t2IsImage: false,
-      },
-      score1: "169/10 (43.3 Ov)",
-      score2: "170/3 (34.3 Ov)",
-      overs: "34.3 Ov",
-      status: "RESULT: Afghanistan won by 7 wkts",
-      venue: "Sharjah Cricket Stadium, Sharjah",
-      pitch: "Dry surface. Afghanistan spinners dismantled Zimbabwe before chasing target in 35 overs.",
-      winProb1: 0,
-      winProb2: 100,
-      winProbLabel: "Official Match Result",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 5. RECENT: United Arab Emirates vs Netherlands, 140th Match (ICC CWC League 2) ──
-    {
-      id: 5,
-      matchId: "real-uae-ned-140",
-      name: "United Arab Emirates vs Netherlands, 140th Match, ICC Cricket World Cup League Two 2023-27",
-      subtitle: "140th Match",
-      gender: "men",
-      isLive: false,
-      isEnded: true,
-      isUpcoming: false,
-      matchType: "ODI",
-      dateStr: "Yesterday • Final Result",
-      windowState: "completed" as MatchWindowState,
-      teams: {
-        t1: "UAE",
-        t1Name: "United Arab Emirates",
-        t1Logo: "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48",
-        t1IsImage: true,
-        t2: "NED",
-        t2Name: "Netherlands",
-        t2Logo: "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=48",
-        t2IsImage: true,
-      },
-      score1: "244/8 (50 Ov)",
-      score2: "245/7 (43.5 Ov)",
-      overs: "43.5 Ov",
-      status: "RESULT: Netherlands won by 3 wkts",
-      venue: "ICC Academy Ground, Dubai",
-      pitch: "Even surface with morning seam movement. Netherlands clinched chase with 37 balls to spare.",
-      winProb1: 0,
-      winProb2: 100,
-      winProbLabel: "Official Match Result",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 6. RECENT: Denmark vs Papua New Guinea, 37th Match ──
-    {
-      id: 6,
-      matchId: "real-den-png-37",
-      name: "Denmark vs Papua New Guinea, 37th Match, ICC CWC Challenge League A, 2024-26",
-      subtitle: "37th Match",
-      gender: "men",
-      isLive: false,
-      isEnded: true,
-      isUpcoming: false,
-      matchType: "ODI",
-      dateStr: "Yesterday • Final Result",
-      windowState: "completed" as MatchWindowState,
-      teams: {
-        t1: "DEN",
-        t1Name: "Denmark",
-        t1Logo: "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=48",
-        t1IsImage: true,
-        t2: "PNG",
-        t2Name: "Papua New Guinea",
-        t2Logo: "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=48",
-        t2IsImage: true,
-      },
-      score1: "304/6 (50 Ov)",
-      score2: "307/6 (49.1 Ov)",
-      overs: "49.1 Ov",
-      status: "RESULT: Papua New Guinea won by 4 wkts",
-      venue: "Ruaraka Sports Club Ground, Nairobi",
-      pitch: "High scoring flat track. PNG pulled off a dramatic 305+ chase in the final over.",
-      winProb1: 0,
-      winProb2: 100,
-      winProbLabel: "Official Match Result",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 7. RECENT: Jersey vs Kenya, 36th Match ──
-    {
-      id: 7,
-      matchId: "real-jer-ken-36",
-      name: "Jersey vs Kenya, 36th Match, ICC CWC Challenge League A, 2024-26",
-      subtitle: "36th Match",
-      gender: "men",
-      isLive: false,
-      isEnded: true,
-      isUpcoming: false,
-      matchType: "ODI",
-      dateStr: "Yesterday • Final Result",
-      windowState: "completed" as MatchWindowState,
-      teams: {
-        t1: "JER",
-        t1Name: "Jersey",
-        t1Logo: "bg-red-800 text-white border-red-600",
-        t1IsImage: false,
-        t2: "KEN",
-        t2Name: "Kenya",
-        t2Logo: "https://g.cricapi.com/iapi/71-637877082348577579.webp?w=48",
-        t2IsImage: true,
-      },
-      score1: "320/9 (50 Ov)",
-      score2: "197/10 (42 Ov)",
-      overs: "42.0 Ov",
-      status: "RESULT: Jersey won by 123 runs",
-      venue: "Ruaraka Sports Club Ground, Nairobi",
-      pitch: "Dominant batting display by Jersey setting an insurmountable 320 total.",
-      winProb1: 100,
-      winProb2: 0,
-      winProbLabel: "Official Match Result",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 8. RECENT: Namibia vs Ireland, 2nd ODI ──
-    {
-      id: 8,
-      matchId: "real-nam-ire-2",
-      name: "Namibia vs Ireland, 2nd ODI, Ireland tour of Namibia, 2026",
-      subtitle: "2nd ODI",
-      gender: "men",
-      isLive: false,
-      isEnded: true,
-      isUpcoming: false,
-      matchType: "ODI",
-      dateStr: "Yesterday • Final Result",
-      windowState: "completed" as MatchWindowState,
-      teams: {
-        t1: "NAM",
-        t1Name: "Namibia",
-        t1Logo: "https://g.cricapi.com/iapi/54-637877085189033285.webp?w=48",
-        t1IsImage: true,
-        t2: "IRE",
-        t2Name: "Ireland",
-        t2Logo: "https://g.cricapi.com/iapi/27-637877073289035651.webp?w=48",
-        t2IsImage: true,
-      },
-      score1: "321/6 (50 Ov)",
-      score2: "290/10 (47.3 Ov)",
-      overs: "47.3 Ov",
-      status: "RESULT: Namibia won by 31 runs",
-      venue: "Wanderers Cricket Ground, Windhoek",
-      pitch: "High altitude venue. Namibia defended 321 in a run-heavy contest.",
-      winProb1: 100,
-      winProb2: 0,
-      winProbLabel: "Official Match Result",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 9. UPCOMING: India Women vs Zimbabwe Women, 3rd ODI ──
-    {
-      id: 9,
-      matchId: "real-indw-zimw-odi-3",
-      name: "India Women vs Zimbabwe Women, 3rd ODI, Zimbabwe Women tour of India, 2026",
-      subtitle: "3rd ODI",
-      gender: "women",
-      isLive: false,
-      isEnded: false,
-      isUpcoming: true,
-      matchType: "ODI",
-      dateStr: "Tomorrow, 08:30 AM IST",
-      windowState: "upcoming" as MatchWindowState,
-      teams: {
-        t1: "INDW",
-        t1Name: "India Women",
-        t1Logo: "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48",
-        t1IsImage: true,
-        t2: "ZIMW",
-        t2Name: "Zimbabwe Women",
-        t2Logo: "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48",
-        t2IsImage: true,
-      },
-      score1: "Yet to bat",
-      score2: "Yet to bat",
-      overs: "–",
-      status: "UPCOMING • Toss at 8:00 AM IST",
-      venue: "BCA Stadium, Kotambi, Vadodara",
-      pitch: "Flat track with reliable carry. India Women seeking clean series sweep.",
-      winProb1: 88,
-      winProb2: 12,
-      winProbLabel: "EDGE Empirical Model Estimate",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 10. UPCOMING: New Zealand A vs India A, 2nd Unofficial Test ──
-    {
-      id: 10,
-      matchId: "real-nza-ina-test-2",
-      name: "New Zealand A vs India A, 2nd Unofficial Test, India A tour of New Zealand, 2026",
-      subtitle: "2nd Test",
-      gender: "men",
-      isLive: false,
-      isEnded: false,
-      isUpcoming: true,
-      matchType: "TEST",
-      dateStr: "Tomorrow, 09:30 PM IST",
-      windowState: "upcoming" as MatchWindowState,
-      teams: {
-        t1: "INA",
-        t1Name: "India A",
-        t1Logo: "bg-blue-600 text-white border-blue-400",
-        t1IsImage: false,
-        t2: "NZA",
-        t2Name: "New Zealand A",
-        t2Logo: "bg-zinc-800 text-white border-zinc-600",
-        t2IsImage: false,
-      },
-      score1: "Yet to bat",
-      score2: "Yet to bat",
-      overs: "–",
-      status: "UPCOMING • Day 1 starts tomorrow at 9:30 PM IST",
-      venue: "Bert Sutcliffe Oval, Lincoln",
-      pitch: "Fresh wicket with morning seam and bounce for the new ball attack.",
-      winProb1: 50,
-      winProb2: 50,
-      winProbLabel: "EDGE Empirical Model Estimate",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    },
-
-    // ── 11. UPCOMING: Namibia vs Ireland, 3rd ODI ──
-    {
-      id: 11,
-      matchId: "real-nam-ire-3",
-      name: "Namibia vs Ireland, 3rd ODI, Ireland tour of Namibia, 2026",
-      subtitle: "3rd ODI",
-      gender: "men",
-      isLive: false,
-      isEnded: false,
-      isUpcoming: true,
-      matchType: "ODI",
-      dateStr: "Tomorrow, 08:00 AM IST",
-      windowState: "upcoming" as MatchWindowState,
-      teams: {
-        t1: "NAM",
-        t1Name: "Namibia",
-        t1Logo: "https://g.cricapi.com/iapi/54-637877085189033285.webp?w=48",
-        t1IsImage: true,
-        t2: "IRE",
-        t2Name: "Ireland",
-        t2Logo: "https://g.cricapi.com/iapi/27-637877073289035651.webp?w=48",
-        t2IsImage: true,
-      },
-      score1: "Yet to bat",
-      score2: "Yet to bat",
-      overs: "–",
-      status: "UPCOMING • Series Decider • Toss at 7:30 AM IST",
-      venue: "Wanderers Cricket Ground, Windhoek",
-      pitch: "True bounce with batting-friendly conditions throughout the afternoon.",
-      winProb1: 45,
-      winProb2: 55,
-      winProbLabel: "EDGE Empirical Model Estimate",
-      hasLiveCreaseData: false,
-      liveBatsmen: [],
-      liveBowler: null,
-    }
-  ];
 }
