@@ -475,7 +475,7 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
           .filter(m => isMatchInThreeDayWindow(m))
           .filter(m => classifyMatchWindow(m) !== "stale");
 
-        if (validMatches.length > 0 || dataQualityWarnings.length > 0) {
+        {
           const parsed = validMatches.map((m, idx) => parseMatch(m, idx + 1));
 
           parsed.sort((a, b) => getMatchPriorityScore(b) - getMatchPriorityScore(a));
@@ -500,7 +500,6 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
           };
           writeCache(resultObj);
           return resultObj;
-        }
       }
     } catch (err: any) {
       console.warn(`[LiveMatches] CricAPI Key (${key.substring(0, 8)}...) failed: ${err.message}`);
