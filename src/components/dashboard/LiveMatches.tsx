@@ -238,172 +238,38 @@ function MatchMiniCard({
   );
 }
 
-const DEFAULT_MATCHES: LiveMatch[] = [
-  {
-    id: 1,
-    matchId: "aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66",
-    name: "New Zealand A vs India A, 1st Unofficial Test, India A tour of New Zealand, 2026",
-    subtitle: "1st Test",
-    gender: "men",
-    isLive: true,
-    isEnded: false,
-    isUpcoming: false,
-    matchType: "TEST",
-    dateStr: "Live Now • Day 4",
-    windowState: "live",
-    teams: {
-      t1: "INA",
-      t1Name: "India A",
-      t1Logo: "bg-blue-600 text-white border-blue-400",
-      t1IsImage: false,
-      t2: "NZA",
-      t2Name: "New Zealand A",
-      t2Logo: "bg-zinc-800 text-white border-zinc-600",
-      t2IsImage: false,
-    },
-    score1: "113/10 (39.3 Ov)",
-    score2: "317/10 (89.3 Ov)",
-    overs: "89.3 Ov",
-    status: "LIVE • Day 4: 3rd Session - New Zealand A need 149 runs",
-    venue: "Bert Sutcliffe Oval, Lincoln",
-    pitch: "Day 4 surface with variable bounce and turning lines for spinners in the final session.",
-    winProb1: 44,
-    winProb2: 56,
-    winProbLabel: "EDGE Empirical Model Estimate",
-    hasLiveCreaseData: false,
-    liveBatsmen: [],
-    liveBowler: null,
-    scorecardNotice: "Innings 4 Target Chase (149 runs required). Ball-by-ball crease scorecard pending provider detailed sync.",
-  },
-  {
-    id: 2,
-    matchId: "real-indw-zimw-odi-2",
-    name: "India Women vs Zimbabwe Women, 2nd ODI, Zimbabwe Women tour of India, 2026",
-    subtitle: "2nd ODI",
-    gender: "women",
-    isLive: false,
-    isEnded: true,
-    isUpcoming: false,
-    matchType: "ODI",
-    dateStr: "Yesterday • Final Result",
-    windowState: "completed",
-    teams: {
-      t1: "INDW",
-      t1Name: "India Women",
-      t1Logo: "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48",
-      t1IsImage: true,
-      t2: "ZIMW",
-      t2Name: "Zimbabwe Women",
-      t2Logo: "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48",
-      t2IsImage: true,
-    },
-    score1: "328/6 (50 Ov)",
-    score2: "207/10 (48.5 Ov)",
-    overs: "48.5 Ov",
-    status: "RESULT: India Women won by 121 runs",
-    venue: "BCA Stadium, Kotambi, Vadodara",
-    pitch: "High-scoring belter. India Women registered a record 328 before bundling out Zimbabwe.",
-    winProb1: 100,
-    winProb2: 0,
-    winProbLabel: "Official Match Result",
-    hasLiveCreaseData: false,
-    liveBatsmen: [],
-    liveBowler: null,
-  },
-  {
-    id: 3,
-    matchId: "real-pak-eng-odi-4",
-    name: "Pakistan vs England, 4th Match, Pakistan ODI Tri-Series, 2026",
-    subtitle: "4th Match",
-    gender: "men",
-    isLive: false,
-    isEnded: true,
-    isUpcoming: false,
-    matchType: "ODI",
-    dateStr: "Yesterday • Final Result",
-    windowState: "completed",
-    teams: {
-      t1: "ENG",
-      t1Name: "England",
-      t1Logo: "bg-sky-700 text-white border-sky-500",
-      t1IsImage: false,
-      t2: "PAK",
-      t2Name: "Pakistan",
-      t2Logo: "bg-emerald-800 text-emerald-200 border-emerald-600",
-      t2IsImage: false,
-    },
-    score1: "241/10 (46.4 Ov)",
-    score2: "243/9 (47.1 Ov)",
-    overs: "47.1 Ov",
-    status: "RESULT: Pakistan won by 1 wkt",
-    venue: "Multan Cricket Stadium, Multan",
-    pitch: "Gripping Multan surface. Pakistan held their nerve in a thrilling 1-wicket final-over finish.",
-    winProb1: 0,
-    winProb2: 100,
-    winProbLabel: "Official Match Result",
-    hasLiveCreaseData: false,
-    liveBatsmen: [],
-    liveBowler: null,
-  },
-  {
-    id: 4,
-    matchId: "real-indw-zimw-odi-3",
-    name: "India Women vs Zimbabwe Women, 3rd ODI, Zimbabwe Women tour of India, 2026",
-    subtitle: "3rd ODI",
-    gender: "women",
-    isLive: false,
-    isEnded: false,
-    isUpcoming: true,
-    matchType: "ODI",
-    dateStr: "Tomorrow, 08:30 AM IST",
-    windowState: "upcoming",
-    teams: {
-      t1: "INDW",
-      t1Name: "India Women",
-      t1Logo: "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=48",
-      t1IsImage: true,
-      t2: "ZIMW",
-      t2Name: "Zimbabwe Women",
-      t2Logo: "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=48",
-      t2IsImage: true,
-    },
-    score1: "Yet to bat",
-    score2: "Yet to bat",
-    overs: "–",
-    status: "UPCOMING • Toss at 8:00 AM IST",
-    venue: "BCA Stadium, Kotambi, Vadodara",
-    pitch: "Flat track with reliable carry. India Women seeking clean series sweep.",
-    winProb1: 88,
-    winProb2: 12,
-    winProbLabel: "EDGE Empirical Model Estimate",
-    hasLiveCreaseData: false,
-    liveBatsmen: [],
-    liveBowler: null,
-  }
-];
+const DEFAULT_MATCHES: LiveMatch[] = [];
 
 export default function LiveMatches() {
   const [matches, setMatches] = useState<LiveMatch[]>(DEFAULT_MATCHES);
   const [activeMatchIndex, setActiveMatchIndex] = useState<number>(0);
   const [activeFilter, setActiveFilter] = useState<FilterTab>("all");
   const [loading, setLoading] = useState<boolean>(false);
-  const [source, setSource] = useState<string>("CricAPI Verified Store");
-  const [lastSyncedAt, setLastSyncedAt] = useState<string>("27 Oct, 09:25 PM IST");
-  const [feedStatus, setFeedStatus] = useState<string>("synchronized");
+  const [source, setSource] = useState<string>("CricAPI");
+  const [lastSyncedAt, setLastSyncedAt] = useState<string>("Awaiting provider sync");
+  const [feedStatus, setFeedStatus] = useState<string>("connecting");
+  const [dataQualityWarnings, setDataQualityWarnings] = useState<Array<{ matchId?: string | null; name: string; reason: string; providerStatus?: string | null }>>([]);
   const [isStreamConnected, setIsStreamConnected] = useState<boolean>(false);
+  const streamConnectedRef = useRef(false);
 
   const carouselRef = useRef<HTMLDivElement>(null);
 
   const fetchLiveMatches = async () => {
     try {
+      setLoading(true);
       const res = await fetch("/api/dashboard/live-matches", { cache: "no-store" }).catch(() => null);
-      if (!res || !res.ok) return;
+      if (!res || !res.ok) {
+        setFeedStatus("provider_unavailable");
+        setLastSyncedAt("Provider unavailable");
+        return;
+      }
       const data = await res.json().catch(() => null);
-      if (data && Array.isArray(data.matches) && data.matches.length > 0) {
+      if (data && Array.isArray(data.matches)) {
         setMatches(data.matches);
-        setSource(data.source || "CricAPI Live Telemetry");
-        if (data.lastSyncedAtIST) setLastSyncedAt(data.lastSyncedAtIST);
-        if (data.feedStatus) setFeedStatus(data.feedStatus);
+        setSource(data.source || "CricAPI");
+        setLastSyncedAt(data.lastSyncedAtIST || "No fresh provider sync");
+        setFeedStatus(data.feedStatus || "unknown");
+        setDataQualityWarnings(Array.isArray(data.dataQualityWarnings) ? data.dataQualityWarnings : []);
       }
     } catch {
       // Quietly fall back
@@ -412,57 +278,64 @@ export default function LiveMatches() {
     }
   };
 
+  const fetchLiveMatchesRef = useRef(fetchLiveMatches);
+  fetchLiveMatchesRef.current = fetchLiveMatches;
+
   useEffect(() => {
     let eventSource: EventSource | null = null;
-    fetchLiveMatches();
+    let pollInterval: ReturnType<typeof setInterval> | undefined;
+
+    const applySnapshot = (data: any) => {
+      if (!data || !Array.isArray(data.matches)) return;
+      setMatches(data.matches);
+      setSource(data.source || "CricAPI");
+      setLastSyncedAt(data.lastSyncedAtIST || "No fresh provider sync");
+      setFeedStatus(data.feedStatus || "unknown");
+      setDataQualityWarnings(Array.isArray(data.dataQualityWarnings) ? data.dataQualityWarnings : []);
+    };
+
+    void fetchLiveMatchesRef.current();
 
     try {
       eventSource = new EventSource("/api/dashboard/live-matches/stream");
       eventSource.onopen = () => {
+        streamConnectedRef.current = true;
         setIsStreamConnected(true);
       };
       eventSource.addEventListener("snapshot", (event) => {
         try {
-          const data = JSON.parse(event.data);
-          if (data && Array.isArray(data.matches)) {
-            setMatches(data.matches);
-            setSource(data.source || "CricAPI Live Telemetry");
-            if (data.lastSyncedAtIST) setLastSyncedAt(data.lastSyncedAtIST);
-            if (data.feedStatus) setFeedStatus(data.feedStatus);
-            setIsStreamConnected(true);
-          }
-        } catch {}
+          applySnapshot(JSON.parse((event as MessageEvent).data));
+        } catch {
+          // Ignore malformed stream frames; next snapshot can recover state.
+        }
       });
       eventSource.addEventListener("update", (event) => {
         try {
-          const data = JSON.parse(event.data);
-          if (data && Array.isArray(data.matches)) {
-            setMatches(data.matches);
-            setSource(data.source || "CricAPI Live Telemetry");
-            if (data.lastSyncedAtIST) setLastSyncedAt(data.lastSyncedAtIST);
-            if (data.feedStatus) setFeedStatus(data.feedStatus);
-            setIsStreamConnected(true);
-          }
-        } catch {}
+          applySnapshot(JSON.parse((event as MessageEvent).data));
+        } catch {
+          // Ignore malformed stream frames; next snapshot can recover state.
+        }
       });
       eventSource.onerror = () => {
+        streamConnectedRef.current = false;
         setIsStreamConnected(false);
       };
     } catch {
+      streamConnectedRef.current = false;
       setIsStreamConnected(false);
     }
 
-    const interval = setInterval(() => {
-      if (!isStreamConnected) {
-        fetchLiveMatches();
-      }
-    }, 60000); // 60 seconds interval to preserve quota
+    // HTTP fallback runs only while SSE is disconnected.
+    pollInterval = setInterval(() => {
+      if (!streamConnectedRef.current) void fetchLiveMatchesRef.current();
+    }, 60_000);
 
     return () => {
+      streamConnectedRef.current = false;
       if (eventSource) eventSource.close();
-      clearInterval(interval);
+      if (pollInterval) clearInterval(pollInterval);
     };
-  }, [isStreamConnected]);
+  }, []);
 
   // Filter calculations
   const liveCount = matches.filter(m => m.isLive || m.windowState === "live").length;
@@ -517,6 +390,44 @@ export default function LiveMatches() {
     }
   }, [activeMatchIndex, filteredMatches.length]);
 
+  if (!currentMatch) {
+    const feedUnavailable = feedStatus === "missing_api_key" || feedStatus === "provider_unavailable";
+    return (
+      <div className="w-full mb-12 rounded-2xl border border-zinc-800 bg-zinc-950/80 p-8 text-center">
+        <Activity className="mx-auto mb-3 text-zinc-500" size={28} />
+        <h3 className="text-sm font-black uppercase tracking-widest text-zinc-100">
+          {feedStatus === "missing_api_key" ? "Cricket feed not configured" : feedUnavailable ? "Verified fixtures unavailable" : "No verified matches in this window"}
+        </h3>
+        <p className="mx-auto mt-2 max-w-lg text-xs leading-6 text-zinc-400">
+          {feedStatus === "missing_api_key"
+            ? "Configure CRICKETDATA_API_KEY or CRICAPI_KEY on the server. EDGE will not substitute hardcoded scores for live data."
+            : feedUnavailable
+              ? "The provider could not be reached. Try again later; unverified demo fixtures are intentionally hidden."
+              : "No provider-verified fixtures were returned for yesterday, today, or tomorrow in IST."}
+        </p>
+        <p className="mt-3 text-[10px] font-mono text-zinc-500">Feed: {source} · Status: {feedStatus} · Sync: {lastSyncedAt}</p>
+        <button
+          type="button"
+          onClick={() => void fetchLiveMatches()}
+          disabled={loading}
+          className="mt-5 rounded-lg border border-zinc-700 px-4 py-2 text-xs font-bold text-zinc-100 transition hover:border-lime-400 hover:text-lime-300 disabled:opacity-50"
+        >
+          {loading ? "Checking feed…" : "Retry feed"}
+        </button>
+        {dataQualityWarnings.length > 0 && (
+          <div role="alert" className="mx-auto mt-5 max-w-2xl rounded-lg border border-amber-500/30 bg-amber-500/10 p-3 text-left">
+            <p className="text-xs font-bold text-amber-300">Data integrity warnings ({dataQualityWarnings.length})</p>
+            {dataQualityWarnings.slice(0, 3).map((warning, index) => (
+              <p key={warning.matchId || index} className="mt-1 text-[11px] text-amber-100/80">
+                {warning.name}: {warning.reason}
+              </p>
+            ))}
+          </div>
+        )}
+      </div>
+    );
+  }
+
   return (
     <div className="w-full flex flex-col gap-5 mb-12">
       {/* 1. Header Bar with Categories and Stream Status */}
@@ -541,7 +452,7 @@ export default function LiveMatches() {
               : "bg-zinc-900 text-zinc-500 border-zinc-800"
           }`}>
             <Radio size={10} className={isStreamConnected ? "animate-pulse text-lime-400" : ""} />
-            {isStreamConnected ? "Real-Time Telemetry Stream" : "Live HTTP Polling"}
+            {isStreamConnected ? "Server Push · SSE" : "HTTP Fallback"}
           </div>
 
           <span className="text-[9px] font-black uppercase tracking-widest px-2 py-0.5 rounded border bg-zinc-900 text-zinc-400 border-zinc-800">
@@ -550,12 +461,31 @@ export default function LiveMatches() {
 
           {/* Feed Health & Sync Status */}
           <div className="flex items-center gap-2 text-[9px] font-bold text-zinc-400 bg-zinc-900/70 border border-zinc-800/80 px-2.5 py-0.5 rounded-lg">
-            <span className={`w-1.5 h-1.5 rounded-full ${feedStatus === "live" ? "bg-lime-400" : "bg-amber-400"}`} />
+            <span className={`w-1.5 h-1.5 rounded-full ${feedStatus === "fresh" ? "bg-lime-400" : "bg-amber-400"}`} />
             <span>Synced: <strong className="text-zinc-200">{lastSyncedAt}</strong></span>
             <span className="text-zinc-600">•</span>
-            <span className="text-lime-400/90 font-mono">EDGE Par Model</span>
+            <span className="text-zinc-300 font-mono">EDGE estimate · provider data may be delayed</span>
           </div>
         </div>
+
+        {dataQualityWarnings.length > 0 && (
+          <div role="alert" className="flex flex-col gap-2 rounded-xl border border-amber-500/30 bg-amber-500/10 px-4 py-3">
+            <div className="flex items-center gap-2 text-xs font-extrabold uppercase tracking-wider text-amber-300">
+              <Activity size={14} />
+              Data integrity warning · {dataQualityWarnings.length} fixture(s) quarantined
+            </div>
+            <p className="text-xs text-zinc-300">
+              Provider status flags conflict with match descriptions. These records are not displayed as live or completed until reconciled.
+            </p>
+            <div className="flex flex-col gap-1">
+              {dataQualityWarnings.slice(0, 3).map((warning, index) => (
+                <p key={warning.matchId || index} className="text-[11px] text-amber-100/80">
+                  <span className="font-bold">{warning.name}:</span> {warning.reason}
+                </p>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Match Window Filter Tabs */}
         <div className="flex items-center gap-1.5 bg-zinc-950/80 p-1 rounded-xl border border-zinc-800/80">
