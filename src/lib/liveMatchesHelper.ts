@@ -423,9 +423,9 @@ export function formatToIST(isoOrUtcString: string): string {
 }
 
 export async function fetchLiveMatchesInternal(): Promise<any> {
-  // 0. Serve from fast cache if fresh (within 5 min)
+  // 0. Serve the last provider snapshot while its 30-minute cache is fresh.
   const cached = readCache();
-  if (cached && Array.isArray(cached.matches) && cached.matches.length > 0) {
+  if (cached && Array.isArray(cached.matches)) {
     return cached;
   }
 
@@ -475,7 +475,6 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
           .filter(m => isMatchInThreeDayWindow(m))
           .filter(m => classifyMatchWindow(m) !== "stale");
 
-        {
           const parsed = validMatches.map((m, idx) => parseMatch(m, idx + 1));
 
           parsed.sort((a, b) => getMatchPriorityScore(b) - getMatchPriorityScore(a));
@@ -487,7 +486,7 @@ export async function fetchLiveMatchesInternal(): Promise<any> {
 
           const resultObj = {
             source: "CricAPI",
-            feedStatus: "fresh",
+            feedStatus: dataQualityWarnings.length > 0 ? "warning" : "fresh",
             lastSyncedAt: new Date().toISOString(),
             lastSyncedAtIST: nowIST,
             winProbAttribution: "EDGE heuristic estimate (not an official provider metric)",
